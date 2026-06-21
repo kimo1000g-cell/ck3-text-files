@@ -1,0 +1,1260 @@
+
+Paradox Wikis
+CK3 Wiki
+
+Search
+Search CK3 Wiki
+Log in
+Navigation menu
+PageDiscussion
+ReadEditEdit sourceView history
+Crusader Kings III Wiki
+Recent changes
+Random page
+Paradox Wikis
+- Main portal
+- Wikis discord
+- Contact us
+- Style guidelines
+CK3 links
+- Forums
+- Game discord
+- Mods
+- Store
+- YouTube
+Tools
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+ 
+Interactions
+Jump to navigationJump to search
+Wiki letter w.png
+Please help improve this article or section by expanding it.
+Please help with verifying or updating older sections of this article.
+At least some were last verified for version 1.4.
+
+This article is for the PC version of Crusader Kings 3 only.
+
+Interactions are actions that can be taken with or against another character. These include arranging marriages, starting schemes, or issuing declarations of war. Most interactions can be accessed by right-clicking a character's model or portrait, and in many cases require a character to be within diplomatic range.
+
+
+Contents
+1	Diplomacy actions
+1.1	War-related actions
+1.1.1	Declare War
+1.1.2	Call to War
+1.1.3	Call House Member To War
+1.1.4	Call Dynasty Member To War
+1.1.5	Offer to Join War
+1.2	Forming Alliances
+1.2.1	Negotiate Alliance
+1.2.2	Propose Alliance
+1.2.3	Arrange marriage/betrothal
+1.2.4	Break betrothal
+1.2.5	Make concubine
+1.2.6	Offer concubine
+1.2.7	Dismiss Concubine
+1.3	Legitimize Bastard
+1.4	Demand Payment
+1.5	Buy Claim
+1.6	Request Claim
+2	Personal actions
+2.1	Send Gift
+2.2	Sway
+2.3	Befriend
+2.4	Seduce
+2.5	Romance
+2.6	Elope
+2.7	Educate Child
+2.8	Offer Ward
+2.9	Offer Guardianship
+2.10	Influence Ward's Personality
+2.11	Ward's Martial Drill
+2.12	Host as Honored Guest
+2.13	Send Poem
+2.14	Challenge to Boardgame
+2.15	Make Shieldmaiden
+2.16	Abandon Hook
+3	Hostile actions
+3.1	Disinherit
+3.2	Blackmail
+3.3	Murder
+3.4	Abduct
+3.5	Claim Throne
+3.6	Fabricate Hook
+3.7	Dismiss hook
+3.8	Excommunicate
+3.9	Request Excommunication
+3.10	Challenge Rival to Fight
+3.11	Punish Criminal
+3.12	Release your Anger
+3.13	Trial-by-Combat
+4	Appointment Actions
+4.1	Influence Candidacy
+4.2	Ask to Influence Candidacy
+4.3	Expand Power Base
+4.4	Slander
+4.5	Promote
+4.6	Retire Governor
+4.7	Request Retirement
+4.8	Force Retirement
+5	Vassal actions
+5.1	Grant Landed Title
+5.2	Offer Vassalage
+5.3	Swear Fealty
+5.4	Grant Independence
+5.5	Grant Vassal
+5.6	Retract Vassal
+5.7	Factions
+5.7.1	Start Independence Faction
+5.7.2	Join Independence Faction
+5.7.3	Start Claimant Faction
+5.7.4	Force to Join Faction
+5.8	Stop Vassal War
+5.9	Demand Council Position
+5.10	Ask for Pardon
+5.11	Grant Pardon
+5.12	Petition Liege
+5.13	Pay Homage
+6	Courtier Actions
+6.1	Ask to Take Vows
+7	Imprisonment actions
+7.1	Negotiate Release
+7.2	Execute
+7.3	Ransom
+7.4	Pay Ransom
+7.5	Ransom Yourself
+7.6	Move to House Arrest
+7.7	Move to Dungeon
+8	Religious actions
+8.1	Demand Conversion
+8.2	Adopt Faith
+8.3	Seek Indulgences
+8.4	Make Declaration of Repentance
+8.5	Lift Excommunication
+8.6	Condemn Sins
+8.7	Ask for Gold
+8.8	Literalist Debate
+8.9	Designate Sacrifice
+8.10	Refute Sacrifice
+Diplomacy actions
+War-related actions
+Declare War
+Main article: Casus belli
+Allows declaring war on the target, provided not currently in  debt.
+
+Call to War
+Main article: Alliance#Joining wars
+This action allows a war leader to request that an ally join them in an on-going war. This interaction has a scaling  prestige cost if calling into an offensive war. A character cannot be called into Great Holy Wars if they are of the wrong faith.
+
+Call House Member To War
+This action calls landed house members to war for free, provided they are not your liege. Must be House Head to use this interaction.
+
+Call Dynasty Member To War
+This action calls dynasty members to war for 75  Renown. Must be Dynasty Head to use this interaction.
+
+Offer to Join War
+Sends a proposal to another ruler to join their on-going war, provided they are an ally, liege, defender of the faith, or a vassal fighting a peasant rabble faction. This cannot be used if the target is currently at war with your liege. For joining holy wars, the target must either be same faith or a faith in same religion that is not hostile, and must be within a certain distance of your realm.
+
+Joining a war will cause  Craven characters to gain 40  stress and  Shy characters to gain 20  stress, and may cause sender and recipient to progress to becoming friends.
+
+Forming Alliances
+Negotiate Alliance
+This interaction is may be used to create alliances if the following conditions are met:
+
+Neither are at war with each other
+Not imprisoned
+The rulers have family ties:
+Parent/child
+Siblings
+Children of Siblings / Siblings of Parent
+Spouse
+Spouse of any extended family member
+Propose Alliance
+Requires the Defensive Negotiations perk from the  Diplomat lifestyle. Asks to form an alliance with any other ruler as long as both meet the following conditions:
+
+At peace
+Not imprisoned
+Not already vassal & liege
+At least  count rank
+Not eligible to use the Negotiate Alliance interaction
+=== Marriages & Concubines
+
+Arrange marriage/betrothal
+Main article: Marriage
+Can propose a marriage between the target character and an eligible spouse, with certain conditions between candidates:
+
+Must be opposite genders
+Must not have recently divorced
+Must be permitted to marry according to faith's Consanguinity doctrines
+The marriage must be approved by the liege of each party's court. If a candidate is wandering, they will approve marriage themselves.
+
+Break betrothal
+Breaks a marriage betrothal between two characters, for a scaling  Prestige cost. To break a betrothal, you must be the liege, guardian, or parent of one of the characters, and they must be in your court. This will incur an opinion penalty with the betrothed and their family.
+
+Make concubine
+Makes the target character become a concubine, if permitted by the sender's faith. To be eligible for concubinage, the character must be:
+
+Adult
+Unlanded
+If married or bethrothed, must be a prisoner of the sender.
+Does not have concubines themselves
+Is not already a concubine
+Must otherwise fulfill conditions for marriage
+Making a concubine of a prisoner will incur an opinion penalty, and if doing so broke marriage or betrothal, an opinion penalty with their spouse/betrothed.
+
+Offer concubine
+Can offer a character as a concubine to any neighboring ruler or vassal. An eligible concubine must be:
+
+Adult.
+Unlanded
+Not a concubine of someone other than sender
+If married or betrothed, must be a prisoner of the sender.
+Does not have concubines themselves
+Cannot have been previously offered as concubine to sender.
+Cannot be a Realm Priest or theocratic lessee.
+Must otherwise fulfill conditions for marriage
+Acceptance chance depends on the age, genetic traits, and opinion of sender and concubine. The AI is more likely to accept if the sender is their liege.
+
+Dismiss Concubine
+Removes the targeted character as a concubine. This will incur an opinion penalty with them, and inflicts  Stress if the ruler is  Compassionate. The character will leave court unless they are on the council.
+
+Legitimize Bastard
+Have a  bastard child made legitimized, rendering them eligible for title inheritance. This must be approved by the current house head. Relevant characters must be following a faith with the Legitimization marriage doctrine. This interaction will give  Arrogant characters 20  stress.
+
+Demand Payment
+Requires the Golden Obligations lifestyle perk. Sends a blackmail demand against the target requesting a ransom of gold in exchange for releasing a hook, up to a maximum payment of 100 . To use this interaction, the following requirements must be met:
+
+Adult
+Not at war with target
+Target is not a human player
+Target is not imprisoned
+Target's  gold must be greater than 0
+ Generous characters will receive  stress from using this interaction. AI characters will never use this against friends or lovers.
+
+Buy Claim
+Landed characters with the Sanctioned Loopholes perk or involved in the Opportunity Phase of the DLC Fate of Iberia.png Iberian Struggle can spend  piety to obtain an  unpressed claim on the target's currently held county or above landed titles. Roads to Power Administrative Government characters pay x1.5 more. This interaction has no cooldown.
+
+Buying a claim gives  40 stress for  Honest or  Just characters,  -40 opinion with the target, and  -2 house unity if Clan Government and same house.
+
+Title Rank	Piety Price	Roads to PowerAdminstrative Price	Target Restrictions
+Barony	No	No	
+No Baronies
+No Vassals
+No Liege or above
+No Same faith Spiritual Head of Faith
+No Target has a  strong hook on the character
+No Kingdom titles for kings and emperors
+No Empire titles for emperors
+County	250	375
+Duchy	500	750
+Kingdom	1000	1500
+Empire	2000	3000
+Hegemony	4000	6000
+Request Claim
+Rulers with a spiritual head of faith may use this interaction to request an pressed claim on one of a co-religionist's currently held titles. The cost is in piety using the same rates as Buy Claim above, and will cause a -50 opinion penalty with the target.
+
+Personal actions
+Send Gift
+Send a payment of  gold to the target for an opinion boost. This action will incur a medium stress penalty for  Greedy characters and a medium stress loss for  Generous characters.
+
+Sway
+Begins a Sway scheme with the target to increase opinion.
+
+Befriend
+Begins a Befriend scheme with the target to become friends. Requires either the Befriend lifestyle perk, or to have the final Adventure dynastic legacy and be targeting a vassal.
+
+Seduce
+Begins a Seduce scheme with the target to become lovers.
+
+Romance
+Begins a Romance scheme with the target to gain prestige.
+
+Elope
+Begins an Elope scheme with the target to marry them.
+
+Educate Child
+Choose a character to educate one of your children. This will increase the child's skills and allow them to gain traits from the guardian in the chosen education path
+
+Offer Ward
+Sends request to selected character to educate a chosen child
+
+Offer Guardianship
+Sends offer to parents/guardian of a child to allow a chosen educator
+
+Influence Ward's Personality
+DLC Wards & Wardens.png	Available only with the Wards and Wardens DLC enabled.
+Pass a Personality Trait on to the ward or a child hostage that is at least 4 years old, up to 4 personality traits. This interaction has a cooldown of  3 years.
+
+On success: Child adopts the selected personality trait,  +20 opinion with each other, influencer gains  20 stress and loses  -75 prestige.
+
+On failure:  -20 opinion with each other, influencer gains  40 stress and loses  -75 prestige.
+
+The acceptance chance of a trait is modified by the following (default value is 0):
+
+Source	Success Chance
+Opinion of the influencer	Half the child's opinion of the influencer
+ Influencer's diplomacy skill	Half the influencer's diplomacy skill
+ Influencer's learning skill	Half the influencer's learning skill
+Influencer's has a  Wet Nurse employed	+10
+Influencer has the Groomed to Rule perk	+20
+Trait is a virtue for the child's faith	+10
+Trait is a sin for the child's faith	-10
+Child's Childhood Trait is compatible with the trait	+15
+Child's Childhood Trait is not compatible with the trait	-15
+Number of traits the influencer shares with the child	+5 per matching trait
+Number of opposite traits the influencer has with the child	-5 per opposite trait
+ Child is intimidated by influencer	+25 (Affected by Guile Legacy 5)
+ Child is terrified of influencer	+50 (Affected by Guile Legacy 5)
+Child already has 3 personality traits	-50
+
+
+Childhood Trait	Personality Trait
+ Bossy	 Ambitious, Arbitrary, Arrogant, Callous, Cynical, Deceitful, Eccentric, Greedy, Impatient, Stubborn, Vengeful, Wrathful
+ Charming	 Compassionate, Content, Deceitful, Eccentric, Forgiving, Generous, Gregarious, Just, Temperate, Trusting, Zealous
+ Curious	 Ambitious, Brave, Diligent, Eccentric, Fickle, Forgiving, Generous, Gluttonous, Gregarious, Lustful, Sadistic, Stubborn, Trusting, Zealous
+ Pensive	 Calm, Chaste, Compassionate, Content, Craven, Cynical, Diligent, Honest, Humble, Just, Paranoid, Patient, Shy, Temperate
+ Rowdy	 Arbitrary, Arrogant, Brave, Callous, Fickle, Gluttonous, Greedy, Honest, Impatient, Lazy, Lustful, Paranoid, Sadistic, Vengeful, Wrathful
+Ward's Martial Drill
+Khans of the Steppe	Available only with the Khans of the Steppe DLC enabled.
+Pass a Commander Trait on to the ward or a child hostage that is at least 10 years old, up to 2 commander traits. This interaction has a cooldown of 3 years.
+
+On success: Child gains the selected commander trait,  +20 opinion with each other, influencer gains  20 stress and loses  -75 prestige.
+
+On failure:  -20 opinion with each other, influencer gains  40 stress and loses  -75 prestige.
+
+The acceptance chance of a trait is modified by the following (default value is 0):
+
+Source	Success Chance
+Opinion of the influencer	Half the child's opinion of the influencer
+ Influencer's martial skill	Half the influencer's martial skill
+ Influencer's prowess	Half the influencer's martial prowess
+Influencer's has a  Personal Champion employed	+10
+Influencer has the Groomed to Rule perk	+20
+Number of traits the influencer shares with the child	+5 per matching trait
+Number of opposite traits the influencer has with the child	-5 per opposite trait
+Child's Childhood Trait is compatible with the commander trait	+15
+Child's Childhood Trait is not compatible with the commander trait	-15
+ Child is intimidated by influencer	+25 (Affected by Guile Legacy 5)
+ Child is terrified of influencer	+50 (Affected by Guile Legacy 5)
+Child already has 1 commander trait	-50
+
+
+Childhood Trait	Commander Trait
+ Bossy	 Aggressive Attacker, Organizer, Reaver, Reckless, Unyielding Defender
+ Charming	 Flexible Leader, Organizer
+ Curious	 Flexible Leader, Forder, Logistician, Military Engineer
+ Pensive	 Cautious Leader, Holy Warrior, Logistician, Military Engineer
+ Rowdy	 Aggressive Attacker, Desert Warrior, Forder, Forest Fighter, Jungle Stalker, Open Terrain Expert, Reaver, Reckless, Rough Terrain Expert, Unyielding Defender, Winter Soldier
+Host as Honored Guest
+Characters following a faith with the Core tenet cabal.png Ritual Hospitality tenet may honor another character with a ritual celebration. This interaction cannot be used on characters considered Hostile or Evil by the sender's faith, are ill, commanding an army, at war with sender, or is a courtier in sender's court. This interaction spends piety scaling with the rank of character, and grants +20  opinion boost with the target (increased by another +10 if they are  Zealous and same faith, decreased by -10 if they are  Cynical or follow faith with Ritual Hospitality, and increased by +10 if  Arrogant.
+
+This interaction gives  Shy and  Cynical characters +20 .
+
+Send Poem
+Challenge to Boardgame
+Make Shieldmaiden
+With the Northern Lords installed, a Norse character following any Norse faith can appoint a close female relative as a  Shieldmaiden, provided the faith's View on Gender doctrine isn't set to Equal. If the faith's view on gender doctrine is set to Female Dominated, this interaction can instead be used to appoint a male relative as a Shieldswain.
+
+Abandon Hook
+Characters with the  Forgiving trait can expend a hook they have on another character, reducing  -65 stress for  strong hooks and  -30 stress for  weak hooks. The target will gain a decaying 50 opinion bonus with the forgiver. Note that house head hooks cannot be "forgiven".
+
+Hostile actions
+Disinherit
+Grants a dynasty member the  Disinherited trait, preventing them from inheriting any title from the same dynasty. Disinheriting bastards or dispured heritage characters is free.
+
+Requirements	On Accept
+ 75 renown
+Yes Target is a fellow dynasty member
+No Target is currently disinherited
+No Mystical Ancestors tradition
+No Coterie tradition and target is requester's child
+No Target has a strong hook on the requester
+No Target is outside requester's realm and is not their descendant
+No Target is requester's diarch
+Target gains the  Disinherited trait
+ -2 House Unity if Clan government
+Reveals target's dispured heritage secret if known
+Requester
+ 20 stress if  Forgiving
+ 20 stress if  Compassionate
+ -20 legitimacy if target is not the requester's child
+ -50 legitimacy if target is the requester's child
+ -100 legitimacy if target is the requester's primary heir
+ -75 renown per era
+ -75 renown if target will inherit a title
+ -150 renown per era if Adminstrative government
+ -150 prestige
+ -150 prestige if target will inherit a title
+ -750 prestige if Adminstrative government
+Blackmail
+Threatens the target with exposing a secret in exchange for a  hook.
+
+Murder
+Begins a Murder scheme against the target. Taking this action will cause a medium stress penalty for  Compassionate characters, and a minor stress penalty for  Honest or  Just characters.
+
+Abduct
+Begins an Abduct scheme against the target. Requires the Kidnapper lifestyle perk. Taking this action will cause a major stress penalty for  Compassionate characters, and a medium stress penalty for  Honest or  Just characters.
+
+Claim Throne
+Begins a Claim Throne scheme against the target (must be liege). Requires the Meritocracy lifestyle perk. Taking this action will cause a medium stress penalty for  Just and  Content characters. Claim will be pressed.
+
+Fabricate Hook
+Begins a Fabricate Hook scheme against the target. Requires either the Truth is Relative lifestyle perk, or a  Vengeful character targeting a rival. Taking this action will cause a medium stress penalty for  Just and  Honest characters, and a minor stress penalty for  Compassionate characters.
+
+Dismiss hook
+An  Arbitrary ruler can choose to outright dismiss a hook a vassal has on them, at a cost of prestige and will incur tyranny with subjects. Dismissing a  Strong Hook costs 1500  Prestige, adds 35 tyranny, and reduces the target's opinion by 50 for ten years. Dismissing a  Weak Hook costs 350  Prestige, adds 15 tyranny, and reduces the target's opinion by 10 for ten years.
+
+Excommunicate
+A head of a reformed faith with the Core tenet chalice.png Communion tenet can excommunicate another character of the faith. The target must be at least 12 years old, and must not have had their excommunication lifted in past ten years, have a strong hook on their head of faith, or have pledged to contribute to a Great Holy War. This action may push the sender and target towards a rivalry.
+
+Request Excommunication
+Characters following a reformed faith with both the Core tenet chalice.png Communion tenet and a spiritual head of faith can use this interaction to request that the target be  excommunicated. The character must have at least 500 piety and the target cannot be under the age of 12 or have a strong hook on the sender. If accepted, the sender spends -500 piety and the target is excommunicated. This action may push the sender and target towards a rivalry.
+
+Challenge Rival to Fight
+A character with the Stalwart Leader lifestyle perk can challenge a rival to a duel.
+
+Punish Criminal
+A  Wrathful ruler can challenge a criminal to a trial by combat.
+
+Release your Anger
+An  Irritable character with a high stress level can challenge anyone to a duel.
+
+Trial-by-Combat
+Appointment Actions
+Influence Candidacy
+Roads to Power	Available only with the Roads to Power DLC enabled.
+Adminstrative Government characters can spend  influence to improve or decrease a candidate score, up to their investment capacity, on the selected title as long as they can be appointed to it. Any eligible character can be chosen when interacted directly, but only house members and court members if king or above will show in the recipient list. This interaction has no cooldown.
+
+Contribution	Influence Cost	Candidate Score	Opinion Gained	Modifiers
+Contribute Enough	x5 the contribution score	Enough for first place	x0.25 the contribution score	
+Candidate of the opposite gender preference:
++x2 base influence cost for contributions
+-x2 base influence cost for deductions
+Character estate is in the target title de jure:
+-x0.25 base influence cost
+-x0.50 base influence cost instead if estate has a Private Study
+Bureucracy Legacy 2:
++x0.1 base influence cost
+Character house is a dominant family:
+-x0.5 base influence cost
+Candidate is the Co-Emperor:
++x1.5 to x2.5 base candidate score based on scales of power
+Major Contribution	250	+50	+10
+Medium Contribution	100	+20	+5
+Medium Deduction	100	-20	-10
+Major Deduction	250	-50	-20
+Ask to Influence Candidacy
+Roads to Power	Available only with the Roads to Power DLC enabled.
+Adminstrative Government characters can spend 50, up to 300 gold or a  weak hook asking another character to improve a selected eligible candidate score. If the character asked is not a player, they will randomly choose between a minor, medium or major contributon, with a positive opinion and relationship with both the requester and the target increasing the chances of a higher contribution. This interaction has no cooldown.
+
+The acceptance chance of the interaction is modified by the following (default value is -40):
+
+Source	Acceptance Chance
+ Weak Hook	Forces acceptance
+ Opinion of the requester	Half the opinion with the requester
+Character has at least  750 influence	+20
+Character has at least  150 influence	+10
+Character has less than  100 influence	-20
+Title already belongs to the character	-25
+Character family member is a top candidate	-100
+Character's liege holds the title	-25
+Requester family is ranked higher	+15
+Requester family is ranked a lot higher	+25
+Requester family is ranked lower	-15
+Requester family is ranked a lot lower	-25
+Difference in influence level betwen requester and character	x10 difference
+Requester is their  rival	-100
+Requester is their  rival	-150
+Requester is close family	+50
+Requester is extended family	+25
+Requester is not extended family but a house member	+5
+Requester is their  friend	+15
+Requester is their  best friend	+30
+Target is their  rival	-50
+Target is their  rival	-100
+Character is  rival with the current title holder	+25
+Character is  rival with the current title holder	+50
+Character is  friends with the current title holder	-50
+Character is  best friends with the current title holder	-100
+Character is  lovers with the current title holder	-30
+Character is relatives with the current title holder	-20
+Target is not from their house and character is  Ambitious	-50
+Character is  Callous	-20
+Character is  Fickle	-30
+Character is  Paranoid	-25
+Character is  Trusting	+10
+Character is  Arbitrary	-15
+Character is  Craven and requester is not from a dominant family	-20
+Character is  Craven and requester is from a dominant family	+20
+Expand Power Base
+Roads to Power	Available only with the Roads to Power DLC enabled.
+Starts a Expand Powerbase scheme against yourself to increase candidate score.
+
+Slander
+Roads to Power	Available only with the Roads to Power DLC enabled.
+Starts a Slander scheme against the target to reduce candidate score.
+
+Promote
+Roads to Power	Available only with the Roads to Power DLC enabled.
+Starts a Promote scheme against the target to increase candidate score.
+
+Retire Governor
+Roads to Power	Available only with the Roads to Power DLC enabled.
+Adminstrative Government independent rulers can force a non-dominant family vassal governor they are not at war with to retire, passing on all of their governorships and landed titles to the next in line. This interaction can not be declined, even with a  strong hook. This interaction has a cooldown of  5 years.
+
+Condition	 Influence Cost	On Accept
+Target is kingdom tier ruler	+450 per kingdom title	
+ Increases rivalry with the target
+ -30 opinion with the target
+ -20 opinion with all target house members if they are dominant or powerful
+ -15 opinion with all target house members if they are a regular noble family
+ 15 opinion with the inheritor of the title if they are not friendly with the target
+Target is a duchy tier ruler	+150 per duchy title
+Target is from a powerful family	+150
+Target is from a dominant family	+250
+Target governor efficiency	Governor Efficiency %
+Target influence level	+50 per influence level
+Title revocation reason on target	x0.5 final price
+Request Retirement
+Roads to Power	Available only with the Roads to Power DLC enabled.
+Adminstrative Government vassals can request their liege to retire a fellow non-dominant family vassal, neither they or their liege are at war with, passing on all of their governorships and landed titles to the next in line. This interaction has a cooldown of  5 years.
+
+Condition	 Influence Cost	On Accept	On Decline
+Target is kingdom tier ruler	+450 per kingdom title	
+Disable exposure of any secret used in negotiation
+ -150 influence per governorship removed if using influence to increase acceptance
+Liege learns of any secret used in negotiation
+ Increases rivalry with the target
+ -65 opinion with the target
+ -25 opinion with all target house members
+Exposes any secrets used against the liege in negotiation
+ -20 opinion of the target with their liege
+ Grants imprisonment reason on the target if refusing revocation is a crime
+ -30 opinion with the target
+ 20 opinion of the liege with the target
+ -15 opinion with all target house members
+ 15 opinion of the liege with all target house members
+Target is a duchy tier ruler	+150 per duchy title
+Target is from a powerful family	+150
+Target is from a dominant family	+250
+Target governor efficiency	Governor Efficiency %
+Target influence level	+50 per influence level
+
+The acceptance chance of the interaction is modified by the following (default value is -50):
+
+Source	Acceptance Chance
+ Strong Hook	Forces acceptance
+ Weak Hook	+30
+Influence Level when using influence	+20 per level
+ Using target secret	+50
+ Using liege secret	+50
+Target's governor efficiency	efficiency %
+Target and liege share the same dynasty but are not close family	-30
+Target and liege share the same house but are not close family	-50
+Target and liege are close family	-70
+Target is in the liege's council	-15
+Target is in the liege's spouse	-25
+Target is in the liege's friend	-30
+Target is in the liege's rival	+25
+Target is from a powerful family	-20
+Target is from a dominant family	-30
+Requester is from a powerful family	+20
+Requester is from a dominant family	+30
+Liege's house member will inherit	+30
+Liege's opinion of the requester	plus half the opinion
+Liege's opinion of the target	minus half the opinion
+Force Retirement
+Roads to Power	Available only with the Roads to Power DLC enabled.
+Administrative Government vassals can force a fellow vassal, that is not in a civil war, to retire and pass on all of their governorships and landed titles to the next in line. This interaction has a cooldown of  5 years.
+
+The acceptance chance of the interaction is modified by the following (default value is 0):
+
+Source	Acceptance Chance
+ Strong Hook	Forces acceptance
+ Weak Hook	+30
+Influence Level when spending influence	+20 per level
+Spending gold	+30
+ Using target secret	+50
+Requester intrigue	+x2
+Target intrigue	-x2
+Target is  Craven, Lazy	+10
+Target is  Trusting, Generous	+5
+Target is  Patient	-5
+Target is  Brave, Greedy	-5
+Target is  Ambitious, Paranoid	-5
+Vassal actions
+Grant Landed Title
+Offer Vassalage
+Ask an independent ruler to become the requester's vassal. Spending  60 influence or  100 piety in Mandala Government to increase acceptance.
+
+
+
+Source	Success Chance
+Base Chance	-50
+True Ruler perk	+20
+Level 5 Diplomacy Education	+25
+Khans of the Steppe Target is obedient	+20
+At or above vassal limit	-1000
+Non-nomadic Cultural acceptance	-35 to +0
+Non-nomadic non-pluralistic faith hostility from target	-120 to -40
+Non-nomadic pluralistic faith hostility from target	-60 to -20
+Non-nomadic pluralistic faith hostility from both	-30 to -10
+Target is a republic or theocracy	-50
+Target realm below 10 and of King tier	-50
+Target realm at 10-19 size and requestor of King tier or below	-50
+Target realm at 10-19 size and of King tier	-100
+Target realm at or above 20 and requestor is of King tier or below	-100
+Target realm at or above 20 and of King tier	-200
+Target realm is of Empire Tier	-300
+Recently fought against target	-50
+Target fought an independence war against requester	-200
+Target is tribal and requester is not	-20
+Requester is tribal and target is not	-20
+Target is nomadic and requester is not	-75
+Requester is nomadic and target is not	-75
+Both are nomadic	-50
+Different cultures with target culture being Isolationist	-20
+Requester is bankrupt	-100
+Rank difference above 1	+10
+Rank difference above 1 between Celestial governments	+20
+Requester is an Hegemon	+10
+Allied with target	+20
+Rightful liege of target	+20
+Not rightful liege of target	-20
+Non-coastal target is encircled by requester	+20
+Neighboring only by water	-100
+Not neighboring	-250
+Not neighboring and distant	-500
+Ratio of max military strength	+20 maximum
+Average opinion of powerful vassals	-20 to +20
+ Friends	+10
+ Best Friends	+20
+ Lovers	+10
+ Soulmates	+20
+ Rivals	-100
+ Nemesis	-1000
+Same dynasty	+5
+Speaks same language	+5
+Requester is less than 12 years old	-5
+Requester is a bastard and target faith cares	-10
+Requester was denounced or disinherited	-10
+Target has a claim on requester's primary title	-20
+ Target is Ambitious	-20
+ Target is Paranoid	-20
+ Target is Arrogant	-20
+ Target is Fickle	-10
+ Target is Stubborn	-10
+ Target is Trusting	+5
+ Target is Content	+5
+ Intimidation acceptance	+10
+ Terrified acceptance	+20
+Royal Court Court grandeur below expectations	+15% of court grandeur
+Royal Court Court grandeur meets expectations	+30% of court grandeur
+Religious exemption with feudal target	+60
+Religious exemption with clan target	+30
+Low tax contract	+30
+High tax contract	-40
+Extremely low legitimacy	-75
+Very low legitimacy	-50
+Low legitimacy	-25
+High legitimacy	+25
+Very high legitimacy	+50
+Extremely high legitimacy	+75
+Khans of the SteppeSevered head vassalization event	+200
+DLC All Under Heaven.pngBoth have Mandala government	-25
+DLC All Under Heaven.pngTarget is tributary of requester's mandala government	-35
+DLC All Under Heaven.pngRequester's Mandala government radiance	Radiance value
+DLC All Under Heaven.pngRelative size to requester's Mandala government	-10 per county above 2
+DLC All Under Heaven.pngOpinion of Mandala government requester	Opinion
+DLC Legacy of Persia.pngTarget was sucessful swayed from scheme during Iranian Intermezzo	+20
+DLC Legacy of Persia.pngRekindler of Iran modifier	+20
+DLC Fate of Iberia.pngTarget is part of the Iberian Struggle but requester is not	-35
+DLC Legacy of Persia.pngPiety level modifier during a struggle	10x(Piety Level-1)
+One is not Clan Government	35% of Target's opinion of the requester
+Both are Clan government	70% of Target's opinion of the requester
+DLC Wandering Nobles.pngRequester's lesser inspection bonus	+5
+DLC Wandering Nobles.pngRequester's inspection bonus	+10
+DLC Wandering Nobles.pngRequester's lesser sucessful inspection bonus	+5
+DLC Wandering Nobles.pngRequester's sucessful inspection bonus	+10
+Roads to PowerSpending influence	+25
+Roads to PowerTarget is Greek or Han culture and requester is an Adminstrative government	+30
+Swear Fealty
+Grant Independence
+Gives the chosen vassal complete Independence from your realm. All land/titles they hold become de facto independent with the (former) vassal as the top liege of said land
+
+Grant Vassal
+Retract Vassal
+Factions
+Start Independence Faction
+Join Independence Faction
+Start Claimant Faction
+Force to Join Faction
+Stop Vassal War
+Allows you as the Liege to force 2 vassals from warring with each other with the Attacker claiming victory
+
+Demand Council Position
+Ask for Pardon
+Grant Pardon
+Petition Liege
+Pay Homage
+Courtier Actions
+Ask to Take Vows
+Characters following a faith with the Core tenet meditation.png Monasticism tenet or Buddhistic Faiths with the Special Doctrine Immaterial Harmony may request a courtier to take the vows and join the clergy. This interaction costs  100 piety,  350 piety if the courtier is important in the line of sucession and has a cooldown of  10 years.
+
+Requirements	On Accept	On Decline
+Yes Faith allows the taking of vows (Monasticism tenet)
+Yes Courtier shares the same faith
+Yes Courtier is at least 10 years old
+No Courtier is excommunicated or has already been part of an order
+No Courtier is your Diarch
+If married or betrothed:
+Male courtiers must be in a patrilineal marriage
+Female courtiers must be in a matrilineal marriage
+ -25 Legitimacy per primary title rank (doubled if courtier is the primary heir)
+ +25 Opinion with Court Chaplain if they are close family
+ +10 Opinion with Head of Faith if they are close family
+ +2 House Unity if Clan Government and same house
+Courtier:
+ -10 Opinion of the requester for 10 years
+ +1 Faithful Level of Devotion
+Gains the Devoted trait
+If married or betrothed, divorces their spouse, breaks the betrothal and loses all concubines
+Refunds piety cost from decision
+ -2 House Unity if Clan Government and same house
+Courtier:
+ -15 Opinion of the requester for 10 years
+The accept chance of the interaction is modified by the following (default value is 0):
+
+Source	Accept Chance
+Weak Hook	+50
+Opinion of the requester	A quarter of the courtier opinion of the influencer
+Personality	Personality of the courtier
+Very positive relations with the court chaplain	+50
+Very positive relations with a clergy member	+50
+Virtuous traits	+20 per virtuous trait
+Sinful traits	-20 per sinful trait
+Holy Warrior trait	+20
+Temperate, Content, Humble	+25
+Ambitious	-500
+Pregnant	-500
+Married or Betrothed	-50
+Importance in line of sucession	-25 to -150
+Rivalry with the requester	-50 to -100
+Courtier is intimidated or terrified of the requester	+25 to +50
+Imprisonment actions
+Main article: Court#Prisoners
+Negotiate Release
+Characters can negotiate release of their prisoner directly with them, bypassing their liege. This interaction has no cooldown.
+
+Release Option	Conditions	On Accept
+No Demands	—	
+ 20 opinion with the prisoner for  10 years
+ -10 dread
+ 40 stress if  Sadistic
+ 20 stress if  Callous
+ 2 House Unity for same house prisoner
+ 20 legitimacy per title rank of a duke or above prisoner
+Demand Conversion	
+YesPrisoner is of a different faith
+NoPrisoner is a Head of Faith
+NoPrisoner is the leader of a Holy Order
+One of:
+YesPrisoner is a close or extended family
+YesPrisoner is a vassal
+Prisoner forcibily adopts the faith of the jailer
+ -20 opinion with the jailer
+Renounce Claims	YesPrisoner has a claim on a title belonging to the jailer	
+Prisoner loses all claims the jailer's controlled titles
+ -30 opinion with the prisoner for  10 years
+Banish	
+Prisoner is at least two of:
+YesLanded Ruler
+YesLandless House Head within an Adminstrative Realm
+YesLandless Nomad
+YesLandless AdventurerYesJailer's Courtier
+YesJailer's Vassal
+NoPrisoner is jailer's spouse
+NoPrisoner is taking vows
+NoPrisoner is being recruited
+ -20 opinion with the prisoner for  10 years
+Prisoner is a vassal:
+Prisoner is deposed, triggering sucession on their titles
++5 tyranny if banishing without a valid banishment reason
+Prisoner is a courtier:
+All gold the prisoner has if they were not the Realm Priest or a BookmarkerGain every artifact the prisoner is holding
+Gain a weak hook (Favor)	NoJailer has a hook on the target	
+Gain a favor weak hook
+ -20 opinion with the prisoner for  10 years
+Take the Vows	
+YesPrisoner has Ask to Take Vows interaction requirements
+YesPrisoner shares the same faith or is being converted
+NoPrisoner is being banished
+NoPrisoner is being employed as an  Executioner
+If jailer does not have Byzantine Heritage, all of:
+YesPrisoner is close or extended family
+YesPrisoner is courtier or being recruited
+If jailer has Byzantine Heritage, one of:
+YesPrisoner is close or extended family
+YesPrisoner is a rival
+YesPrisoner is a courtier
+YesPrisoner is a vassal
+Prisoner takes the vows
+Employ Executioner	
+Royal Court Royal Court DLC
+YesJailer can employ an executioner
+YesPrisoner is a cortier or is being recruited
+NoPrisoner is taking the vows
+—
+Recruit	
+NoPrisoner is a ruler
+NoPrisoner is the jailer's courtier
+One of:
+YesPrisoner is an adultYesPrisoner is not their liege's heir
+Prisoner joins the jailer's court
+ -15 opinion with the prisoner for  10 years
+Jailer has Recognition of Talent tradition:
+ 50 opinion with the prisoner permanently (replacing negative opinion)
+Gain a strong hook on the prisoner
+ 100 piety if jailer has Communal Possessions tenet and prisoner is a  Peasant Leader
+ Disfigure	
+Roads to Power Roads to Power DLC
+YesJailer is an adminstrative ruler
+YesJailer has Palace Politics tradition
+YesPrisoner is an adult
+YesIf jailer has Byzantine Heritage, one of:
+YesPrisoner is close or extended family
+YesPrisoner is a rival
+YesPrisoner is a courtier
+YesPrisoner is a vassal
+NoPrisoner is being blinded
+NoPrisoner is being castrated
+Prisoner gains the Disfigured trait
+ -50 opinion with the prisoner for  50 years
+ -20 opinion with the prisoner's family members for  20 years
+Prisoner is a rival:
+ -65 stress if  Sadistic
+ -65 stress if  Vengeful
+ 20 stress if  Compassionate
+ 20 stress if  Forgiving
+ -20 stress if none of the above
+Prisoner is not a rival:
+ -15 stress if  Sadistic
+ 100 stress if  Compassionate
+ 80 stress if  Craven
+ 40 stress if  Just
+ 40 stress if  Forgiving
+ 40 stress if  Generous
+ 20 stress if  Trusting
+ 20 stress if  Gregarious
+ 20 stress if  Calm
+ 20 stress if  Content
+ 20 stress if  Honest
+ 30 dread if one of:
+Prisoner is jailer's spouse
+Prisoner is jailer's close family
+Prisoner is the spouse of a king tier or above ruler
+Prisoner is close family of a king tier or above ruler
+ 20 dread if one of:
+Prisoner is the spouse of a county tier or above ruler
+Prisoner is close family of a county tier or above ruler
+ 10 dread if none of the above
+ Blind	
+YesJailer has a tradition that allows blinding
+YesJailer is an adult
+YesPrisoner is an adult
+NoPrisoner is being blinded
+NoPrisoner is being castrated
+Prisoner gains the Blind trait
+ 100 piety if jailer has Merciful Blindings tradition -50 opinion with the prisoner for  50 years
+ -20 opinion with the prisoner's family members for  20 years
+Prisoner is a rival:
+ -65 stress if  Sadistic
+ -65 stress if  Vengeful
+ 20 stress if  Compassionate
+ 20 stress if  Forgiving
+ -20 stress if none of the above
+Prisoner is not a rival:
+ -15 stress if  Sadistic
+ 100 stress if  Compassionate
+ 80 stress if  Craven
+ 40 stress if  Just
+ 40 stress if  Forgiving
+ 40 stress if  Generous
+ 20 stress if  Trusting
+ 20 stress if  Gregarious
+ 20 stress if  Calm
+ 20 stress if  Content
+ 20 stress if  Honest
+ 30 dread if one of:
+Prisoner is jailer's spouse
+Prisoner is jailer's close family
+Prisoner is the spouse of a king tier or above ruler
+Prisoner is close family of a king tier or above ruler
+ 20 dread if one of:
+Prisoner is the spouse of a county tier or above ruler
+Prisoner is close family of a county tier or above ruler
+ 10 dread if none of the above
+ -4 House Unity for same house prisoner
+ -2 House Unity instead for same house prisoner with Merciful Blindings tradition
+ Castrate	
+YesJailer has a tradition that allows castration
+YesJailer is an adult
+YesPrisoner is male
+NoPrisoner is being disfigured
+NoPrisoner is being blinded
+Prisoner gains the Eunuch trait if at or older than 12 years old
+Prisoner gains the Beardless Eunuch trait if younger than 12 years old
+ -50 opinion with the prisoner for  50 years
+ -20 opinion with the prisoner's family members for  20 years
+Prisoner is a rival:
+ -65 stress if  Sadistic
+ -65 stress if  Vengeful
+ 20 stress if  Compassionate
+ 20 stress if  Forgiving
+ -20 stress if none of the above
+Prisoner is not a rival:
+ -15 stress if  Sadistic
+ 100 stress if  Compassionate
+ 80 stress if  Craven
+ 40 stress if  Just
+ 40 stress if  Forgiving
+ 40 stress if  Generous
+ 20 stress if  Trusting
+ 20 stress if  Gregarious
+ 20 stress if  Calm
+ 20 stress if  Content
+ 20 stress if  Honest
+ 30 dread if one of:
+Prisoner is jailer's spouse
+Prisoner is jailer's close family
+Prisoner is the spouse of a king tier or above ruler
+Prisoner is close family of a king tier or above ruler
+ 20 dread if one of:
+Prisoner is the spouse of a county tier or above ruler
+Prisoner is close family of a county tier or above ruler
+ 10 dread if none of the above
+ -6 House Unity for same house prisoner
+
+
+Source	Success Chance
+Base Chance	0
+Prisoner wants freedom	+100
+Demanding conversion	-20
+Demanding conversion of a zealous prisoner	Prisoner zealousy per faith hostility level
+Renouncing claims	-25
+Renouncing claims of a greedy prisoner	-50
+Renouncing claims of a very greedy prisoner	-75
+Renouncing claims of an extremely greedy prisoner	-95
+Becoming an executioner and prisoner is not  Sadistic nor  Callous	-50
+Banishment	-50
+Banishment with a valid reason and Legalistic tradition	20
+Gaining a weak hook	-50 to -150 based on vengefulness
+Taking the vows	-30
+Taking the vows and  Lustful	-30
+Taking the vows and  Rakish	-30
+Taking the vows and a  Fornicator	-30
+Taking the vows and a  Seducer	-30
+Taking the vows and a  Deviant	-30
+Taking the vows and a  Cynical	-30
+Being recruited without Recognition of Talent tradition	-10
+
+
+Execute
+Execute the prisoner if they do not have a  strong hook on the jailer. This interaction has no cooldown.
+
+Execution Option	Conditions	On Accept
+Behead	
+NoJailer faith practices Human Sacrifice
+One of:
+YesJailer and prisoner share the same faith
+YesJailer has the Religion tengri.pngTengrism faith
+YesJailer has the  Greatest of Khans trait
+YesJailer has the  Way of the Nomad trait
+—
+Behead... and Devour!	
+One of:
+YesJailer's faith has the Ritual Cannibalism tenet
+YesJailer has the  Cannibal trait
+YesJailer has the  Cannibal secret
+Jailer receives  Cannibal trait if faith allows it
+ -30 stress
+ 10 stress if  Compassionate
+ 10 stress if  Forgiving
+20% chance of getting ill
+Burn at Stake	NoPrisoner can be beheaded as an execution method	 25 piety if jailer's faith is Pluralist
+Sacrifice	YesJailer faith practices Human Sacrifice	—
+Public Execution	
+YesJailer employs an  Executioner
+NoJailer's capital has experienced a public execution recently
+Jailer's directly controlled counties gain 15 controlJailer's capital gains the Held Public Execution modifier for  5 years, giving:
+ 15 popular opinion
+Toss to Dogs	YesJailer employes a Kenneler	—
+Turn into Mystery Meat	YesJailer has the Long Pig perk	Gain provisions equal to x3 prisoner weight + 300
+
+
+Condition	Effect
+
+
+
+
+Ransom
+Ransom a prisoner for  gold or a  weak hook. The recipient is the prisoner if they are a ruler, otherwise it is their liege. This interaction has a cooldown of  10 years for the prisoner.
+
+Ransom Options
+ Gold
+ Gain a weak hook (Favor)
+Roads to Power 60 Influence (Jailer pays to release their own prisoner)
+Khans of the Steppe Herd
+
+
+Condition	 Gold Cost
+
+
+Condition	 Herd Cost
+
+
+Source	Success Chance
+Base Chance	0
+Recipient is the prisoner	+100
+Recipient's greed while ransoming the prisoner for gold	-x0.50 AI Greed
+Recipient's generosity while ransoming the prisoner for gold	-x0.10 AI Greed
+Prisoner is not important to the recipient	-10
+Recipient is family, friend or lovers with the prisoner	+25
+Recipient is soulmate, best friends or child of the prisoner	+200
+Recipient and prisoner are rivals	-200
+Recipient and prisoner are nemesis	-500
+Prisoner is not important to the recipient but shares the same dynasty	+10
+Jailer is recipient liege and they are intimidated	+50 (Affected by  Guile Legacy 5)
+Jailer is recipient liege and they are terrified	+50 (Affected by  Guile Legacy 5)
+
+
+Pay Ransom
+Pays the ransom of a prisoner to have them released. The prisoner must be the payer vassal, courtier, close family, dynasty member, spouse, lover or friend. This interaction has a cooldown of  10 years for the prisoner.
+
+Ransom Options	On Accept
+ Gold	
+Prisoner is a random courtier
+ -15 stress if  Compassionate
+ -30 stress if  Generous
+Prisoner is relevant to the payer
+ -30 stress if  Compassionate
+ -15 stress if  Generous or  Just
+Prisoner is a lover or friend
+ -65 stress if  Lustful and lover
+ -65 stress if  Loyal
+Prisoner is close family
+ -5 stress
+ 8 House Unity for same house prisoner
+ 20 opinion with the prisoner for  13 months
+ Owe a weak hook (Favor)
+ Pay with a hook
+Roads to Power 60 Influence
+Khans of the Steppe Herd
+
+
+Source	Success Chance
+Base Chance	0
+ Weak Hook	+100
+ Strong Hook	Forces acceptance
+Paying gold	+50
+Roads to PowerPaying influence	+25
+Khans of the SteppePaying herd	+25
+Paying at least half the gold and jailer is not greedy	+25
+Paying with a hook while jailer is their liege	+50
+Paying with a hook while jailer shares the same top liege	+50
+Jailer and prisoner are rivals	-55
+Jailer and prisoner are nemesis	-300
+At war with the jailer	-300
+Prisoner is at war with the jailer	-300
+Prisoner of war with the jailer	-300
+Jailer is recipient liege and they are intimidated	+50 (Affected by  Guile Legacy 5)
+Jailer is recipient liege and they are terrified	+50 (Affected by  Guile Legacy 5)
+
+
+Ransom Yourself
+Pay your ransom to be released from captivity. This interaction has a cooldown of  10 years for the prisoner.
+
+Ransom Options
+ Gold
+ Owe a weak hook (Favor)
+ Pay with a hook
+Roads to Power 60 Influence
+Khans of the Steppe Herd
+
+
+Source	Success Chance
+Base Chance	0
+ Weak Hook	+100
+ Strong Hook	Forces acceptance
+Paying gold	+50
+Roads to PowerPaying influence	+25
+Khans of the SteppePaying herd	+25
+Paying at least half the gold and jailer is not greedy	+25
+Paying with a hook while jailer is their liege	+50
+Paying with a hook while jailer shares the same top liege	+50
+Paying with a hook while jailer does not share the same realm	-50
+Payer and jailer families are feuding	-50
+Jailer and prisoner are rivals	-55
+Jailer and prisoner are nemesis	-300
+At war with the jailer	-300
+Jailer is recipient liege and they are intimidated	+50 (Affected by  Guile Legacy 5)
+Jailer is recipient liege and they are terrified	+50 (Affected by  Guile Legacy 5)
+
+
+Move to House Arrest
+Move a prisoner from the dungeon to house arrest. This interaction has no cooldown.
+
+On Accept
+Prisoner loses Allowed to Go Outside modifier
+Prisoner loses Diet of Moldy Gruel modifier
+ 15 opinion with prisoner family members for  20 years
+ 40 stress if  Sadistic or  Vengeful
+
+
+Move to Dungeon
+Move a prisoner from house arrest to the dungeon, making it harder for them to escape prison. This interaction has no cooldown.
+
+On Accept
+Prisoner loses Allowed to Go Outside modifier
+ -15 opinion with prisoner family members for  20 years
+ 40 stress if  Compassionate or  Forgiving
+ -4 house unity antagonistic if prisoner is a fellow house member
+Religious actions
+Demand Conversion
+Issues a demand that the target convert to the sender's faith. The target must either be a direct vassal or a courtier, and must not have a  strong hook on the sender, be  devoted or an  Order Member, a head of faith, or be a feudal vassal with the Religious Rights: Protected contract. This interaction can also be used by House Heads to demand conversion of house members even if they are not a vassal.
+
+Acceptance chance if modified by the following:
+
+Their  opinion of the sender
+The difference in  Learning between sender and target
+Using a  weak hook gives +50 acceptance
+If sender has  The Savior trait, +30 acceptance
+If sender has  Divine Blood trait, +15 acceptance
+ Cynical characters have +30 acceptance
+ Zealous characters have -50 acceptance
+ Heresiarch characters have -100 acceptance
+The difference in fervor between sender's and recipient's respective faiths
+If the recipient follows a faith with the Core tenet shadyfigure.png Sanctioned False Conversions and/or the Core tenet cabal.pngAdaptive tenets, -20 acceptance
+If refusing conversion would be a criminal act, +50 acceptance
+If the target is intimidated (+10 acceptance) or terrified (+20 acceptance) by the sender (doubled if sender has Family Connections dynastic legacy)
+Characters from a dynasty with the Strange Gods legacy have +50 acceptance
+If accepted, the target will adopt the sender's faith. For landed vassals, this also converts the their capital county to the new faith, along with any spouse and family members in their court. For courtiers, any present family members will also convert. If the target was imprisoned, they will be released.
+
+If declined, the target will incur an opinion penalty. If the sender's faith is  Righteous and considers the target's faith to be Evil, or  Fundamentalist and considers the target's faith to be Hostile or Evil, refusal to convert is considered a criminal act and grant an imprisonment reason for the liege. If the demand was sent by a House Head to a landed house member, they will immediately create a new cadet branch (if eligible).
+
+Adopt Faith
+Can be used to convert to the faith of either a liege or spouse. This interaction will convert the capital county to the new faith, along with family members in court.
+
+This interaction can also be used against an aggressor in a holy war. This will invalidate the war and convert the defender to the attacker's faith. The attacker gains +250 piety. The defender will lose 100 piety
+
+Seek Indulgences
+Characters following a faith with the Core tenet chalice.png Communion tenet can use this interaction on their head of faith to ask for forgiveness for their sins, especially infamous acts, or otherwise exchange  gold for  piety. The price is multiplied by the severity of sins being forgiven.
+
+This interaction cannot be used by characters who are  excommunicated, who must instead Make Declaration of Repentance.
+
+Make Declaration of Repentance
+This interaction can be used by an  excommunicated character to ask their head of faith to remove the status. If accepted, excommunication will be lifted at a cost of 1500  and one level of fame, unless a hook was used.
+
+Lift Excommunication
+A head of faith with the Core tenet chalice.png Communion tenet can lift the excommunication of another character of the faith. The target must not be at war with the sender. This action may push the sender and target towards a friendship.
+
+Condemn Sins
+A liege following a faith with the Core tenet judged.png Religious Law tenet can issue a temporal condemnation of any landed vassal for their sins. The target must have traits considered sinful by the faith, and more sinful traits than the sender. Once condemned, the target receives the Temporal Condemnation modifier and the liege gains a revoke title justification.
+
+Ask for Gold
+Characters whose faith has a Spiritual Head of Faith can ask them for a large sum of gold in exchange for piety, Roads to PowerAdmininstrative Government characters can spend  Influence to increase the acceptance score. This interaction costs  250 piety or a  weak hook and has a cooldown of  3 years with the current Head of Faith.
+
+Requirements	On Accept
+ 250 piety
+Yes Faith has a Spiritual Head of Faith
+Yes Head of Faith has enough gold (18 months of the requester monthly income)
+No Unreformed Faith
+No At war with the Head of Faith
+No  Excommunicated
+ Gains gold equivalent to 18 months of income
+ -250 piety if no hook was used
+ Head of Faith loses -20 opinion of the requester
+  Zealot vassals lose -10 of the requester for  10 years
+The acceptance chance of the interaction is modified by the following (default value is -40):
+
+Source	Acceptance Chance
+ Hook	Forces acceptance
+Head of Faith Gold	10% of gold above 2500 up to +50
+Opinion of the requester	Half the Head of Faith's opinion of the requester
+Requester speaks the Head of Faith language	+5
+Requester is at war with a non-excommunicated member of the same faith	-50
+Requester is attacking in a Holy War or a Excommunication War	+30
+Requester is defending in a Holy War	+50
+Head of Faith is greedy	-20
+Requester has 3 to 5 years of their monthly income	-25
+Requester has 5 to 7 years of their monthly income	-50
+Requester has 7 or more years of their monthly income	-75
+Requester is an  Adulterer or  Fornicator and its shunned	-25
+Requester is a  Murderer	-50
+Requester is  Incestuous and its shunned	-50
+Requester is a  Kinslayer and its shunned	-50
+Piety Level at  Faithful or above	+5 per piety level
+In debt and piety level at or above  Devoted Servant	+5 per piety level
+Virtuous Traits	+10 per virtuous trait
+Sinful Traits	-10 per sinful trait
+ Divine Blood	+5
+ Consecrated Blood	+5
+ Paragon	+15
+ Savior	+15
+Same dynasty as Head of Faith	+5
+Same house as Head of Faith	+10
+Closely related to Head of Faith	+10
+Parent of the Head of Faith	+25
+Friend of the Head of Faith	+25
+Best Friend of the Head of Faith	+50
+Lover of the Head of Faith	+10
+Rival of the Head of Faith	-100
+Nemesis of the Head of Faith	-500
+Spent influence	+25
+Hard Difficulty	-25
+Very Hard Difficulty	-75
+Literalist Debate
+Characters following a faith with the Core tenet altar.png Literalism tenet may engage in a Literalist Debate with either direct vassals, vassals, co-vassals, or their liege, trading opinion penalties for the chance to win (or lose) piety. This interaction can only be used on adult characters, cannot be used if either party recently participated in a debate.
+
+Designate Sacrifice
+DLC Northern Lords.png	Available only with the Northern Lords DLC enabled.
+Characters who are planning a human sacrifice in a  Gruesome Festival can designate one of their prisioners to be sacrificied in exchange for more piety and causing  -50 opinion of the prisioner with the character. If the character is a clan government, choosing someone of their own house causes  -8 House Unity. Only one prisioner at a time can be selected and this interaction has no cooldown.
+
+Refute Sacrifice
+DLC Northern Lords.png	Available only with the Northern Lords DLC enabled.
+Show mercy and spare a prisioner designated as a sacrifice. There is no opinion gain, but if the character is a clan government, refuting someone of their own house will refund  8 House Unity. This interaction has no cooldown.
+
+Mechanics
+Characters	Characters • Attributes • Traits • Resources • Modifiers • Lifestyle • Family • Dynasty • Schemes • Hooks • Activities • Artifacts • Interactions • Travel • Adventurers • Prisoners
+Realm & Governance	Council • Court • Power sharing • Subjects • Succession • Government • Laws • Decisions • Titles • Barony • County • Buildings • Royal court • Domiciles • Great projects
+Warfare	Warfare • Casus belli • Alliance • Army • Hired forces • Knights • Duel • Situations
+Culture & Faith	Culture • Traditions • Innovations • Form of Address • Faith • Doctrines • Tenets • Holy sites
+Meta	Modding • Patches • Downloadable content • Developer diaries • Achievements • Jargon • Bookmarks • Interesting characters • Ruler Designer • Game rules
+Categories: ExpandPotentially outdated1.4Pages with unrecognized icon stringsCharacter
+About CK3 WikiMobile view
+Attribution-ShareAlike 3.0Powered by MediaWiki
+
+Games
+Discover
+Our Brands
+Browse
+Play on Paradox technology
+Community
+Paradox Forums
+Paradox Wikis
+Support
+About
+News
+About us
+Careers
+Join our playtests
+Media contact
+Social Media
+Legal Information
+EU Online Dispute Resolution
+Report Illegal Content

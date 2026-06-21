@@ -1,0 +1,130 @@
+
+Paradox Wikis
+CK3 Wiki
+
+Search
+Search CK3 Wiki
+Log in
+Navigation menu
+PageDiscussion
+ReadEditEdit sourceView history
+Crusader Kings III Wiki
+Recent changes
+Random page
+Paradox Wikis
+- Main portal
+- Wikis discord
+- Contact us
+- Style guidelines
+CK3 links
+- Forums
+- Game discord
+- Mods
+- Store
+- YouTube
+Tools
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+ 
+Hired forces
+Jump to navigationJump to search
+Please help with verifying or updating older sections of this article.
+At least some were last verified for version 1.18.
+
+This article is for the PC version of Crusader Kings 3 only.
+
+Hired forces are predefined armies which may be temporarily controlled by hiring them with  Gold. Hired forces cannot be used to raid. There are two types of hired forces, each one with its own tab in the Military menu.
+
+
+Contents
+1	Mercenaries
+2	Holy orders
+2.1	Patronage
+2.2	Members
+3	References
+Mercenaries
+
+The mercenaries screen.
+Mercenaries are armies that can be hired by rulers for 3 years. The gold cost is paid upon hiring the Mercenaries and there is no additional cost associated with hiring them, but at the end of the 3 years, they will leave if their contract is not extended. Extending a contract for 3 years has the same cost as initially hiring the army.
+
+Each culture generates between one and three mercenary companies depending on the number of counties of that culture, with each additional company being bigger and more expensive than the previous one. They will pick a county of their culture as their headquarters and will be available to be hired by anyone with capital within diplomatic range of that county. Range between Mercenary armies come with one or more specific men-at-arms regiments and will also contain a number of knights. Mercenary regiments reinforce 3 times faster than regular regiments. Character can hire mercenaries of their own culture from further away.
+
+Rulers are allowed to go into debt up to 2 years in order to hire mercenaries.
+
+The cost of hiring mercenaries can be reduced by the following:
+
+30% with the Soldiers of Lesser Fortune perk of the Overseer tree.
+15% with the Communal court type.
+15% with the "Swords for hire" Tradition, for same culture only.
+< 30% from the "Scoundrel" accolade stat
+25% from the "Condottieri" regional innovation, for same culture only.
+50% from "Malleable" subjects Tradition, for same culture only
+Many more...
+Mercenary company	Levies	Regiments	Knights	Cultural regiment chance
+1st	400	1	2	50%
+2nd	800	2	3	66%
+3rd	1200	3	4	80%
+Mercenary armies select a name based on their culture, as shown in the table below.
+
+Culture/Culture group	Name(s)
+Holy orders
+Holy orders are independent military organizations that work to defend and expand the influence of their faith. Each holy order has a  Duke rank title.
+
+Rulers can create a holy order via the Found Holy Order decision. The decision requires the ruler making the decision to choose an owned castle or city holding that aren't a county capital as the order's headquarters. When a holy order is created the ruler who created it will become its Patron and the order's grandmaster will belong to its faith and culture.
+
+Holdings leased to a holy order may be revoked by any ruler in de jure hierarchy whose realm contains the leased holding and revoking the last leased holding of a holy order will destroy it. Revoking the lease of a holy order gives -40  Opinion with the grandmaster and -20  Opinion with the holy order's head of faith. It will also give the following:
+
+-500  Piety if the holy order belongs to a faith considered Righteous or same faith
+-100  Piety if the holy order belongs to a faith considered Astray
++250  Piety and +20  Opinion with the head of faith if the holy order belongs to a faith considered Hostile or Evil but the holy order's faith will also gain 10  Fervor
+If the barony's county had the same faith as the holy order it will gain -15 Popular Opinion and -0.15 Monthly Control for 10 years
+Rulers of a holy order's faith may hire them if they are at war with a faith considered Hostile or Evil, regardless of casus belli. A ruler may only have one holy order hired at a time. Hiring holy orders costs  Piety unless the ruler is the order's Patron, scaling on the maximum amount of levies and regiments the holy order has. Holy orders remain hired for as long as their employer is at war with someone of another faith.
+
+Holy orders have 500  Levies, 2  Knights and 2 regiments. Each holding they own provides an additional regiment and 200  Levies and every two holdings they own provide an additional  Knight. Their Men-at-Arms do not gain bonuses from the buildings in its holdings, but rather from their employer's buildings.
+
+In 867 and 1066 there are no holy orders but in 1178 there are two starting holy orders for the  Catholic faith in Jerusalem: Knights Templar and Knights Hospitaller.
+
+Patronage
+A  King or above who controls the barony where a holy order is located will be its patron, even if they are a subject. If the top liege is a  Duke or below the holy order will have no patron. Patrons of a holy order may hire them at no cost, as long as they belong to the same faith. They may also get events that allows them to grant holdings to the new holy order.
+
+If a holy order is hired by another character, its Patron can repay their employer the  Piety hiring cost to hire the holy order. This option is not available in multiplayer if the holy order is hired by another human player.
+
+Members
+All members of a holy order gain the  Order Member trait. Rulers of the same faith can ask the courtiers who have the same faith, a  Martial education trait, are not  Excommunicated or diarch and are allowed by gender laws to join the holy order. If the faith has multiple holy orders the ruler will be asked which holy order to pick. The courtier must accept the offer, with its Boldness and Zeal playing a major effect. They will always refuse if they have the  Ambitious or  Pregnant trait.
+
+Sending a courtier to a holy order costs 100  Piety. If the courtier is a close family member the cost is increased to 200  Piety. If they are the Primary Heir the cost is increased to 350  Piety and 50  Legitimacy.
+
+References
+Mechanics
+Characters	Characters • Attributes • Traits • Resources • Modifiers • Lifestyle • Family • Dynasty • Schemes • Hooks • Activities • Artifacts • Interactions • Travel • Adventurers • Prisoners
+Realm & Governance	Council • Court • Power sharing • Subjects • Succession • Government • Laws • Decisions • Titles • Barony • County • Buildings • Royal court • Domiciles • Great projects
+Warfare	Warfare • Casus belli • Alliance • Army • Hired forces • Knights • Duel • Situations
+Culture & Faith	Culture • Traditions • Innovations • Form of Address • Faith • Doctrines • Tenets • Holy sites
+Meta	Modding • Patches • Downloadable content • Developer diaries • Achievements • Jargon • Bookmarks • Interesting characters • Ruler Designer • Game rules
+Categories: Potentially outdated1.18War
+About CK3 WikiMobile view
+Attribution-ShareAlike 3.0Powered by MediaWiki
+
+Games
+Discover
+Our Brands
+Browse
+Play on Paradox technology
+Community
+Paradox Forums
+Paradox Wikis
+Support
+About
+News
+About us
+Careers
+Join our playtests
+Media contact
+Social Media
+Legal Information
+EU Online Dispute Resolution
+Report Illegal Content

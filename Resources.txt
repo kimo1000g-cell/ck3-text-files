@@ -1,0 +1,247 @@
+
+Paradox Wikis
+CK3 Wiki
+
+Search
+Search CK3 Wiki
+Log in
+Navigation menu
+PageDiscussion
+ReadEditEdit sourceView history
+Crusader Kings III Wiki
+Recent changes
+Random page
+Paradox Wikis
+- Main portal
+- Wikis discord
+- Contact us
+- Style guidelines
+CK3 links
+- Forums
+- Game discord
+- Mods
+- Store
+- YouTube
+Tools
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+ 
+Resources
+Jump to navigationJump to search
+Please help with verifying or updating older sections of this article.
+At least some were last verified for version 1.18.
+
+This article is for the PC version of Crusader Kings 3 only.
+
+
+Introducing CK3 #07 - Money. Havoc teaches you how to get more money in CK3!
+There are four important resources which are necessary for most actions in the game:  gold,  prestige,  piety and  renown. Each resource can be spent on different things and all of them can be spent or gained through events.
+
+
+Contents
+1	Gold
+1.1	Treasury
+1.2	Debt
+2	Prestige
+3	Piety
+3.1	Monthly piety
+3.1.1	Factors affecting monthly piety
+4	Influence
+5	Provisions
+6	Herd
+7	Barter Goods
+8	References
+Gold
+Gold is a measure of a character's liquid wealth reserves. Most rulers start the game with gold equal to 18 months of income. When a ruler dies or abdicates, all of their gold is passed onto their primary heir regardless of succession law.
+
+Treasury
+Roads to PowerDLC All Under Heaven.png	Available only with the Roads to Power DLC or the All Under Heaven DLC enabled.
+Rulers with  Administrative,  Celestial,  Meritocratic or  Meritocratic Khanate government have a second storage for Gold called Treasury. 95% of income obtained from vassals will be added to the Treasury instead of Gold. Gold can be manually converted to Treasury. Every 10 Gold transferred gives +1  Stress if the character has the  Greedy trait and -1  Stress if the character has the  Generous trait. Treasury can be converted to Gold via the Siphon Treasury scheme and is also converted to Gold if the character changes government.
+
+The Treasury can be spent on barony constructions, provincial men-at-arms, a few activities, salaries, great project contributions, and royal court expenses. Gold still has to be spent for estate constructions, personal men-at-arms, most activities, and schemes.
+
+The top liege of a government that uses Treasury can use the Laws tab to allocate percentages of the Treasury income back to vassals as Gold. The amount of Gold each vassal receives depends on their primary title rank and  Merit if their government uses it. Changing the allocated percentages costs 200  Prestige and 500  Influence and will give between -100 and +30  Opinion for 5 years depending on how much the spending has been changed. If the realm gains new vassals they will receive Gold too but existing vassals will not have it reduced, requiring a greater expenditure of Treasury until the percentages are reallocated again. For  Celestial governments the councilor salary is also decided here.
+
+If a vassal has a Treasury debt and its liege has a government that also uses Treasury and has a sufficient amount to cover the debt, the liege will be able to use the Debt Relief interaction on the vassal. The interaction will pay the vassal's debt from the liege's Treasury and the liege will gain 100  Influence and a  Strong Hook on the vassal for 20 years. Minister of Revenue councilors can also use the interaction.
+
+Debt
+Debt occurs when a character has negative gold or treasury and the penalties stack if the character has a debt of both resources. During debt, characters cannot declare war, their counties can always acquire corruption, their men-at-arms cannot reinforce, and they can experience various negative events. In addition, debt grants increasingly negative modifiers depending on how many years of income will be necessary to pay the entire the debt.
+
+ Years in debt	 Levy size and reinforcement rate	 Development growth	 Vassal and popular opinion	 Courtier opinion	 Advantage	Yes Join faction acceptance	Khans of the Steppe Herd gain	 Can be conqueror (no effect on AI)
+0	−10%	−10%	−5	−10	−5	+10	−10%	Yes
+1	−20%	−20%	−10	−15	−10	+20	−20%	Yes
+2	−30%	−30%	−15	−20	−15	+30	−30%	Yes
+3	−40%	−40%	−20	−25	−20	+40	−40%	Yes
+4	−50%	−50%	−25	−30	−25	+50	−50%	Yes
+5	−60%	−60%	−30	−40	−30	+60	−60%	Yes
+10	−70%	−70%	−40	−50	−40	+70	−70%	No
+25	−80%	−80%	−50	−75	−50	+80	−80%	No
+50	−90%	−90%	−75	−100	−75	+90	−90%	No
+100	−95%	−95%	−100	−120	−100	+95	−95%	No
+Prestige
+ Prestige represents the amount of political capital, social influence and goodwill a character is able make use of at any given time. Holding titles, especially of higher rank, as well as the  diplomacy skill are the main continuous sources of prestige, but many events can generate it on occasion as well. Prestige can be spent on most secular matters of realm of management, such as vassal interactions, decisions and declarations of non-holy war. For  Tribal and  Wanua rulers, Prestige is also used for men-at-arms payment and upkeep, as well as constructing tribe buildings.
+
+Each time a character gains prestige, they gain the same amount of fame; battles fought in secular wars, as well as winning certain wars as war leader, will also net fame, while losing certain wars as war leader will lose fame. As fame accrues, it will increase progress towards the character's next level of fame, which grants various benefits, such as enabling decisions or certain types of casus belli. Fame also affects the amount of taxes and levies received from  Tribal and  Wanua vassals. Since fame is meant to merely accumulate, not be spent, it rarely decreases, but particularly dishonorable acts can cost levels of fame. A character who lacks the prestige to declare a secular war can also opt to spend fame, at an inflated price. Fame is particularly important for adventurers, as it determines who will offer them contracts.
+
+Notably, "A Life of Glory" perk from the Diplomacy Lifestyle, doubles the effects of Secular Opinion and Knights (including the penalties).
+
+Level of fame	 Secular opinion	 Knights	 Tribal vassal tax	 Tribal vassal levies	Conquest cb.png Max conquest CB rank	 Adopt Feudal / Clan Ways	 Highest custom title	 Fame	Roads to Power Max contractor rank	Khans of the Steppe Herd Capacity
+Icon prestige 00.png Disgraced	−10 from Feudal/Sōryō
+−10 from Tribal/Wanua	−1	0%	0%	No None	No	 Duchy	0	 Count	−10%
+Icon prestige 01.png Established	0	0	8%	15%	 County	No	 Duchy	1000	 Count	+10%
+Icon prestige 02.png Distinguished	+5 from Feudal/Sōryō
++3 from Tribal/Wanua	+1	16%	30%	 County	Yes	 Duchy	2000	 Count	+20%
+Icon prestige 03.png Illustrious	+10 from Feudal/Sōryō
++5 from Tribal/Wanua	+2	24%	45%	 Duchy	Yes	 Kingdom	5000	 Duke	+30%
+Icon prestige 04.png Exalted among Men	+20 from Feudal/Sōryō
++10 from Tribal/Wanua	+3	32%	60%	 Kingdom	Yes	 Empire	10000	 King	+40%
+Icon prestige 05.png The Living Legend	+30 from Feudal/Sōryō
++20 from Tribal/Wanua	+4	40%	75%	 Kingdom	Yes	 Empire	25000	 Emperor	+50%
+Piety
+ Piety is a measure of how virtuous a character is in the eye of others of their religion. It is gained primarily from religious relations, the character's  learning skill, and traits that its faith considers virtuous. Piety is spent when interacting with the church and declaring holy wars. The icon displayed for representing piety depends on the character's religion.
+
+Each time a character gains piety, they will also gain  devotion, which gives progress towards their next level of devotion. Like the levels of fame above, each level of devotion grants various benefits. A character will lose a level of devotion if they are caught doing something their faith doctrines consider shunned. A character can pay a piety cost with devotion if they don't have enough piety. Generated characters and those at the game start begin with the  Dutiful level.
+
+The last three levels of devotion are only available to rulers with  Mandala government if their predecessor reached the previous level of devotion and died in an acceptable manner. Characters with the Family attribute humility small.png Humility noble family attribute at the highest level can also reach the Divine level of devotion. Rulers with  Mandala government also inherit the level of devotion held by their predecessor.
+
+Icons	Level of devotion	Effects	 Theocracy vassal tax	 Theocracy vassal levies	Religious war cb.png Max holy war objective rank	 Create holy orders	 Consecrate Bloodline	Devotion
+Icon piety christian 00.pngIcon piety islam 00.pngIcon piety judaism 00.pngIcon piety eastern 00.pngIcon piety zoroastrian 00.pngIcon piety confucianism 00.pngIcon piety taoism 00.pngIcon piety pagan 00.png	Sinner	
+ -10 Same Faith Clergy Opinion (Theocratic)
+ -5 Same Faith Opinion (Lay Clergy)
+0%	0%	No None	No	No	0
+Icon piety christian 01.pngIcon piety islam 01.pngIcon piety judaism 01.pngIcon piety eastern 01.pngIcon piety zoroastrian 01.pngIcon piety confucianism 01.pngIcon piety taoism 01.pngIcon piety pagan 01.png	Dutiful		15%	10%	 County	No	No	1000
+Icon piety christian 02.pngIcon piety islam 02.pngIcon piety judaism 02.pngIcon piety eastern 02.pngIcon piety zoroastrian 02.pngIcon piety confucianism 02.pngIcon piety taoism 02.pngIcon piety pagan 02.png	Faithful	
+ +5 Same Faith Clergy Opinion (Theocratic)
+ +3 Same Faith Opinion (Lay Clergy)
+25%	20%	 Duchy	No	No	1500
+Icon piety christian 03.pngIcon piety islam 03.pngIcon piety judaism 03.pngIcon piety eastern 03.pngIcon piety zoroastrian 03.pngIcon piety confucianism 03.pngIcon piety taoism 03.pngIcon piety pagan 03.png	Devoted Servant	
+ +10 Same Faith Clergy Opinion (Theocratic)
+ +5 Same Faith Opinion (Lay Clergy)
+35%	30%	 Duchy	Yes	No	2500
+Icon piety christian 04.pngIcon piety islam 04.pngIcon piety judaism 04.pngIcon piety eastern 04.pngIcon piety zoroastrian 04.pngIcon piety confucianism 04.pngIcon piety taoism 04.pngIcon piety pagan 04.png	Paragon of Virtue	
+ +20 Same Faith Clergy Opinion (Theocratic)
+ +10 Same Faith Opinion (Lay Clergy)
+45%	40%	 Kingdom	Yes	No	4500
+Icon piety christian 05.pngIcon piety islam 05.pngIcon piety judaism 05.pngIcon piety eastern 05.pngIcon piety zoroastrian 05.pngIcon piety confucianism 05.pngIcon piety taoism 05.pngIcon piety pagan 05.png	Religious Icon	
+ +30 Same Faith Clergy Opinion (Theocratic)
+ +15 Same Faith Opinion (Lay Clergy)
+55%	50%	 Kingdom	Yes	Yes	8500
+Icon piety christian 06.pngIcon piety islam 06.pngIcon piety judaism 06.pngIcon piety eastern 06.pngIcon piety zoroastrian 06.pngIcon piety confucianism 06.pngIcon piety taoism 06.pngIcon piety pagan 06.png	Divine	
+ +40 Same Faith Clergy Opinion (Theocratic)
+ +20 Same Faith Opinion (Lay Clergy)
+ +0.1 Monthly Renown
+ +0.2 Monthly Legitimacy
+ +15 Maximum Vassal Limit
+65%	60%	 Kingdom	Yes	Yes	13000
+Icon piety christian 07.pngIcon piety islam 07.pngIcon piety judaism 07.pngIcon piety eastern 07.pngIcon piety zoroastrian 07.pngIcon piety confucianism 07.pngIcon piety taoism 07.pngIcon piety pagan 07.png	Demigod	
+ +55 Same Faith Clergy Opinion (Theocratic)
+ +25 Same Faith Opinion (Lay Clergy)
+ +0.15 Monthly Renown
+ +0.3 Monthly Legitimacy
+ +25 Maximum Vassal Limit
+75%	70%	 Kingdom	Yes	Yes	17000
+Icon piety christian 08.pngIcon piety islam 08.pngIcon piety judaism 08.pngIcon piety eastern 08.pngIcon piety zoroastrian 08.pngIcon piety confucianism 08.pngIcon piety taoism 08.pngIcon piety pagan 08.png	Godlike	
+ +75 Same Faith Clergy Opinion (Theocratic)
+ +35 Same Faith Opinion (Lay Clergy)
+ +0.2 Monthly Renown
+ +0.4 Monthly Legitimacy
+ +35 Maximum Vassal Limit
+85%	80%	 Kingdom	Yes	Yes	22500
+Monthly piety
+The table below shows available sources of monthly piety. Note that these are value gains; for percentage effects, see the table on factors.
+
+Source	 Monthly piety
+Factors affecting monthly piety
+The following table shows factors affecting the gain of monthly piety as a percentage effect. For value additions to monthly piety, see the table above
+
+Source	 Monthly piety
+Influence
+Roads to PowerDLC All Under Heaven.png	Available only with the Roads to Power DLC or the All Under Heaven DLC enabled.
+ Influence is a resource available only to characters with  Administrative,  Celestial,  Meritocratic,  Meritocratic Khanate or  Ritsuryō government and represents their political reach and authority. It is gained primarily by being a governor, being part of the council, upgrading an estate or being allied to the house head of a noble family, particularly the top liege. Influence is used for interactions between rulers with governments that use the resource.
+
+Each time a character gains Influence they also progress towards their next level of influence, which determines their initial political scheme success chance.
+
+Level of influence	 Initial Political Scheme Success Chance	 Personal Movement Power	Can change succession law	 Influence
+Icon influence 00.png Impotent			No	0
+Icon influence 01.png Influential		+5	No	1000
+Icon influence 02.png Persuasive	+5%	+10	No	2000
+Icon influence 03.png Controlling	+10%	+15	No	4000
+Icon influence 04.png Authoritative	+15%	+20	Yes	8000
+Icon influence 05.png Imperious	+20%	+25	Yes	16000
+Provisions
+Roads to Power	Available only with the Roads to Power DLC enabled.
+ Provisions is a resource available only to adventurers and is spent when moving the camp. How many are expended depends on the size of the men-at-arms, the terrain on the route, and what officers are hired, and they can also be lost as a result of travel danger events. They are primarily obtained as contract rewards, hunts, visiting holdings, or the Gather Provisions decision.
+
+Each adventurer can initially store up to 2500 provisions, but the capacity can be increased by certain camp buildings and upgrades. If an adventurer receives provisions above the limit they will instead receive 1  gold per 20  provisions.
+
+If provisions become too low while traveling the following events may take place. If provisions become 0 the adventurer will be offered the option to stop in the current barony and avoid the worst events.
+
+ Provisions	Possible events
+500-67	
+Lose -15  opinion with a follower or leveled  gold
+66-34	
+Every regiment loses 15% of its soldiers and gain 20  stress
+A follower who is not a close family member or officer leaves and gain 40  stress
+33-1	All events give 80  stress and -15  opinion with every follower
+A follower who is a close family member or officer leaves
+Every regiment loses 35% of its soldiers
+Gain the  Ill trait
+A follower or pet dies and can choose to become a Cannibal
+A  Typhus epidemic appears in the camp's barony, every regiment will lose 15% of its soldiers and one of the characters in the camp will get infected
+0	All events give 100  stress, -25  opinion with every follower, -50% regiment soldiers, and the character gets one of the following:
+Modifier health negative.png Weak Stomach modifier if not already
+Modifier health negative.png Hunger Sickness modifier if not already
+ Blind trait if not already
+ Cannibal trait if not already
+ Infirm trait if not already
+ Lunatic trait if not already
+ -2 Prowess if any remains
+ Death
+Herd
+Khans of the Steppe	Available only with the Khans of the Steppe DLC enabled.
+ Herd is a resource available only to characters with  Nomadic government and represents their flock of animals. It is used as a currency between nomads, serves as a gate for increasing Dominance, and a percentage of it is converted into  Horde Riders. The character with the highest Herd will become the culture head of its culture. Every 1000 Herd increases Gold income by 0.5 and if the character changes government it is converted to Gold.
+
+Every nomad character has a herd capacity, which is determined by their title rank, level of fame and Nomadic Capital buildings and upgrades. Going over the herd capacity reduces herd gain to only 5% of its normal value.
+
+Herd is obtained through the land by exploiting its Fertility and through nomad subjects via their contracts. Every county in the Steppe regions has a Fertility ranging from 0 to 100. While the county is held by a ruler with  Nomadic government its fertility will decrease until it reaches an Equilibrium value. While the county is held by a ruler with  Herder government its fertility will increase. The Equilibrium increases with the number of baronies in the ruler's domain.
+
+If a ruler is landless it will lose between 500 and a third of is Herd every 3 years.
+
+Barter Goods
+DLC All Under Heaven.png	Available only with the All Under Heaven DLC enabled.
+ Barter Goods is a resource available only to characters with  Wanua government and represents island resources. It is used for army upkeep and armies can convert it to  Gold at a 2:1 ratio by being raised as barterers and traveling to another ruler's counties.
+
+References
+Mechanics
+Characters	Characters • Attributes • Traits • Resources • Modifiers • Lifestyle • Family • Dynasty • Schemes • Hooks • Activities • Artifacts • Interactions • Travel • Adventurers • Prisoners
+Realm & Governance	Council • Court • Power sharing • Subjects • Succession • Government • Laws • Decisions • Titles • Barony • County • Buildings • Royal court • Domiciles • Great projects
+Warfare	Warfare • Casus belli • Alliance • Army • Hired forces • Knights • Duel • Situations
+Culture & Faith	Culture • Traditions • Innovations • Form of Address • Faith • Doctrines • Tenets • Holy sites
+Meta	Modding • Patches • Downloadable content • Developer diaries • Achievements • Jargon • Bookmarks • Interesting characters • Ruler Designer • Game rules
+Categories: Potentially outdated1.18Character
+About CK3 WikiMobile view
+Attribution-ShareAlike 3.0Powered by MediaWiki
+
+Games
+Discover
+Our Brands
+Browse
+Play on Paradox technology
+Community
+Paradox Forums
+Paradox Wikis
+Support
+About
+News
+About us
+Careers
+Join our playtests
+Media contact
+Social Media
+Legal Information
+EU Online Dispute Resolution
+Report Illegal Content

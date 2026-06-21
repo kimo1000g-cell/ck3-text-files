@@ -1,0 +1,4135 @@
+
+Paradox Wikis
+CK3 Wiki
+
+Search
+Search CK3 Wiki
+Log in
+Navigation menu
+PageDiscussion
+ReadEditEdit sourceView history
+Crusader Kings III Wiki
+Recent changes
+Random page
+Paradox Wikis
+- Main portal
+- Wikis discord
+- Contact us
+- Style guidelines
+CK3 links
+- Forums
+- Game discord
+- Mods
+- Store
+- YouTube
+Tools
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+ 
+ Decisions are actions that can be taken under certain circumstances. Some decisions can only be taken once per character or once per game while others can be taken repeatedly. Most decisions are unavailable if the character has the  Incapable trait. Decisions are not shown unless the character meets one of the more specific requirements.
+
+Decisions are divided into three groups:
+
+Character decisions are available to every character in the game
+Ruler decisions are available only to rulers - characters who own landed titles
+Adventurer decisions are available only to adventurers
+ 
+Character decisions
+Jump to navigationJump to search
+Please help with verifying or updating older sections of this article.
+At least some were last verified for version 1.18.
+
+This article is for the PC version of Crusader Kings 3 only.
+
+Nav top.png
+Crusader Kings III
+List of Decisions
+Character decisions
+Ruler decisions
+Roads to Power Adventurer decisions
+The following decisions are available to all characters regardless of their status.
+
+
+Contents
+1	Major decisions
+2	Minor decisions
+2.1	Perk decisions
+2.2	Trait decisions
+2.2.1	Coping actions
+2.3	Tenet decisions
+2.4	Tradition decisions
+2.5	Petition the Liege
+3	Struggle decisions
+4	Administrative decisions
+5	Estate building decisions
+6	Nomadic decisions
+6.1	Conversion decisions
+7	Royal court decisions
+8	Escape from Prison
+Major decisions
+Major decisions leave a permanent mark on the world and notify all rulers which may be affected by the decision.
+
+Decision	Effect	Cost	Requirements	Description
+Create Cadet Branch	
+ +350 Prestige
+Yes Creates a cadet branch of the current house
+None	
+Yes Adult
+Yes Any child
+No House head
+No Court chaplain if faith has the Theocratic doctrine
+No Living ancestor in house
+One of:
+ Clan government and independent
+ Feudal government and not third or closer in succession for one of the house head's titles
+ Nomadic government and not third or closer in succession for one of the house head's titles
+ Mandala government and not third or closer in succession for one of the house head's titles
+ Sōryō government and not third or closer in succession for one of the house head's titles
+ Administrative government
+ Celestial government
+ Meritocratic government
+ Meritocratic Khanate government
+ Ritsuryō government
+ If married and faith does not have Equal views on gender must be the dynastic spouse
+No Devoted
+No Bastard
+It may be time for my family to abandon the legacy of the House and carve its own path in history, with me as the head of this new branch of our great dynasty.
+Found Witch Coven	
+ House gains the Witch Coven permanent modifier
+ All children educated by a witch become witches
+ All witches are more successful when converting others to witchcraft
+None	
+Yes House head
+Yes At least 7 house members
+ Witch trait or secret
+ Player heir has the Witch trait or secret known by you
+ At least 60% of house members have the Witch trait or secret known by you
+Our proud house is united by blood, but the truth divides us. I long for the day when we will no longer live in fear, but be completely open with each other. Our sons and daughter will be raised to embrace their powers and the will of Horned God. May we serve Him well!
+Faith Cannibalism	
+ −50% Piety cost to reform or create a faith with the Ritual Cannibalism tenet
+ All close family members become Cannibals
+ All intimidated vassals become Cannibals
+ Gain the Devourer nickname
+ 250	
+Yes Adult
+ Cannibal
+ Court chaplain is a Cannibal
+ Devoted Servant
+ +40 opinion with head of faith if one exists
+No Faith has the Ritual Cannibalism tenet
+ Can only be done once per faith
+Our creator god made us in their image. By imbibing the reflection of the divine we grow closer to [high god name].
+Repay Loan	Yes Removes all negative effects associated with holy order loans	 Scaled	 Borrow Gold from Holy Order decision	To have a debt hanging over me is unbecoming of a [title rank] – the time has come to repay the money I owe.
+Attempt to Overthrow Liege	
+ 33% chance to take all of the liege's highest-ranked titles and capital county
+ 33% chance to take all of the liege's titles
+ 33% chance to perform a chosen skill challenge
+ If using Diplomacy the diarch is imprisoned if they lose
+ If using Intrigue the loser is imprisoned
+ If using Prowess the loser is killed
+ If successful Strife is converted into Tyranny
+ Scaled
+ 1000
+Yes Liege is at peace
+Yes Liege is at least 5 years old
+Yes Liege's realm size is at least 12
+Scale of power.png Diarch
+Scale of power.png Scales of power are at maximum
+No Liege is imprisoned
+No Liege is traveling
+No Liege's primary title is a head of faith title
+One of:
+ Has been diarch for 8 years
+ Has been diarch for 4 years and diarchy is at least 10 years old
+Yes Unlocked the decision via an event
+One of:
+Yes 3 powerful vassals were invited to coup
+Yes 2 powerful vassals were invited to coup and diarch is a powerful vassal
+Our alleged [liege] cannot govern without me - but I could certainly rule without him/her. All I need is the tacit support of enough of the realm's great magnates, some loyal soldiers, and an opportunity...
+Attend Children's Examination	
+Yes Attempt to pass the Children's Examination
+ Success chance increases with Learning and Age
+ 3 Optional Learning challenges to increase score
+ 30	
+ Uses Merit
+Yes Age is 6-16
+No Landed
+No Disease trait
+ Male if faith has the Male Dominated doctrine
+ Female if faith has the Female Dominated doctrine
+The Children's Examination is a lower level Examination and a recital of the classics.
+Return to the Steppe	
+ Government becomes Nomadic
+ Unlanded vassals with the same culture heritage become Nomadic
+ Landed Meritocratic Khanate vassals become tributaries
+ 750	
+ Meritocratic Khanate government
+ Way of the Nomad trait
+No Realm has 11+ feudal holdings
+In seeking to make ourselves masters of cities, we bartered away our birthright for silks and thrones. Yet here, behind these palace walls, we are little better than prisoners of those who claim to serve us.
+
+Better we live as wolves beneath the open sky than as a shepherds in thrall to our own flock.
+Minor decisions
+The following decisions have a cooldown and do not affect the world at large.
+
+Decision	Effect	Cost	Requirements	Cooldown
+Convert to Local Culture	
+ Adopts the culture of the realm capital
+ 20% chance for each vassal to convert to the character's culture
+ Scaled	
+Yes Adult
+Yes At peace
+ Location has a different culture
+ Lifetime
+Borrow Gold from Holy Order	
+ Gain scaled Gold
+ If the character dies the loan is inherited
+ If the loan is not repaid in 10 years there is a 17% chance each year the holy order will demand one of the following:
+Repay the loan with Gold
+Repay the loan with a barony or child
+Lose a Level of Devotion and 30 Opinion with the leader of the holy order and the head of faith if one exists
+If the Level of Devotion is at least Devoted Servant can delay payment for 5 more years
+ 50	
+Yes Any holy order with the same faith and enough gold
+No Any unpaid load
+ 15 years
+Pet Cat	
+ -10 Stress
+None	
+ Pet cat
+ 5 years
+Pet Dog	
+ One of the following happens:
+98% character gains -10  Stress
+1% choice between an  Unpressed Claim on a random neighbor title or +20  Opinion with its holder
+1% character is injured
+None	
+ Pet dog
+ 5 years
+Reject Inheritance	
+ Gain the Gallivanter trait
+ -200 Stress
+ -30 Opinion with every adult family member that can't take the decision
+ 100	
+ If landed character must stand to inherit a higher title
+Yes One of the following
+ Content trait
+ Carefree perk
+Adventurer.png Adventurer
+ 30 years
+Meditate in Seclusion	
+ Choose a location to meditate
+Meditating at home reduces  Stress
+Meditating outside home can reduce  Stress, give  Learning, or replace a sinful trait with its opposite
+See Meditate in Seclusion for more information.
+None	
+Yes One of the following
+Yes Faith has the Asceticism or Inner Journey tenet
+Yes Have the Sufi Initiate modifier
+ 3 years
+Attempt Suicide	
+ -1 Level of Devotion
+ 50% chance the following happen
+ Character dies
+ -1 Level of Splendor
+ -30 Opinion with all vassals
+None	
+Yes Adult
+No Faith has the Ritual Suicide tenet
+No Faith has the Sacrificial Ceremonies tenet
+ One of the following
+ Cancer trait
+ Depressed trait
+ Great Pox trait
+ Incapable trait
+ Leper trait
+ Lunatic trait
+ Stress Level 3
+ Best Friend, Soulmate or Child with high Opinion died
+ 5 years
+Perform a Ritual Sacrifice	
+Everyone has the option to pay 5  Gold for 50  Piety
+Landed rulers have the option to pay 50  Gold and 150  Prestige for 250  Piety
+Ruler of China has the option to pay 1715  Treasury and 750  Prestige for 250  Piety and 300 Mandate legitimacy.png Legitimacy
+None	
+Yes Adult
+Doctrine pilgrimage local rites.png Faith has the Local Rites doctrine
+ 5 years
+Recruit Terrain Specialist	
+ Choose to recruit a character with a commander trait depending on available traditions
+ Open Terrain Expert requires Horse Lords or the Way of the Nomad trait
+ Rough Terrain Expert requires Caucasian Wolves, Highland Warriors, Himalayan Settlers, Mountaineer Ruralism, Mountaineers or Upland Skirmishing
+ Jungle Stalker requires Bush Hunting, Jungle Warriors, Lords of the Elephant or Royal Army
+ Desert Warrior requires Desert Ribats, Mubarizun or Warriors of the Dry
+ Forest Fighter requires Forest Fighters or Forest Wardens
+ Winter Soldier requires Winter Warriors
+ Scaled
+ 150
+Yes One of the following
+ Landed and a matching cultural tradition
+ Way of the Nomad trait
+Domicile character warfare.png Level 3 Yurt of the Warriors
+DLC All Under Heaven.png Grand Marshal
+DLC All Under Heaven.png Minister of War
+ 5 years
+Withdraw Funds from Treasury	
+ Convert Treasury into Gold
+ Lose Legitimacy if ruler
+ Lost Influence if minister councilor
+ Amounts depend on realm income
+Modifier legitimacy negative.png Dipped Into Treasury modifier added for 3 years, giving the following effects:
+ -20% Legitimacy Gain if ruler
+ -10% Monthly Prestige if minister councilor
+ -30% Monthly Merit if minister councilor
+Dynastic cycle phase instability.png If done by Hegemon of China pushes the Dynastic Cycle towards the Tension era
+None	
+Yes Adult
+ Government uses Treasury
+NoLegitimacy 0.png Illegitimate legitimacy level
+One of:
+Yes Independent
+DLC All Under Heaven.png Minister councilor
+Eat Your Cheese	 Destroys Aged Cheese artifact, removing stress equal to its remaining durability	None	Artefact icons unique artifact cheese.png Aged Cheese artifact	
+In Search of the Pure Land	
+Yes Character abdicates
+ +15 Opinion with heir
+None	
+Yes Adult
+Yes House has a heir
+Yes Noble family
+ Buddhism religion
+No At war with a liege
+No Mandala government
+Yes One of the following
+Yes 60 years old
+ Health is Poor, Near Death or Dying
+ Infirm trait
+ Melancholic trait
+ If Celestial the Retirement Age law must allow it
+None
+Adopt Puppy	 Gain a pet dog	 30	
+Domicile building stable.png Kennels domicile building or Dog Lovers house modifier
+No Already have a pet
+ 5 years
+Choose Career Path	Yes Change between Civilian and Military career paths	 50	
+Yes Adult
+Yes At peace
+ Uses Merit
+No Minister
+None
+Command Family to attend Examinations	Activity local examination.png Controls whether family members can attend examination activities	None	
+ Uses Merit
+Yes House Head
+No Top liege
+None
+Visit a Silk Road Market	
+Yes Choose a Silk Road Hub to travel to and receive the following options
+ Stewardship and Learning challenge unlock the region's Silk Road Innovation
+ 10% chance to gain a Trinket artifact and 65% chance to gain gold
+Yes No need to travel if the chosen hub is the realm capital
+ 75	
+DLC All Under Heaven.png All Under Heaven DLC
+Yes Adult
+No All Silk Road Hubs have been destroyed
+ 10 years
+Petition the Ceremonial Monarch	
+ Choose what to petition to the Ceremonial Monarch
+ +350 Prestige if not part of the same house
+ +50 Marriage Acceptance with the Ceremonial Monarch's house for 5 years if not part of the same house
+Appointment score.png +15 Candidate Score for all house members if government is bureaucratic
+Appointment score.png +10% Candidate Score for for top liege's title if vassal and government is bureaucratic
+ +20 Stress if Arrogant or Shy
+ Costs 50-250 Influence if government uses the resource
+ Costs 50-250 Prestige if government does not
+Royal Court Royal Court DLC
+DLC All Under Heaven.png Realm has a Ceremonial Monarchy
+Yes Character and Ceremonial Monarch are adults
+Yes Character and Ceremonial Monarch are at peace
+No Ceremonial Monarch
+ 5 years
+Raise a Runestone	
+ +100 Piety
+ +10 Opinion with vassals of the same faith
+ Character location gains the Runestone permanent modifier
+None	
+NoDLC Northern Lords.png Northern Lords DLC
+ Ásatrú faith or Embraced Local Traditions character modifier
+ Dead ancestor
+None
+Give your Ancestor a Sky Burial	
+ +250 Piety
+ +20 Opinion with vassals whose faiths have the same doctrine
+None	
+NoDLC Legends of the Dead.png Legends of the Dead DLC
+Doctrine funeral.png Faith has the Sky Burials doctrine
+Death natural.png Dead ancestor
+None
+Perk decisions
+The following decisions are unlocked by certain lifestyle perks.
+
+Decision	Effect	Cost	Requirements	Cooldown	Description
+Embrace Celibacy	
+ Gain the Celibate trait
+ +40 Stress if the character has the Eager Reveler trait
+ +80 Stress if the character has the Lustful trait
+None	 Restraint perk
+No Seducer trait
+No Eager Reveler trait	1 year	A life devoid of carnal pleasures will bring me peace and satisfaction.
+Abandon Celibacy	 Lose the Celibate trait	None	 Restraint perk
+ Celibate trait	1 year	I have duties to the realm, and to myself... I can no longer live in celibacy.
+Create Travel Itinerary	
+ +150 Prestige
+Artifact journal.png Creates a travel itinerary
+ Scaled	
+Node wandering.png Charts & Itineraries perk
+Yes Visited a point of interest
+5 years	The insights I have collected during my travels can be condensed into an itinerary, for others to follow and admire.
+Trait decisions
+The following decisions are only unlocked by character traits.
+
+Decision	Effect	Cost	Requirements	Cooldown	Description
+Expedite Schemes	Scheme opportunity.png +2 Advantage to all schemes	None	 Impatient trait
+ scheme in progress
+ Stress level 1 or higher	 5 years	Why should I wait forever when I feel ready? Let's try my chance now!
+Hold Mystical Communion	
+ +300 Learning Lifestyle Experience
+ Gain the Divine Guidance modifier for 5 years, giving the following effects:
+ +1 Martial
+ +1 Learning
+ -25% Stress Gain
+ +25% Stress Loss
+ 50% change to gain one of the following in 3 days:
+ -20 Opinion with the court chaplain unless faith considers the trait a virtue
+ -20 Opinion with a vassal with the Zealous trait unless faith considers the trait a virtue
+ -30 Opinion with the head of faith and -1 level of devotion unless faith considers the trait a virtue
+ +30 Opinion with a vassal with the Zealous trait
+ +20 Opinion with a vassal, councilor or family member with the same trait
+ Ill trait
+ Ill trait removed
+ 100	 Wise Man / Woman trait
+Yes Adult	 5 years	You are the only one who truly knows.
+Study the Art of Scheming	 +10 Scheme Power and Success Chance for the hostile scheme	None	 Deceitful trait
+ Hostile scheme in progress
+ Stress level 1 or higher	 3 years	I must consider every angle my scheme might turn to. As the spider weaves its web, I should ensure there are many ways my prey could become ensnared. I will spend some time planning my deception carefully.
+Embrace Responsibilities	
+ Lose the Gallivanter trait
+ -20 Family Opinion for 20 years
+ 400
+ 100
+ Had the Gallivanter trait for 20 years	 30 years	I cannot deny that a carefree life suited me once, but the needs of duty yoke us all, given time. Would that I but had a little more of it...
+Wipe Slate	
+ Choose a Gallowsbait trait experience track to remove
+ Removes the Gallowsbait trait if at 0 experience in all tracks
+ Scaled
+ Scaled
+ Scaled
+ Gallowsbait trait	 1 year	Must a man forever suffer for crimes committed in the direst of circumstances? Are not all adherents entitled a path to redemption? With time, energy, and — most importantly — coin, all manner of sins may be forgiven by the world at large.
+Write Muwashshah Poem	
+ Choose what to do with the poem
+Keeping the poem grants a random bonus to the The Double-Moon Tome artifact
+Distributing the poem grants 75-350  Prestige
+Selling the poem grants 25-140  Gold depending on the culture era
+None	 Violet Poet trait	 3 years	With all the great minds I keep around me, writing a new poem in the popular Muwashshah style would be fairly simple. With so many eager to read my works, I have multiple options for its final resting place, too.
+Found Salon	
+ +300 Renown
+ +350 Prestige
+ Gain the Founded Salon modifier
+Camp positive.png Character's location gains the Poetry Salon modifier for 250 years, giving the following effects:
+ +25% Holding Taxes
+ +50% Development Growth
+ +35 Popular Opinion
+ 350	
+ Violet Poet trait
+ 5 courtiers or followers have the Poet trait
+ Lifetime	Establish a permanent poetry salon, in order to nurture the best and brightest minds.
+Coping actions
+Coping actions are decisions available to characters with a coping mechanism trait and reduce  Stress at the cost of various penalties. Each coping action can only be done once every 3 years.
+
+Decision	Stress	Cost	Required trait	Description
+Confess	-20	
+ Expose a secret if the character has any
+ Gain the Disturbing Confession modifier for 2 years if the character has no secrets, giving the following effects:
+ -5 General Opinion
+ Contrite	Few things brings such release and freedom as a confession. By voicing my secrets and faults I can calm my mind.
+Consume Hashish Cakes	-20	
+ Gain the Hashish Stupor modifier for 2 years, giving the following effects:
+ -1 Stewardship
+ -2 Learning
+ Hashishiyah	Just a few bites, and the stress seems to flow from my body. My mind begins to fog, and a sense of peace and restfulness overcomes me. There is nothing that is quite as relaxing as good hashish!
+Donate to Charity	-20	
+ Scaled
+ Improvident	There are many who need my gold more than me. It might not directly solve my own issues, but it lightens the mind to give.
+Indulge in Flagellation	-40	
+ Gain on increase the character's wounds
+ +100 Piety if faith has the Exaltation of Pain tenet
+ Flagellant	Nothing cleanses the mind like the catharsis of pain. I will apply the whip to my own back until my mind clears.
+Indulge in Drink	-20	
+ 150 Prestige
+Chance of forming a friendship with a vassal or liege that also has the Drunkard trait
+ Drunkard	The camaraderie found in the company of fellow patrons of the drinks, the calm that the fog grants... The time has come to indulge in a drinking binge!
+Indulge in Food	-20	
+ Scaled
+ Comfort Eater	When everything seems a bit too much I can always count on food to put my mind at ease – a full stomach leads to an empty and calm mind.
+Lash Out	-20	
+ 50% Chance to gain the Lashing Out modifier for 1 year, giving the following effects:
+ -10 Direct Vassal Opinion
+ 50% Chance to lose -40 Opinion with a vassal
+Friend vassals will only be insulted if the character has no other vassals
+ Irritable	To let go off all this anger and irritation I have been holding in... Oh, there's nothing better than it to clear the mind! Next time an opportunity arises I will not stop myself.
+Seclude Yourself	-20	
+ 150 Prestige
+ Reclusive	To truly center my mind and clear it of thoughts and concerns I have to be left to my own devices. Alone I can focus and heal.
+Shun Food	-20	
+ Gain the Famished modifier for 3 years, giving the following effects:
+ -1 Prowess
+ Moderate Health Penalty
+ Inappetetic	I have too much on my plate at it is, even without counting the literal food sitting there! By skipping meals I can focus on the issues that actually matter to the realm.
+Talk to Confidant	-20	
+ -10 Opinion with all courtiers except one
+ Confider	To truly be listened to is a rare treat. Nothing eases the mind like a good conversation with someone you can trust, and it usually makes problems seem much smaller!
+Visit a Brothel	-40	
+ Scaled
+ 20% chance to gain the Lover's Pox trait
+ 5% chance to gain the Great Pox trait
+ 5% chance to be suspected of adultery
+ Rakish	Nothing relieves the mind like some carnal relief.
+Visit the Market	-20	
+ Scaled
+ Profligate	Something new, something shiny, something rare... Nothing centers me like a new purchase, and the local market holds many treasures!
+Work Off Some Stress	-20	
+ Gain the Sweaty Stench modifier for 1 year, giving the following effects:
+ -5 General Opinion
+ Athletic	Nothing eases the mind like a raised pulse and a healthy sweat! I will work my body until my mind is more at ease.
+Write Thoughts Down	-20	
+ Gain the Occupied Writing modifier for 1 year, giving the following effects:
+ -2 Diplomacy
+ Journaller	I will put my thoughts and burdens down in writing. Nothing clears the mind like some ink and paper can!
+Tenet decisions
+The following decisions can only be unlocked by certain faith tenets.
+
+Decision	Effect	Cost	Requirements	Cooldown
+Determine Bhakti	Choose or replace a Personal Deity modifier	 500	
+Yes Bhakti tenet
+ Hindu faith
+No  Mandala government
+ 2 years
+Determine Personal Deity	Choose or replace a Personal Deity modifier	 500	
+Yes Patron Gods tenet
+ Norse faith
+No  Mandala government
+ 2 years
+Divine Reincarnation	
+ Choose to give the Primary Heir or Favored Child one of the following:
+ Reincarnation trait
+ +20 Opinion
+ 500	
+Yes Reincarnation tenet
+Yes Adult
+Yes At peace
+Yes Parent or grandparent with the same gender as target
+Yes Primary Heir or Favored Child is a child
+Yes Primary Heir or Favored Child has same faith
+No Primary Heir or Favored Child has the Reincarnation trait
+ 15 years
+Divine the Stars	
+ Gain a random modifier for 10 years:
++2  Diplomacy, +25%  Monthly Diplomacy Lifestyle Experience and -2  Martial
++2  Martial, +25%  Monthly Martial Lifestyle Experience and -2  Learning
++2  Stewardship, +25%  Monthly Stewardship Lifestyle Experience and -2  Intrigue
++2  Intrigue, +25%  Monthly Intrigue Lifestyle Experience and -2  Diplomacy
++2  Learning, +25%  Monthly Learning Lifestyle Experience and -2  Stewardship
+None	Yes Astrology tenet	 10 years
+Enact Ritual Suicide	
+ Character dies
+ +1 Level of Devotion
+None	
+Yes One of the following tenets
+Yes Ritual Suicide
+Yes Sacrificial Ceremonies
+Yes One of the following
+Yes 60 years old
+ Health is Near Death or Dying
+ Incapable trait
+None
+Seek Aid of the Spirits	
+ Choose an offering
+A large offering gives doubles the chance of positive effect and gives +40  Stress if the character is  Cynical or  Greedy
+No offering doubles the chance of negative effect and gives +40  Stress if the character is  Generous or  Humble
+ 4% chance to gain the Shrewd or Strong trait
+ 36% chance to gain a positive modifier for 20 years
++3  Stewardship and +25%  Fertility for 20 years
++3  Intrigue and +25%  Dread Gain for 20 years
++3  Learning and −25%  Stress Gain for 20 years
++3  Martial and +4  Prowess for 20 years
++3  Diplomacy and  Small Health Boost for 20 years
+ 20% chance a to become Possessed, Ill, Impotent or Infirm
+None	
+Yes Adorcism tenet
+No Possessed trait
+ 5 years
+Take Vow of Poverty	
+ Vow of Poverty
+ +5 Clergy Opinion
+ +2 Monthly Piety
+ -20% Monthly Income
+ Character wears Lowborn clothes
+ Using it for a long time will cause the character to become malnourished
+ +10 Stress if the character has the Ambitious trait
+ +35 Stress if the character has the Cynical trait
+ +60 Stress if the character has the Greedy trait
+None	Yes Vows of Poverty tenet	None
+Renounce Vow of Poverty	
+ Lose Vow of Poverty
+ +10 Stress if the character has the Humble trait
+ +35 Stress if the character has the Zealous trait
+ +60 Stress if the character has the Generous trait
+ 100	
+Yes Vows of Poverty tenet
+ Vow of Poverty
+None
+Tradition decisions
+DLC All Under Heaven.png	Available only with the All Under Heaven DLC enabled.
+The following decisions can only be unlocked by certain culture traditions.
+
+Decision	Effect	Cost	Requirements	Cooldown
+Author Book	
+ Create an artifact with the following choices
+Poetry costs 20  Stress and 5 days to create a Artifact trinket.png Trinket that gives  Piety and  Poet experience
+Prose costs 40  Stress and 10%  Stress Gain for 6 months to create a Artifact journal.png Journal that gives  Influence or  Confucian Education experience
+Scholarship costs 80  Stress and 10%  Stress Gain for 1 year to create a Artifact journal.png Journal that gives  Prestige and  Merit
+ Scaled	
+Yes Scholar Officials tradition
+Yes Adult
+ 10 years
+Adopt Confucianism	 Choose a Confucian faith to convert to	 50	
+Yes Scholar Officials tradition
+No Confucianism religion
+ 15 years
+Adopt Taoism	 Choose a Taoist faith to convert to	 50	
+Yes Cultivation tradition
+No Taoism religion
+ 15 years
+Petition the Liege
+Royal Court	Available only with the Royal Court DLC enabled.
+Adult vassals of a character with a royal court will unlock the Petition the Liege decision every 5 years. Characters who are on an activity and ceremonial monarchs cannot use this decision. If the vassal has  Celestial,  Meritocratic or  Meritocratic Khanate government then their Merit Rank must also be at least 7.
+
+The decision costs between 50 and 250  Prestige or  Influence based on the title rank and government type of the vassal taking the decision. It will also give 20  Stress if the character has the  Arrogant or  Shy trait.
+
+The chance for the liege to accept depends on its  Opinion of the vassal, relations with the vassal, the vassal's  Influence and Merit Rank, and whether the vassal is a powerful vassal or part of a powerful family. The Hegemon of China is also less likely to accept petitions. The liege may also demand  Gold, a  Weak Hook, renouncing any hook the vassal has on them, or leaving any faction the vassal is part of. If the liege accepts both dynasties will gain +50  Renown but if the liege refuses their dynasty will lose -50  Renown.
+
+The following options can be selected:
+
+Petition	Effect if petition is accepted	Requirements	Government
+Resettle Subjects	
+ Liege's realm capital loses 2 development
+ Realm capital gains 2 development
+ Realm capital gains -10% Development Growth and -15 Popular Opinion for 5 years
+ Realm capital has less than 66% of the liege's realm capital development	
+
+
+Dismantle Faction	Yes Dismantles or ends a war with a faction	Yes At war with a Claimant or Liberty faction	
+Realm Peace	War outcome white peace.png All wars against fellow vassals end in white peace	Yes At war with a fellow vassal	
+Sponsor Priests	Task conversion.png Every county with a different faith gains +10% Convert Faith in County progress and -15 Popular Opinion for 5 years	
+Yes Any county with a different faith
+Yes Same faith as liege
+
+Send Bailiffs	
+ Every county with less than 66 Control gains 10 Control
+ Every county with less than 66 Control gains +0.3 Monthly Control, -5 Danger and -10 Popular Opinion for 5 years
+ Any county with less than 66 Control	
+Royal Visit	 Every county with less than -25 Popular Opinion gains +25 Popular Opinion for 5 years	 Any county with less than -25 Popular Opinion	
+Fortify Borders	Yes Every county that borders another realm gains +2 Fort Level, +20% Garrison Size and -10 Danger for 5 years	Yes Any county borders another realm	
+Urbanize County	
+Holding city.png Liege begins constructing a City holding in a held county that can build one
+ Chosen county is random but chances are increased if it doesn't have a City holding or has high development
+ Construction can be canceled but will not refund anything
+ Culture has the City Planning innovation
+ Liege's cultures has the City Planning innovation
+Holding city.png A held county that can build a City holding
+ Liege has at least 400 Gold
+
+Underwrite Temple	
+Holding church.png Liege begins constructing a Temple holding in a held county that can build one
+ Chosen county is random but chances are increased if it doesn't have a Temple holding or has high development
+ Construction can be canceled but will not refund anything
+ Culture has the City Planning innovation
+ Liege's cultures has the City Planning innovation
+Holding church.png A held county that can build a Temple holding
+ Liege has at least 400 Gold
+Yes Same faith as liege
+
+Military Assistance	
+Yes Liege joins or lends Levies to an ongoing external war
+ Amount of Levies given ranges from 500 to all of the liege's levies depending on enemy strength
+ Chance for liege to join the war depends on their Boldness and Opinion of both war leaders
+No Liege will not join wars against allies
+Yes At war with a character who is not a fellow vassal
+Yes -25% or less war score
+Yes Liege is at peace
+No Liege is in debt
+
+Settle Debt	
+ Liege pays off all debt
+Yes Liege is more likely to accept if they have a surplus of Gold
+ 100 Gold in debt
+ Liege can afford to pay all debt
+
+Council Appointment	
+Council.png Become appointed on the liege's council for the position best matching current skills
+No Cannot be removed from the liege's council for 5 years
+Yes Liege is more likely to accept if the character has a higher skill than an existing councilor for its position
+Yes Can be on the liege's council
+No On the liege's council
+
+Grant Claim	 Gain the highest-ranked title held by the liege with a claim on except their primary title	Yes Claim on a title held by liege except their primary title or realm capital	
+Transfer Claim	 Gain the highest-ranked title held by a fallow vassal with a claim on	
+Yes Liege's authority law allows revoking titles
+Yes Claim on a title held by a fellow vassal
+
+Gold	
+ Gain Gold that scales with current income
+Yes Liege is more likely to accept if they have a surplus of Gold
+
+Family Council Appointment	
+Council.png The house member with most skills is appointed on the liege's council
+No New councilor cannot be removed from the liege's council for 5 years
+Yes House Head
+Yes House member can be on the liege's council
+
+Court Position	Yes Grants a court position	No Hold a court position	
+Family Court Position	Yes A house member gains a court position	
+Yes House Head
+Yes House member eligible for a court position
+
+Family Governorship Appointment	 Grants a Duchy title to an eligible house member	
+Yes House Head
+Yes An adult house member in the same realm is unlanded
+ Liege has a Duchy title with de jure counties
+No 2 or more fellow vassals belong to the same house
+
+Provincial House Rights	 For 100 years house members gain +250 Candidate Score	Yes Landed	
+House Fief Permission	Yes Establish Sōryō Fief decision is no longer a crime	 Establish Sōryō Fief decision is a crime	
+Struggle decisions
+DLC Legacy of Persia.png	Available only with the Legacy of Persia DLC enabled.
+Struggle decisions are only available to characters who are present within the Iranian Intermezzo region if their head of faith is the Sunni Caliphate and allow them to determine their stance in the struggle. They can only be taken at peace and if the character is a ruler they must be either independent or their liege must use the lowest Crown Authority law. All of them cost 250  Piety and grant 150  Prestige.
+
+Decision	Effect	Requirements	Description
+Announce Opposition to Caliphate	
+ -40 Opinion with every Involved character in the Iranian Intermezzo with the Supporter of Caliphal Authority trait
+ Replace the Supporter of Caliphal Authority trait with Detractor of the Caliphate
+ Gain the Name Read in Friday Prayer modifier for 20 years, giving the following effects:
+ +2 Diplomacy
+ -20% Title Creation Cost
+ +5% Monthly Piety per Powerful Vassal on the Council
+ Supporter of Caliphal Authority trait
+No Allied with Head of Faith
+No Emphasized Submission to Caliph modifier unless Sunni Caliph died
+No Head of Faith
+The Friday Prayer is the most important religious ceremony of the week, ending with a recitation of the realm's spiritual and temporal sovereigns.
+
+By removing the caliph's name from this list, I declare to all the Ummah that I consider myself the foremost master of my domain.
+Become Caliphal Supporter	
+ -40 Opinion with every Involved character in the Iranian Intermezzo with the Detractor of the Caliphate trait
+ Replace the Detractor of the Caliphate trait with Supporter of Caliphal Authority
+ Gain the Emphasized Submission to Caliph modifier for 20 years, giving the following effects:
+ +2 Learning
+ +20 Head of Faith opinion
+ +1 Diplomacy per Level of Devotion
+ Detractor of the Caliphate trait
+No Name Read in Friday Prayer modifier unless Sunni Caliph died
+No Murdered the previous Head of Faith
+The Friday Prayer is the most important religious ceremony of the week, ending with a recitation of the realm's spiritual and temporal sovereigns.
+
+By emphasizing the preeminence of the caliph at the start of this list, I publicly mark myself as a loyal vassal to the hierarch of Sunni orthodoxy.
+Declare Stance in the Iranian Intermezzo	
+ Choice to get one of the following:
+ Supporter of Caliphal Authority trait and Emphasized Submission to Caliph modifier for 20 years
+ Detractor of the Caliphate trait and Name Read in Friday Prayer modifier for 20 years
+ Involved in the Iranian Intermezzo
+No Detractor of the Caliphate trait
+No Supporter of Caliphal Authority trait
+The Friday Prayer is the most important religious ceremony of the week, ending with a recitation of the realm's spiritual and temporal sovereigns.
+
+By altering who is read in the list in my realm, and where they place, I can announce where my true loyalties lie.
+Administrative decisions
+Roads to Power	Available only with the Roads to Power DLC enabled.
+The following decisions are available for characters with  Administrative government, whether they are landed or not.
+
+Decision	Effect	Cost	Requirements	Cooldown
+Change Imperial Aspirations	
+ -1000 Acclamation Succession candidacy score
+ +10% Stress Loss if applying the effect to the character
+Yes House Heads can apply the effect to the house instead
+ -5% Monthly Influence if applying the effect to the house
+Yes Can be canceled at any time
+None	
+Yes Adult
+Yes Realm has Acclamation Succession law
+No Top liege
+None
+Gather Faction Support	
+Factions.png Faction gains 20 Discontent
+ If a civil war starts gain an army of 450 Levies and 200 Light Footmen
+ 300	
+Yes Adult
+Yes At peace
+Yes House Head
+Factions.png Joined a faction
+ 25 years
+Adopt State Faith	
+Yes Convert to the State Faith
+ +250 Influence
+ +500 Piety
+ +30 Vassal Opinion
+ +30 Opinion with the liege if they follow the state faith
+ 100	Yes Faith is different from the State Faith	None
+Foster Integration	
+Modifier administrative positive.png Gain the Integration Promoter modifier for 15 years, giving the following effects:
+Yes Increased Appointment Succession score
+ +0.5 Monthly Influence
+ -25% Domicile Building Construction Time
+Task promote culture.png The country where the estate is located has its culture converted more easily for 10 years
+ +25 Liege Opinion
+ 200	
+Yes Adult
+Yes At peace
+Yes House Head
+ Liege has a different culture from their realm capital
+ 75+ Cultural Acceptance between the two cultures
+ 20 years
+Embrace Heresy	
+ +150 Influence
+ Gain the Heresiarch trait
+Yes Unlocks the Push State Faith Change decision
+Yes Choose to convert to a Hostile faith that's part of the same religion as the state faith and present in at least 3 counties in the realm
+None	
+Yes Adult
+No Top liege
+No Liege is head of faith
+No State faith is Eastern
+ Learning lifestyle
+ 50 years
+Push State Faith Change	Yes If liege agrees the state faith becomes the character's faith	None	
+Yes Adult
+No Top liege
+No Liege is head of faith
+No State faith is Eastern
+ Embrace Heresy
+ 10 years
+Establish Silk Production	Modifier byzantine eagle positive.png House gains the Silk Production Rights modifier	 Scaled	
+Yes House head
+Yes Estate is located in the Byzantine Empire or Roman Empire
+ Emperor or a hook on them and Controlling level of influence
+None
+Estate building decisions
+Roads to PowerDLC All Under Heaven.png	Available only with the Roads to Power DLC or the All Under Heaven DLC enabled.
+The following decisions are unlocked by having a certain building or upgrade in the estate.
+
+Decision	Effect	Cost	Requirements	Cooldown
+Manipulate Grain Market	
+Modifier treat positive.png Gain the Manipulating Grain Market modifier for 10 years, giving the following effects:
+ +0.1 Monthly Gold per Grain Field domicile building level
+ +0.1 Monthly Gold per 10 Control in the country where the estate is located
+ +0.2 Monthly Gold if estate is located in a realm capital
+ +0.5 Monthly Gold if estate is located Farmlands or Floodplains terrain
+ 350	Domicile building storage.png Storage Barn level 4	 20 years
+Hire Agents	
+ Gain the Hired Agents modifier for 15 years, giving the following effects:
+ -2 Days Hostile Scheme Phase Length per Level of Influence
+ +3% Hostile Scheme Potential per Level of Influence
+ +3% Hostile Scheme Growth per Level of Influence
+ 100	
+Yes Adult
+Domicile building servant.png Servant's Quarters level 2 Villa upgrade
+ 15 years
+Bolster Estate Security	
+ Gain the Security Detail modifier for 15 years, giving the following effects:
+ +2 Days Enemy Hostile Scheme Phase Length per Level of Influence
+ -4% Enemy Hostile Scheme Success Chance per Level of Influence
+ 100	
+Yes Adult
+Domicile building guardhouse.png Guardhouse level 3 or Sentry Tower level 3
+ 15 years
+Commission Icon	Artifact trinket.png Creates an Icon artifact	 100	
+Domicile building shrine.png Level 6 Shrine
+Yes Faith has the Monasticism tenet
+ 5 years
+Commission Silk Regalia	Artifact regalia.png Gain a Fine Silk Regalia artifact	 Scaled	Domicile magnanery.png Mulberry Copse level 4	 5 years
+Perform Tea Ceremony	
+ -25 Stress
+ 50% chance to gain Opinion with a character
+ 25% chance a courtier becomes inspired
+ 25% chance to receive one of the following modifiers for 5 years
+Significant Boost to Disease Resistance
++1  Diplomacy and +10  General Opinion
++30%  Renown and +10  Close Family Opinion
+-50%  Stress Gain and +75%  Stress Loss
++50%  Piety and -50% Conversion Cost
+ 50	
+Yes Adult
+Domicile tea plantation.png Tea Plot
+ 5 years
+Nomadic decisions
+Khans of the Steppe	Available only with the Khans of the Steppe DLC enabled.
+The following decisions are available for characters with  Nomadic government, whether they are landed or not.
+
+Decision	Effect	Cost	Requirements	Cooldown
+Consult the Skies	
+ 50% chance to gain one of the chosen modifiers for 5 years
+ Blessed by Tengri
+ Medium Health Boost
+ +20% Stress Loss
+ +15% Herd Gain if culture has Spiritual ethos
+ Loved by Tengri
+ +25% Fertility
+ +15 Attraction Opinion
+ +0.2 Monthly County Fertility if culture has Spiritual ethos
+ Warrior on Tengri
+ +20% Knight Effectiveness
+ -25% Retreat Loses
+ +5% Herd Conversion into Horde Riders if culture has Spiritual ethos
+ 100	
+Yes Adult
+ Stargazer employed
+ Steppe religion
+ 5 years
+Master the Art of Command	
+ Chance to gain a commander trait based on personality traits
+ Vengeful and  Wrathful can gain  Aggressive Attacker
+ Diligent and  Administrator can gain  Organizer
+ Arbitrary can gain  Reckless
+ Greedy can gain  Reaver
+ Paranoid can gain  Cautious Leader
+ Temperate can gain  Logistician
+ Zealous can gain  Faithful Blade
+ Architect can gain  Military Engineer
+ Can pay Gold to increase the chance
+None	
+Yes Adult
+Yes At peace
+Domicile mass warfare yurt.png Square of the Tumen building
+No Conqueror trait
+No Greatest of Khans trait
+No 3 commander traits
+ 10 years
+Summon Wealthy Visitors: Local Offers	
+ A foreign merchant travels to the camp and when it arrives brings the following options:
+Pay 400  Gold to unlock the Commission Artifact decision for 4 years
+Pay 800  Gold to gain the Domicile paiza yurt.png Illustrious Foreign Armor upgrade to the Main Yurt and the  Foreign Armor permanent modifier
+Sell  Herd for  Gold, with the exchange rate depending on the upgrade level of the building
+Gain random  Gold but the decision cooldown is increased to 18-22 years
+ 350	Domicile trade yurt.png Barter Stalls building	 8 years
+Desperate Times	 Every vassal and courtier becomes Obedient	 1500	
+Yes Adult
+Yes Havsarsan Zud season
+ 50 years
+Establish Paiza System	
+ Gain a Paiza artifact
+Yes Can grant Paizas
+ Scaled
+ 750
+ 2000
+Yes Independent
+Yes Nomadic Capital is in the Steppe region
+ Ledger innovation
+Icon gurkhan.png Gurkhan
+Nomad authority 4.png Absolute or Unrestricted dominance law
+ Lifetime
+Peace of the Great Khan	
+ Gain the Peace of the Great Khan permanent modifier
+ Culture discovers a Civic innovation
+Modifier goods positive.png Domain counties in the Steppe region gain the Under the Steppe, Peace modifier for 50 years, giving the following effects:
+ +1 Monthly Control
+ +50% Supply Limit
+ Scaled
+ 750
+Yes Adult
+Yes Nomadic Capital is in the Steppe region
+Nomad legacy track.png Finished the Nomadic dynasty legacy
+Nomad authority 4.png Absolute or Unrestricted dominance law
+ Lifetime
+Conversion decisions
+Nomads have a number of decisions to easily convert the faith and culture of either themselves or their Nomadic Capital. All family members that are in the character's Nomadic Capital and all counties in the character's domain will convert as well.
+
+Decision	Effect	Cost	Requirements
+Adopt Culture Traditions	
+ Convert to the Nomadic Capital's culture
+ +40 Stress if the character has the Arrogant trait
+ 150	
+Yes Adult
+Yes At peace
+No Same culture as the Nomadic Capital
+Blend Traditions	 Creates a hybrid culture with the heritage of the Nomadic Capital's culture	 Scaled	
+Yes Adult
+Yes At peace
+No Same heritage as the Nomadic Capital
+No Culture is a hybrid culture
+No Nomadic Capital's culture is a hybrid culture
+Convert to Faith through your People	
+Yes Convert to the Nomadic Capital's faith
+ +80 Stress if the character has the Zealot trait
+None	
+Yes Adult
+Yes At peace
+No Same faith as the Nomadic Capital
+Spread Faith to your People	
+Yes Nomadic Capital converts to the character's faith
+ +40 Stress if the character has the Cynical trait
+ 250	
+Yes Adult
+Yes At peace
+No Same faith as the Nomadic Capital
+Embrace Tengriism	
+ Convert to Tengriism faith
+ Nomatic Capital converts to Tengriism faith
+ 250	
+Yes Adult
+Yes At peace
+ Mongolic or Turkic heritage for character or Nomadic Capital
+No Steppe religion for character or Nomadic Capital
+Promote Traditions	
+ Nomadic Capital converts to the character's culture
+ +40 Stress if the character has the Humble trait
+ Scaled	
+Yes Adult
+Yes At peace
+ Mongolic, Turkic or Urgo-Permian heritage
+No Same culture as the Nomadic Capital
+Royal court decisions
+Royal Court	Available only with the Royal Court DLC enabled.
+The following decisions are only available to rulers who have a Royal Court.
+
+Decision	Effect	Cost	Requirements	Cooldown
+Find Court Language Linguist	
+Yes Gain a Court Tutor, replacing the existing tutor if one exists:
+An expensive tutor with 10-14  Learning
+An average tutor with 6-10  Learning
+A free tutor with 3-7  Learning, requires the  Greedy trait
+A free tutor with 10-14  Learning and  Scholar trait, requires the  Scholar trait
+Tab intrigue.png Start a Learn Language scheme with the Court Tutor
+None	Yes Age 6 or older
+Yes Culture head exists for a culture with the court language
+No Busy with an activity
+No Court Language is same as own culture's language
+No Any courtier in court that knows the court language
+NoTab intrigue.png Learn Language Learn Language scheme in progress	 2 years
+Order Mass Eviction	
+Yes All Guests leave court
+ -30 Stress if the character has the Shy trait
+ -80 Stress if the character has the Gregarious trait
+Yes If Lodgings amenities is at level 1 can choose to evict all unimportant courtiers at double the prestige cost
+ 350	Yes Any guest
+Icon amenity lodgings.png Level 1-3 Lodgings amenities	 20 years
+Exoticize A Grand Hall	
+ +30 Opinion with a King or Emperor
+ +50 Prestige per Court Grandeur spent
+ -15 Stress if the character has the Architect trait
+ -30 Stress if the character has the Humble trait
+ -80 Stress if the character has the Arrogant trait
+ Scaled
+ Scaled
+Icon amenity lodgings.png Level 5 Lodgings amenities
+Royal court.png Another Royal Court within Diplomatic Range	 10 years
+Escape from Prison
+If a character is in prison, almost all decisions are disabled but the Escape from Prison decision is enabled. The success chance depends on the character's  Prowess against the jailor's  Intrigue. The success chance is decreased if the character has the  Craven,  Weak,  Delicate,  Frail or  Feeble or if the character is in the dungeon. The decision will also give -30  Opinion with the jailor for 10 years.
+
+If the escape attempt fails the character will either get a moderate  Health penalty for 5 years or get wounded.
+
+If a  Friend,  Best Friend or close family member over the age of 10 is imprisoned by the same jailor, taking the decision has a chance to make them escape regardless of whether the character's escape attempt is succesful or not.
+
+Mechanics
+Characters	Characters • Attributes • Traits • Resources • Modifiers • Lifestyle • Family • Dynasty • Schemes • Hooks • Activities • Artifacts • Interactions • Travel • Adventurers • Prisoners
+Realm & Governance	Council • Court • Power sharing • Subjects • Succession • Government • Laws • Decisions • Titles • Barony • County • Buildings • Royal court • Domiciles • Great projects
+Warfare	Warfare • Casus belli • Alliance • Army • Hired forces • Knights • Duel • Situations
+Culture & Faith	Culture • Traditions • Innovations • Form of Address • Faith • Doctrines • Tenets • Holy sites
+Meta	Modding • Patches • Downloadable content • Developer diaries • Achievements • Jargon • Bookmarks • Interesting characters • Ruler Designer • Game rules
+Categories: Potentially outdated1.18Realm
+About CK3 WikiMobile view
+Attribution-ShareAlike 3.0Powered by MediaWiki
+
+Games
+Discover
+Our Brands
+Browse
+Play on Paradox technology
+Community
+Paradox Forums
+Paradox Wikis
+Support
+About
+News
+About us
+Careers
+Join our playtests
+Media contact
+Social Media
+Legal Information
+EU Online Dispute Resolution
+Report Illegal Content
+
+
+Paradox Wikis
+CK3 Wiki
+
+Search
+Search CK3 Wiki
+Log in
+Navigation menu
+PageDiscussion
+ReadEditEdit sourceView history
+Crusader Kings III Wiki
+Recent changes
+Random page
+Paradox Wikis
+- Main portal
+- Wikis discord
+- Contact us
+- Style guidelines
+CK3 links
+- Forums
+- Game discord
+- Mods
+- Store
+- YouTube
+Tools
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+ 
+Ruler decisions
+Jump to navigationJump to search
+Please help with verifying or updating older sections of this article.
+At least some were last verified for version 1.18.
+
+This article is for the PC version of Crusader Kings 3 only.
+
+Nav top.png
+Crusader Kings III
+List of Decisions
+Character decisions
+Ruler decisions
+Roads to Power Adventurer decisions
+The following decisions can only be taken by rulers.
+
+
+Contents
+1	Major decisions
+1.1	Found a new title
+1.2	Adopt government
+1.3	Head of faith recreation
+1.4	Legendary decisions
+1.5	Unique decisions
+1.5.1	Faith reformation
+1.5.2	Unique realm founding decisions
+2	Minor decisions
+2.1	Perk decisions
+2.2	Royal court decisions
+3	Roman decisions
+4	Courtier decisions
+5	Struggle decisions
+Major decisions
+Major decisions leave a permanent mark on the world and notify all rulers which may be affected by the decision.
+
+Decision	Effect	Cost	Requirements	Cooldown
+Relocate De Jure Capital	
+ Makes the held county the de jure capital
+ Duchy title  500
+ Kingdom title  750
+ Empire title  1000
+Yes Adult
+Yes At peace
+ Duchy or higher title
+10 years
+Expand Duchy	
+ County title becomes de jure part of duchy title
+ 1000
+Yes Adult
+Yes Independent
+Yes At peace
+Yes At least one of these:
+ Illustrious
+ Legitimacy Level >= 4
+ County is the de jure capital of the duchy
+ Duchy has fewer than 4 de jure counties
+ County held for 5 years
+Rules.png Custom Duchies are enabled in game rules
+10 years
+Adopt Special Succession Type	
+ Changes the title succession of all top rank titles to the one specific to the character's culture
+ +30 opinion with vassals of the same culture for 30 years
+ 300	
+Yes King or emperor
+ Culture meets one of these requirements:
+ The Witengamot tradition
+ North Germanic heritage
+ Goidelic heritage
+Yes Year is earlier than 1100
+No Succession type is Seniority, Primogenture, Ultimogeniture, or elective
+Challenge the Ruler	
+If victorious, take the claimed title and lose  −50 opinion with the former liege for 12 years
+If defeated, lose  −30 opinion with the former liege for 12 years and a level of fame
+Defeated character becomes  Wounded
+or  Severely Injured if they were already Wounded
+or  Brutally Mauled if they were already Severely Injured
+or killed if they were already Brutally Mauled
+None	
+Yes Adult
+Yes Tribal government
+ Vassal
+ Claim on the liege's title
+ Characters have the same gender or faith has the Equal doctrine
+Yes Liege is adult
+ Can only be tried once every 10 years
+Consecrate Bloodline	
+ +500 Renown if Spiritual or no Head of Faith
+ +1000 Renown if Temporal Head of Faith
+Gain 1 Level of Splendor if Temporal Head of Faith
+ +25% Fervor
+ Gain the Paragon trait if not head of faith
+ Gain The Savior trait if head of faith
+ +100 Stress if character is  Content
+ +100 Stress if character is  Humble
+ 2500	
+Yes At least 3 titles above county rank (e.g. 3 Duchies; 2 Duchies + 1 Kingdom)
+Yes Faith is organized
+Yes Control a holy site
+ Religious Icon
+ green with head of faith if one exists
+ Can only be done once per faith
+No  Autonomous Vassals
+No  Sayyid
+No  Saoshyant
+No  Saoshyant Descendant
+No  Consecrated Blood
+No  Divine Blood
+No Has taken "Become the Saoshyant" decision
+No Has consecrated bloodline under another faith
+No Spiritual Head of Faith
+Strengthen Bloodline	
+ Dynasty gains the Strong Blood permanent modifier, giving the following:
+ +0.25 Health
++40% chance of inheriting good congenital traits
++400% chance of new good congenital traits
+None	
+Yes Dynasty head
+No Negative congenital traits
+Yes ,  or 
+Yes One positive manifestation of each of the congential traits above
+Dynasty of Many Crowns	
+ +1000 Renown
+ Dynasty gains the Dynasty of Many Crowns permanent modifier, giving:
+ +2 stewardship
+ +20% Monthly prestige
+ +10% Levy size
+ +5 Direct vassal opinion
+Yes 10 dynasty members are independent kings or emperors
+Found Holy Order	
+ +10% Fervor
+ +30 opinion with head of faith for 20 years
+Holy order government.png Creates a holy order in the selected city and become its patron
+ Gain the Founded Holy Order modifier for 5 years, giving the following effects:
+ +0.5 Monthly piety
+ +10 Same faith opinion
+ 500
+ 1000
+Yes Adult
+Yes At peace
+Yes King or emperor
+Yes At least one castle or city holding other than the realm capital
+ At least +60 opinion with the head of faith if one exists
+ Devoted Servant
+No Already patron of a holy order
+No Faith has Immaterial Harmony Special Doctrine
+
+Take Stewardship of the Sacred River	
+ +1 Level of devotion
+ Gain the Steward of the Sacred River modifier
+ If another character has the Steward of the Sacred River modifier, it is removed and they get  −40 opinion
+ Gain the Lord of the Ganges nickname
+ 350
+ Scaled
+Yes Adult
+Yes Duke or higher
+Yes Control the region of Ganges Plain
+Yes Realm capital is in the region of Ganges Plain
+ Hinduism religion
+ Illustrious
+ Dutiful
+Accuse the Krstjani of Heresy	
+If the head of faith refuses, lose  30 opinion with them and cannot take the decision for 30 years
+If the head of faith agrees, gain  30 opinion with them and the Krstjani faith loses the  Ecumenism doctrine
+The head of faith always agrees if the character has a  strong hook on them
+ 250	
+Yes Adult
+Yes Independent
+Yes Duke or higher
+Yes Feudal or clan government
+Yes Faith has a head
+ Character's faith has the Ecumenism doctrine
+ Krstjani faith has the Ecumenism doctrine
+ Devoted Servant
+ A neighboring duke of at least 8 realm size practices Krstjani
+No  Excommunicated
+Dismantle the Papacy	
+ +500 Piety
+ +50% Fervor
+ Catholicism:  −100% Fervor
+ Catholicism loses the Ecumenism doctrine
+Yes The Pope suffers a humiliating fate:
+If faith has Human Sacrifices or Grusome Festivals tenet, the former Pope is sacrificed
+If faith is Greco-Roman, the former Pope is executed via crucifixion
+Otherwise, the former Pope converts to the character's faith
+ Destroy the Papacy title
+Lose -40  opinion with non-cynical Catholic characters
+None	
+Yes Adult
+Yes Independent
+Yes King or emperor
+Yes Control the region of Italia
+Yes Realm capital is in the region of North Africa, Europe or Middle East
+No The pope is landed
+Restore Pope in Rome	
+ +1000 Piety
+County of Rome is transferred to the Papacy
+Gain  +40 opinion with the Pope for 40 years
+None	
+Yes Adult
+Yes Independent
+Yes King or emperor
+ Catholic faith
+The Papacy exists and does not control Rome
+ The County of Roma is in realm
+No Did not previously conquer or revoke titles from Pope
+No Roman Emperor
+No The County of Roma is the realm capital
+Establish the Yamagate in Samarkand	
+ 1000 piety
+The Yamag of Manichean:
+Gets the  County of Samarkand and makes it their capital
+Becomes a vassal
+ 40 opinion
+None	
+Yes Independent king or emperor
+Yes Is  Manichean
+Yes The  Manichean Yamag exists
+ County of Samarkand:
+YesOwned or owned by vassal
+NoMust not be the realm capital
+NoMust not be already held by the Manichean Yamagate
+NoMust not have been previously revoked or conquered from the Yamagate
+Embrace Outremer Culture	
+ Change culture to the top liege's hybrid culture
+ Courtiers of the same dynasty and old culture change to the new culture
+ Realm capital changes to the new culture
+ Domain counties in the region of Middle-East changes to the new culture
+None	
+ Character or liege follows a Christian faith
+Yes Realm capital is in the region of Africa, Middle-East or Persia
+Yes Different culture than top-level liege
+Yes Top-level Liege's culture was hybridized from a culture with Arabic heritage
+ Top-level Liege is the Emperor of Outremer
+No Roman culture
+No Hybrid culture descended from a culture with Arabic heritage
+Reclaim Constantinople	
+ Barony of Constantinople becomes realm capital
+None	
+Yes Adult
+ Byzantine Emperor
+ Count of Byzantion or their liege
+Reclaim Rome	
+ Barony of Rome becomes realm capital
+None	
+Yes Adult
+ Roman Emperor
+ Count of Rome or their liege
+Secede from Empire	
+Yes Become independent
+Yes Liege loses amount of debt proportionate to seceding realm
+None	
+Yes Direct vassal of an  Emperor
+Yes One of:
+YesLiege is over 25 years in debt
+YesLiege has engaged an offensive war as primary attacker for over 25 years
+Raise a Runestone (Northern Lords)	
+ +250 Piety
+ +350 Prestige
+ +10 Opinion with vassals of a runestone culture (North Germanic cultures whose era is Tribal or Early Medieval)
+A county gains a runestone modifier depending on the runestone reason:
+ Dead ancestor: County gains the Ancestral Runestone modifier (+20 Popular Opinion)
+ Conquered a county: County gains the Conquest Runestone modifier (+0.5/month Control Growth)
+ Rank promotion: County gains the Clout Runestone modifier (+10% Levy Size)
+ 50	
+DLC Northern Lords.png Northern Lords DLC
+ North Germanic culture group or Embraced Local Traditions character modifier
+ Tribal or Early Medieval Era
+Yes Has at least one valid reason:
+ Dead ancestor
+ Conquered a county
+ Rank promotion
+ Landed count or higher rank
+Yes Adult
+No At war
+ 10 years
+Convene Council of Toledo	
+ +10 Fervor for Mozarabic faith
+Begins "Council of Toledo" event chain
+ 100
+ 250
+DLC Fate of Iberia.png Fate of Iberia DLC
+Yes Mozarabic faith
+Yes At peace
+Yes At least 3 powerful vassals follow the Mozarabic faith
+Yes Realm size 20 or larger
+ 25 years
+Embrace the Hebrew Language	
+ Culture of Character changes language to Hebrew
+Every character of culture has a chance to reject the change and join a new divergent culture with the original language.
+ 750	
+Yes Cultural head
+No Culture has Hebrew language
+ Judaism religion
+Yes Capable adult
+No Imprisoned
+Yes Independent king or emperor
+Yes At least 10 counties of character's culture follows  Judaism religion
+Yes Has the title  Kingdom of Israel or  Kingdom of Bene-Israel
+Yes Head of Faith exists
+Attempt to Overthrow Liege	Begin event chain to attempt to usurp liege's primary title and, if held, de jure capital county and duchy. Choose to use Intrigue, Diplomacy or Prowess.	
+ Scaling up to 1500
+ 1000
+Costs reduced by 90% if groundwork for a coup has already been laid via yearly pulse event
+Yes Capable Adult
+No Traveling or engaged in activity
+Yes Sharing power with Liege
+Yes One of:
+Viziarate with:
+Scales of Power at 90+
+At least  Exalted Among Men
+If same House as liege, House Unity is at Antagonistic
+Entrenched Regency with:
+Scales of Power at 95+
+Liege is:
+No Imprisoned
+No Traveling
+No At war
+No Engaged in an activity
+Yes Is at least 5 years old
+Yes Support of majority of liege's Powerful Vassals (via Invite Conspirators to Coup borrowed power)
+Yes One of:
+Liege has been Sharing Power with you for at least 8 years
+Both of:
+Liege has been Sharing Power with you for at least 4 years
+Liege has been sharing power for at least 10 years.
+Yes Liege's realm is at least size 12
+Find a New Faith for Persia	
+Choose to adopt one of the following faiths:
+ Imami
+ Alevi
+ Nizari
+ Zayidi
+ Maturidi
+ Mu'tazili
+ Azariqa
+ Behafaridism
+ Chosen faith gains  15 Fervor
+Capital County gains Influx of Religious Settlers for 15 years
+ +0.2 Development growth
+ +15 Popular Opinion
+ +10% taxes
+ +10% Levies
+ 250	
+No Taken this decision in the last 30 years
+Yes Part of the Iranian Intermezzo struggle
+Yes Landed
+ Islam religion
+Yes Detractor of the Caliphate trait
+Isolate Capital/End Capital Isolation	
+ Isolate Capital
+ -20 Legitimacy
+ Your Realm Capital gains the Isolated Capital modifier for 15 years giving the following:
+ -0.3 Monthly Control Decline
+ +40 Plague Resistance
+ End Capital Isolation
+ Your Realm Capital loses the Isolated Capital modifier
+None	 You must have a plague in your realm or your liege's realm	1 year
+Enter Seclusion/Emerge From Seclusion	
+ Enter Seclusion
+ Every Close Family Member at Court including yourself gains the Secluded modifier for 5 years giving the following:
+ -75% Chance of Infection
+ -3 Diplomacy
+ -50% Monthly Prestige
+ -20% Legitimacy Loss
+ -20 Courtly Vassal Opinion
+ -20 Glory Hound Vassal Opinion
+ Choosing to Travel at any point during your isolation will end your isolation
+ Emerge From Seclusion
+ Every Close Family Member at Court including yourself loses the Secluded modifier
+None	 You must have a plague in your realm or your liege's realm	1 year
+Pay Homage	
+Yes Travels to liege's royal court to pay homage
+Can offer a gift for increased rewards and acceptance chance:
+ Gold
+ Weak Hook
+ Increased contract obligations
+ Renown based on current era and gift
+Yes Possible effects depending on the outcome and gift:
+ Prestige gain or loss
+ Legitimacy gain or loss
+ 25 to 200	
+Royal Court Royal Court DLC
+No Independent
+Yes Feudal or Clan government
+Yes Both characters are adults
+No Has paid homage to current liege
+Become Adventurer	
+Yes Abandon landed titles to heir and establish an Adventurer Camp
+ Prestige gets reduced to 100 max
+ Lose 3 levels of fame
+ +150 Prestige
+Gain the Voluntary Adventurer modifier for 5 years
+Very likely to be permanently exiled by the top level ruler of the lands you just left
+Inactive legend seeds are lost, ownership of actively promoted legend seeds are lost, but can be reclaimed.
+None	
+Roads to PowerRoads to Power DLC
+NoHouse Head of a Noble Family
+NoLandless Ruler
+NoHead of Faith
+Yes  Count or  Duke
+Yes Domain size is 3 counties or fewer
+YesOne of the following
+Culture has the Swords For Hire, Horse Lords, Futuwaa, Audacious Cadets, Hirds, Caravaneers, Diasporic, or Coastal Warriors Tradition
+YesFaith has the Struggle and Submission, Fedayeen, Mendicant Preachers, Vows of Poverty, or Asceticism Tenent
+YesHas the correct gender to be a combatant.
+Found a new title
+The following decisions will create a new higher title. Only independent adult rulers who are at peace can take these decisions. The new title will initially be named after the previous primary title.
+
+Decision	De jure integration	DLC Legends of the Dead.png Legend seed	Cost	Requirements
+Found a New Duchy	Only primary title county	No	
+ 150
+ 250
+ 200
+Yes At least one of these:
+ Illustrious
+ True
+Rules.png Custom Duchies are enabled in game rules
+Found a New Kingdom	All titles	No	
+ 300
+ 500
+ 200
+Yes 30 realm size or at least 3 duchy titles
+ Illustrious
+Rules.png Custom Kingdoms are enabled in game rules
+Found a New Empire	All titles	Yes	
+ 1200
+ 2000
+ 600
+Yes 120 Realm size or at least 3 kingdom titles and 80 realm size
+ Exalted Among Men
+No Involved or Interloper in the Iberian Struggle
+Rules.png Custom Kingdoms are enabled in game rules
+Adopt government
+The following decisions will change the realm government. All vassals will also embrace the new government and all holdings will be converted.
+
+Decision	Current government	New government	DLC Legends of the Dead.png Legend seed	Cost	Requirements	Description
+Adopt Feudal Ways through Liege	 Tribal	 Feudal	No	 150	
+Yes Faith is organized
+Yes Liege with feudal government
+No Disparate Tribes
+As my realm grows, so does the challenge to control it. My liege already follows the Feudal system; I could ask their help in restructuring my realm along similar lines.
+Adopt Clan Ways through Liege	 Tribal	 Clan	No	 150	
+Yes Faith is organized
+Yes Liege with clan government
+No Disparate Tribes
+As my realm grows, so does the challenge to control it. My liege already follows the Clan system; I could ask their help in restructuring my realm along similar lines.
+Adopt Feudal Ways	 Tribal	 Feudal	Yes	 200	
+Yes Faith is organized
+ 70% Tribal Era innovations
+ 5 or more development in the realm capital
+ Absolute Tribal Authority
+ Distinguished
+No Liege with feudal or clan government
+No Islam religion
+For our realm to keep expanding and developing we must leave the old ways behind and adopt a new method of governance, together.
+Adopt Feudal Ways (West African Pagan)	 Tribal	 Feudal	No	 500	
+Yes One of the following:
+ Akan Religion
+ Mandé Religion
+ Hausa Religion
+ Yoruba Religion
+ Senegambian Religion
+Yes Faith is Unreformed
+ Absolute Tribal Authority
+Yes At least four of the following:
+Yes Realm size at least 12
+Yes Highest held title is at least Kingdom rank
+Yes Have at least 6 vassals with a rank of Count or higher
+ Illustrious
+ Devoted Servant
+Yes Capital is in Western Africa region and has at least 10 development
+ 70% Tribal Era innovations
+Good governance is a simple matter of scale. A town may only need elders, but an empire necessitates administrators — our people know this, and we can leverage the learned folk amongst them to provide such.
+Adopt Clan Ways	 Tribal	 Clan	Yes	 200	
+Yes Faith is organized
+ 70% Tribal Era innovations
+ 5 or more development in the realm capital
+ Absolute Tribal Authority
+ Distinguished
+No Liege with feudal or clan government
+ Islam religion
+For our realm to keep expanding and developing we must leave the old ways behind and adopt a new method of governance, together.
+Embrace Tribalism	
+ Feudal
+ Clan
+ Tribal	No	 150	 All Holdings are Tribe	How can I call myself a lord when it doesn't mean anything for my people? If I cannot convert them, there is only one alternative: I need to adopt them.
+Adopt Centralized Administration	
+ Feudal
+ Clan
+ Administrative	No	
+ Scaled
+ 1500
+Roads to Power Roads to Power DLC
+ Emperor
+ Illustrious
+Yes 75+ Realm Size
+ 50+ Opinion with all powerful vassals
+A realm as large as this one will never be efficiently governed without an administration of able bureaucrats, centered around our beautiful capital.
+Head of faith recreation
+Head of faith decisions are used to create a head of faith title. They are only available if the character's faith has a head of faith but the title is currently destroyed. All of them are free if the conditions are met and will grant +250  Piety.
+
+Decision	Faith	Effect	Requirements
+Establish Iconoclast Patriarchate	 Iconoclasm	
+ Iconoclasm:  +15% Fervor
+ Orthodoxy:  −30% fervor
+ Iconoclasm faith gains the Ecumenism doctrine
+ Orthodoxy faith loses the Ecumenism doctrine
+ The Iconoclast Patriarchate replaces the Ecumenical Patriarchate
+Yes Adult
+Yes Independent
+Yes King or emperor
+ Own the county of Constantinople
+ Faithful level of devotion
+ Kingdom or Empire title rank
+Restore Ecumenical Patriarchate	 Orthodoxy	
+ Orthodoxy:  +15% Fervor
+ Iconoclasm:  −30% fervor
+ Orthodoxy faith gains the Ecumenism doctrine
+ Iconoclasm faith loses the Ecumenism doctrine
+ The Ecumenical Patriarchate replaces the Iconoclast Patriarchate
+Yes Adult
+Yes Independent
+Yes King or emperor
+ Own the County of Constantinople
+ Faithful level of devotion
+ Kingdom or Empire title rank
+Restore the Ash'ari Caliphate	 Ash'ari	
+ +15% Fervor
+ Gain the Sunni Caliphate title
+Yes Adult
+Yes Independent
+ Kingdom or Empire title rank
+ Own the County of Mecca
+Yes Control Medina, Oultrejourdain, Palestine and Shammar
+ Devoted Servant level of devotion
+Restore the Papacy	 Catholicism	
+ +15% Fervor
+ Court Chaplain gains the Papacy, County of Rome, Duchy of Latium and Duchy of Spoleto titles
+ Catholicism gains the Ecumenism doctrine
+ If Emperor, vassalize the pope
+Yes Adult
+Yes Independent
+Yes King or emperor
+ Devoted Servant level of devotion
+ Kingdom or Empire title rank
+ Own the County of Roma
+Yes Control Ancona, Latium, Romagna and Spoleto
+Restore the Faith High Priesthood	 Any Jewish except Samaritanism	
+ +350 Prestige
+ +100% Fervor
+ A random character becomes head of faith and vassal
+DLC Legends of the Dead.png Gain the The Prophecy Fulfilled legend seed
+Yes Adult
+Yes Independent
+Yes At peace
+Yes Control at least 3 holy sites
+ Faithful level of devotion
+Restore the Magi	 Any historical Zoroastrian	
+ +350 Prestige
+ +10% Fervor
+ A random character becomes head of faith and vassal
+DLC Legends of the Dead.png Gain the A New Priesthood legend seed
+Yes Adult
+Yes Independent
+Yes At peace
+Yes Control at least 3 holy sites
+ Devoted Servant level of devotion
+Legendary decisions
+DLC Legends of the Dead.png	Available only with the Legends of the Dead DLC enabled.
+The following decisions are only available to rulers who have completed a legend. None of them have any cost but they can only be used again if another legend is completed.
+
+Decision	Effect	Requirements
+Legend	Quality	Other
+Clear Grounds for a Legendary Building	
+Yes Realm capital or nearest domain barony gains a special building slot
+Yes Choose a legendary building for the special building slot:
+Building legendary palace.png Legendary Palace requires completing a  Legitimizing legend
+Building legendary shrine.png Legendary Shrine requires completing a  Holy legend
+Building legendary statue.png Legendary Statue requires completing a  Heroic legend
+Building legendary watchtower.png Legendary Watchtower requires completing a  Legend after finishing the Heroic bloodline legacy track.png Heroic Bloodline dynasty legacy
+Yes Any		
+Yes Domain barony without a special building slot
+Expand the Kingdom	
+ Choose a duchy to become part of the primary title empire
+ Legitimizing		
+Yes One of the following
+ Holding a Duchy title not de jure part of the primary title
+ There is a Duchy de jure drifting into the primary title
+Consolidate the Kingdom	
+ Choose a kingdom to become part of the primary title empire
+ Legitimizing		
+Yes One of the following
+ Holding a Kingdom title not de jure part of the primary title
+ There is a Kingdom de jure drifting into the primary title
+Launch a Legendary Adventure	
+Yes Unlock the Legendary Adventure casus belli
+ Gain the Adventuring Spirit modifier for 5 years, giving the following effects:
+ -25% Men-at-Arms Maintenance
+Yes +100% Diplomatic Range
+ Heroic		
+Demand Local Submission	
+Yes Unlock the Demand Fealty casus belli for 15 years
+ Gain the Fealty Demanded modifier for 15 years, giving the following effects:
+ +2 Martial
+ -25% Men-at-Arms Maintenance
+ -5 General Opinion
+ Heroic		
+Evangelize to the Realm	
+ 50% Chance for every realm county to convert to the character's faith
+ Holy		
+Yes Any realm county with a different faith
+Reassert the Holy Mission	
+Yes Gain an additional use of the Holy War for Kingdom casus belli
+ Holy		
+No Faith has the Pacifism or Dharmic Pacifism tenet
+Evangelize Pacifism	
+ 77% Chance for every neighbor to convert to the character's faith
+Chance is increased or decreased by 0.2% for every point of  Opinion
+Heads of faith will never convert
+ Holy		
+Yes Faith has the Pacifism or Dharmic Pacifism tenet
+Yes Any neighbor of different faith
+Unique decisions
+The following major decisions can only be taken once per game, regardless of character.
+
+Decision	Effect	Cost	Requirements
+Avenge the Battle of Tours	
+ +750 Prestige
+ +500 Piety
+ +25% Fervor
+ Catholicism:  −25% fervor
+ 33% chance for each vassal or county in Western Europe to convert to the character's faith
+ All kingdom titles in Southern Francia region become de jure part of Empire of Hispania
+ Gain the Avenger nickname
+ Gain Avenger of the Martyrs modifier
+None	
+ Islam religion
+Yes Control the regions of Iberia and Southern Francia
+Yes Realm capital is near the regions of Iberia and Southern Francia
+Become the Saoshyant	
+ +15% Fervor
+ Gain the Saoshyant trait
+ Descendants gain the Saoshyant Descendant trait
+ 35% chance for each courtier to convert to the character's faith
+ Dynasty gains the Saoshyant Resurgent modifier for 25 years, giving the following effects:
+ +15% Monthly prestige
+ +15% Monthly piety
+ +25 Same faith opinion
+ Gain the Saoshyant nickname
+None	
+Yes Adult
+Yes At peace
+ Emperor of Persia and fully controls all its de jure territory
+ Zoroastrianism religion
+ Paragon of Virtue
+Build a Glass Monument	
+Building generic house.png Creates a Glass Monument building in the realm capital
+ Gain the Man of Glass nickname
+ 150
+ Scaled
+Yes Adult
+ Lunatic trait event
+ Distinguished
+ Defenders of Dievas
+ Defenders of Rod
+ Defenders of Ukko
+Building hall of heroes.png Creates a Hall of Heroes on an owned holy site
+Yes Gain a building slot on a holy site you hold
+ Gain the Defender of the Faith modifier
+ Gain the Holy Warrior trait
+ Other warriors of the same faith in the realm may gain the Holy Warrior trait
+ +25% Fervor
+None	
+ Baltic,  Slavic, or  Finno-Ugric religion
+The name and other texts of this decision vary by religion, but are otherwise identical.
+Yes Hold any holy site
+ Devoted Servant
+Yes At least 3/4/5 powerful vassals (count or duke/king/emperor) have at least  +60 opinion of you
+ Can only be done once per faith
+ Disabled for non Baltic, Slavic or Finnish Pagan faiths.
+Dismantle Greek Pretenders	
+ Start a war against the Byzantine Empire that cannot end in White Peace
+ 2000	
+Yes Adult
+Yes Independent
+Yes At peace
+ Holy Roman Emperor or Roman Emperor
+Yes Another character is Byzantine Emperor
+Yes Control the region of Italia
+Yes Control Achaia, Athens, Cephalonia, Dyrrachion and Epirus
+ The Living Legend
+ One of the following cultures:
+ Any culture in the Central Germanic group
+ Frankish, Central German or Latin heritage
+Empower the Sicilian Parliament	
+Choice of setting parliament in Palermo or Naples, which becomes the Realm Capital
+Building generic house.png Realm Capital gains a new building slot to construct the Parliament building
+ Gain the next level of Crown Authority Law
+ De jure counties in the realm capital duchy gain the Parliamentary Bureaucracy modifier for 150 years, giving:
+ −5% Building construction time
+ −5% Building construction cost
+ +10% Monthly development
+Gain a new nickname:
+"the Stupor Mundi" if Holy Roman Emperor and completely control the Kingdom of Sicily
+"the Lawgiver" otherwise
+Yes If the Kingdom of Sicily is not completely controlled:
+ Destroys the Kingdom of Sicily
+ Duchy of Sicily becomes de jure part of Kingdom of Trinacria
+Duchy of Beneveto becomes de jure part of Kingdom of Naples
+Duchy of Capua becomes de jure part of Kingdom of Naples
+Duchy of Apulia becomes de jure part of Kingdom of Naples
+Duchy of Salerno becomes de jure part of Kingdom of Naples
+Duchy of Calabria becomes de jure part of Kingdom of Naples
+YesReceive the Kingdom of Trinacria if capital is Palermo, or Kingdom of Naples if capital is Naples
+ 1500	
+Yes Adult
+Yes Independent
+Yes At peace
+Yes Feudal or Clan government
+ At least 10 learning
+ Illustrious
+ Latin heritage
+ King of Naples, King of Sicily or King of Trinacria
+Yes Completely control either the Duchy of Capua or Duchy of Sicily
+Yes Realm capital is in the Kingdom of Sicily
+No  Autonomous Vassals
+Embrace English Culture	
+ +150 Prestige
+ Change culture to English
+ Family members change culture to English
+ Every owned county de jure in Kingdom of England has a 40% chance to change culture to English
+ English culture gains several Norman and Anglo-Saxon culture innovations
+None	
+Yes Adult
+ King of England
+Yes Realm capital is in Kingdom of England
+ Culture has Frankish heritage
+Establish Norman Culture	
+ Change culture to Norman
+ Norse and French culture characters in the Northern France region change culture to Norman
+ Culture gains all innovations discovered by the Norse and French cultures
+Yes Duchy of Neustria is renamed Duchy of Normandy
+None	
+Yes At peace
+Yes Own and fully control the Duchy of Neustria
+ Norse culture
+ At least one county de jure part of Duchy of Neustria has French culture
+No  Norman culture exists
+Forge the Jomsvikings	
+ +10 Fervor
+Yes Create a holy order and become its patron
+ Realm capital gains an army, inheritable on succession, consisting of:
+ 500 levies
+ 400 Jomsviking Pirates
+ 400 Bondi
+ 200 Varangian Veterans
+ Gain the Founded Holy Order modifier for 5 years, giving the following effects:
+ +0.5 Monthly piety
+ +10 Same faith opinion
+ −100 Stress if  Zealous
+ +35 Stress if  Cynical
+ 1000
+ 500
+DLC Northern Lords.png Northern Lords DLC
+Yes Adult
+ Ásatrú faith
+ Illustrious
+ Devoted Servant
+Yes Control a coastal county in the region of Southern and Eastern Baltic Coast
+Found the Capital of the Rus'	
+ Player may choose to make Kiev their capital, if owned
+ Realm capital becomes the de jure capital of the Empire of Russia, even if it doesn't exist yet
+ +100 Control in realm capital
+ Realm capital gains the “A Growing Capital” modifier for 20 years, giving the following effects:
+ +50 Popular opinion
+ Realm capital gains the “Varangian Capital” modifier for 100 years, giving the following effects:
+ +50% Levy size
+ +50% Holding taxes
+ +1.0 development per month
+ Realm capital becomes 5 development if below 5
+ Realm capital becomes 8 development if above 5 and below 8
+ Realm capital becomes 12 development if above 8 and below 12
+ 100
+ 500
+DLC Northern Lords.png Northern Lords DLC
+ North Germanic heritage, Norman culture, or is settled Norse for less than 80 years
+ Exalted Among Men if Kiev is not owned
+ Illustrious if Kiev is owned
+Yes Realm capital is in the Empire of Russia
+Yes Game start date is before 1066
+Yes Year is earlier than 1100
+France as One OR Aquitaine as One	
+ +300 Legitimacy
+ +250 Renown
+ +20 Opinion with vassals de jure part of primary title
+ -25 Cultural Acceptance with other cultures in de jure of opposite Kingdom title
+ All Duchies de jure part of opposite Kingdom title become de jure part of primary title
+ Destroy the opposite Kingdom title
+ 1000
+ Illustrious
+ Frankish heritage
+ Kingdom of France or Kingdom of Aquitaine is primary title
+Yes Hold the opposite Kingdom title
+Yes Game start date is 867
+Inspire Opus Francigenum	
+ Gain the next level of Crown Authority Law
+ Capitals of the required duchies gain the Flourishing Culture modifier for 150 years, giving the following effects:
+ −10% Building construction time
+ −10% Building construction cost
+ −10% Building construction prestige cost
+ +10% Monthly development
+ Enables possibility to unlock the Peerage regional innovation from the High Medieval Era
+ 3000
+ 500
+Yes Adult
+Yes At peace
+Yes Feudal government
+Yes King or emperor
+ At least 10 learning
+ Exalted Among Men
+ Knighthood, Royal Prerogative and Windmills innovations
+Yes Emperor of Francia, King of France or King of Burgundy
+Yes Control one of the following:
+Yes Duchy of Orleans and Duchy of Valois
+Yes Duchy of Provence and Duchy of Toulouse
+ Culture has Frankish or Latin heritage
+No  Italian culture
+No  Autonomous Vassals
+Mend the Great Schism	
+ +25% Fervor
+ −25% Fervor for all other Christian faiths
+ Faith gains Ecumenism if it did not already have it
+ All other Christian faiths lose the Ecumenism doctrine
+ 80% chance for each character of a different Christian faith to convert to the character's faith
+All  Cynical characters will convert and all  Zealous characters will refuse
+ Gain the Ecumenist nickname
+None	
+Yes Adult
+Yes Independent
+Yes Emperor
+ Christian religion
+ Religious Icon
+Yes Completely control the counties of Alexandria, Antiocheia, Constantinople, Jerusalem and Roma
+Prepare to Cross the Carpathians	
+ Gain the Migrate to Pannonia casus belli
+ 1000	
+Yes Adult
+Yes At peace
+Yes Tribal government
+Yes Year is 910 or earlier
+ Mogyër culture
+ Liege is Mogyër if not independent
+No Owns 12 or more county titles de jure in Kingdom of Pannonia
+No Emperor
+NoRules.png Immediate Hungarian Migration game rule
+Promote Christian Settlements	
+Every Magyar county de jure part of Kingdom on Hungary:
+ Changes culture to Hungarian
+ Gains 1 development if below 5
+ May convert to a Christian faith
+ Gains the Christian Settlers modifier for 100 years:
+ +10% Monthly Development
+ -10% Building construction time
+ -10 Popular opinion
+ 2000
+ 500
+Yes Adult
+Yes Independent
+Yes At peace
+ Magyar culture group
+ Realm capital has a Magyar culture
+ Faith has the Ecumenism doctrine
+ At least 2 neighbouring independent rulers are Christian
+Yes King of Hungary or Emperor of Carpathia
+No Revive Táltosism decision
+Yes Game start date is before 1066
+Rebuke Roman Revanchism for Sicily	
+ +1000 Fame
+Choose one of the following:
+ Kingdom of Sicily becomes de jure part of Empire of Italia
+ Kingdom of Sicily becomes de jure part of Empire of Maghreb
+ If  Emperor Kingdom of Sicily becomes de jure part of primary title
+ -80 Opinion with the Byzantine Emperor
+ 1000
+Yes Independent
+ Illustrious
+One of the following:
+Yes Hold at least 10 Counties within  Kingdom of Sicily AND No Byzantine Emperor holds any County within Kingdom of Sicily
+Yes Hold at least 13 Counties within  Kingdom of Sicily
+Yes  Kingdom of Sicily held by you, or does not exist
+One of the following:
+No The  Byzantine Empire exists
+No Re-Establish the Theodosian Borders
+No Byzantine Emperor controls more than 4 Counties within Region of Italia
+Reclaim Britannia	
+ All counties in the region of Britannia gain the Reclaimed Britannia modifier for 10 years, giving the following effects:
+ +75 Promote Celtic culture speed
+ Gain the Tuatha Dé Danann nickname if Goidelic culture group or Pendragon if Brythonic culture group
+None	
+Yes Adult
+Yes At peace
+ Brythonic or Goidelic heritage
+ All powerful vassals belong to a culture with Brythonic or Goidelic heritage
+Yes Control the region of Britannia
+Reinstate the Grain Dole	
+(unrecognized string “chariot race” for Template:Icon) May host a Chariot Race activity for half the cost
+ Every county in the region of Aegyptus with Granaries gains Granary of New Rome modifier for 25 years, giving the following effects:
+ +20% Holding Taxes
+(unrecognized string “treat positive” for Template:Icon) County of Byzantion gains Panem et Circenses modifier for 25 years, giving the following effects:
+ +5% Development Growth per Granaries in Aegyptus up to 10 Granaries
+ +10 Popular Opnion per Granaries in Aegyptus up to 10 Granaries
+ +3 Plague Resistance per Granaries in Aegyptus up to 10 Granaries
+ +100 Legitimacy
+ +2250 Prestige
+ +450 Influence
+ 1500 Gold	
+Roads to Power Roads to Power DLC
+ Byzantine Emperor
+Yes Administrative government
+Yes Capital is the County of Byzantion
+Yes Completely controls the region of Aegyptus:
+Yes 3 counties with Granaries (level 5 Farms & Fields) in the region of Aegyptus
+Request Claim on Ireland	
+ Gain the Laudably Conquer County casus belli for 100 years
+ 1000
+ 2000
+Yes Adult
+Yes Independent
+Yes At peace
+Yes Feudal government
+Yes King or emperor
+ Culture with Frankish, North Germanic or West Germanic heritage
+ Catholic faith
+ Devoted Servant
+ with the pope
+Yes Control Deira, Essex, Lancaster and Mercia
+No Control the region of Ireland
+Restore Carolingian Borders	
+ +350 Prestige
+ Gain the Primogeniture Law
+ French Culture gains innovations: Heraldry, Knighthood and Royal Prerogative
+ −50 Opinion with the Holy Roman Emperor
+ Gain the Great nickname
+None	
+Yes Adult
+Yes At peace
+ Emperor of Francia
+Yes Realm capital is in the region of Western Europe
+Yes Control the western half of Europe
+ Frankish heritage
+ Christian religion
+ Illustrious
+Unite Africa	
+ +750 Prestige
+ +500 Piety
+ +25% Fervor
+ 33% chance for each vassal or county in Africa to convert to the character's faith
+ Gain the Unifier of Africa nickname
+None	
+Yes Control the region of Africa
+Yes Realm capital is in the region of Africa
+ Any African culture group
+Embrace Zoroastrianism	You will choose a  Zoroastrian faith currently practiced by at least one  County in your Realm to worship in Secret	 250	
+Yes You don't follow any Faith in Secret
+Yes The year is before 960
+Yes Your  Culture has the Iranian Cultural Pillar
+No  Zoroastrian
+Promote Persian Scriptures	
+ This might anger your Head of Faith
+ You gain Great Translator, giving the following effects:
+ +1 Learning per Level of Devotion
+ +1 Max Learn Language Schemes
+ +12 Learn Language Scheme Power
+ The Convert Faith in County task will progress faster in  Counties with Iranian Heritage while this modifier is present
+ Every Iranian Heritage county:
+33% chance of:
+ Gains Persian Resurgence for 50 years, giving the following effects:
+ +0.3 Monthly Control Growth
+ -25% Temple Holding Construction Time
+ -25% Temple Holding Construction Cost
+ 500
+ 250
+DLC Legacy of Persia.png Legacy of Persia DLC
+ Not Arabic Heritage Culture
+ Realm Capital must be within the region of Persia
+Yes Independent
+ King or Emperor
+ Devoted Servant
+Yes At least one of these:
+ Know Iranian
+ Know Scythian
+ The Cultural Acceptance between your culture and Persian is at least 70
+ Your Head of Faith does not have a Strong Hook on you
+Establish (Faith) Stronghold	
+ +1 Building Slot in Barony of Ahar
+ Barony of Ahar gains the Fortress of Badd permanent modifier, giving the following effects:
+ +50% Garrison Size
+ +25% Levy Reinforcement Rate
+ +5 Defender Advantage
+ +10 Development in County of Tabriz
+ County of Tabriz becomes your new Realm Capital
+ Gain The Eagle of Arasbaran nickname
+ 600
+ 500
+DLC Legacy of Persia.png Legacy of Persia DLC
+ Faithful Level of Devotion
+ You have the County of Tabriz title
+ You have the Barony of Ahar title
+Yes At least one of these:
+ Faith has the Korramdin doctrine
+ Faith has the Cthonic Redoubts doctrine
+Yes The Faith in County of Tabriz considers your faith Righteous or Astray
+ Realm Capital must be within the regions of Asia Minor, Arabia, or Persia
+No Emperor
+No Head of Faith exists
+Refound the Pandidakterion	
+(unrecognized string “byzantine eagle positive” for Template:Icon) County of Byzantion gains the Pandidakterion University modifier:
+ +15% Development Growth
+Increased success chance for the University Visit activity for characters within the same realm
+ The following Councillor Tasks are more effective:
+ Domestic Affairs
+ Promote Culture
+ Organize Levies
+ Find Secrets
+ Fabricate Claim
+ 1000	
+Roads to Power Roads to Power DLC
+ Byzantine Emperor
+ Count of Byzantion
+No The Pandidakterion already exists
+Yes Administrative government
+Found the Varangian Guard	
+ Can grant the Akolouthos court position
+ Can recruit Varangian Guards Men-at-Arms
+ 1000	
+Roads to Power Roads to Power DLC
+ Byzantine Emperor
+No The Varangian Guard already exists
+ Illustrious
+One of:
+Yes Norse culture present in realm
+Yes 5 courtiers with the Norse culture
+Yes Allied to a Norse culture character
+Faith reformation
+Faith reformation decisions will reform a certain faith regardless of organization.
+
+Decision	Effect	Cost	Requirements
+Bind the Faith to Rome	
+ Reform Mozarabism with one of the following:
+Replace Pluralist doctrine with Righteous doctrine and Rite tenet with Communal Identity tenet
+Gain +20  Stress if  Shy and +40  Stress if  Cynical
+Replace Pluralist doctrine with Fundamentalist doctrine and Rite tenet with Pursuit of Power tenet
+Gain +40  Stress if  Compassionate and +80  Stress if  Craven
+Replace Spiritual, for Life doctrine with Spiritual, Revocable doctrine and Rite tenet with Religious Law tenet
+Gain +40  Stress if  Lazy and +80  Stress if  Arbitrary
+DLC Fate of Iberia.png If Iberian Struggle hasn't been ended it enters the Opportunity phase
+ If used a Hook lose 30 Opinion with the Pope
+ 1000	
+Yes Adult
+Yes At peace
+Yes The Papacy exists
+ Mozarabism faith
+ At least 12 counties in realm are Mozarabic
+ Devoted Servant level of devotion
+No Rival or Nemesis of the Pope
+No Break with Rome decision
+Either:
+ 80 Opinion with the Pope
+ Strong Hook On the Pope
+Break with Rome	
+ Mozarabism loses the Ecumenism doctrine
+ Mozarabism gains its own Head of Faith
+ Reform Mozarabism with one of the following:
+Replace Pluralist doctrine with Righteous doctrine and Rite tenet with Pacifism tenet
+Gain +20  Stress if  Shy and +40  Stress if  Cynical
+Replace Pluralist doctrine with Fundamentalist doctrine and Rite tenet with Armed Pilgrimages tenet
+Gain +40  Stress if  Compassionate and +80  Stress if  Craven
+Replace Spiritual, for Life doctrine with Temporal, Revocable doctrine and Rite tenet with Islamic Syncretism tenet
+Gain +40  Stress if  Lazy and +80  Stress if  Arbitrary
+DLC Fate of Iberia.png If Iberian Struggle hasn't been ended it enters the Opportunity phase
+ 1500	
+Yes Adult
+Yes At peace
+Yes The Papacy exists
+ Mozarabism faith
+ At least 12 counties in realm are Mozarabic
+ Paragon of Virtue level of devotion
+No Bind the Faith to Rome decision
+Appoint a Righteous Caliph /  Restore Mu'tazila	
+ Faith gains the Temporal Head of Faith doctrine
+ Gain your faith's Head of Faith title
+ Become Rivals with holder of Sunni Caliphate
++80  Stress
+ 500
+ 1000
+Yes Independent
+Yes Head of Faith is Sunni Caliphate
+No Same faith as Sunni Caliphate
+ Devoted Servant level of devotion
+Yes Own at least 10 counties of current faith
+No Liege of Head of Faith
+No At least three traits considered sinful by current faith
+At least three of the following:
+Yes  Sayyid
+No Head of Faith in diplomatic range
+Yes Control one holy site
+Yes Control two holy sites
+ Paragon of Virtue Level of Devotion
+Yes Head of Faith has at least two sinful traits
+Break with the Old Ways	
+ Reform Kuzarism with one of the following:
+ Coexistence: Your faith will largely remain the same
+ Replace Pluralist doctrine with Righteous doctrine and Syncretic Folk Traditions tenet with Chosen People tenet
+Gain -15  Stress if  Zealous
+ Replace Pluralist doctrine with Righteous doctrine and Syncretic Folk Traditions tenet with Kabbalah tenet
+Gain -15  Stress if  Zealous
+ Replace Pluralist doctrine with Fundamentalist doctrine and Syncretic Folk Traditions tenet with Armed Pilgrimages tenet
+Gain -65  Stress if  Zealous and +20  Stress if  Gregarious
+None	
+Yes Adult
+Yes Independent
+ King or Emperor
+ Kuzarism faith
+Champion the Faith of the Country Basques	
+ Change culture to Basque or descendant if not already
+ Gain the Pagan nickname if following an Abrahamic or Eastern religion
+ Gain the Mountain King nickname if following a Pagan religion
+ Convert to Era Zaharrak faith and reform it with one of the following:
+Faith remains unchanged and starts with 100 Fervor and gain 2000 Devotion
+Gain  Champion of the Old Ways modifier
+Replace Christian Syncretism tenet with Warmonger tenet, Pluralist doctrine with Fundamentalist doctrine and None head of faith with Spiritual head of faith
+Gain  Friend of the Old Ways modifier
+Gain +80  Stress if not  Compassionate and +120  Compassionate
+Replace Christian Syncretism tenet with Sanctity of Nature tenet, Pluralist doctrine with Righteous doctrine, None head of faith with Temporal head of faith, Theocratic doctrine with Lay Clergy doctrine and Spiritual, Revocable doctrine with Temporal, for Life doctrine
+Gain  Friend of the Old Ways modifier
+Gain +80  Stress if not  Craven and +160  Stress if  Craven
+Replace Christian Syncretism tenet with Islamic Syncretism tenet and gain 30 Opinion with all neighbor Islamic rulers
+Gain  Friend of the Old Ways modifier
+Gain +80  Stress if not  Drunkard and +160  Stress if  Drunkard
+DLC Fate of Iberia.png If Iberian Struggle hasn't been ended it enters the Opportunity phase
+ 1000
+ 1000
+Yes Adult
+Yes At peace
+Yes Independent
+Either:
+ Culture is Basque or descended from Basque
+ Any held county's culture is Basque or descended from Basque
+Either:
+ Sinner level of devotion
+Yes At least two traits considered sinful by current faith
+Yes At least two traits considered virtuous by Era Zaharrak faith
+ Excommunicated trait
+ Cynical trait
+ Rival with Head of Faith
+ Controls 9 counties from the region of Old Vasconia
+No Is head of faith
+No Year is 1200 or later
+Revive Táltosism	
+ Gain the Apostate nickname
+ 30% Chance for each county in realm to convert to Táltosism
+ 50% Chance for each county in domain to convert to Táltosism
+ 70% Chance for each county of Mogyër culture to convert to Táltosism
+ Counties that convert gain the Magyar Sympathy modifier for 25 years, giving the following effects:
+ +25 Popular opinion
+ Convert to Táltosism and alter it with one of the following:
+Faith remains unchanged and gain a level of devotion
+Replace Auspicious Birthright tenet with Adaptive tenet and gain 250 Devotion
+Replace Ancestor Worship tenet with Human Sacrifice tenet and gain 250 Devotion
+Replace Astrology tenet with Christian Syncretism if previous religion was  Christianity and gain 250 Devotion
+Replace Astrology tenet with Islamic Syncretism if previous religion was  Islam and gain 250 Devotion
+Replace Astrology tenet with Jewish Syncretism if previous religion was  Judaism and gain 250 Devotion
+Replace Astrology tenet with Eastern Syncretism if previous religion was  Eastern and gain 250 Devotion
+ 2000	
+Yes Adult
+Yes At peace
+Yes Independent
+Yes Feudal government
+ Magyar heritage
+ At least 20 counties in realm have Magyar heritage
+ Illustrious level of devotion
+ Kingdom of Hungary or Empire of Carpathia
+No Year is 1100 or later
+No Pagan religion group
+Either:
+ Devoted Servant level of devotion
+ Theologian trait
+Reform the Magi	
+ +50% Fervor
+ Gain the Heresiarch trait
+ Replace the head of faith doctrine with None
+ Choice between The Fire Keeper and The Heretic nicknames
+ 1000	
+Yes Adult
+Yes At peace
+Yes Independent
+ Korramdin good and evil doctrine
+ Devoted Servant level of devotion
+Yes Control at least 3 holy sites
+No None head of faith doctrine
+No Restore the Magi decision
+Quench the Eternal Fires	
+ +50% Fervor
+ Gain the Heresiarch trait
+ +750 Prestige
+ −30 opinion with non Mazdakism or Behafaridism Zoroastrian rulers
+ Replace the head of faith doctrine with None
+ Choice between The Fire-Quencher and The Heretic nicknames
+ 1000	
+Yes Adult
+Yes At peace
+Yes Independent
+ Mazdakism or  Behafaridism
+ Korramdin good and evil doctrine
+ Devoted Servant level of devotion
+Yes Control at least 3 holy sites
+No None head of faith doctrine
+No Restore the Magi decision
+Unique realm founding decisions
+The following unique decisions will result in the creation of a unique new realm.
+
+Decision	Effect	Cost	Requirements
+Become Chakravarti	
+ +750 Prestige
+ +2 Levels of Fame
+ +50% Fervor
+ -50% Holy War Piety Cost
+ Gain the Chakravarti trait
+ Hegemony of India becomes de jure liege of Deccan Empire, Empire of Rajastan and Empire of Pracya
+ Gain the Hegemony of India title
+Yes Faith gains the Rightful Rulers of the World special doctrine
+ 50% chance for each vassal to convert to the character's faith
+ 500
+ Scaled
+Yes Adult
+Yes Independent
+ Religious Icon
+Yes Realm capital is in the region of India
+Yes Completely control the Deccan Empire, Empire of Rajastan, and The Bengal Empire
+Yes One of the following religions
+ Buddhism
+ Hinduism
+ Jainism
+Found the Empire of Hindustan	
+ +500 Fame
+ +300 Legitimacy
+ +250 Renown
+ Gain the Empire of Hindustan title
+ Gain the Duchy of Kuru title
+ Any owned Kingdoms in the Empire of Rajasthan, the Bengal Empire and the Deccan Empire will become De Jure Hindustan
+ Government changes to Administrative
+ +250 Influence
+You gain the Lawgiver modifier, giving the following effects:
+ +15% Monthly Influence
+ -15% Domicile Building Construction Time
+ +10 General Opinion
+Heroic legend.png Gain a Heroic Legend Seed
+ +50 Opinion with all direct vassals
+ Gain the Great nickname
+ 200
+ 500
+Yes Adult
+Yes Independent
+ Level of Fame is at least Exalted Among Men
+ Devoted Servant
+Yes Feudal, Clan or Administrative government
+ Islam religion
+Yes Realm capital must be in the regions of Transoxiana, Khorasan, Makran, Kabulistan, India or Burma
+Yes Completely control the Duchy of Kuru
+ Own the Kingdoms of Delhi and Punjab
+Yes Own at least one of the following
+ Kingdom of Kosala
+ Kingdom of Malwa
+ Kingdom of Rajputana
+Yes At least 40 realm size
+Yes One of the following
+ +60 Opinion with your head of faith
+ A hook on your head of faith
+Become Greatest of Khans	
+ Replace all held empire titles with Mongol Empire and unlock its mechanics
+ Mongol Empire gains High Partition title succession law
+ Gain the Greatest of Khans trait
+ Level of Fame becomes The Living Legend if not already
+ Gain 1 army that does not use supply, consisting of:
+ 1400 Horse Archers
+ 2000 Light Horsemen
+ 250 Armored Horsemen
+ 100 Trebuchets
+ Gain 3 armies that do not use supply, each consisting of:
+ 5000 Levies
+ 2000 Horse Archers
+ 2000 Light Horsemen
+ 150 Armored Horsemen
+ 50 Trebuchets
+ 350
+ Scaled
+Yes Adult
+Yes Tribal government
+Yes Emperor
+Yes At least 100 realm size
+Yes Realm capital is in the Steppe region
+ Level of Fame is at least Exalted Among Men
+ Mongolic heritage
+Consolidate Bene-Israel	
+ +350 Prestige
+ +350 Piety
+ Gain the Kingdom of Bene-Israel title
+ Duchy of Chera Nadu becomes de jure part of Kingdom of Bene-Israel
+ Duchy of Konkana becomes de jure part of Kingdom of Bene-Israel
+ If the character holds the duchies of Lata and Nasikya, they will become de jure part of Kingdom of Bene-Israel
+ A random holy site of Malabarism in the character's realm changes culture to Kochinism
+ A random holy site of Malabarism in the character's realm changes faith to Malabarism
+ Scaled
+ Scaled
+ Malabarism faith
+Yes Duke or lower
+Yes Realm capital is in the region of India
+Yes Completely control the duchies of Chera Nadu and Konkana
+Yes Malabarism has a head of faith
+ Devoted Servant
+Consolidate the Canaries	
+ +750 Prestige
+ Gain the Kingdom of Canarias title
+ Gain The Great nickname
+ If culture has Iberian Heritage Kingdom of Canarias becomes de jure part of Empire of Hispania
+ 300	
+Yes Independent OR top liege holds an  Empire-rank title
+Yes One of the following
+Yes Is Achamánic
+Yes Culture has Iberian heritage
+Yes Primary title is Duchy of Canarias
+Yes Holds the Duchy of Canarias
+Yes Completely control Duchy of Canarias
+Yes Feudal government
+ Every County in Duchy of Canarias has at least 10 Development
+Yes Every Barony in Duchy of Canarias contains a holding
+Elevate the Kingdom of Mann & the Isles	
+ +2500 Renown
+Modifier horse dead positive.png Dynasty gains the Legacy of Piracy modifier for 100 years, giving the following effects:
+ -50% Embarkation Cost
+ +50% Raid Speed
+Yes Can raid
+Yes Can sail in Major Rivers
+ Gain the Kingdom of Mann and the Isles title
+ Duchy of Mann becomes de jure part of Kingdom of Mann and the Isles
+ Duchy of the Isles becomes de jure part of Kingdom of Mann and the Isles if owned
+ Duchy of the Northern Isles becomes de jure part of Kingdom of Mann and the Isles if owned
+ Duchy of Strathclyde becomes de jure part of Kingdom of Mann and the Isles if owned
+ County of Isle of Man becomes Realm capital
+Yes Government becomes Feudal
+Yes Government of Tribal vassals becomes Feudal
+ Realm capital gains an army of 5000 Levies, 1000 Jomsviking Pirates, 1000 Bondi and 500 Varangian Veterans, inheritable on succession
+ Realm capital becomes the character's culture if not already North Germanic/Norman
+ +20 Development in realm capital
+Modifier horse dead positive.png Realm capital gains the The Stolen City modifier for 100 years, giving the following effects:
+ -200% Building Construction Time
+ -50% Building Construction Cost
+ Choice between the The Great and The Terrible nickname or Stress loss
+ 2000	
+DLC Northern Lords.png Northern Lords DLC
+ North Germanic heritage or Norman culture
+ The Living Legend Level of Fame
+ Tribal or Early Medieval era
+ Count of Isle of Man
+ Duke of Mann
+ Viking
+No Emperor or king
+Establish Bactrian Supremacy	
+ Gain the Empire of Bactria title
+ Kingdom of Kabulistan becomes de jure part of Empire of Bactria
+ Kingdom of Khorasan becomes de jure part of Empire of Bactria
+ Kingdom of Transoxiana becomes de jure part of Empire of Bactria
+ Any Kingdom titles with all de jure territory owned become de jure part of Empire of Bactria
+ Destroys any other held Empire titles
+ County of Balkh gains the Royal Tolls permanent modifier
+ 350
+ Scaled
+Yes Adult
+Yes Independent
+Yes Feudal or clan government
+Yes King or emperor
+Yes Realm capital is in the region of Bactria
+Yes Control the region of Bactria
+Yes One of the following:
+ Culture is Afghan or descended from Afghan
+ Culture is Tajik or descended from Tajik
+ Level of Fame is at least Illustrious
+Yes One of the following:
+ Buddhist Religion
+ Zoroastrian Religion
+ Manichean Faith
+Establish Kingdom of Toledo	
+ +750 Prestige
+ Gain the Kingdom of Toledo title
+ Duchy of Toledo becomes de jure part of Kingdom of Toledo
+ One neighboring duchy becomes de jure part of Kingdom of Toledo if completely controlled AND their current de jure kingdom has more than two duchies
+ Under the default de jure setup, only Badajoz, Cordoba, Murcia or Valencia can be de jure drifted by this decision
+ Gain the The Kingdom of Toledo character modifier for 10 years:
+ +10% Monthly development growth
+ +10 Same faith opinion
+ 250	
+DLC Fate of Iberia.png Fate of Iberia DLC
+Yes Independent
+ Culture has Iberian heritage
+Yes Mozarabic faith
+Yes Capital is the County of Toledo
+Yes Completely controls the Duchy of Toledo
+Yes Has at least one duchy title that directly borders the Duchy of Toledo and is completely controlled
+Formalize the Daneland	
+ +350 Prestige
+ Kingdom of Danelaw title is replaced by Kingdom of Daneland
+ -75 Opinion with the King of England
+ 750	
+Yes Adult
+Yes At peace
+ High Medieval or Late Medieval era
+ Level of Fame is at least Illustrious
+ Own the Kingdom of Danelaw
+Yes Year is 1100 or later
+Yes Kingdom of England exists
+Form Archduchy of Austria	
+ +350 Prestige
+ Gain the Archduchy of Austria title
+ Gain the Primogeniture Law
+ Duchy of Austria becomes de jure part of Archduchy of Austria
+ Duchy of Steyermark becomes de jure part of Archduchy of Austria
+ Duchy of Carinthia becomes de jure part of Archduchy of Austria if completely controlled
+ Duchy of Krain becomes de jure part of Archduchy of Austria if completely controlled and presently de jure a part of Bavaria, otherwise if it borders the de jure liege of the Duchy of Croatia, it becomes de jure part of that kingdom instead, otherwise its de jure status is unchanged.
+ Duchy of Istria becomes de jure part of Archduchy of Austria if completely controlled and presently de jure a part of Bavaria, otherwise if it borders the de jure liege of the Duchy of Croatia, it becomes de jure part of that kingdom instead, otherwise its de jure status is unchanged.
+ 1000	
+Yes Adult
+Yes At peace
+Yes Count or duke
+ Catholic faith
+Yes Control Austria and Steyermark
+ Dynasty is not the same as the Holy Roman Emperor
+ Strong hook on the Holy Roman Emperor
+ Liege is Holy Roman Emperor
+ Level of Fame is at least Illustrious
+ High Crown Authority or  Absolute Crown Authority
+Form the Outremer Empire	
+ +150 Prestige
+ +100 Piety
+ +15% Fervor
+ -25% Ash'arism faith fervor
+ Gain the Empire of Outremer title
+ Kingdom of Arabia becomes de jure part of Empire of Outremer
+ Kingdom of Jerusalem becomes de jure part of Empire of Outremer
+ Kingdom of Mesopotamia becomes de jure part of Empire of Outremer
+ Kingdom of Syria becomes de jure part of Empire of Outremer
+ Kingdom of Egypt becomes de jure part of Empire of Outremer if completely controlled
+ Kingdom of Israel becomes de jure part of Empire of Outremer if completely controlled
+ Duchy of Sinai becomes de jure part of Kingdom of Jerusalem if the Kingdom of Egypt is not completely controlled
+ Any Kingdom titles with all de jure territory owned become de jure part of Empire of Outremer
+ Creates a new European-Arabian hybrid culture if one has not already been created
+ If former culture does not have Arabic heritage, creates hybrid culture with Mashriqi
+ If former culture does have Arabic heritage, creates hybrid culture with Occitan
+ Realm capital changes to the hybrid culture
+ Culture gains the Men-at-Arms and Desert Tactics innovations
+ Destroy the Sunni Caliphate title
+ 35% chance for each owned county to change faith to Catholicism
+ 35% chance for each Muslim vassal to change faith to Catholicism
+ 50% chance for each vassal with the same culture heritage to change to the new culture
+ 10% Chance of receiving one of these possible nicknames:
+"the Crusader"
+"the Holy"
+"the Sword of God"
+"the Messenger of Christ"
+"the Virgin's Maiden" (female)
+"the Knight of Gabriel" (male)
+None	
+Yes Adult
+Yes Independent
+Yes Duke or king
+ Catholicism faith
+ The Living Legend Level of Fame
+Yes Control the region of Outremer
+Yes Realm capital is in the region of Outremer
+Yes Crusades are available
+No  Byzantine heritage
+Form the Sultanate of Rum	
+ +150 Prestige
+ Gain the Kingdom of Rum title
+ All Duchies part of Kingdom of Anatolia and Kingdom of Pontus become de Jure part of Kingdom of Rum
+ If vassal become independent and the former liege gains the following:
+ Unpressed claim on the Kingdom of Rum
+ -100 Opinion for 50 years
+None	
+Yes Adult
+Yes At peace
+Yes Control the region of Asia Minor
+Yes Realm capital must either be Samosota or in the regions of Asia Minor or Persia
+Yes One of the following:
+ Islam religion
+ Turkic Heritage
+ Level of Fame is at least Illustrious
+ Devoted Servant
+Yes One of the following:
+Yes Independent
+ Liege follows Islam religion
+No Emperor or non-independent King
+No Vassal in the Byzantine or Roman Empire
+No Greek culture
+No Christian religion
+Form the Swiss Confederation	
+ +350 Prestige
+ Gain the Kingdom of Switzerland title
+ Duchy of Transjurania becomes de jure part of Kingdom of Switzerland
+ Duchy of Currezia becomes de jure part of Kingdom of Switzerland
+ Duchy of Savoy becomes de jure part of Kingdom of Switzerland if completely controlled
+ Gain Absolute Crown Authority Law
+ 500	
+Yes Adult
+Yes At peace
+Yes Control Currezia and Transjurania
+ Liege holds any Empire title
+ Level of Fame is at least Illustrious
+ One of the following cultural heritages:
+ Central Germanic
+ Frankish
+ Latin
+No Emperor or king
+Found a Ryukyuan Empire	
+ Gain the Empire of Ruucuu Title
+ Kingdom of Ruucuu becomes de jure part of the Empire of Ruucuu if held
+Modifier county development positive.png Holdings of Kunjan, Nakajan, and Ucinaa get the 'United Clans' modifier:
++1 Building Slot
+ 750
+ 2300
+ 250
+DLC All Under Heaven.png All Under Heaven DLC
+ Ryukyuan culture
+Yes Realm capital is in the duchy of Ruucuu
+Yes Character is Top Liege
+Yes King or below
+Yes All of the following:
+ Own the county of Amami
+ Own the county of Ucinaa
+ Own the duchy of Ruucuu
+ Own the kingdom of Ruucuu
+Yes 60+ Realm Size
+Found Portugal	
+ +350 Prestige
+ Gain the Kingdom of Portugal title
+ Duchy of Algarve becomes de jure part of Kingdom of Portugal
+ Duchy of Beja becomes de jure part of Kingdom of Portugal
+ Duchy of Coimbra becomes de jure part of Kingdom of Portugal
+ Duchy of Portucale becomes de jure part of Kingdom of Portugal
+ All characters and counties in de jure Portugal with Iberian heritage adopt Portuguese culture
+Counties with a culture from a non-Iberian heritage have a 50% chance to become Portugese
+ Portugese culture gains all Innovations from the previous culture, plus one random Military innovation and one random Civic innovation
+ Gain the Great nickname
+ 300	
+One of the following:
+Yes Independent
+Yes Iberian struggle is in Opportunity phase (requires DLC Fate of Iberia.png Fate of Iberia)
+Yes Has the Duchies of Algarve, Beja, Coimbra and Portucale
+ Culture has Iberian heritage
+Yes  Count or  Duke
+Found the Kingdom of Aragon	
+ +350 Prestige
+ Gain the Kingdom of Aragon title
+ Kingdom of Aragon becomes de jure part of Empire of Hispania
+ Duchy of Aragon becomes de jure part of Kingdom of Aragon
+ Duchy of Barcelona becomes de jure part of Kingdom of Aragon if completely controlled
+ Duchy of Navarre becomes de jure part of Kingdom of Aragon if completely controlled
+ Duchy of Valencia becomes de jure part of Kingdom of Aragon if completely controlled
+ Converts to Aragonese culture
+ 3 random counties in the Duchy of Aragon become Aragonese
+Modifier compass positive.png House gains Founders of Aragon for 200 years
+ Aragonese culture receives all innovations from old culture
+Choice of the following:
+Aragonese culture keeps its default ethos and pillars
+Aragonese culture receives the Language and Martial Tradition pillars of old culture
+Aragonese culture receives the Ethos of the old culture
+Both of the above two effects
+ 200	
+Yes Independent
+Yes Completely controls the Duchy of Aragon and at least one of the following:
+Duchy of Barcelona
+Duchy of Navarre
+Duchy of Valencia
+Yes  Count or  Duke
+Yes Game start date is 867
+Found the Kingdom of Bosnia	
+ Gain the Kingdom of Bosnia title
+ Duchy of Upper Bosnia becomes de jure part of Kingdom of Bosnia
+ Duchy of Lower Bosnia becomes de jure part of Kingdom of Bosnia
+ Duchy of Zachlumia becomes de jure part of Kingdom of Bosnia
+ 300
+ 200
+Yes Independent
+Yes Control Upper Bosnia, Lower Bosnia and Zachlumia
+Yes Capital is within Upper Bosnia, Lower Bosnia or Zachlumia
+Yes Feudal or Clan government
+Yes Count or duke
+ Bosnian, Croatian or Serbian culture
+No Tribal era
+Found the Viet Empire	
+ Gain the Empire of Dai Viet title
+ Kingdom of Dai Viet becomes de jure part of Empire of Dai Viet
+ Kingdom of Champa becomes de jure part of Empire of Dai Viet
+ Duchy of Baigaur becomes de jure part of Kingdom of Champa
+ Duchy of Nghe An becomes de jure part of Kingdom of Dai Viet if not
+ +150 Renown (scaled by era)
+ 2000	
+Yes Realm capital is in the region of Viet Lands
+ Culture has Viet heritage
+Yes Character is Top Liege
+Yes King or below
+ King of Dai Viet
+ King of Champa
+Negotiate the Danelaw	
+ Send to a neighbor of North Germanic, West Germanic or Brythonic culture group a bargain
+Yes If the neighbor accepts:
+ Gain the Kingdom of the Danelaw title
+ De jure duchies of Kingdom of England (except the capital duchy) become de jure part of the Danelaw if at least one of their counties is owned
+ Neighbor gains the Kingdom of England title
+Yes Ruler and neighbor get a truce for 25 years
+ +50 Opinion with neighbor
+ -40 Opinion with other rulers in de jure England
+No If the neighbor refuses:
+ Lose prestige
+ Gain the Weak nickname
+None	
+No Kingdom of England created
+Yes You and a neighbor are both
+Yes Adult
+Yes At peace
+ Tribal era
+ Level of Fame is at least Distinguished
+Yes Count or duke
+Yes Control two Duchies de jure part of Kingdom of England
+Yes Realm capital is within the de jure territory of Kingdom of England
+Yes One side:
+ West Germanic or Brythonic heritage
+No  Religion is not Germanic
+Yes Other side has one of:
+ North Germanic heritage
+ Norman culture
+Yes  Religion is Germanic
+Proclaim Terra Mariana	
+ Gain the Kingdom of Livonia title
+ Duchies of Latigalians, Courland and Livonia become de jure part of Kingdom of Livonia
+ If the character holds the Duchy of Estonia then it will become de jure part of Kingdom of Livonia
+ If  Vidilist faith AND culture does not have Longships innovation, then the culture gets that innovation
+A choice between a nickname and piety level increase:
+If a nickname is chosen:
+If  Culture has Baltic heritage OR  Vidilist faith, then get the nickname "Father/Mother of the Baltic"
+Else get the nickname "Scourge of the Baltic"
++350 Fame
+Else  +250 Piety and +250 Devotion
+ −25 Stress
+ Scaled	
+No Estonian culture
+One of the following:
+ Culture has Baltic heritage AND  Vidilist faith AND Yes Realm capital is in the Baltic region
+No  Vidilist faith AND No Unreformed faith AND Yes Realm capital is in the Baltic region
+ Latgalian culture
+Yes  Duke or lower
+Yes Independent OR Vassal of an  emperor
+ Distinguished or higher
+Yes Holds the Duchies of Latigalians, Courland and Livonia
+Yes Completely controls the region of Livonia
+Restore Israel	
+ +150 Prestige
+ +100 Piety
+ +25% Fervor
+ Kingdom of Jerusalem title is replaced by Kingdom of Israel
+ Gain the Kingdom of Israel title
+ 33% chance for each owned county to gain the character's faith and culture
+None	
+Yes Adult
+Yes Independent
+Yes At peace
+ Judaism religion
+ County of Jerusalem shares the character's faith
+ Level of Fame is at least Illustrious
+ Devoted Servant
+Yes Fully controls Oultrejourdain, Palestine and Urdunn
+Restore the Bosporan Kingdom	
+ Gain the Bosporan Kingdom title
+ Duchy of Crimea becomes de jure part of the Bosporan Kingdom
+ Duchy of Azov becomes de jure part of the Bosporan Kingdom
+ Duchies of Bugeac, Tana, Don Valley, Levedia, Red Levedia, Karayedisan and Kizilyedisan become de jure part of the Bosporan Kingdom if completely controlled
+ House gains Rulers of the Black Sea for 100 years
+ Gain the Conqueror of the Black Sea modifier
+ 250
+ 2000
+Yes Independent
+Yes Completely controls the Duchies of Crimea and Azov
+ Central Germanic or Eastern Roman heritage
+ Level of Fame is at least Illustrious
+No Emperor
+Restore the Kingdom of Cornwall	
+ Gain the Kingdom of Cornwall title
+ Duchy of Hwicce becomes de jure part of Kingdom of Cornwall if owned
+ Duchy of Wessex becomes de jure part of Kingdom of Cornwall if owned
+Choice of the following:
+Gain the nickname "the Trojan" and 75  Prestige
+No nickname and 150  Prestige
+ 300	
+Yes Adult
+Yes Independent
+Yes Feudal or Clan government
+Yes Duke of Cornwall
+Yes Completely controls the Duchy of Cornwall
+ Brythonic heritage
+ At least one barony has Brythonic culture group
+ Level of Fame is at least Exalted Among Men
+No Must not be King or Emperor rank
+Restore the Holy Roman Empire	
+ +750 Prestige
+ +500 Fame
+ +30 Opinion with current direct vassals for 30 years
+ Gain the Holy Roman Empire title
+ Holy Roman Empire gains Princely Elective title succession law
+ Holy Roman Empire gains Male Only title succession law
+ Completely controlled kingdoms outside of Italia will become de jure part of Holy Roman Empire
+ Destroy the Kingdom of East Francia title
+ Gain the Great nickname
+ 500
+ 200
+Yes Adult
+Yes Independent
+Yes Feudal or Clan government
+Yes King
+Yes At least 140 realm size
+ King of East Francia
+ Own at least 3 kingdom titles
+Yes Christian Faith
+Yes Spiritual Head of Faith
+ Level of Fame is at least Illustrious
+Yes One of the following
+ +60 Opinion with the pope
+ A hook on the pope
+No Byzantine Emperor follows the same Christian faith as you
+No Excommunicated trait
+Restore Old Vasconia	
+ If not held, gain Kingdom of Navarra title
+Yes Kingdom of Navarra is renamed to Kingdom of Vasconia
+ Duchy of Aragon becomes de jure part of Kingdom of Vasconia if completely controlled
+ Duchy of Gascone becomes de jure part of Kingdom of Vasconia if completely controlled
+ Duchy of Armagnac becomes de jure part of Kingdom of Vasconia if completely controlled
+ Duchy of Castille becomes de jure part of Kingdom of Vasconia if completely controlled
+ Duchy of Cantabria becomes de jure part of Kingdom of Vasconia if completely controlled
+ Duchy of Barcelona becomes de jure part of Kingdom of Vasconia if completely controlled
+ Duchy of Languedoc becomes de jure part of Kingdom of Vasconia if completely controlled
+If they've drifted from Kingdom of Navarra:
+ Duchy of Viscaya becomes de jure part of Kingdom of Vasconia if completely controlled
+ Duchy of Navarra becomes de jure part of Kingdom of Vasconia if completely controlled
+Choice of the following:
+Gain the nickname "the Great" and 75  Prestige
+No nickname and 150  Prestige
+ Any held kingdom left without a de jure is destroyed
+ 300
+Yes Adult
+Yes Independent
+Yes Feudal or Clan government
+ Culture is Basque or descended from Basque
+ At least 4 counties within your realm share your culture
+ Kingdom of Navarra is held by you, or does not exist
+ Level of Fame is at least Exalted Among Men
+Yes At least four of the following
+ You completely control the Duchy of Navarra
+ You completely control the Duchy of Gascogne
+ You completely control the Duchy of Armagnac
+ You completely control the Duchy of Languedoc
+ You completely control the Duchy of Aragon
+ You completely control the Duchy of Barcelona
+ You completely control the Duchy of Cantabria
+No Must not be Emperor rank
+Revive Greater Armenia	
+ Gain the Empire of Greater Armenia title
+ All held kingdoms in the region of the former Armenian Empire become de jure part of Empire of Greater Armenia
+ All duchies in the former Armenian Empire become de jure part of the Kingdom of Armenia, but remain part of their current kingdom if the character holds that title.
+ 2000
+ 1000
+Yes Adult
+Yes Independent
+Yes Capital in the region of the former Armenian Empire
+Yes Feudal or Clan government
+Yes King
+Yes Control the region of the former Armenian Empire
+Yes One of the following
+ Armenian culture
+ Apostolic faith
+Secure the High Kingdom of the North Sea	
+ +1000 Renown
+ Gain the Empire of The North Sea title
+ Kingdoms of Denmark, England and Norway becomes de jure part of Empire of The North Sea, plus Scotland, Ireland and Wales if held
+Yes Government and vassals become Feudal if Tribal and Unreformed
+ Gain the High-King of the Seas permanent modifier if Tribal and Unreformed
+ Gain the Sea King nickname if Tribal and Unreformed
+ Gain the Defiant High-King modifier if Tribal and Reformed Pagan
+ Gain the Defiant nickname if Reformed Pagan
+ Gain Strong Hook on all Powerful Vassals with positive Opinion if Feudal, Clan or not Pagan
+ +50 Opinion for 20 years with all Powerful Vassals with positive Opinion if Feudal, Clan or not Pagan
+ Gain the Great nickname if Feudal/Clan and Unreformed, or not Pagan
+ Gain a Heroic Legend Seed
+ 200
+ 1000
+DLC Northern Lords.png Northern Lords DLC
+ North Germanic or West Germanic heritage
+ Level of Fame is at least Illustrious
+ Tribal or Early Medieval era
+Yes Control the region of North Sea Heartlands
+Yes Control the Kingdoms of Denmark, England and Norway, at least one of which must be held for 10 years by one person
+No Emperor
+No The Kingdom of the Danelaw exists
+Secure the Mediterranean	
+ +350 Renown
+ Gain the Kingdom of Baleo-Tyrrhenia title
+ Duchies of Mallorca, Sardinia, Corsica and Sicily become de jure part of Kingdom of Baleo-Tyrrhenia
+Modifier compass positive.png House gains Controlling the Mediterranean for 100 years
+ Kingdom of Baleo-Tyrrhenia becomes de jure part of Empire of Italia
+ ~150
+ ~1000
+DLC Fate of Iberia.png Fate of Iberia DLC
+Yes Control the Duchies of Mallorca, Sardinia, Corsica and Sicily
+Unify Italy	
+ +350 Prestige
+ Duchies of Istria, Krain, Tyrol and Carinthia be come de jure part of Kingdom of Italy
+ Kingdoms of Sicily, Venice, Croatia and Serbia become de jure part of Empire of Italia
+ Kingdom of Italy becomes de jure part of Empire of Italia if it was not already
+ All cultures with Latin heritage discover the Guilds, Men-at-Arms, and Pike Columns innovations
+50% chance for vassals to change to your current culture
+None	
+Yes Adult
+Yes Independent
+Yes At peace
+ Emperor of Italia
+Yes Control the regions of Italia and Illyricum
+Yes Realm Capital is in the region of Italia
+ Culture has Latin heritage
+ Level of Fame is at least Exalted Among Men
+No Restore Carolingian Borders decision
+No Restore the Roman Empire decision
+Unify the Burgundies	
+ +150 Prestige
+Heroic legend.png Gain a Heroic Legend Seed
+ Gain the Kingdom of Burgundy title
+ Duchy of Burgundy becomes de jure part of Kingdom of Burgundy
+ Change culture to Occitan if not already
+ Culture discovers the Bailiffs, Burhs and Guilds innovations
+ Become independent
+ Former liege gains an unpressed claim on the Kingdom of Burgundy title
+ -100 Opinion with the former liege gains for 50 years
+ 1000	
+Yes Adult
+Yes At peace
+No Imprisoned
+ Frankish heritage
+No The Kingdom of the Burgundy exists
+Yes Duke or below
+ Liege is Holy Roman Emperor, Emperor of Francia or King of France
+Yes Realm capital is in the region of Burgundy
+Yes Completely controls the region of Burgundy
+ Level of Fame is at least Illustrious
+Unite the Husamguk	
+ Gain a Heroic Legend Seed
+ Gain the Unified Kingdom of Samhan title
+ Gain the Yongson Throne ceremonial monarch title, which gains the Progeniture Succession Law
+ Adopt the Primogeniture Law
+ Cultural Acceptance of Silla-Baekje +25%
+ Cultural Acceptance of Goguryeo-Baekje +25%
+ 100
+ 500
+DLC All Under Heaven.png All Under Heaven DLC
+Yes Government allows Administrative
+ Buyeo or Samhanic Heritage
+Yes Highest held Title is less than Empire rank
+At least one of the following:
+ King of Silla
+ King of Goguryeo
+ King of Baekje
+All of the following:
+ King of Silla, or title is not created
+ King of Goguryeo, or title is not created
+ King of Baekje, or title is not created
+Yes Completely Controls:
+Duchy of Bukgye
+Duchy of Gaeseong
+Duchy of Gyeongju
+Duchy of Chungju
+Yes Realm Size at least 50
+Unite the Slavs	
+ +750 Prestige
+ Culture gains up to 3 Innovations from other Slavic cultures
+ Gain the Empire of Slavia title
+ All owned Slavic kingdom titles become de jure part of Empire of Slavia
+ Gain the Bogatyr nickname if male
+ Gain the Polyanitsa nickname if female
+ 600	
+ East Slavic, West Slavic or South Slavic heritage
+Yes Control the region of Slavia
+Unite the South Slavs	
+ +750 Prestige
+ Culture gains a random Civic and Military Innovation
+ If primary title is a kingdom, all owned South Slavic kingdom titles are merged under the primary title
+ If primary title is an empire, all owned South Slavic kingdom titles are made de jure part of the empire
+None	
+ South Slavic heritage
+Yes Completely control the region of South Slavia
+Yes Primary title is Kingdom of Bosnia, Bulgaria, Croatia, Moldavia, Serbia or Wallachia
+Unite the West Slavs	
+ +750 Prestige
+ Culture gains a random Civic and Military Innovation
+ If primary title is a kingdom, gain the West-Slavia Empire title
+ All owned West Slavic kingdom titles are made de jure part of the primary title
+ Gain the next level of Crown Authority Law if government is Feudal or Clan
+None	
+ West Slavic heritage
+Yes Completely control the region of West Slavia
+Yes King of Bohemia, Great Moravia, Poland or Pomerania, and either emperor or one of these titles is primary
+Unite the Spanish Thrones	
+ +750 Prestige
+ All owned Spanish kingdom titles (you completely control all de-jure land of) are merged under the primary title
+ Custom kingdom titles, including those created by the Status Quo ending of the Iberian struggle, will NOT be included
+ Gain the next level of Crown Authority Law if government is Feudal or Clan
+None	
+ Iberian heritage
+Yes Control Castille, Léon and Galicia (excluding any that has no de jure land)
+Yes Primary title is Kingdom of Castille, Léon, Galicia, Portugal, Aragon, Navarra, Andalusia, Badajoz or Valencia
+Yes Game start date is 1000 or later
+Yes High Medieval Era or later
+ High Crown Authority or  Absolute Crown Authority
+No  Emperor
+Home of the Rivers	
+ +1000 Renown
+ Gain the Empire of Beth Nahrain title
+ Kingdom of Jazira becomes de jure part of Empire of Beth Nahrain
+ Kingdom of Mesopotamia becomes de jure part of Empire of Beth Nahrain
+ Kingdom of Jerusalem becomes de jure part of Empire of Beth Nahrain if held and completely controlled
+ Kingdom of Syria becomes de jure part of Empire of Beth Nahrain if held and completely controlled
+ Every county in Beth Nahrain whose culture does not have  Syriac heritage gains the Ebb and Flow modifier for 50 years, giving the following effects:
+ +75 Promote culture speed for Syriac heritage culture
+Choice of the following:
+ 1000 Devotion and House gains  Knowledge is Power modifier for 100 years, giving the following effects:
+ +35% Monthly Learning Lifestyle Experience
+ +1 Learning per Level of Devotion
+ 1500 Fame and House gains  Discipline and Order modifier for 100 years, giving the following effects:
+ +35% Monthly Martial Lifestyle Experience
+ +1 Martial per Level of Fame
+If  Nestorian faith:
+ Holy Monarch trait
+ 1000 Devotion
+If not  Nestorian faith:
+ Convert to Nestorianism (close family and vassals may convert with you)
+ +100 fervor
+ 1000 Piety
+ Gain Sovereign of Two Rivers nickname
+ 1000	
+ Syriac heritage
+Yes Independent
+No  Emperor
+ Completely control and hold the Kingdom of Jazira
+ Completely control and hold the Kingdom of Mesopotamia
+Yes One of the following:
+ Completely control and hold the Kingdom of Jerusalem
+ Completely control and hold the Kingdom of Syria
+Found the Siam Kingdom	
+ Gain the Kingdom of Siam title
+ Duchy of Sukhothai becomes de jure part of Kingdom of Siam
+ Duchy of Lop Buri becomes de jure part of Kingdom of Siam
+ Every other held duchy title in the Thailand region becomes de jure part of Kingdom of Siam
+ +200 Fame
+ 350
+ 1000
+ 100
+Yes Realm capital is in the region of Thailand
+ Culture has Tai heritage
+Yes Character is Top Liege
+Yes King or below
+ Duke of Sukhothai
+ Hold or have a vassal hold Duchy of Lop Buri title
+Yes Completely controls the Duchy of Sukhothai and Duchy of Lop Buri
+Establish the Darussalam	
+ Gain the Kingdom of Brunei title
+ Duchy of Barune becomes de jure part of Kingdom of Brunei
+ Duchy of Santubong becomes de jure part of Kingdom of Brunei
+ County of Berau becomes de jure part of Duchy of Barune
+ +250 Renown
+Yes Unlocks decision to form the Empire of Brunei
+ 350
+ 1000
+Yes Realm capital is in the region of Brunei
+ Culture has Austronesian heritage
+ Islam religion
+Yes Character is Top Liege
+Yes Character is independent
+Yes King or below
+ Duke of Barune
+ Hold or have a vassal hold Duchy of Santubong title
+ Hold or have a vassal hold County of Berau title
+Yes Completely controls the Duchy of Barune and Duchy of Santubong
+Found the Empire of Brunei	
+ Gain the Empire of Brunei title
+ Gain the Pious nickname
+ Kingdom of Brunei becomes de jure part of Empire of Brunei
+ Kingdom of Tanjungnagara becomes de jure part of Empire of Brunei
+ Duchy of Sandao becomes de jure part of Kingdom of Brunei
+ County of Sulu becomes de jure part of Duchy of Barune
+ +1000 Renown
+ 600
+ 2250
+Yes Realm capital is in the region of Brunei
+ Culture has Austronesian heritage
+ Islam religion
+ County of Brunei shares the character's faith
+Yes Character is Top Liege
+Yes Character is independent
+Yes King
+ King of Brunei
+ Hold or have a vassal hold Duchy of Sandao title
+ Hold or have a vassal hold County of Sulu title
+Yes Completely controls the Kingdom of Brunei, Kingdom of Tanjungnagara, Duchy of Sandao and County of Sulu
+Found the Majapahit Empire	
+ Gain the Empire of Majapahit title
+ Kingdom of Yavakadvipa becomes de jure part of Empire of Majapahit
+ If held, Duchy of Palembang becomes de jure part of Kingdom of Yavakadvipa
+ If held, County of Madura becomes de jure part of Duchy of Mataram
+Your dynasty gains the Guiding Stars of Java modifier, giving the following effects:
+ +5% Monthly Piety
+ +5% Monthly Prestige
+ +5% Legitimacy Gain
+Choice of the following:
+ Gain the Brave nickname, Blessing of Merapi modifier for 15 years, and claim on a random duchy that is created and not held by you or your duchy, and that you don't have a claim on, within the following: Tanjungpura, Nan Sarunai, Kutai, Jambi, Minangkabau, Riau, Aceh, Luwu, Tompotika, Konawe
+ Gain the Meticulous nickname and Blessing of Dewi Sri modifier for 15 years
+ 1500
+ 1000
+Yes Realm capital is in the region of Majapahit
+ Culture is Javanese or has Javanese as a parent culture
+ Faith belongs to the Dharmic religious family
+Yes Character is Top Liege
+Yes Character is independent
+Yes King
+ King of Yavakadvipa
+ Hold or have a vassal or tributary hold the Duchy of Palembang title
+ Hold or have a vassal or tributary hold the Duchy of Taruma title
+ Hold or have a vassal or tributary hold the Duchy of Mataram title
+ Hold or have a vassal or tributary hold the County of Madura title
+Yes Completely controls the Kingdom of Majapahit, Kingdom of Tanjungnagara, Duchy of Sandao and County of Sulu
+Form the Cossack Kingdom	
+ Gain the Cossacks title
+ Duchy of Tana becomes de jure part of the Cossacks
+ Duchy of Don Valley becomes de jure part of the Cossacks
+ Duchy of Itil becomes de jure part of the Cossacks
+ Duchy of Levedia becomes de jure part of the Cossacks
+ Duchy of Red Levedia becomes de jure part of the Cossacks
+ Create a Cossack hybrid culture with Kazak
+ Evry held de jure county of the Cossacks adopts Cossack culture
+Yes Government becomes Tribal
+ 350
+ 1000 Prestige
+Yes Is independent
+Yes Has a Nomadic government
+Yes Has Adventurer trait
+ Level of Fame is at least Illustrious
+ Culture has West Slavic, East Slavic, South Slavic, Turkic or Tungusic heritage
+Yes Completely control the duchies of Tana and Don Valley
+Yes Completely control one of Itil, Levedia or Red Levedia
+Restore Carantanian Rule	
+ Gain Kingdom of Carantania title
+ Duchy of Krain becomes de jure part of Kingdom of Carantania
+ Duchy of Carinthia becomes de jure part of Kingdom of Carantania
+ Duchy of Steyermark becomes de jure part of Kingdom of Carantania
+Yes Capital gains the Home of the Carantanians modifier for 100 years
+ 500
+Yes Is independent
+No Must not be King, Emperor or Hegemony rank
+ Level of Fame is at least Illustrious
+ Carantanian culture
+Yes Completely control the duchies of Krain, Carinthia and Steyermark
+ Is either Duke of Krain, Carinthia or Steyermark
+Form the Kingdom of Cumbria	
+ Gain Kingdom of Cumbria title
+ Duchy of Galloway becomes de jure part of Kingdom of Cumbria
+ Counties of Lanarkshire becomes part of the Duchy of Galloway
+ Duchy of Cumbria becomes de jure part of Kingdom of Cumbria
+ Counties of Annandale, Westmorland and Cumbria becomes part of the Duchy of Cumbria
+Yes House gains the Rulers of Cumbria modifier for 100 years
+Yes Gain an army of 2000 men in capital
+ 300
+Yes Is independent
+No Must not be King, Emperor or Hegemony rank
+ Level of Fame is at least Illustrious
+ Cumbrian culture
+Yes Completely control the Cumbrian Lands region
+Restore Carthage	
+ Gain the Carthaginian Empire title
+ Kingdoms of Carthage, Tripolitania, Mauretania and Carthago Nova become de jure part of the Carthaginian Empire
+ Duchies of Tunis, Gabes, Kairouan, Kroumerie, Jerid, Sicily and Sardinia becomes part of the Kingdom of Carthage
+ Duchies of Tripolitania and Syrte becomes part of the Kingdom of Tripolitania
+ Duchies of Bejaia, Zab, Alger, Tlemcen and Rif becomes part of the Kingdom of Mauretania
+ Duchies of Sevilla, Granada, Murcia, Valencia becomes part of the Kingdom of Carthago Nova
+Yes House gains the Carthaginian Rulers modifier for 100 years
+ 1200
+ +1000 Renown
+Yes Is independent
+No Must not be Emperor or Hegemony rank
+ Level of Fame is at least Exalted Among Men
+ Syriac heritage or Mashriqi culture
+Yes Completely control Carthage, Tripolitania, Mauretania and Carthago Nova regions
+Minor decisions
+The following decisions have a cooldown and do not affect the world at large.
+
+Decision	Effect	Cost	Requirements	Cooldown
+Search for Physician	
+ Gain the option to hire one of the following  Court Physicians within two weeks:
+A character with 5-10  Learning
+A character with 10-15  Learning
+A character with 1-15  Learning and the  Wise Man or  Mystic trait if they're in the capital county
+A character with 15  Learning if the character taking the decision has at least 15  Learning
+None	None	 1 year
+Search for Caravan Master	Your servants will suggest a number of suitable candidates for the position of  Caravan Master	
+ 30 Good Choice or
+ 100 Great Choice
+No Caravan Master	 1 year
+Search for Wet Nurse	Your servants will suggest a number of suitable candidates for the position of  Wet Nurse	None	
+No Wet Nurse
+Yes Have a Child or Warden
+ 1 year
+Search for Tax Collectors	Up to three  Characters of various skill will join your Court	
+ 30
+ 100
+Yes Clan Government
+ 10 years
+Develop Capital	
+ +0.2 Monthly Development in Realm Capital for 5 years
+ +80 Stress
+None	 Diligent trait
+Yes Adult
+Yes At peace	 5 years
+Revoke False Conversion	
+Yes Convert back to the original faith
+Yes If independent all owned falsely-converted counties convert back to the original faith
+ If independent all owned falsely-converted counties gain the Relieved Crypto-Religionists modifier for 25 years, giving the following:
+ +30 Popular Opinion
+ If independent all owned falsely-converted counties lose the Suspected False Converts modifier
+ +35 Stress if Cynical
+ 250	
+Yes Adult
+Yes False convert
+No Head of faith
+No Zealous trait
+No Accuse the Krstjani of Heresy decision
+ 20 years
+Introduce a New Fashion at Court	Starts a new fashion trend at court	
+ 30
+ 150
+Royal Court Royal Court DLC
+Yes At peace
+Yes One of the following:
+Has a royal court with level 4 fashion amenities
+Liege has a royal court with level 4 fashion amenities
+No Faith with Natural Primitivism tenet
+No King of Fashion
+No Already have a fashion trend at court
+ 5 years
+Expand Cities	
+ Every city holding within a county of your personal domain gains +1 building slot
+ No effect for city holdings that already have 5 building slots
+ 75 * (number of city holdings + 1)	
+DLC Fate of Iberia.png Fate of Iberia DLC
+Yes Has dynasty with the 5th legacy of the Metropolitan track
+ City holding in realm has less than 5 building slots
+ 50 years
+Have the Realm Embrace Local Tradition	
+ Adopts the culture of the realm capital
+ 20% chance for each vassal to convert to the character's culture
+ Gain the Embraced Local Traditions permanent modifier
+ Convert to the realm capital's religion if different
+ 300	
+Yes At peace
+Yes Independent
+ Norse culture
+ Realm capital has a different culture
+No Realm capital is in the Northern Europe region
+ Lifetime
+Commission Artifact	
+Seek out a local artisan to create a new personal or court artifact of your choice
+Court artifacts can only be created if you have an active royal court
+ ≥100	
+Yes Count or higher
+Yes Antiquarian at court
+ 5 years
+Commission Legend Artifact	
+Your  Antiquarian or  Court Chronicler will produce a book to commemorate your  Legend
+Court artifacts can only be created if you have an active royal court
+ 800 Mythical Legend
+ 600 Illustrious Legend
+ 400 Famed Legend
+DLC Legends of the Dead.png Legends of the Dead DLC
+Yes Duke or higher
+Yes Completed a Legend
+ 5 years
+Celebrate Other Cultures	
+All counties of different cultures with at least 75% cultural acceptance gain the Celebrated Culture modifer for 10 years:
+ -15% Building Construction Cost
+ +0.3 Monthly Development
+ +0.3 Monthly Control Change
+ +5 Defender Advantage
+ 30 + 10 for every eligible county	
+Royal Court Royal Court DLC
+Yes Dynasty has "Side-by-Side" Customs legacy
+No All other cultures have 75 cultural acceptance with realm's culture
+ 10 years
+Revoke Holy Order Lease	
+ Take a barony title from the holy order
+ -40 Opinion with the holy order grandmaster
+ -20 Opinion with the head of faith if one exists
+ 500	
+Yes Adult
+Yes At peace
+Yes Own the de jure county of a holy order barony
+None
+Submit to the Great Khan	
+ Become a vassal of the Mongol Empire
+War outcome white peace.png All defensive wars end in white peace
+None	
+Yes Independent
+Yes Mongol Empire borders the realm
+No Title rank is emperor
+None
+Return Roma	
+Yes The pope gains the County of Roma title
+ +250 Piety
+ +20 Opinion with the pope
+ +10 Stress if character has the Ambitious trait
+ +30 Stress if character has the Cynical trait
+None	
+Yes Independent
+ Own the County of Roma title
+ Catholicism faith
+None
+Integrate English Duchy	
+ If owning England all controlled Danelaw duchies become de jure part of Kingdom of England
+ If owning Danelaw all controlled England duchies become de jure part of Kingdom of Danelaw
+ -30 Opinion with holder of the Kingdom of England title if owning Kingdom of Danelaw
+ -30 Opinion with holder of the Kingdom of Danelaw title if owning Kingdom of England
+ 500	
+Yes Adult
+Yes At peace
+ Negotiate the Danelaw decision happened
+ Own Kingdom of England or Kingdom of Danelaw
+ Control a Duchy from the other kingdom
+Yes Kingdom of England and Kingdom of Danelaw exist
+ 5 years
+Amnesty for False Conversions	
+Vassals, guests, courtiers and owned counties will convert to their original faith if they practice the same faith in secret.
+If  Pluralist, vassals, guests and courtiers will convert if original faith has equal or less faith hostility than the false faith and they are not  Deceitful,  Paranoid,  Zealous or head of the false faith
+If  Pluralist and independent, owned counties will convert if original faith has equal or less faith hostility than the false faith
+ If independent all owned falsely-converted counties gain the Relieved Crypto-Religionists modifier for 25 years, giving the following effects:
+ +30 Popular Opinion
+ If independent all owned falsely-converted counties lose the Suspected False Converts modifier
+ +10 Stress if Honest or Trusting
+ +30 temporary Opition with converted characters
+ 250	
+Yes Adult
+ Below 20 Dread
+No Tyranny
+No Zealous trait
+Yes If no vassal or owned county practices the same faith in secret then:
+ Pluralist doctrine
+Yes Original faith has equal or less faith hostility than false faith
+ 10 years
+Spread the Theravada Faith	
+You ponder how best to convert the populace...
+Begins an Event Chain and depending on specific options selected, gain the Ruthless nickname
+ 90
+ 750
+ 250
+ King or Emperor
+ Theravada faith
+ At least one Powerful Vassal must have  Ari faith
+Yes At least one of these:
+ Burmese
+ Mon
+ Illustrious Level of Fame
+ Faithful Level of Devotion
+ 1 year
+Favor Skilled Outsiders	
+ You hire skilled Characters from outside your Council's ruling Cultures
+ Chancellors in the form of Eloquent Captains
+ Court Chaplains in the form of Dedicated Functionaries
+ Marshals in the form of Career Soldiers
+ Spymasters in the form of Cunning Officials
+ Stewards in the form of Skilled Administrators
+ Lowborns in the form of Fringe Nobility
+You will be able to choose between two batches of potential recruits
+ Every Courtly vassal that does not share your Heritage:
+ 40 Opinion Loss
+Every landless Councillor that does not share your Heritage:
+ 30 Opinion Loss
+Every non-Courtly Vassal that does not share your Heritage:
+ 20 Opinion Loss
+ 300 for Emperors
+ 225 for Kings
+ 150 for Dukes
+ 35 for Counts
+ Any member of your Council must have ≤ 15 associated skill level
+Yes Any Sub Realm County does not share your Cultural Heritage
+ Any Sub Realm County does not share Cultural Heritage with any member of your Council
+Yes At least one of these:
+ You have the Meritocracy Perk
+ Your government type is Clan
+ Your culture has the Egalitarian Cultural Pillar
+Yes At least two of the following must be true
+ You have the Calm Trait
+ You have the Humble Trait
+ You have the Ambitious Trait
+Yes Your Realm Size is ≥ 24 counties
+ 25 years
+Train for a Tournament	
+You and your  Knights will sharpen your skills. If successful, this will raise your  Prowess for the martial events of an upcoming  Grand Tournament.
+ +1 Prowess if you have ≥ 16  Prowess
+Yes Chance to gain the  Strong Trait
+ +1 Prowess if you have ≤ 16  Prowess
+Yes Gain the Well Trained modifier for 10 years which improves your chance to progress to victory
+ -2000 Prestige Cost to reform your  Culture to embrace the Chivalry tradition
+ 150	
+DLC Tours and Tournaments.png Tours and Tournaments DLC
+ Have a Marshal
+Yes Have an upcoming Grand Tournament hosted within Diplomatic Range
+ 10 years
+Embellish Capital	
+You may choose a suitable architect from your  as well as a project to pursue. This will greatly benefit your  Capital  County, and may additionally provide bonuses such as ,  Piety, or  Renown.
+Yes Choose among the following to lead the project:
+ Royal Architect
+ A random Courtier
+ Court Chaplain
+ Yourself
+Yes You can also plunder a county conquered within the last 10 years and it will gain the Extorted and Plundered modifier for 30 years giving the following:
+ -40 Development Growth
+ -20 Popular Opinion
+Begins the Embellish Capital event chain
+ 75-500	
+ Splendor Reborn Dynasty Legacy
+Yes At least one of these:
+ You have recently conquered a  County you can plunder
+ 500 Gold
+ 30 years
+Steer House Unity	
+Yes Choose Unity Direction
+ Steer House towards Harmonious
+ +10 House Unity
+ +4 Yearly House Unity for the next 10 years
+ Steer House towards Antagonistic
+ -10 House Unity
+ -4 Yearly House Unity for the next 10 years
+ 200	
+Yes Clan Government
+ House Head
+ Cannot steer towards Harmonious if already Harmonious
+ Cannot steer towards Antagonistic if already Antagonistic
+ 10 years
+Perk decisions
+The following decisions are unlocked by certain lifestyle perks. If DLC Fate of Iberia.png Fate of Iberia DLC is installed some of them can also be unlocked by the Iberian Struggle.
+
+Decision	Effect	Cost	Requirements	Cooldown
+Commission Epic	
+ Choose who shall write the epic:
+Storyteller costs most  Gold and has a 80% chance to produce an exceptional chronicle
+Scribe costs moderate  Gold and has a 50% chance to produce an exceptional chronicle
+Servant costs least  Gold and has a 30% chance to produce an exceptional chronicle
+Artifact chronicle.png Starts the Commission Epic story
+ Scaled	 Writing History perk or Iberian Struggle is in the Opportunity phase	 10 years
+Sell Trivial Titles	
+ Scaled Gold
+ One of the following happens in 5 days:
+Gain random  Gold,  Prestige and a  Weak Hook on a vassal
+Gain random  Gold and reduce a powerful vassal's feudal taxes
+Lose random  Prestige and 30  Opinion with a vassal
+Choose to gain random  Gold or random  Prestige
+Choose to gain random  Gold or random  Renown
+Choose to lose random  Prestige or 30  Opinion with a powerful vassal
+ 500	 At Any Cost perk or Iberian Struggle is in the Opportunity phase	 5 years
+Extort Subjects	
+ Two events to gain gold in exchange for penalties will take place within the next 5 days
+ +60 Stress if the character has the Generous trait
+None	 It is MY Domain perk	 5 years
+Local Arbitration	
+ +50 Legitimacy
+ +10 Popular Opinion in realm capital for 10 years
+ -10 Danger in realm capital for 10 years
+ 33% Chance realm capital gains the Hampering Corruption modifier for 10 years, giving the following effects:
+ +25% Holding Taxes
+ 33% Chance realm capital gains the Inspired Levies modifier for 10 years, giving the following effects:
+ +15% Levy Size
+ +15% Levy Reinforcement Rate
+ 33% Chance realm capital gains the Investing in Development modifier for 10 years, giving the following effects:
+ +0.05 Monthly Development
+ +15% Development Growth
+ Scaled	Node wandering.png Arbitration perk	 5 years
+Royal court decisions
+Royal Court	Available only with the Royal Court DLC enabled.
+The following decisions are only available to rulers who have a Royal Court.
+
+Decision	Effect	Cost	Requirements	Cooldown
+Find Court Language Linguist	
+Yes Gain a Court Tutor, replacing the existing tutor if one exists:
+An expensive tutor with 10-14  Learning
+An average tutor with 6-10  Learning
+A free tutor with 3-7  Learning, requires the  Greedy trait
+A free tutor with 10-14  Learning and  Scholar trait, requires the  Scholar trait
+Tab intrigue.png Start a Learn Language scheme with the Court Tutor
+None	Yes Age 6 or older
+Yes Culture head exists for a culture with the court language
+No Busy with an activity
+No Court Language is same as own culture's language
+No Any courtier in court that knows the court language
+NoTab intrigue.png Learn Language Learn Language scheme in progress	 2 years
+Order Mass Eviction	
+Yes All Guests leave court
+ -30 Stress if the character has the Shy trait
+ +80 Stress if the character has the Gregarious trait
+Yes If Lodgings amenities is at level 1 can choose to evict all unimportant courtiers at double the prestige cost
+ 350	Yes Any guest
+Icon amenity lodgings.png Level 1-3 Lodgings amenities	 20 years
+Exoticize A Grand Hall	
+ +30 Opinion with a King or Emperor
+ +50 Prestige per Court Grandeur spent
+ -15 Stress if the character has the Architect trait
+ -30 Stress if the character has the Humble trait
+ +80 Stress if the character has the Arrogant trait
+ Scaled
+ Scaled
+Icon amenity lodgings.png Level 5 Lodgings amenities
+Royal court.png Another Royal Court within Diplomatic Range	 10 years
+Roman decisions
+Roman decisions are only available to the Byzantine Empire or Roman Empire.
+
+Decision	Effect	Cost	Requirements	Cooldown
+Dismantle German Pretenders	
+ Start a war against the Holy Roman Empire that cannot end in White Peace
+ 2000	
+Yes Adult
+Yes Independent
+Yes At peace
+ Byzantine Emperor or Roman Emperor
+Yes Another character is Holy Roman Emperor
+Yes Control the region of Italia
+Yes Control Brabant, Jülich, Luxembourg, Lower Lorraine and Upper Lorraine
+ The Living Legend Level of Fame
+ Latin or Byzantine heritage
+Restore the Roman Empire	
+ Replace all held empire titles with Roman Empire and unlock its mechanics
+ Gain the Glorious nickname
+None	
+Yes Adult
+No Is not imprisoned
+ The Living Legend Level of Fame
+Yes Independent
+Yes Feudal, Clan or Administrative government
+Yes Hold or control the following titles: Duchies of Latium, Venice, Romagna, Sicily, Genoa, Capua, Apulia, Thrace, Antioch, Palestine, Alexandria, Athens, Tunis, Croatia, and Thessalonika
+Yes One of the following
+ Owns the Byzantine Empire or the Holy Roman Empire and one of the following:
+YesReligion is Abrahamic
+ Religion is Greco-Roman
+ Culture has Latin heritage
+ Culture has Eastern Roman heritage
+Owns the Empire of Italia and all of the following:
+Has taken the "Unify Italy"" decision
+ Culture has Latin heritage
+Re-Establish the Theodosian Borders	
+ Gain the trait Augustus
+ Gain the Great nickname
+ +750 Influence
+ All kingdom titles in the Theodosian Eastern Empire region become de jure part of the Byzantine Empire
+ +600 Legitimacy
+Yes Culture has the Roman Ceremonies tradition:
+ May use the Hold a Triumph decision for free
+DLC Legends of the Dead.png Gain a  Legitimizing Legend Seed
+ +2500 Renown
+(unrecognized string “byzantine eagle positive” for Template:Icon) Dynasty gains the Reinstated the Theodosian Borders permanent modifier, giving the following effects:
+ +20% Monthly Influence
+Every Administrative vassal:
+ +20 Opinion
+ 1000	
+Roads to Power Roads to Power DLC
+ Byzantine Emperor
+Yes Administrative government
+Yes Completely controls the region of Theodosian Eastern Empire
+Yes Holds or is the liege of vassals with these titles if created:
+Hold a Triumph	Begins the triumph event chain	
+Yes Administrative government
+ 100 Gold
+ 50 Influence if a war has been won recently
+ 250 Influence if no war has been won recently
+No Administrative government
+ 200 Gold if a war has been won recently
+ 400 Gold if no war has been won recently
+Roads to Power Roads to Power DLC
+Yes At peace
+One of:
+ Byzantine Emperor
+ Roman Emperor
+Yes Culture has Roman Ceremonies tradition
+Yes Healthy adult
+ 10 years
+Evangelize the Pagans	
+If the neighboring ruler accepts:
+Yes Neighboring Ruler converts to your faith
+Yes Neighboring Ruler becomes your ally
+DLC Legends of the Dead.png You gain a  Holy Legend Seed
+ +100
+ +350
+If the neighboring ruler rejects:
+ +60
+ +150
+ 500	
+Roads to Power Roads to Power DLC
+ Christian Religion
+One of:
+ Byzantine Emperor
+Yes Vassal of the Byzantine Emperor
+Neighbor:
+Yes Unreformed  Pagan faith
+Yes At peace
+No Has violently refused a conversion attempt before
+ 10 years
+Reconfirm the Grain Dole	
+(unrecognized string “chariot race” for Template:Icon) May host a Chariot Race activity for half the cost
+ Every county in the region of Aegyptus with Granaries gains Granary of New Rome modifier for 25 years, giving the following effects:
+ +20% Holding Taxes
+(unrecognized string “treat positive” for Template:Icon) County of Byzantion gains Panem et Circenses modifier for 25 years, giving the following effects:
+ +5% Development Growth per Granaries in Aegyptus up to 10 Granaries
+ +10 Popular Opnion per Granaries in Aegyptus up to 10 Granaries
+ +3 Plague Resistance per Granaries in Aegyptus up to 10 Granaries
+ +100 Legitimacy
+ +2250 Prestige
+ +450 Influence
+ 750 Gold	
+Roads to Power Roads to Power DLC
+ Byzantine Emperor
+Yes Reinstate the Grain Dole decision
+Yes Administrative government
+Yes Capital is the County of Byzantion
+No County of Byzantion has Panem et Circenses modifier
+Yes Completely controls the region of Aegyptus:
+Yes 3 counties with Granaries (level 5 Farms & Fields) in the region of Aegyptus
+Courtier decisions
+Courtier decisions are used to recruit additional characters to the court.
+
+Decision	Effect	Cost	Requirements	Cooldown
+Recruit for a Court Position	Yes Choose an empty court position and receive 2-4 characters with relevant skills or traits	 Scaled	No All court positions filled	
+Invite Knights	
+ 3 men with 12+ Prowess arrive as guests within the next 3 years if faith has the Male Dominated doctrine
+ 3 characters with 12+ Prowess arrive as guests within the next 3 years if faith has the Equal doctrine
+ 3 women with 12+ Prowess arrive as guests within the next 3 years if faith has the Female Dominated doctrine
+DLC Tours and Tournaments.png If Tours and Tournaments is installed they have a 60% chance of having the Hastiluder trait
+ 150	
+None
+ 10 years
+Invite Claimants	Yes 1-3 characters with relevant claims will arrive as guests within the next 5 years	
+ 150 if  Count
+ 350 if  Duke
+ 750 if  King
+ 1500 if  Emperor
+ Title rank is at least duke
+ 10 years
+Restore Accolades	
+ Men who meet the accolade requirements arrive as guests within 1-2 months if faith has the Male Dominated doctrine
+ Characters who meet the accolade requirements arrive as guests within 1-2 months if faith has the Equal doctrine
+ Women who meet the accolade requirements arrive as guests within 1-2 months if faith has the Female Dominated doctrine
+ 100 if  Count
+ 125 if  Duke
+ 150 if  King
+ 200 if  Emperor
+ Inactive accolade
+ Title rank is at least duke
+No Tribal
+ 10 years
+Scrape the Barrel	Yes Recruit a lowborn character with an illness, crime or negative physical or genetic trait to fill a vacant court position	 150	 Court Grandeur 4 or lower	 2 years
+Struggle decisions
+DLC Fate of Iberia.png	Available only with the Fate of Iberia DLC enabled.
+Struggle decisions are only available to characters who are present within the Iberian Struggle region.
+
+Decision	Effect	Cost	Requirements
+Sponsor Jewish Sciences	
+ Gain the Sponsored Golden Age modifier for 120 years, giving the following effects:
+ +35% Cultural Fascination Progress
+ +15% Monthly Renown
+ +10 opinion with different faiths
+ Capital county gains the Epicenter of Golden Age modifier for 60 years, giving the following effects:
+ +5% Monthly Development Growth
+ Cultural heads from other Involved cultures gain the Present During Golden Age modifier for 120 years, giving the following effects:
+ +20% Cultural Fascination Progress
+Yes Within a month gain one of the following:
+ Character with a max level Novice Physician trait
+ Option to pay gold in exchange for a skill boost
+ Choice between a courtier with the Theologian trait and one with the Scholar trait
+ Choice between a courtier with the Theologian and Scholarly Courtier traits and one with the Scholar and Diplomatic Courtier traits
+ 675	
+Yes Independent
+ Involved in the struggle
+Struggle iberia phase conciliation.png Conciliation struggle phase
+Yes Culture head or positive opinion with them
+No Sponsored Golden Age modifier
+Build Pilgrim Roads	
+ One of the faith's holy sites within the realm gains the Pilgrim Roads county modifier for 50 years, giving the following effects:
+ -20% Building Construction Piety Cost
+ -50% Temple Building Construction Time
+ +15% Domain Taxes
+ +10% Monthly Development Growth
+Yes One of the following events will occur within 5 years:
+Can recruit a free knight, discount on hiring Holy Order, or gain piety
+Gain Learning lifestyle XP, recruit a courtier with Theologian or Architect trait, or give gold for piety
+Head of Faith awards you piety, a Holy Order discount, or a holy trinket
+ 100-750	
+Yes Independent
+ Involved in the struggle
+Struggle iberia phase conciliation.png Conciliation struggle phase
+Yes Holy site in realm without the Pilgrim Roads modifier
+Iberian Foothold	
+ Ends the Iberian Struggle
+ Any held kingdom title in Iberia where 50% of counties follow the same faith becomes de jure part of the primary title
+None	
+ Emperor
+ Uninvolved in the struggle
+Yes Iberian struggle is Hostility or Opportunity phase
+ Held a kingdom in Iberia for at least 15 years
+ Hold a kingdom in Iberia where 50% of counties have the same faith
+Mechanics
+Characters	Characters • Attributes • Traits • Resources • Modifiers • Lifestyle • Family • Dynasty • Schemes • Hooks • Activities • Artifacts • Interactions • Travel • Adventurers • Prisoners
+Realm & Governance	Council • Court • Power sharing • Subjects • Succession • Government • Laws • Decisions • Titles • Barony • County • Buildings • Royal court • Domiciles • Great projects
+Warfare	Warfare • Casus belli • Alliance • Army • Hired forces • Knights • Duel • Situations
+Culture & Faith	Culture • Traditions • Innovations • Form of Address • Faith • Doctrines • Tenets • Holy sites
+Meta	Modding • Patches • Downloadable content • Developer diaries • Achievements • Jargon • Bookmarks • Interesting characters • Ruler Designer • Game rules
+Categories: Potentially outdated1.18Pages with unrecognized icon stringsPages with broken file linksRealm
+About CK3 WikiMobile view
+Attribution-ShareAlike 3.0Powered by MediaWiki
+
+Games
+Discover
+Our Brands
+Browse
+Play on Paradox technology
+Community
+Paradox Forums
+Paradox Wikis
+Support
+About
+News
+About us
+Careers
+Join our playtests
+Media contact
+Social Media
+Legal Information
+EU Online Dispute Resolution
+Report Illegal Content
+
+
+Paradox Wikis
+CK3 Wiki
+
+Search
+Search CK3 Wiki
+Log in
+Navigation menu
+PageDiscussion
+ReadEditEdit sourceView history
+Crusader Kings III Wiki
+Recent changes
+Random page
+Paradox Wikis
+- Main portal
+- Wikis discord
+- Contact us
+- Style guidelines
+CK3 links
+- Forums
+- Game discord
+- Mods
+- Store
+- YouTube
+Tools
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+ 
+Adventurer decisions
+Jump to navigationJump to search
+Please help with verifying or updating older sections of this article.
+At least some were last verified for version 1.18.
+
+This article is for the PC version of Crusader Kings 3 only.
+
+Roads to Power
+Available only with the Roads to Power DLC enabled.
+Nav top.png
+Crusader Kings III
+List of Decisions
+Character decisions
+Ruler decisions
+Roads to Power Adventurer decisions
+The following decisions can only be taken by adventurers.
+
+
+Contents
+1	Major decisions
+2	Minor decisions
+3	Hasan Story decisions
+Major decisions
+Major decisions leave a permanent mark on the world and notify all rulers which may be affected by the decision.
+
+Decision	Effect	Cost	Requirements
+Found a Holding	
+Holding castle.png Start constructing a Castle holding in the camp's barony
+ Every 4-6 months gain the option to pay for additional constructions regardless of barony terrain
+Building watermills.png With 18+ Stewardship can choose to pay for a Watermills building of level 1 or 3
+Holding castle.png With level of fame or devotion at 3 can choose to pay to upgrade the Castle to level 2 or 3
+Building farm estates.png With 40+ Opinion with the county holder can choose to pay for a Manor Houses building of level 1 or 3
+ When construction is completed gain a choice between 2000 Prestige or starting a war to gain the county
+ 400	
+ Barony does not have a holding
+ City Planning innovation
+ 10+ opinion with the realm's Top Liege
+At least 3 of the following:
+ 1000
+ Devoted Servant Level of Devotion
+ Illustrious Level of Fame
+ Architect
+ Stewardship 18
+No Currently building a holding
+Become a Great Conqueror	
+Triggers the event for the Conqueror Trait once landed.
+Gain a non-inheritable army that spawns at your camp location consisting of:
+200 Retinue Vanguard
+100 Retinue Lancers
+400 Retinue Archers
+Gain a Pressed Claim on the top tier Non-Emperor title of the Domain your Camp is in
+Starts a War with the Landless Adventurer Invasion CB (If Kingdom title) or Claim CB (if not Kingdom Title) against title holder
+DLC Legends of the Dead.png With Legends of the Dead:
+Gain The Greatest Conqueror Heroic Legend Seed
+ 5000	
+Rules.png Conquerors: Frequency game rule was not set to None
+At least 8 of the following:
+ 22 Martial
+ The Living Legend level of fame
+Yes Participated in 20 wars
+Yes Participated in 5 wars against Kings or Emperors
+Yes 4000 Men-at-Arms
+Yes killed 12 characters
+ Have completed 20 Stand With Me or Raid for Captives contracts
+Both of:
+ Strategist
+ Gallant
+At least one of the following:
+Two commander traits
+ 28 Martial
+At least one of the following:
+ 6 Knights with 18 Prowess
+ 12 Knights with 12 Prowess
+No Taken this decision before
+Champion of Culture	
+ Gain a Pressed Claim on the duchy where the camp is in
+Default cb.png Can start a war against the duchy's title holder with the Claim casus belli and gain the following:
+ +10% Men-at-Arms Damage for 15 years
+ -50% Siege Phase Time for 15 years
+ 4000 levies
+ 600 Handpicked Faithful
+Yes Can instantly get the duchy where the camp is in by meeting 3 of the following requirements:
+ Noble spouse
+Yes Same faith as the camp's county
+Yes Friend or lover with the duchy's top liege
+Yes Higher level of fame than the duchy's top liege
+ Hook on the duchy's top liege
+ 500
+ 2000
+ Same culture as the camp's county
+ Different culture as the camp's duchy holder
+ Camp's duchy holder is a vassal of another ruler
+ Illustrious level of fame
+No Populist Leader
+No Taken this decision before
+The Champion of the Lion	
+Trait knight of the lion.png Gain the Champion-Errant trait
+Artifact armor 3.png Gain the Golden Coat of the Lion armor artifact
+ Gain "The Knight of the Lion" legend seed
+Modifier bird positive.png House gains the Swansong permanent modifier
+ Choice between the Courteous Knight or Valiant Knight permanent modifiers
+If the character has the  Bandits' Benefactor modifier it is removed
+ 2000	
+Yes Camp is in Africa
+ Exalted Among Men level of fame
+Camp purpose mercenaries.png Swords-for-Hire camp purpose
+ Completed 10 Martial or Prowess Contracts of no Criminal nature
+No Gallowsbait trait
+No Taken this decision before
+The Champion of the Tiger	
+Trait knight of the tiger.png Gain the Bushi-Errant trait
+Artifact armor 3.png Gain the Golden Coat of the Tiger armor artifact
+ Gain "The Knight of the Tiger" legend seed
+Modifier bird positive.png House gains the Swansong permanent modifier
+ Choice between the Courteous Knight or Valiant Knight permanent modifiers
+If the character has the  Bandits' Benefactor modifier it is removed
+ 2000	
+Yes Camp is in Asia
+ Exalted Among Men level of fame
+Camp purpose mercenaries.png Swords-for-Hire camp purpose
+ Completed 10 Martial or Prowess Contracts of no Criminal nature
+No Gallowsbait trait
+No Taken this decision before
+The Knight of the Swan	
+ Gain the Knight-Errant trait
+Artifact armor 3.png Gain the Golden Coat of the Swan armor artifact
+ Gain "The Knight of the Swan" legend seed
+Modifier bird positive.png House gains the Swansong permanent modifier
+ Choice between the Courteous Knight or Valiant Knight permanent modifiers
+If the character has the  Bandits' Benefactor modifier it is removed
+ 2000	
+Yes Camp is in Europe
+ Exalted Among Men level of fame
+Camp purpose mercenaries.png Swords-for-Hire camp purpose
+ Completed 10 Martial or Prowess Contracts of no Criminal nature
+No Gallowsbait trait
+No Taken this decision before
+The Travels of <Player>	
+Choice between perks in the current lifestyle or a travels journal artifact
+If choosing lifestyle perks, every 8 visited points of interest give 1 lifestyle perk
+ 500
+ 1500
+Yes Visited 26 points of interest
+At least 2 of the following:
+Yes Visited 42 points of interest
+ Exalted Among Men level of fame
+ 60 Traveler trait experience in Wanderer
+No Taken this decision before
+The Faith Path - Ascension	
+ If not Zealous gain the trait but also 40 Stress
+ Unlocks the The Faith Path - Prelude decision
+ 2500	
+At least 2 of the following:
+ Completed pilgrimages to at least two holy sites
+ Theologian
+ Paragon of Virtue level of devotion
+Yes Camp's county has the same faith
+Yes Camp's county ruler has the same faith
+Yes Camp's county is a holy site for its faith
+No Cynical
+No Taken this decision before
+The Faith Path - Prelude	
+ Gain the Missionary nickname
+ Chance to convert the faith of the country where the camp is located
+Failing gives 5-30  Stress
+Failing gives -75  Opinion with the realm's ruler
+None	
+ Unlocks the The Faith Path - Ascension decision
+ Camp's county has 0-25 Development
+ Camp's county has negative popular opinion
+No Camp's county has the same faith
+No Camp's county is a holy site
+No Camp's county is held by its faith's head of faith
+Levy the Outcasts	
+ Gain the Bandits' Benefactor
+ Gain 100 Looters
+ 50% chance to gain 100 Bandits
+ 50% chance to gain 100 Poachers
+ Gain twice the amount if any Gallowsbait track has 60% experience
+ Gain thrice the amount if four Gallowsbait tracks have 60% experience
+-3 Levels of Fame
+If the character has the  Knight-Errant trait it is removed
+ 500
+ 2000
+At least 3 of the following:
+ Ambitious
+ Schemer
+Trait track bandit.png 40% Gallowsbait trait experience in Bandit
+Trait track marauder.png 40% Gallowsbait trait experience in Marauder
+Trait track poacher.png 40% Gallowsbait trait experience in Poacher
+Trait track thief.png 40% Gallowsbait trait experience in Thief
+Trait track trickster.png 40% Gallowsbait trait experience in Trickster
+No Taken this decision before
+Legacy of House	
+Modifier travel safety positive.png House gains the Adventurer Bloodline permanent modifier
+ Can no longer accept criminal contracts
+ 1000	
+ Exalted Among Men level of fame
+Domicile building pavillion.png Fully upgraded Pavilion camp building
+Yes 15+ followers
+Yes 5+ rulers on the Roll of Patrons
+Yes Completed at least 50 non-criminal contracts
+No Gallowsbait trait
+Designated Terrain	Choose a designated terrain	None	
+Node wandering.png Finding Your Way perk
+ Can only be done once
+Master Terrain	Choose a master terrain	None	
+Node wandering.png King of the Wilds​​ perk
+ Can only be done once
+Desperate Measures - Butcher Animals	
+If any character has the  Pet Cat modifier can choose to eat them, which gives 50  Provisions per modifier but removes them
+If any character has the  Pet Dog modifier can choose to eat them, which gives 75  Provisions per modifier but removes them
+If any character has the  Warhorse modifier can choose to eat them, which gives 150  Provisions per modifier but removes them
+If the camp has the Domicile building kennel.png Kennels upgrade can choose to eat them, which gives 750  Provisions but destroys the upgrade
+If the camp has the Domicile building ample steeds.png Ample Steeds upgrade can choose to eat them, which gives 1250  Provisions but destroys the upgrade
+If the camp has the Domicile building elephantry reserves.png Elephantry Reserve upgrade can choose to eat them, which gives 2500  Provisions but destroys the upgrade
+Gain  Stress unless  Callous
+ 150	
+ 0-500 Provisions
+Yes At peace
+ Can only be done once every 25 years
+Adopt the Nomadic Ways	
+ Government becomes Nomadic
+ Gain the County title where the camp is located
+ 25% of Provisions are converted into Herd
+ 750	Khans of the Steppe Camp's barony owner has Herder government
+Minor decisions
+The following decisions have a cooldown and do not affect the world at large.
+
+Decision	Effect	Cost	Requirements	Cooldown
+Visit Holding	Yes Visits the holding	None		
+Gather Provisions	Yes Attempts to gather provisions	None	No Disease trait	 3 years
+Adopt a Kennel Dog	 Gain a pet dog	None	Domicile building kennel.png Kennels Baggage Train upgrade	 5 years
+Humiliate the Stooge	
+Gain the Humiliated the Stooge modifier for 2 years, giving the following effects:
+ +25% Stress Loss
+ -25% Stress Gain
+Of first use gain +10  Dread, -65  Stress and -25  Opinion with the Stooge
+Of second use gain +20  Dread, -30  Stress and -25  Opinion with the Stooge
+Of third use gain +30  Dread, -15  Stress and -25  Opinion with the Stooge
+Of fourth use gain +30  Dread, the Stooge leaves the camp, and gain the Drove Away the Stooge modifier for 2 years, giving the following effects:
+ +25% Stress Loss
+ -5 General Opinion
+ 20	Stooge camp officer.png Stooge officer	 2 years
+Invite Poets	 3 characters with 14+ Diplomacy will arrive at the camp in a few months	
+ 15
+ 75
+Court poet court position.png Laureate officer	 10 years
+Go Fishing	
+ Lose Stress
+ Chance to gain provisions
+ Chance to gain a friend
+ 1% chance to gain the Calm trait
+ Can pay scaled gold to improve the rewards and success chance
+Yes Coastal or river barony	 2 years
+Hasan Story decisions
+Hasan Story decisions are only available to Hasan Sabbah. They cannot be used while he has a disease trait and are removed if he converts to a different religion.
+
+Decision	Effect	Cost	Requirements
+Evangelize the Faith	
+ Chance the county where the camp is located changes faith to the character's
+ Chance the county where the camp is located gains the Strong Religious Community modifier for 10 years, giving the following effects:
+ -25% Faith Conversion Speed
+ Cannot take the Evangelize the Faith or Agitate the Local Populace decision in the country
+Yes After the decision has been successful 5 times gain an event to travel to Cairo
+ 250	
+Any county in the realm where the camp is located meets the following requirements:
+ 0-25 Development
+ Negative popular opinion
+No Holy site
+No Same faith
+No Title holder is head of faith
+ Can only be done once per month
+Agitate the Local Populace	
+ Chance the county where the camp is located gains the Agitated Populace modifier for 15 years, giving the following effects:
+ -25 Popular Opinion
+ Chance the county where the camp is located gains the Strong Religious Community modifier for 10 years, giving the following effects:
+ -25% Faith Conversion Speed
+ Cannot take the Evangelize the Faith or Agitate the Local Populace decision in the country
+ 250	
+Yes Used the Evangelize the Faith decision 15 times or Caliph al-Mustansir is dead
+Yes Any county in the realm where the camp has different faith
+ Can only be done once per month
+Begin the Revolution	
+ Gain 900 Asawira
+ Gain 1500 Ayyar
+Yes Start a war against the ruler of realm where the camp is located
+ 250	
+Yes Used the Evangelize the Faith decision 15 times or Caliph al-Mustansir is dead
+Yes 5 counties in the realm have the same faith
+ Can only be done once per month
+Yes At peace
+Found the Assassins	
+Holy order government.png Creates the Hashshashin holy order in barony where the camp is located
+ Gain 2 Intrigue
+ Faith gains 10 Fervor
+ Gain the Founded Holy Order modifier for 5 years, giving the following effects:
+ +0.5 Monthly piety
+ +10 Same faith opinion
+ Gain the Old Man of the Mountain nickname
+Yes If the barony where the camp is located does not have a holding it gains one
+Structure hotin fortress.png If the barony where the camp is located does not have a special building it gains the Hashshashin Fortress building
+Structure alamut castle.png If the barony where the camp is located has the Alamut Castle special building it is upgraded to Alamut Fortress
+ 1500	
+Yes Used the Evangelize the Faith decision 15 times or Caliph al-Mustansir is dead
+Yes Barony where the camp is located has the same faith
+ Barony where the camp is located has Mountains or Desert Mountains terrain
+No Barony where the camp is located is a country capital
+No Barony where the camp is located is leased
+Expand the Assassins	Yes The barony where the camp is located is leased to the Hashshashin holy order	 250	
+ Found the Assassins
+Yes Barony where the camp is located has the same faith
+ Barony where the camp is located has Mountains or Desert Mountains terrain
+No Barony where the camp is located is a country capital
+No Barony where the camp is located is leased
+ Can only be done once per month
+Mechanics
+Characters	Characters • Attributes • Traits • Resources • Modifiers • Lifestyle • Family • Dynasty • Schemes • Hooks • Activities • Artifacts • Interactions • Travel • Adventurers • Prisoners
+Realm & Governance	Council • Court • Power sharing • Subjects • Succession • Government • Laws • Decisions • Titles • Barony • County • Buildings • Royal court • Domiciles • Great projects
+Warfare	Warfare • Casus belli • Alliance • Army • Hired forces • Knights • Duel • Situations
+Culture & Faith	Culture • Traditions • Innovations • Form of Address • Faith • Doctrines • Tenets • Holy sites
+Meta	Modding • Patches • Downloadable content • Developer diaries • Achievements • Jargon • Bookmarks • Interesting characters • Ruler Designer • Game rules
+Categories: Potentially outdated1.18Realm
+About CK3 WikiMobile view
+Attribution-ShareAlike 3.0Powered by MediaWiki
+
+Games
+Discover
+Our Brands
+Browse
+Play on Paradox technology
+Community
+Paradox Forums
+Paradox Wikis
+Support
+About
+News
+About us
+Careers
+Join our playtests
+Media contact
+Social Media
+Legal Information
+EU Online Dispute Resolution
+Report Illegal Content

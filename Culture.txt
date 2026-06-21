@@ -1,0 +1,2567 @@
+
+Paradox Wikis
+CK3 Wiki
+
+Search
+Search CK3 Wiki
+Log in
+Navigation menu
+PageDiscussion
+ReadEditEdit sourceView history
+Crusader Kings III Wiki
+Recent changes
+Random page
+Paradox Wikis
+- Main portal
+- Wikis discord
+- Contact us
+- Style guidelines
+CK3 links
+- Forums
+- Game discord
+- Mods
+- Store
+- YouTube
+Tools
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+ 
+Culture
+Jump to navigationJump to search
+This article has been verified for the current PC version (1.19) of the game.
+
+
+Mashriqi culture
+The culture represents the customs and technologies that a character or county uses. Rulers can change a county's culture by ordering their Steward to complete the  Promote Culture task.
+
+Counties will have lowered popular opinion with their direct Liege if they belong to a different culture and especially heritage. Characters can avoid this by granting the county title to a vassal of the same heritage as the target county.
+
+A ruler can convert to the culture of their Realm Capital at the cost of  Prestige, provided that their Court Chaplain endorses them. Every close family member sharing the ruler's culture will adopt the new culture. Vassals sharing the ruler's culture that own counties with the new culture can decide to adopt it as well.
+
+Depending on their culture, rulers are called by various linguistic titles which are known as their Form of Address.
+
+
+Contents
+1	Culture head
+2	Cultural acceptance
+3	Cultural pillars
+3.1	Ethos
+4	Traditions
+5	New cultures
+5.1	Hybrid cultures
+5.2	Divergent cultures
+6	List of cultures
+6.1	Nomadic cultures
+6.2	North Germanic cultures
+6.3	Ancient cultures
+7	List of unique formable cultures
+7.1	Unique divergent cultures
+7.2	Unique hybrid cultures
+8	Culture splits
+9	Sicilian melting pot
+10	Harrying of the North
+11	References
+Culture head
+Each culture with at least one ruler has a Culture Head. The Culture Head is always the adult character who owns the most counties of said culture but if the Khans of the Steppe Khans of the Steppe DLC is installed for some cultures the Culture Head is the character who has the most  Herd unless a ruler without  Nomadic government has greater military strength.
+
+Culture Heads can choose an Innovation to become a Cultural Fascination, which will improve its discovery progress by +20%, with an additional +1% per cultural head skill that matches the innovation's. The cultural fascination can be changed at any time.
+
+Culture Heads can reform their culture by adding new traditions if empty tradition slots are available or replacing existing ones at additional cost. If the Royal Court DLC is enabled, all rulers can hybridize their culture with another provided they meet the criteria. Adding traditions and reforming a culture takes a number of years to come into effect, depending on the number of said culture's counties. AI Culture Heads may add traditions, but will not directly replace one tradition with another. If a culture head is of a monogamous faith with a spiritual head of faith, the culture head may be given the option to remove Concubinage or Polygamy from their culture at the request of the head of faith via event.
+
+Cultural acceptance
+Cultural Acceptance determines how much  Opinion penalty two cultures have towards each other. For every culture the culture with the highest Cultural Acceptance will be selected for Culture Spread, which increases the speed at which progress is gained towards an innovation the culture doesn't know but the other culture does by +40%. If the Royal Court DLC is enabled, it also determines whether two cultures of different heritage can create a hybrid culture. The baseline acceptance between two cultures will be the following:
+
++20 if both cultures share the same heritage
++10 if both cultures share the same language
++10 if both cultures share the same ethos and are located within the same geographic region
++5 if most counties of both cultures share the same religion
++10 if most counties of both cultures share the same faith
++5 if most counties of both cultures have an eastern faith
++10 if most counties of both cultures have pluralistic faiths and are located within the same geographic region
+Cultural pillars
+Each culture has 5 cultural pillars: Heritage, Language, Aesthetics, Martial Custom and Ethos.
+
+ Heritage represents a culture's origin and prevents creating hybrid cultures if both cultures share it.
+ Language represents the language that all characters and counties of a culture speak, and determines the title naming and what the culture's knights are called. If a character converts to a culture with a different language, they will instantly learn it.
+Aesthetics.png Aesthetics determine the naming practices as well as the appearance of architecture, armies, clothes and coat of arms.
+ Martial Custom determines what genders can act as Commanders and Knights and requires the Royal Court DLC. Without it the faith's View on Gender doctrine determines it.
+Ethos
+Each culture will have an ethos, which represents the core values, principles and attitude towards life that the culture has. It also determines which court types are available. In the Royal Court DLC, reforming a culture's ethos costs 20000  Prestige.
+
+Ethos	Characters effects	Holdings effects	Available court types	Description
+Diplomatic	Warlike	Administrative	Intrigue	Scholarly
+Bellicose
+Ethos bellicose.png	
+Mercenary.png +50% Available Mercenary Companies
+ +2 Prowess
+ -10% Men-at-Arms Recruitment Cost
+ -10.00% Men-at-Arms Maintenance
+ +1.0% Herd Conversion into Horde Riders
+ -10 Different Culture Minority Vassal Opinion
+ +10% Levy Size	No	Yes	No	Yes	No	This culture considers conflict and violence to be necessary states of existence; ingrained in its people is the idea that one should stand up and fight for their own.
+Bureaucratic
+Ethos bureaucratic.png	
+Focus invalid.png +10% Monthly Lifestyle Experience
+ +5% Cultural Fascination Progress
+ -10 Different Culture Minority Vassal Opinion
+ +15.0% Development Growth	No	Yes	Yes	No	No	No culture lasts longer than its oldest record, and this culture believes in accounting so meticulous as to guarantee immortality.
+Ceremonious
+Ethos courtly.png	
+ +10% Monthly Prestige
+ -15% Title Creation Cost
+ +5 House Opinion
+ +5 Court Grandeur
+ -10 Different Culture Minority Vassal Opinion
+Yes	No	No	No	Yes	The ceremony of court life is so integral to this culture that it forms a core part of people's social behavior. A place for everyone, and everyone in their place.
+Communal
+Ethos communal.png	
+ -15% Same Culture Mercenary Hire Cost
+ +5 Close Family Opinion
+ +5% County Fertility Growth
+ -10 Different Culture Minority Vassal Opinion
+ -10% Building Construction Time
+ -5% Building Construction Cost
+No	No	Yes	Yes	No	This culture values the bonds of community above all else, fostering great loyalty and dedication by working together towards common goals.
+Egalitarian
+Ethos egalitarian.png	
+ +35% Cultural Acceptance Gain
+ +10 Vassal Limit
+ +10% Tributary Taxes
+ +5 Different Culture Opinion
+ +5 Different Faith Opinion
+ +15 Tributary Opinion
+Yes	No	Yes	No	No	Intolerance and isolationism may be the way for others, but this culture recognizes that accepting difference is far better than annihilating it.
+Spiritual
+Ethos spiritual.png	
+ +10% Monthly Piety
+ +5% Herd Capacity
+ +15% Control Growth
+ -20% Faith Creation and Reformation Cost
+ -10 Different Culture Minority Vassal Opinion
+Khans of the Steppe +10 Stargazer Aptitude
+Khans of the Steppe Additional bonuses from Consult the Skies decision modifiers
+No	No	Yes	No	Yes	While some cultures turn to war and others to worldly knowledge, this culture places its trust in the only constant throughout its history - the divine. Spirituality is the only way forward in a harsh and uncaring world.
+Stoic
+Ethos stoic.png	
+ +0.25 Health (Disease Resistance)
+ -15% Stress Gain
+ +4% Herd Gain
+Death natural.png -15% Friendly Fatal Casualties
+ -10 Different Culture Minority Vassal Opinion
+ +5 Defender Advantage	Yes	Yes	No	No	No	This culture believes in standing strong like a mountain, taking any and all hardships that life may throw at them and enduring them all with grim determination and an indomitable spirit.
+Traditions
+Main article: Traditions
+Each culture has several traditions, which represent the main customs of a culture and can grant various effects. A culture can have up to five traditions in the tribal era, with every additional era reached granting an additional slot for Traditions. The base cost of adding a tradition is 2000  Prestige, which may be increased by the following:
+
++2000 if the culture does not have one of the Tradition's preferred ethos.
++3000 if the Tradition's optional requirement is not fulfilled. This does not apply to AI Culture Heads.
+In the Royal Court DLC replacing a tradition increases the final cost by +50% and the time it takes to establish it by +25%.
+
+The needed time to establish a tradition is dependent on the number of counties with that culture. The fewer counties the culture has, the faster it goes. The maximum time to establish a tradition is 30 years.
+
+Many traditions are mutually exclusive with other traditions. The only way to bypass this restriction is through hybridization with a culture that has the other tradition.
+
+New cultures
+There are two ways through which a new culture can be formed, both of which cost  Prestige.
+
+Hybrid cultures
+Royal CourtKhans of the Steppe	Available only with the Royal Court DLC or the Khans of the Steppe DLC enabled.
+Hybrid cultures gain all innovations known by either culture and will start with 100% Cultural Acceptance with both parents cultures. By default hybrid cultures will be given the name of their parent cultures connected by a hyphen, though some hybrids have custom names by default. Their default color will be a mix of the parent cultures' colors. There are three ways to create a hybrid culture:
+
+If two cultures meet the Cultural Acceptance threshold and a ruler has counties of both cultures within their realm. Depending on game settings it might also require both cultures to be old enough. The hybrid culture can choose heritage, cultural pillars, traditions and aesthetics from either parent culture. The cost of creating a hybrid culture decreases based on the current Cultural Acceptance between the two parent cultures. The size of the hybrid culture will depend on how much Cultural Acceptance has been built when creating the hybrid culture. The Promote Culture steward task will have its efficiency increased for a few years in counties belonging to either parent culture.
+If a ruler does not share the culture of their realm capital and the two cultures meet the requirements to create a hybrid culture is a 5% chance each year that the ruler will be given the option to create a hybrid culture. While it is free it does not allow its pillars or traditions to be customized and are chosen at random from the two parent cultures. The hybrid culture creation can be canceled and doing so will grant +5% Cultural Acceptance. This sort of hybridization cannot take place if either culture has the Staunch Traditionalists tradition.
+Rulers with  Nomadic government can create hybrid cultures via a decision but it does not allow its pillars or traditions to be customized and they are chosen at random from the two parent cultures.
+The base threshold for Cultural Acceptance is 40%, but this can be modified by several factors, including the Traditions of the two cultures, the  Way of the Nomad trait, and certain Struggle contexts.
+
+Divergent cultures
+Royal Court	Available only with the Royal Court DLC enabled.
+Divergent cultures can be created at any point. Ethos can be freely changed. Language can be changed as long as a culture that has the target language as a pillar occupies at least 10% of the realm's counties, borders the character's culture, and has at least 25% acceptance of it (each condition can be met by a different culture that has the target language as a pillar). Martial Custom can be changed as long as the gender succession law favors the same gender. Aesthetics cannot be changed unless creating a culture divergence that took place historically. Traditions can be changed for a cost. The base cost of creating a divergent culture depends on how little of the original culture the ruler causing the divergence controls. Newly created divergent cultures gain a conversion bonus in counties of the original culture for 50 years.
+
+List of cultures
+Culture divergences that take place after the start date can be stopped by a player who controls 80% of the counties from the original culture.
+
+Iberian architecture will have Mediterranean appearance and Iberian fashion will have Continental European appearance if the DLC Fate of Iberia.png Fate of Iberia DLC is not installed.
+Iranian architecture will have Arabic appearance, Iranian fashion will have Arabic appearance, and Turkic Fashion will have Mongolian appearance if the DLC Legacy of Persia.png Legacy of Persia DLC is not installed.
+Byzantine architecture will have Mediterranean appearance and Byzantine fashion will have Mediterranean appearance if the Roads to Power Roads to Power DLC is not installed. Constantinople will also use a unique appearance if the DLC is installed.
+Southeast Asian architecture will have Indian appearance, Korean fashion will have Chinese appearance and Malay and Southeast Asian fashion will have Indian appearance if the DLC All Under Heaven.png All Under Heaven DLC is not installed.
+Norman culture is not present in the 867 start date, but can be created via the Establish Norman Culture decision. Hungarian culture is not present in the 867 start date, but can be created via the Promote Christian Settlements decision. Sicilian culture is not present in the 867 start date and cannot be created by the player, but will appear at a random point in Southern Italy.
+
+ Heritage	 Culture	Ethos	Traditions	 Language	Martial Custom	Architecture	Fashion	Coat of Arms	Military Equipment	Culture head
+Ainuic	Ainu	Spiritual
+Ethos spiritual.png	
+Forest Fighters
+Prolific Hunters
+Dexterous Fishermen
+Mystical Ancestors
+Wetlanders
+Ainu	 Men Only	Eurasian Steppe
+City western.png	Ainu	Mongolian
+House japan.png	Japanese	 Counties
+Emishi	Stoic
+Ethos stoic.png	
+Forest Fighters
+Prolific Hunters
+Isolationist
+Sacred Hunts
+DLC All Under Heaven.png Defiant Ambushers
+Japonic	 Men Only	Japanese
+City japan.png	Ainu	Japanese
+House japan.png	Japanese	 Counties
+Akan	Akan	Egalitarian
+Ethos egalitarian.png	
+Bush Hunting
+Matriarchal
+Mystical Ancestors
+Parochialism
+Kwa	 Equal	African
+City mena.png	African	West African
+House frame 29.png	Sub-Saharan African	 Counties
+Guan	Communal
+Ethos communal.png	
+Bush Hunting
+Dryland Dwellers
+Frequent Festivities
+Strong Believers
+Kwa	 Equal	African
+City mena.png	African	West African
+House frame 29.png	Sub-Saharan African	 Counties
+Kru	Stoic
+Ethos stoic.png	
+Bush Hunting
+Dexterous Fishermen
+Practiced Pirates
+Kru	 Men Only	African
+City mena.png	African	West African
+House frame 29.png	Sub-Saharan African	 Counties
+Albanian	Albanian	Communal
+Ethos communal.png	
+Marital Ceremonies
+Mountain Homes
+Swords for Hire
+Royal Court Staunch Traditionalists
+Albanian	 Men Only	Mediterranean
+City mediterranean.png	Byzantine	South Slavic
+House frame 02.png	Eastern European	 Counties
+Arabic	Bedouin	Stoic
+Ethos stoic.png	
+Caravaneers
+Desert Travelers
+Mubarizun
+Tribal Unity
+DLC Tours and Tournaments.png Avid Falconers
+Arabic	 Men Only	Arabic
+City mena.png	Abbasid	Arabic
+House frame 13.png	Arabic	 Counties
+Egyptian	Spiritual
+Ethos spiritual.png	
+Agrarian
+Mubarizun
+Philosopher Culture
+Strong Believers
+Arabic	 Men Only	Arabic
+City mena.png	Abbasid	Arabic
+House frame 10.png	Arabic	 Counties
+Maghrebi	Spiritual
+Ethos spiritual.png	
+African Tolerance
+Dexterous Fishermen
+Dryland Dwellers
+Mubarizun
+Water Rituals
+Arabic	 Men Only	Arabic
+City mena.png	Berber	Arabic
+House frame 10.png	Arabic	 Counties
+Mashriqi	Spiritual
+Ethos spiritual.png	
+Dryland Dwellers
+Medicinal Herbalists
+Mubarizun
+Philosopher Culture
+Water Rituals
+Arabic	 Men Only	Arabic
+City mena.png	Abbasid	Arabic
+House frame 13.png	Arabic	 Counties
+Yemeni	Communal
+Ethos communal.png	
+Maritime Mercantilism
+Mountain Herding
+Mountaineers
+Religion Blending
+Arabic	 Men Only	Arabic
+City mena.png	Abbasid	Arabic
+House frame 13.png	Arabic	 Counties
+Austronesian	Acehnese	Spiritual
+Ethos spiritual.png	
+Xenophilic
+Seafarers / DLC All Under Heaven.png Maritime Way of Life
+Royal Court Culture Blending
+DLC All Under Heaven.png Esoteric Power
+Chamic	 Men Only	Southeast Asian
+City se asia.png	Malay	Burman
+House frame 30.png	Southeast Asian	 Counties
+Amis	Communal
+Ethos communal.png	
+Dexterous Fishermen
+Mystical Ancestors
+Seafarers / DLC All Under Heaven.png Maritime Way of Life
+Austronesian	 Men Only	Southeast Asian
+City se asia.png	Malay	Burman
+House frame 26.png	Southeast Asian	 Counties
+Bisayan	Bellicose
+Ethos bellicose.png	
+Mystical Ancestors
+Seafarers / DLC All Under Heaven.png Maritime Way of Life
+DLC All Under Heaven.png Barangay Confederations
+Austronesian	 Men Only	Southeast Asian
+City se asia.png	Malay	Burman
+House frame 26.png	Southeast Asian	 Counties
+Bugis	Bellicose
+Ethos bellicose.png	
+Philosopher Culture
+Warrior Culture
+Seafarers / DLC All Under Heaven.png Maritime Way of Life
+Austronesian	 Men Only	Southeast Asian
+City se asia.png	Malay	Burman
+House frame 26.png	Southeast Asian	 Counties
+Cham	Ceremonious
+Ethos courtly.png	
+Dexterous Fishermen
+Frequent Festivities
+Maritime Mercantilism
+Religion Blending
+Xenophilic / DLC All Under Heaven.png Religious Hospitality
+Chamic	 Men Only	Southeast Asian
+City se asia.png	Southeast Asian	Burman
+House frame 26.png	Southeast Asian	 Counties
+Dayak	Spiritual
+Ethos spiritual.png	
+Jungle Dwellers
+Jungle Warriors
+Royal Court Expert Artisans
+Austronesian	 Men Only	Southeast Asian
+City se asia.png	Malay	Burman
+House frame 26.png	Southeast Asian	 Counties
+Iloko	Stoic
+Ethos stoic.png	
+Hill Dwellers
+Agrarian / DLC All Under Heaven.png Rice Cultivators
+DLC All Under Heaven.png Barangay Confederations
+Austronesian	 Men Only	Southeast Asian
+City se asia.png	Malay	Burman
+House frame 26.png	Southeast Asian	 Counties
+Javanese	Ceremonious
+Ethos courtly.png	
+Mystical Ancestors
+Sacred Mountains
+Seafarers / DLC All Under Heaven.png Maritime Way of Life
+DLC All Under Heaven.png Esoteric Power
+DLC All Under Heaven.png Hydraulic Builders
+Austronesian	 Men Only	Southeast Asian
+City se asia.png	Malay	Burman
+House frame 30.png	Southeast Asian	 Counties
+Malay	Ceremonious
+Ethos courtly.png	
+Maritime Mercantilism
+Xenophilic
+Royal Court Sorcerous Metallurgy
+Seafarers / DLC All Under Heaven.png Maritime Way of Life
+DLC All Under Heaven.png Esoteric Power
+Austronesian	 Men Only	Southeast Asian
+City se asia.png	Malay	Burman
+House frame 30.png	Southeast Asian	 Counties
+Moluccan	Communal
+Ethos communal.png	
+Maritime Mercantilism
+Storytellers
+Quarrelsome
+Seafarers / DLC All Under Heaven.png Maritime Way of Life
+Austronesian	 Men Only	Southeast Asian
+City se asia.png	Malay	Burman
+House frame 26.png	Southeast Asian	 Counties
+Nakkavaram	Stoic
+Ethos stoic.png	
+Isolationist
+Nudists
+Stalwart Defenders
+Austronesian	 Men Only	Indian
+City india.png	Malay	Burman
+House frame 30.png	Southeast Asian	 Counties
+Papuan	Communal
+Ethos communal.png	
+Isolationist
+Medicinal Herbalists
+Nudists
+Royal Court Culture Blending
+Papuan	 Men Only	Southeast Asian
+City se asia.png	Papuan	Burman
+House frame 26.png	Southeast Asian	 Counties
+Senoy	Communal
+Ethos communal.png	
+Charismatic
+Isolationist
+Jungle Dwellers
+Pacifists
+Asli	 Men Only	Southeast Asian
+City se asia.png	Malay	Burman
+House frame 30.png	Southeast Asian	 Counties
+Tagalog	Stoic
+Ethos stoic.png	
+Loyal Subjects
+Seafarers / DLC All Under Heaven.png Maritime Way of Life
+DLC All Under Heaven.png Barangay Confederations
+Austronesian	 Men Only	Southeast Asian
+City se asia.png	Malay	Burman
+House frame 26.png	Southeast Asian	 Counties
+Toraja	Communal
+Ethos communal.png	
+Hill Dwellers
+Royal Court Culture Blending
+Seafarers / DLC All Under Heaven.png Maritime Way of Life
+Austronesian	 Men Only	Southeast Asian
+City se asia.png	Malay	Burman
+House frame 26.png	Southeast Asian	 Counties
+Baltic	Latgalian	Stoic
+Ethos stoic.png	
+Forest Wardens
+Sacred Groves
+Royal Court Staunch Traditionalists
+Baltic	 Men Only	Continental European
+City western.png	Northern European	Baltic
+House frame 21.png	Northern European	 Counties
+Lithuanian	Bellicose
+Ethos bellicose.png	
+Forest Wardens
+Hit-and-Run Tacticians
+Sacred Groves
+Strong Believers
+Baltic	 Men Only	Continental European
+City western.png	Northern European	Baltic
+House frame 21.png	Northern European	 Counties
+Prussian	Bureaucratic
+Ethos bureaucratic.png	
+Charismatic
+Equitable
+Forest Wardens
+Sacred Groves
+Baltic	 Men Only	Continental European
+City western.png	Northern European	Baltic
+House frame 21.png	Northern European	 Counties
+Balto-Finnic	Estonian	Bellicose
+Ethos bellicose.png	
+Musical Theorists
+Hirds / DLC Northern Lords.png Coastal Warriors
+Royal Court Staunch Traditionalists
+Finnic	 Men Only	Continental European
+City western.png	Northern European	Balto-Finnic
+House frame 21.png	Northern European	 Counties
+Finnish	Stoic
+Ethos stoic.png	
+Dexterous Fishermen
+Forest Wardens
+Isolationist
+Finnic	 Men Only	Continental European
+City western.png	Northern European	Balto-Finnic
+House frame 21.png	Northern European	 Counties
+Karelian	Stoic
+Ethos stoic.png	
+Forest Wardens
+Stalwart Defenders
+Swords for Hire
+Finnic	 Men Only	Continental European
+City western.png	Sami	Balto-Finnic
+House frame 05.png	Northern European	 Herd
+Sami	Communal
+Ethos communal.png	
+Adaptive Skirmishers
+Forest Wardens
+Winter Warriors
+Sami	 Men Only	Continental European
+City western.png	Sami	Sami
+House frame 05.png	Northern European	 Herd
+Vepsian	Egalitarian
+Ethos egalitarian.png	
+Forest Wardens
+Isolationist
+Mystical Ancestors
+Finnic	 Men Only	Continental European
+City western.png	Ugro-Permian	Balto-Finnic
+House frame 05.png	Northern European	 Counties
+Bantu	East Bantu	Stoic
+Ethos stoic.png	
+Adaptive Skirmishers
+Dryland Dwellers
+Hit-and-Run Tacticians
+Religion Blending
+Sabaki	 Men Only	African
+City mena.png	African	East African
+House frame 07.png	Arabic	 Counties
+Swahili	Egalitarian
+Ethos egalitarian.png	
+Linguists
+Maritime Mercantilism
+Storytellers
+Sabaki	 Men Only	African
+City mena.png	African	East African
+House frame 07.png	Arabic	 Counties
+Berber	Baranis	Spiritual
+Ethos spiritual.png	
+African Tolerance
+Family Business
+Mountain Herding
+Berber	 Men Only	Berber
+City mena.png	Berber	Berber
+House frame 06.png	Arabic	 Herd
+Butr	Stoic
+Ethos stoic.png	
+African Tolerance
+Desert Ribats
+Equal Inheritance
+Saharan Nomads
+Berber	 Men Only	Berber
+City mena.png	Berber	Berber
+House frame 06.png	Arabic	 Herd
+Guanche	Stoic
+Ethos stoic.png	
+Isolationist
+Mystical Ancestors
+Stalwart Defenders
+Berber	 Men Only	Berber
+City mena.png	African	West African
+House frame 06.png	Arabic	 Counties
+Zaghawa	Egalitarian
+Ethos egalitarian.png	
+African Tolerance
+Desert Ribats
+Saharan Nomads
+Tubu	 Men Only	Berber
+City mena.png	Berber	Berber
+House frame 06.png	Arabic	 Herd
+Brythonic	Breton	Communal
+Ethos communal.png	
+Chanson de Geste
+Dexterous Fishermen
+Storytellers
+Swords for Hire
+Brythonic	 Men Only	Continental European
+City western.png	Continental European	Breton
+House frame 24.png	Continental European	 Counties
+Cornish	Communal
+Ethos communal.png	
+Ancient Miners
+Dexterous Fishermen
+Storytellers
+Brythonic	 Men Only	Continental European
+City western.png	Continental European	Welsh
+House frame 24.png	Continental European	 Counties
+Cumbrian	Stoic
+Ethos stoic.png	
+Concubines
+Highland Warriors
+Refined Poetry
+Stalwart Defenders
+Brythonic	 Men Only	Continental European
+City western.png	Continental European	Scottish
+House frame 24.png	Continental European	 Counties
+Pictish	Bellicose
+Ethos bellicose.png	
+Concubines
+Highland Warriors
+Hill Dwellers
+Refined Poetry
+Brythonic	 Men Only	Continental European
+City western.png	Northern European
+Continental European	Scottish
+House frame 24.png	Continental European	 Counties
+Welsh	Stoic
+Ethos stoic.png	
+Concubines
+Highland Warriors
+Longbow Competitions
+Refined Poetry
+Brythonic	 Men Only	Continental European
+City western.png	Continental European	Welsh
+House frame 24.png	Continental European	 Counties
+Burman	Burmese	Bellicose
+Ethos bellicose.png	
+Agrarian
+Fervent Temple Builders
+Royal Army
+Castle Keepers / DLC All Under Heaven.png Fortified Strongholds
+DLC All Under Heaven.png Hydraulic Builders
+Burmese	 Men Only	Indian
+City india.png	Malay	Burman
+House frame 18.png	Southeast Asian	 Counties
+Kachin	Communal
+Ethos communal.png	
+Sacred Groves
+Storytellers
+Agrarian / DLC All Under Heaven.png Rice Cultivators
+Burmese	 Men Only	Southeast Asian
+City se asia.png	Southeast Asian	Burman
+House frame 18.png	Southeast Asian	 Counties
+Karen	Spiritual
+Ethos spiritual.png	
+Jungle Warriors
+Medicinal Herbalists
+Religion Blending
+Burmese	 Men Only	Southeast Asian
+City se asia.png	Southeast Asian	Burman
+House frame 18.png	Southeast Asian	 Counties
+Buyeo	Baekje	Spiritual
+Ethos spiritual.png	
+Astute Diplomats
+Maritime Mercantilism
+Religious Patronage
+Isolationist / DLC All Under Heaven.png Cultural Primacy
+DLC All Under Heaven.png Sinophilic
+Koreanic	 Men Only	Chinese
+City china.png	Korean	Chinese
+House frame 09.png	Chinese	 Counties
+Balhae	Ceremonious
+Ethos courtly.png	
+Castle Keepers
+Warriors by Merit
+Isolationist / DLC All Under Heaven.png Cultural Primacy
+Royal Court Culture Blending
+DLC All Under Heaven.png Sinophilic
+Tungusic	 Men Only	Chinese
+City china.png	Korean	Chinese
+House frame 09.png	Chinese	 Counties
+Goguryeo	Bellicose
+Ethos bellicose.png	
+Martial Admiration
+Warriors by Merit
+Castle Keepers / DLC All Under Heaven.png Fortress Mastery
+Isolationist / DLC All Under Heaven.png Cultural Primacy
+DLC All Under Heaven.png Sinophilic
+Koreanic	 Men Only	Chinese
+City china.png	Korean	Chinese
+House frame 09.png	Chinese	 Counties
+Caucasian	Armenian	Stoic
+Ethos stoic.png	
+Fervent Temple Builders
+Highland Warriors
+Hill Dwellers
+Strong Believers
+Eastern Roman Legacy / Roads to Power Indomitable Azatani
+Armenian	 Men Only	Byzantine
+City byzantine.png	Byzantine	Byzantine
+House frame 02.png	Eastern European	 Counties
+Georgian	Communal
+Ethos communal.png	
+Castle Keepers
+Caucasian Wolves
+Hereditary Hierarchy
+Metalworkers
+Georgian	 Men Only	Byzantine
+City byzantine.png	Byzantine	Byzantine
+House frame 02.png	Eastern European	 Counties
+Central African	Hausa	Egalitarian
+Ethos egalitarian.png	
+Caravaneers
+Family Business
+Parochialism
+Chadic	 Equal	African
+City mena.png	African	Central African
+House frame 20.png	Sub-Saharan African	 Counties
+Kanuri	Bellicose
+Ethos bellicose.png	
+Hit-and-Run Tacticians
+Quarrelsome
+Tubu	 Men Only	African
+City mena.png	African	Central African
+House frame 20.png	Sub-Saharan African	 Counties
+Nupe	Bellicose
+Ethos bellicose.png	
+Musical Theorists
+Parochialism
+East Kwa	 Men Only	African
+City mena.png	African	Central African
+House frame 20.png	Sub-Saharan African	 Counties
+Sao	Stoic
+Ethos stoic.png	
+Agrarian
+City Keepers
+Dryland Dwellers
+Parochialism
+Chadic	 Men Only	African
+City mena.png	African	Central African
+House frame 20.png	Sub-Saharan African	 Counties
+Central Germanic	Bavarian	Spiritual
+Ethos spiritual.png	
+Hereditary Hierarchy
+Stand and Fight!
+Strong Believers
+High German	 Men Only	Continental European
+City western.png	Holy Roman Imperial	German
+House frame 25.png	Continental European	 Counties
+Dutch	Bureaucratic
+Ethos bureaucratic.png	
+Agrarian
+Maritime Mercantilism
+Parochialism
+Polders
+Dutch	 Men Only	Continental European
+City western.png	Holy Roman Imperial	Frisian
+House frame 25.png	Continental European	 Counties
+Franconian	Ceremonious
+Ethos courtly.png	
+Astute Diplomats
+Castle Keepers
+Hereditary Hierarchy
+High German	 Men Only	Continental European
+City western.png	Holy Roman Imperial	German
+House frame 25.png	Continental European	 Counties
+Frisian	Stoic
+Ethos stoic.png	
+Battlefield Looters
+Dexterous Fishermen
+Strong Believers
+Anglic	 Men Only	Continental European
+City western.png	Holy Roman Imperial	Frisian
+House frame 25.png	Continental European	 Counties
+German	Stoic
+Ethos stoic.png	
+Astute Diplomats
+Hereditary Hierarchy
+Stand and Fight!
+High German	 Men Only	Continental European
+City western.png	Holy Roman Imperial	German
+House frame 25.png	Continental European	 Counties
+Langobard	Stoic
+Ethos stoic.png	
+Isolationist
+Martial Admiration
+Stand and Fight!
+Royal Court Malleable Invaders
+Central Germanic	 Men Only	Mediterranean
+City mediterranean.png	Continental European	Latin
+House frame 22.png	Continental European	 Counties
+Saxon	Stoic
+Ethos stoic.png	
+Religious Patronage
+Ruling Caste
+Stand and Fight!
+Saxon	 Men Only	Continental European
+City western.png	Holy Roman Imperial	German
+House frame 25.png	Continental European	 Counties
+Swabian	Communal
+Ethos communal.png	
+Industrious
+Mountain Homes
+Parochialism
+High German	 Men Only	Continental European
+City western.png	Holy Roman Imperial	German
+House frame 25.png	Continental European	 Counties
+Chinese	Bai	Ceremonious
+Ethos courtly.png	
+Hill Dwellers
+Ruling Caste
+Xenophilic
+DLC All Under Heaven.png Hydraulic Builders
+Chinese	 Men Only	Chinese
+City china.png	Chinese	Chinese
+House china.png	Chinese	 Counties
+Han	Ceremonious
+Ethos courtly.png	
+Agrarian / DLC All Under Heaven.png Intensive Farming
+Formation Fighting Experts / DLC All Under Heaven.png Art of War
+Philosopher Culture / DLC All Under Heaven.png Scholar Officians
+DLC All Under Heaven.png Court Machinations
+DLC All Under Heaven.png Cultivation
+DLC All Under Heaven.png Cultural Primacy
+Chinese	 Men Only	Chinese
+City china.png	Chinese	Chinese
+House china.png	Chinese	 Counties
+Yi	Stoic
+Ethos stoic.png	
+Highland Warriors
+Hill Dwellers
+Xenophilic / DLC Fate of Iberia.png Malleable Subjects
+Burmese	 Men Only	Chinese
+City china.png	Chinese	Chinese
+House china.png	Chinese	 Counties
+Dravidian	Gond	Communal
+Ethos communal.png	
+Jungle Warriors
+Sacred Groves
+Royal Court Culture Blending
+Telugu	 Men Only	Indian
+City india.png	Indian	Dravidian
+House frame 08.png	Indian	 Counties
+Kannada	Stoic
+Ethos stoic.png	
+Fervent Temple Builders
+Garuda Warriors
+Refined Poetry
+Ruling Caste
+Kannada	 Men Only	Indian
+City india.png	Indian	Dravidian
+House frame 08.png	Indian	 Counties
+Tamil	Communal
+Ethos communal.png	
+Metalworkers
+Parochialism
+Seafarers
+Tamil	 Men Only	Indian
+City india.png	Indian	Dravidian
+House frame 08.png	Indian	 Counties
+Telugu	Bellicose
+Ethos bellicose.png	
+Metalworkers
+Recognition of Talent
+Warrior Culture
+Telugu	 Men Only	Indian
+City india.png	Indian	Dravidian
+House frame 08.png	Indian	 Counties
+East African	Beja	Communal
+Ethos communal.png	
+Desert Travelers
+Isolationist
+Mountain Skirmishing
+Warriors of the Dry
+Cushitic	 Men Only	African
+City mena.png	African	East African
+House frame 19.png	Arabic	 Herd
+Daju	Stoic
+Ethos stoic.png	
+Dryland Dwellers
+Warrior Culture
+Warrior Queens
+Sudanic	 Equal	African
+City mena.png	Arabic	East African
+House frame 19.png	Arabic	 Counties
+Ethiopian	Spiritual
+Ethos spiritual.png	
+Amharic Highlanders
+Fervent Temple Builders
+Isolationist
+Strong Believers
+Ethiopic	 Men Only	African
+City mena.png	Arabic	East African
+House frame 19.png	Arabic	 Counties
+Nubian	Spiritual
+Ethos spiritual.png	
+Agrarian
+Astute Diplomats
+Land of the Bow
+Warrior Queens
+Xenophilic
+Sudanic	 Equal	African
+City mena.png	Arabic	East African
+House frame 19.png	Arabic	 Counties
+Welayta	Stoic
+Ethos stoic.png	
+Frequent Festivities
+Mountain Skirmishing
+Omotic	 Men Only	African
+City mena.png	Arabic	East African
+House frame 19.png	Arabic	 Counties
+East Slavic	Ilmenian	Communal
+Ethos communal.png	
+Agrarian
+Druzhina
+Forest Folk
+Hit-and-Run Tacticians
+East Slavic	 Men Only	Continental European
+City western.png	Northern European	East Slavic
+House frame 05.png	Eastern European	 Counties
+Russian	Communal
+Ethos communal.png	
+Charismatic
+Druzhina
+Mendicant Mystics
+East Slavic	 Men Only	Continental European
+City western.png	Northern European	East Slavic
+House frame 02.png	Eastern European	 Counties
+Severian	Stoic
+Ethos stoic.png	
+Druzhina
+Forest Folk
+Sacred Groves
+East Slavic	 Men Only	Continental European
+City western.png	Northern European	East Slavic
+House frame 05.png	Eastern European	 Counties
+Volhynian	Ceremonious
+Ethos courtly.png	
+Agrarian
+Astute Diplomats
+City Keepers
+Druzhina
+East Slavic	 Men Only	Continental European
+City western.png	Northern European	East Slavic
+House frame 05.png	Eastern European	 Counties
+Eastern Roman	Greek	Bureaucratic
+Ethos bureaucratic.png	
+Religious Patronage
+Byzantine Traditions / Roads to Power Roman Ceremonies
+Eastern Roman Legacy / Roads to Power Imperial Tagmata
+Formation Fighting Experts / Roads to Power Palace Politics
+Legalistic / Roads to Power Cultivated Sophistication
+Greek	 Men Only	Byzantine
+City byzantine.png	Byzantine	Byzantine
+House frame 02.png	Eastern European	 Counties
+Frankish	Frankish	Bellicose
+Ethos bellicose.png	
+Hereditary Hierarchy
+Stand and Fight!
+Warrior Culture
+Frankish	 Men Only	Continental European
+City western.png	French	Frankish
+House frame 03.png	Continental European	 Counties
+French	Ceremonious
+Ethos courtly.png	
+Chanson de Geste
+Chivalry
+Hereditary Hierarchy
+D'Oïl Vulgar	 Men Only	Continental European
+City western.png	French	French
+House frame 03.png	Continental European	 Counties
+Norman	Bellicose
+Ethos bellicose.png	
+Chanson de Geste
+Ruling Caste
+Stand and Fight!
+Roads to Power Audacious Cadets
+D'Oïl Vulgar	 Men Only	Continental European
+City western.png	Continental European	Norman
+House frame 03.png	Continental European	 Counties
+Occitan	Egalitarian
+Ethos egalitarian.png	
+Chanson de Geste
+Chivalry
+Equal Inheritance
+Parochialism
+D'Oc Vulgar	 Men Only	Mediterranean
+City mediterranean.png	French	Occitanian
+House frame 03.png	Continental European	 Counties
+Goidelic	Gaelic	Bellicose
+Ethos bellicose.png	
+Concubines
+Dexterous Fishermen
+Highland Warriors
+Hill Dwellers
+Strong Kinship
+Goidelic	 Men Only	Continental European
+City western.png	Northern European	Scottish
+House frame 24.png	Continental European	 Counties
+Irish	Ceremonious
+Ethos courtly.png	
+Maritime Mercantilism
+Monastic Communities
+Pastorialists
+Polygamous
+Refined Poetry
+Goidelic	 Men Only	Continental European
+City western.png	Northern European	Irish
+House frame 24.png	Continental European	 Counties
+Guinean Uplander	Bobo	Egalitarian
+Ethos egalitarian.png	
+Stalwart Defenders
+Upland Skirmishing
+Royal Court Sorcerous Metallurgy
+Soninke	 Men Only	African
+City mena.png	African	West African
+House frame 20.png	Sub-Saharan African	 Counties
+Gur	Communal
+Ethos communal.png	
+Ancient Miners
+Upland Skirmishing
+Royal Court Sorcerous Metallurgy
+Gur	 Men Only	African
+City mena.png	African	West African
+House frame 20.png	Sub-Saharan African	 Counties
+Malinke	Spiritual
+Ethos spiritual.png	
+Charitable
+Upland Skirmishing
+Royal Court Sorcerous Metallurgy
+Manding	 Men Only	African
+City mena.png	African	West African
+House frame 20.png	Sub-Saharan African	 Counties
+Marka	Communal
+Ethos communal.png	
+Musical Theorists
+Upland Skirmishing
+Warriors of the Dry
+Manding	 Men Only	African
+City mena.png	African	West African
+House frame 20.png	Sub-Saharan African	 Counties
+Mel	Egalitarian
+Ethos egalitarian.png	
+Stalwart Defenders
+Upland Skirmishing
+Royal Court Staunch Traditionalists
+Manding	 Men Only	African
+City mena.png	African	West African
+House frame 20.png	Sub-Saharan African	 Counties
+Hmongic	Hmong	Stoic
+Ethos stoic.png	
+Hill Dwellers
+Mystical Ancestors
+Prolific Hunters
+Xenophilic / DLC Fate of Iberia.png Malleable Subjects
+Hmongic	 Men Only	Chinese
+City china.png	Chinese	Burman
+House frame 26.png	Chinese	 Counties
+Yao	Egalitarian
+Ethos egalitarian.png	
+Agrarian
+Medicinal Herbalists
+Xenophilic / DLC Fate of Iberia.png Malleable Subjects
+Royal Court Expert Artisans
+Hmongic	 Men Only	Chinese
+City china.png	Chinese	Chinese
+House frame 26.png	Chinese	 Counties
+Iberian	Andalusian	Ceremonious
+Ethos courtly.png	
+Hit-and-Run Tacticians
+Xenophilic / DLC Fate of Iberia.png Malleable Subjects
+Royal Court Expert Artisans
+DLC Fate of Iberia.png Ritualized Friendship
+DLC Fate of Iberia.png Tabletop Warriors
+Arabic	 Men Only	Iberian
+City iberian.png	Andalusian	Arabic
+House frame 01.png	Andalusian	 Counties
+Aragonese	Bellicose
+Ethos bellicose.png	
+Martial Admiration
+Mountaineers
+Visigothic Codes
+Marital Ceremonies / DLC Fate of Iberia.png Ritualized Friendship
+DLC Fate of Iberia.png State Ransoming
+D'Oc Vulgar	 Men Only	Iberian
+City iberian.png	Iberian	Iberian
+House frame 01.png	Iberian	 Counties
+Asturleonese	Egalitarian
+Ethos egalitarian.png	
+Fervent Temple Builders
+Hit-and-Run Tacticians
+Mountaineers
+DLC Fate of Iberia.png Ritualized Friendship
+Iberian Vulgar	 Men Only	Iberian
+City iberian.png	Iberian	Leonese
+House frame 01.png	Iberian	 Counties
+Basque	Egalitarian
+Ethos egalitarian.png	
+Marital Ceremonies
+Mountaineers
+Visigothic Codes
+DLC Fate of Iberia.png Ritualized Friendship
+Basque	 Men Only	Iberian
+City iberian.png	Iberian	Iberian
+House frame 01.png	Iberian	 Counties
+Castilian	Bellicose
+Ethos bellicose.png	
+Castle Keepers
+Chivalry
+Martial Admiration
+Hit-and-Run Tacticians / DLC Fate of Iberia.png Tabletop Warriors
+DLC Fate of Iberia.png Ritualized Friendship
+Iberian Vulgar	 Men Only	Iberian
+City iberian.png	Iberian	Castilian
+House frame 01.png	Iberian	 Counties
+Catalan	Ceremonious
+Ethos courtly.png	
+Maritime Mercantilism
+Parochialism
+Refined Poetry
+Visigothic Codes
+DLC Fate of Iberia.png Ritualized Friendship
+D'Oc Vulgar	 Men Only	Iberian
+City iberian.png	Iberian	Iberian
+House frame 01.png	Iberian	 Counties
+Galician	Spiritual
+Ethos spiritual.png	
+Dexterous Fishermen
+Highland Warriors
+Monastic Communities
+DLC Fate of Iberia.png Ritualized Friendship
+Iberian Vulgar	 Men Only	Iberian
+City iberian.png	Iberian	Iberian
+House frame 01.png	Iberian	 Counties
+Portuguese	Bellicose
+Ethos bellicose.png	
+Chivalry
+Fervent Temple Builders
+Martial Admiration
+DLC Fate of Iberia.png Ritualized Friendship
+Iberian Vulgar	 Men Only	Iberian
+City iberian.png	Iberian	Iberian
+House frame 01.png	Iberian	 Counties
+Suebi	Bellicose
+Ethos bellicose.png	
+Agrarian
+Stand and Fight!
+Central Germanic	 Men Only	Iberian
+City iberian.png	Iberian	Iberian
+House frame 01.png	Iberian	 Counties
+Visigothic	Bellicose
+Ethos bellicose.png	
+Hit-and-Run Tacticians
+Martial Admiration
+Visigothic Codes
+DLC Fate of Iberia.png Malleable Subjects
+DLC Fate of Iberia.png Ritualized Friendship
+Iberian Vulgar	 Men Only	Iberian
+City iberian.png	Iberian	Iberian
+House frame 01.png	Iberian	 Counties
+Indo-Aryan	Bengali	Spiritual
+Ethos spiritual.png	
+Agrarian
+Philosopher Culture
+Religious Patronage
+Magadhi	 Men Only	Indian
+City india.png	Indian	Indo-Aryan
+House frame 17.png	Indian	 Counties
+Brahui	Communal
+Ethos communal.png	
+Astute Diplomats
+Culture Blending
+Desert Travelers
+DLC Legacy of Persia.png Jirga
+North Dravidian	 Men Only	Iranian
+City iranian.png	Iranian	Indo-Aryan
+House frame 17.png	Iranian	 Counties
+Gujarati	Spiritual
+Ethos spiritual.png	
+Expert Artisans
+Religion Blending
+Seafarers
+Vegetarians
+Gurjar	 Men Only	Indian
+City india.png	Indian	Indo-Aryan
+House frame 17.png	Indian	 Counties
+Kamrupi	Communal
+Ethos communal.png	
+Collective Lands
+Jungle Warriors
+Royal Court Culture Blending
+Magadhi	 Men Only	Indian
+City india.png	Indian	Indo-Aryan
+House frame 17.png	Indian	 Counties
+Kannauji	Spiritual
+Ethos spiritual.png	
+Agrarian
+City Keepers
+Court Eunuchs
+Ruling Caste
+Shauraseni	 Men Only	Indian
+City india.png	Indian	Indo-Aryan
+House frame 17.png	Indian	 Counties
+Kashmiri	Spiritual
+Ethos spiritual.png	
+Equal Inheritance
+Himalayan Settlers
+Refined Poetry
+Kashmiri	 Men Only	Indian
+City india.png	Indian	Indo-Aryan
+House frame 17.png	Indian	 Counties
+Malvi	Stoic
+Ethos stoic.png	
+Agrarian
+Fervent Temple Builders
+Khadga Puja
+Mystical Ancestors
+Gurjar	 Men Only	Indian
+City india.png	Indian	Indo-Aryan
+House frame 17.png	Indian	 Counties
+Marathi	Stoic
+Ethos stoic.png	
+Industrious
+Modest
+Pastorialists
+Marathi	 Men Only	Indian
+City india.png	Indian	Indo-Aryan
+House frame 17.png	Indian	 Counties
+Nepali	Communal
+Ethos communal.png	
+Himalayan Settlers
+Martial Admiration
+Religious Patronage
+Pahari	 Men Only	Indian
+City india.png	Indian	Indo-Aryan
+House frame 17.png	Indian	 Counties
+Oriya	Spiritual
+Ethos spiritual.png	
+Culinary Artists
+Lords of the Elephant
+Seafarers
+Magadhi	 Men Only	Indian
+City india.png	Indian	Indo-Aryan
+House frame 17.png	Indian	 Counties
+Punjabi	Communal
+Ethos communal.png	
+Agrarian
+Marital Ceremonies
+Storytellers
+Vrachada	 Men Only	Indian
+City india.png	Indian	Indo-Aryan
+House frame 17.png	Indian	 Counties
+Rajasthani	Bellicose
+Ethos bellicose.png	
+Khadga Puja
+Mystical Ancestors
+Quarrelsome
+Warrior Culture
+Gurjar	 Men Only	Indian
+City india.png	Indian	Indo-Aryan
+House frame 17.png	Indian	 Counties
+Sindhi	Spiritual
+Ethos spiritual.png	
+Mendicant Mystics
+Refined Poetry
+Seafarers
+Vrachada	 Men Only	Indian
+City india.png	Indian	Indo-Aryan
+House frame 17.png	Indian	 Counties
+Sinhala	Spiritual
+Ethos spiritual.png	
+City Keepers
+Fervent Temple Builders
+Ruling Caste
+Sinhalese	 Men Only	Indian
+City india.png	Indian	Indo-Aryan
+House frame 17.png	Indian	 Counties
+Iranian	Alan	Communal
+Ethos communal.png	
+Horse Lords
+Marital Ceremonies
+Mountaineers
+Steppe Tolerance
+Scythian	 Men Only	Iranian
+City iranian.png	Iranian	Oghuz
+House frame 12.png	Iranian	 Counties
+Afghan	Communal
+Ethos communal.png	
+Esteemed Hospitality
+Eye for an Eye
+Futuwaa
+Mountain Homes
+DLC Legacy of Persia.png Jirga
+Scythian	 Men Only	Iranian
+City iranian.png	Iranian	Iranian
+House frame 12.png	Iranian	 Counties
+Baloch	Stoic
+Ethos stoic.png	
+Desert Travelers
+Esteemed Hospitality
+Futuwaa
+Isolationist
+DLC Legacy of Persia.png Jirga
+Iranian	 Men Only	Iranian
+City iranian.png	Iranian	Iranian
+House frame 12.png	Iranian	 Counties
+Daylamite	Bellicose
+Ethos bellicose.png	
+Isolationist
+Mountaineers
+Stalwart Defenders
+Swords for Hire
+Futuwaa / DLC Legacy of Persia.png Pragmatic Creed
+Iranian	 Men Only	Iranian
+City iranian.png	Iranian	Iranian
+House frame 12.png	Iranian	 Counties
+Khwarezmian	Stoic
+Ethos stoic.png	
+Caravaneers
+City Keepers
+Dryland Dwellers
+Stalwart Defenders
+Futuwaa / DLC Legacy of Persia.png Frontier Warriors
+Scythian	 Men Only	Iranian
+City iranian.png	Iranian	Iranian
+House frame 12.png	Iranian	 Counties
+Kurdish	Communal
+Ethos communal.png	
+Eye for an Eye
+Mountain Homes
+Swords for Hire
+Futuwaa / DLC Legacy of Persia.png Fierce Independence
+Iranian	 Men Only	Iranian
+City iranian.png	Iranian	Iranian
+House frame 12.png	Iranian	 Counties
+Persian	Ceremonious
+Ethos courtly.png	
+Futuwaa
+Garden Architects
+Water Rituals
+Dryland Dwellers / DLC Legacy of Persia.png Irrigation Experts
+Philosopher Culture / DLC Legacy of Persia.png Beacon of Learning
+Refined Poetry / DLC Legacy of Persia.png Enlightened Magnates
+Iranian	 Men Only	Iranian
+City iranian.png	Iranian	Iranian
+House frame 12.png	Iranian	 Counties
+Saka	Bellicose
+Ethos bellicose.png	
+Caravaneers
+Dryland Dwellers
+Expert Artisans
+Horse Lords
+DLC Legacy of Persia.png Frontier Warriors
+Scythian	 Men Only	Iranian
+City iranian.png	Arabic	Iranian
+House frame 12.png	Iranian	 Counties
+Sogdian	Egalitarian
+Ethos egalitarian.png	
+Caravaneers
+Parochialism
+Religion Blending
+Futuwaa / DLC Legacy of Persia.png Frontier Warriors
+DLC Legacy of Persia.png Horse Breeders
+Scythian	 Men Only	Iranian
+City iranian.png	Iranian	Iranian
+House frame 12.png	Iranian	 Counties
+Tajik	Spiritual
+Ethos spiritual.png	
+Caravaneers
+City Keepers
+Futuwaa
+Dryland Dwellers / DLC Legacy of Persia.png Irrigation Experts
+Philosopher Culture / DLC Legacy of Persia.png Beacon of Learning
+Iranian	 Men Only	Iranian
+City iranian.png	Iranian	Iranian
+House frame 12.png	Iranian	 Counties
+Israelite	Ashkenazi	Communal
+Ethos communal.png	
+Bound by Faith
+Defensive Tactics
+Diasporic
+Forbearing
+Philosopher Culture
+High German	 Men Only	Continental European
+City western.png	Holy Roman Imperial	Israelite
+House frame 23.png	Continental European	 Counties
+Bavli	Communal
+Ethos communal.png	
+Bound by Faith
+Caravaneers
+Defensive Tactics
+Diasporic
+Xenophilic
+Aramaic	 Men Only	Arabic
+City mena.png	Byzantine	Israelite
+House frame 23.png	Arabic	 Counties
+Hebrew	Spiritual
+Ethos spiritual.png	
+Fervent Temple Builders
+Mystical Ancestors
+Philosopher Culture
+Strong Believers
+Hebrew	 Men Only	Arabic
+City mena.png	Byzantine	Israelite
+House frame 16.png	Arabic	 Counties
+Kochini	Communal
+Ethos communal.png	
+Diasporic
+Fervent Temple Builders
+Philosopher Culture
+Xenophilic
+Tamil	 Men Only	Indian
+City india.png	Indian	Israelite
+House frame 23.png	Indian	 Counties
+Radhanite	Egalitarian
+Ethos egalitarian.png	
+Defensive Tactics
+Diasporic
+Maritime Mercantilism
+Philosopher Culture
+Xenophilic
+Shaz Turkic	 Men Only	Arabic
+City mena.png	Mongolian	Israelite
+House frame 23.png	Arabic	 Counties
+Sephardi	Communal
+Ethos communal.png	
+Caravaneers
+Defensive Tactics
+Diasporic
+Maritime Mercantilism
+Philosopher Culture
+Iberian Vulgar	 Men Only	Arabic
+City mena.png	Byzantine	Israelite
+House frame 23.png	Arabic	 Counties
+Japonic	Ryukyuan	Spiritual
+Ethos spiritual.png	
+Dexterous Fishermen
+Maritime Mercantilism
+Seafarers
+Water Rituals
+Japonic	 Men Only	Japanese
+City japan.png	Japanese	Japanese
+House japan.png	Japanese	 Counties
+Yamato	Ceremonious
+Ethos courtly.png	
+Isolationist / DLC All Under Heaven.png Inward Perfection
+Mountaineers / DLC All Under Heaven.png Yashima
+Noble Adoption / DLC All Under Heaven.png Dynastic Pragmatism
+Refined Poetry / DLC All Under Heaven.png Ephemeral Grace
+Warrior Priests / DLC All Under Heaven.png Warrior Monks
+DLC All Under Heaven.png Fragile Peace
+Japonic	 Men Only	Japanese
+City japan.png	Japanese	Japanese
+House japan.png	Japanese	 Counties
+Latin	Cisalpine	Communal
+Ethos communal.png	
+Maritime Mercantilism
+Mountain Homes
+Republican Legacy
+Italian Vulgar	 Men Only	Mediterranean
+City mediterranean.png	Continental European	Latin
+House frame 22.png	Continental European	 Counties
+Italian	Spiritual
+Ethos spiritual.png	
+Formation Fighting Experts
+Refined Poetry
+Republican Legacy
+Italian Vulgar	 Men Only	Mediterranean
+City mediterranean.png	Continental European	Latin
+House frame 22.png	Continental European	 Counties
+Lombard	Stoic
+Ethos stoic.png	
+Isolationist
+Martial Admiration
+Republican Legacy
+Stand and Fight!
+Italian Vulgar	 Men Only	Mediterranean
+City mediterranean.png	Continental European	Latin
+House frame 22.png	Continental European	 Counties
+Roman	Bellicose
+Ethos bellicose.png	
+Eastern Roman Legacy
+Formation Fighting Experts
+Hereditary Hierarchy
+Legalistic
+Noble Adoption
+Refined Poetry
+Latin	 Men Only	Mediterranean
+City mediterranean.png	Byzantine
+Continental European	Latin
+House frame 22.png	Eastern European	 Counties
+Sardinian	Communal
+Ethos communal.png	
+Isolationist
+Stalwart Defenders
+Sardinian Vulgar	 Men Only	Mediterranean
+City mediterranean.png	Continental European	Latin
+House frame 22.png	Continental European	 Counties
+Sicilian	Ceremonious
+Ethos courtly.png	
+Refined Poetry
+Republican Legacy
+Ruling Caste
+Swords for Hire
+Xenophilic
+Italian Vulgar	 Men Only	Mediterranean
+City mediterranean.png	Continental European	Latin
+House frame 22.png	Continental European	 Counties
+Magyar	Hungarian	Bellicose
+Ethos bellicose.png	
+Agrarian
+Konni Raids
+Strong Believers
+Magyar	 Men Only	Continental European
+City western.png	Continental European	Magyar
+House frame 02.png	Mongolian	 Counties
+Mogyër	Bellicose
+Ethos bellicose.png	
+Strong Believers
+Tribal Unity
+Horse Lords / Khans of the Steppe Devoted Horsemanship
+Magyar	 Men Only	Eurasian Steppe
+City western.png	Mongolian	Magyar
+House frame 05.png	Mongolian	 Counties
+Mon-Khmer	Khmer	Ceremonious
+Ethos courtly.png	
+Fervent Temple Builders
+Mystical Ancestors
+Agrarian / DLC All Under Heaven.png Rice Cultivators
+DLC All Under Heaven.png Esoteric Power
+DLC All Under Heaven.png Hydraulic Builders
+Mon-Khmer	 Men Only	Southeast Asian
+City se asia.png	Southeast Asian	Burman
+House frame 26.png	Southeast Asian	 Counties
+Khmu	Communal
+Ethos communal.png	
+Hill Dwellers
+Storytellers
+Agrarian / DLC All Under Heaven.png Rice Cultivators
+Mon-Khmer	 Men Only	Southeast Asian
+City se asia.png	Southeast Asian	Burman
+House frame 26.png	Southeast Asian	 Counties
+Mon	Spiritual
+Ethos spiritual.png	
+Agrarian
+Religious Patronage
+Xenophilic / DLC Fate of Iberia.png Malleable Subjects
+Royal Court Culture Blending
+Mon-Khmer	 Men Only	Southeast Asian
+City se asia.png	Southeast Asian	Burman
+House frame 26.png	Southeast Asian	 Counties
+Niger Delta	Edo	Egalitarian
+Ethos egalitarian.png	
+Bush Hunting
+Hidden Cities
+Parochialism
+East Kwa	 Men Only	African
+City mena.png	African	Central African
+House frame 29.png	Sub-Saharan African	 Counties
+Ewe	Spiritual
+Ethos spiritual.png	
+Bush Hunting
+Legalistic
+Religion Blending
+Kwa	 Equal	African
+City mena.png	African	Central African
+House frame 29.png	Sub-Saharan African	 Counties
+Igbo	Spiritual
+Ethos spiritual.png	
+Bush Hunting
+Hidden Cities
+Recognition of Talent
+East Kwa	 Equal	African
+City mena.png	African	Central African
+House frame 29.png	Sub-Saharan African	 Counties
+Yoruba	Communal
+Ethos communal.png	
+Bush Hunting
+Equal Inheritance
+Hidden Cities
+Philosopher Culture
+East Kwa	 Equal	African
+City mena.png	African	Central African
+House frame 29.png	Sub-Saharan African	 Counties
+Nivkh	Nivkh	Stoic
+Ethos stoic.png	
+Dexterous Fishermen
+Forest Folk
+Isolationist
+Mystical Ancestors
+Winter Warriors
+Nivkh	 Men Only	Eurasian Steppe
+City western.png	Mongolian	Mongolian
+House frame 04.png	Mongolian	 Counties
+Qiangic	Qiang	Communal
+Ethos communal.png	
+Equal Inheritance
+Himalayan Settlers
+Medicinal Herbalists
+Sacred Mountains
+Tangut	 Men Only	Indian
+City india.png	Mongolian	Indian
+House frame 11.png	Mongolian	 Counties
+Tangut	Bureaucratic
+Ethos bureaucratic.png	
+Caravaneers
+Court Eunuchs
+Himalayan Settlers
+Religion Blending
+Religious Patronage
+Khans of the Steppe Iron Cavalry
+Tangut	 Men Only	Indian
+City india.png	Mongolian	Mongolian
+House frame 11.png	Mongolian	 Counties
+Sahelian	Bozo	Communal
+Ethos communal.png	
+Isolationist
+Religion Blending
+Wetlanders
+Soninke	 Men Only	African
+City mena.png	African	West African
+House frame 20.png	Sub-Saharan African	 Counties
+Gaw	Communal
+Ethos communal.png	
+Caravaneers
+Dryland Dwellers
+Ayneha	 Men Only	African
+City mena.png	African	West African
+House frame 20.png	Sub-Saharan African	 Counties
+Mossi	Bellicose
+Ethos bellicose.png	
+Adaptive Skirmishers
+Hereditary Hierarchy
+Ruling Caste
+Gur	 Equal	African
+City mena.png	African	West African
+House frame 20.png	Sub-Saharan African	 Counties
+Songhai	Ceremonious
+Ethos courtly.png	
+Dryland Dwellers
+Ruling Caste
+Warrior Culture
+Ayneha	 Men Only	African
+City mena.png	African	West African
+House frame 20.png	Sub-Saharan African	 Counties
+Soninke	Ceremonious
+Ethos courtly.png	
+Caravaneers
+City Keepers
+Dryland Dwellers
+Strong Believers
+Soninke	 Men Only	African
+City mena.png	African	West African
+House frame 20.png	Sub-Saharan African	 Counties
+Sorko	Communal
+Ethos communal.png	
+Dryland Dwellers
+Xenophilic
+Ayneha	 Men Only	African
+City mena.png	African	West African
+House frame 20.png	Sub-Saharan African	 Counties
+Samhanic	Goryeo	Ceremonious
+Ethos courtly.png	
+Court Eunuchs
+Castle Keepers / DLC All Under Heaven.png Fortress Mastery
+Isolationist / DLC All Under Heaven.png Cultural Primacy
+Philosopher Culture / DLC All Under Heaven.png Scholar Officians
+DLC All Under Heaven.png Sinophilic
+DLC All Under Heaven.png Stratified Society
+Koreanic	 Men Only	Chinese
+City china.png	Korean	Chinese
+House frame 09.png	Chinese	 Counties
+Silla	Ceremonious
+Ethos courtly.png	
+Refined Poetry
+Castle Keepers / DLC All Under Heaven.png Fortress Mastery
+Isolationist / DLC All Under Heaven.png Cultural Primacy
+DLC All Under Heaven.png Sinophilic
+DLC All Under Heaven.png Stratified Society
+Koreanic	 Men Only	Chinese
+City china.png	Korean	Chinese
+House frame 09.png	Chinese	 Counties
+Senegambian	Pulaar	Bellicose
+Ethos bellicose.png	
+Charismatic
+Forbearing
+Senegambian	 Men Only	African
+City mena.png	African	West African
+House frame 20.png	Sub-Saharan African	 Counties
+Serer	Spiritual
+Ethos spiritual.png	
+Hereditary Hierarchy
+Stalwart Defenders
+Strong Believers
+Senegambian	 Men Only	African
+City mena.png	African	West African
+House frame 20.png	Sub-Saharan African	 Counties
+Wolof	Communal
+Ethos communal.png	
+Ruling Caste
+Strong Believers
+Senegambian	 Men Only	African
+City mena.png	African	West African
+House frame 20.png	Sub-Saharan African	 Counties
+South Slavic	Bosnian	Communal
+Ethos communal.png	
+Isolationist
+Mendicant Mystics
+Monastic Communities
+South Slavic	 Men Only	Mediterranean
+City mediterranean.png	Continental European	South Slavic
+House frame 02.png	Eastern European	 Counties
+Bulgarian	Bureaucratic
+Ethos bureaucratic.png	
+Konni Raids
+Merciful Blindings
+Ruling Caste
+Stand and Fight!
+Slavonic	 Men Only	Mediterranean
+City mediterranean.png	Byzantine	South Slavic
+House frame 02.png	Eastern European	 Counties
+Croatian	Communal
+Ethos communal.png	
+Astute Diplomats
+Hereditary Hierarchy
+Konni Raids
+South Slavic	 Men Only	Mediterranean
+City mediterranean.png	Continental European	South Slavic
+House frame 02.png	Eastern European	 Counties
+Serbian	Communal
+Ethos communal.png	
+Konni Raids
+Religious Patronage
+Stalwart Defenders
+Royal Court Staunch Traditionalists
+South Slavic	 Men Only	Mediterranean
+City mediterranean.png	Byzantine	South Slavic
+House frame 02.png	Eastern European	 Counties
+Syriac	Syriac	Communal
+Ethos communal.png	
+Caravaneers
+Loyal Subjects
+Philosopher Culture
+Strong Believers
+Aramaic	 Men Only	Arabic
+City mena.png	Byzantine
+Arabic	Byzantine
+House frame 15.png	Arabic	 Counties
+Tai	Bouxcuengh	Communal
+Ethos communal.png	
+Culinary Artists
+Hill Dwellers
+Mystical Ancestors
+Storytellers
+Tai	 Men Only	Chinese
+City china.png	Viet	Chinese
+House frame 26.png	Southeast Asian	 Counties
+Hlai	Egalitarian
+Ethos egalitarian.png	
+Charitable
+Equal Inheritance
+Jungle Dwellers
+Xenophilic / DLC Fate of Iberia.png Malleable Subjects
+Tai	 Equal	Chinese
+City china.png	Chinese	Chinese
+House china.png	Chinese	 Counties
+Tai	Spiritual
+Ethos spiritual.png	
+Lords of the Elephant
+Loyal Subjects
+Agrarian / DLC All Under Heaven.png Rice Cultivators
+Castle Keepers / DLC All Under Heaven.png Fortified Strongholds
+DLC All Under Heaven.png Hydraulic Builders
+Tai	 Equal	Southeast Asian
+City se asia.png	Tai	Chinese
+House frame 26.png	Southeast Asian	 Counties
+Tujia	Bellicose
+Ethos bellicose.png	
+Highland Warriors
+Loyal Subjects
+Storytellers
+Warrior Priests
+Tai	 Men Only	Indian
+City india.png	Southeast Asian	Chinese
+House frame 04.png	Mongolian	 Counties
+Tibetan	Bodpa	Spiritual
+Ethos spiritual.png	
+Himalayan Settlers
+Horse Breeders
+Religious Patronage
+Tibetan	 Men Only	Indian
+City india.png	Mongolian	Tibetan
+House frame 28.png	Mongolian	 Counties
+Kirati	Communal
+Ethos communal.png	
+Himalayan Settlers
+Religion Blending
+Tibetan	 Men Only	Indian
+City india.png	Mongolian	Tibetan
+House frame 28.png	Mongolian	 Counties
+Lhomon	Communal
+Ethos communal.png	
+Himalayan Settlers
+Medicinal Herbalists
+Mystical Ancestors
+Tibetan	 Men Only	Indian
+City india.png	Mongolian
+Indian	Tibetan
+House frame 28.png	Mongolian	 Counties
+Sumpa	Egalitarian
+Ethos egalitarian.png	
+Equal Inheritance
+Himalayan Settlers
+Mountaineers
+Tibetan	 Men Only	Indian
+City india.png	Mongolian	Tibetan
+House frame 28.png	Mongolian	 Counties
+Tsangpa	Spiritual
+Ethos spiritual.png	
+Himalayan Settlers
+Religious Patronage
+Sacred Mountains
+Tibetan	 Men Only	Indian
+City india.png	Mongolian	Tibetan
+House frame 28.png	Mongolian	 Counties
+Zhangzhung	Spiritual
+Ethos spiritual.png	
+Himalayan Settlers
+Sacred Mountains
+Tibetan	 Men Only	Indian
+City india.png	Mongolian	Tibetan
+House frame 28.png	Mongolian	 Counties
+Tocharian	Tocharian	Spiritual
+Ethos spiritual.png	
+Caravaneers
+Philosopher Culture
+Religious Patronage
+Xenophilic
+DLC Legacy of Persia.png Frontier Warriors
+Tocharian	 Men Only	Iranian
+City iranian.png	Iranian	Iranian
+House frame 12.png	Iranian	 Counties
+Tungusic	Jurchen	Bellicose
+Ethos bellicose.png	
+Forest Folk
+Practiced Pirates
+Prolific Hunters / DLC Fate of Iberia.png Malleable Subjects
+Horse Breeders / Khans of the Steppe Iron Cavalry
+Tungusic	 Men Only	Eurasian Steppe
+City western.png	Mongolian	Mongolian
+House frame 14.png	Mongolian	 Counties
+Mohe	Egalitarian
+Ethos egalitarian.png	
+Forest Folk
+Sacred Hunts
+Prolific Hunters
+Xenophilic / DLC Fate of Iberia.png Malleable Subjects
+Tungusic	 Men Only	Eurasian Steppe
+City western.png	Mongolian	Mongolian
+House frame 14.png	Mongolian	 Counties
+Ugro-Permian	Bjarmian	Stoic
+Ethos stoic.png	
+Caravaneers
+Charismatic
+Forest Wardens
+Xenophilic
+Finnic	 Men Only	Continental European
+City western.png	Ugro-Permian	Ugro-Permian
+House frame 05.png	Northern European	 Herd
+Ostyak	Spiritual
+Ethos spiritual.png	
+Isolationist
+Strong Believers
+Khans of the Steppe Tribes of the North
+Ugro-Permian	 Men Only	Continental European
+City western.png	Ugro-Permian	Ugro-Permian
+House frame 05.png	Northern European	 Counties
+Permian	Communal
+Ethos communal.png	
+Forest Wardens
+Frugal Armorers
+Khans of the Steppe Tribes of the North
+Ugro-Permian	 Men Only	Continental European
+City western.png	Ugro-Permian	Ugro-Permian
+House frame 05.png	Northern European	 Counties
+Viet	Viet	Ceremonious
+Ethos courtly.png	
+Astute Diplomats
+Mystical Ancestors
+Agrarian / DLC All Under Heaven.png Rice Cultivators
+Hereditary Hierarchy / DLC All Under Heaven.png Scholar Officians
+DLC All Under Heaven.png Sinophilic
+Vietic	 Men Only	Chinese
+City china.png	Viet	Chinese
+House frame 28.png	Chinese	 Counties
+Vlach	Vlach	Communal
+Ethos communal.png	
+Konni Raids
+Pastorialists
+Strong Believers
+Xenophilic
+Royal Court Staunch Traditionalists
+Dacian Vulgar	 Men Only	Mediterranean
+City mediterranean.png	Byzantine	South Slavic
+House frame 02.png	Eastern European	 Counties
+Volga-Finnic	Mari	Stoic
+Ethos stoic.png	
+Frequent Festivities
+Musical Theorists
+Volga-Finnic	 Men Only	Continental European
+City western.png	Ugro-Permian	Eurasian Steppe
+House frame 05.png	Northern European	 Counties
+Merya	Stoic
+Ethos stoic.png	
+Storytellers
+Royal Court Culture Blending
+Volga-Finnic	 Men Only	Continental European
+City western.png	Ugro-Permian	Eurasian Steppe
+House frame 05.png	Northern European	 Counties
+Meshchera	Stoic
+Ethos stoic.png	
+Musical Theorists
+Religion Blending
+Royal Court Culture Blending
+Volga-Finnic	 Men Only	Continental European
+City western.png	Northern European	Eurasian Steppe
+House frame 05.png	Northern European	 Counties
+Mordvin	Stoic
+Ethos stoic.png	
+Frequent Festivities
+Musical Theorists
+Religion Blending
+Volga-Finnic	 Men Only	Continental European
+City western.png	Northern European	Eurasian Steppe
+House frame 05.png	Northern European	 Counties
+Muroma	Stoic
+Ethos stoic.png	
+Frequent Festivities
+Storytellers
+Royal Court Culture Blending
+Volga-Finnic	 Men Only	Continental European
+City western.png	Northern European	Eurasian Steppe
+House frame 05.png	Northern European	 Counties
+West Germanic	Anglo-Saxon	Bureaucratic
+Ethos bureaucratic.png	
+City Keepers
+Hirds
+The Witenagemot
+Anglic	 Men Only	Continental European
+City western.png	Northern European
+Continental European	Anglo-Saxon
+House frame 24.png	Continental European	 Counties
+English	Bureaucratic
+Ethos bureaucratic.png	
+Castle Keepers
+Chivalry
+Hereditary Hierarchy
+Longbow Competitions
+Anglic	 Men Only	Continental European
+City western.png	Continental European	English
+House frame 24.png	Continental European	 Counties
+Old Saxon	Bellicose
+Ethos bellicose.png	
+Hirds
+Seafarers
+Ting-Meet
+Royal Court Malleable Invaders
+Anglic	 Men Only	Continental European
+City western.png	Norse	Continental European
+House frame 24.png	Continental European	 Counties
+Scots	Bureaucratic
+Ethos bureaucratic.png	
+City Keepers
+Hereditary Hierarchy
+Strong Kinship
+Xenophilic
+Anglic	 Men Only	Continental European
+City western.png	Continental European	Scottish
+House frame 24.png	Continental European	 Counties
+West Slavic	Carantanian	Communal
+Ethos communal.png	
+Martial Admiration
+Mountaineer Ruralism
+South Slavic	 Men Only	Continental European
+City western.png	West Slavic	West Slavic
+House frame 21.png	Eastern European	 Counties
+Czech	Bureaucratic
+Ethos bureaucratic.png	
+Castle Keepers
+Industrious
+Life is just a Joke
+Mountaineer Ruralism
+Czech-Slovien	 Men Only	Continental European
+City western.png	West Slavic	West Slavic
+House frame 21.png	Eastern European	 Counties
+Polabian	Stoic
+Ethos stoic.png	
+Hereditary Hierarchy
+Konni Raids
+Stalwart Defenders
+Lechitic	 Men Only	Continental European
+City western.png	West Slavic	Polish
+House frame 21.png	Eastern European	 Counties
+Polish	Ceremonious
+Ethos courtly.png	
+Konni Raids
+Xenophilic
+Royal Court Staunch Traditionalists
+Lechitic	 Men Only	Continental European
+City western.png	West Slavic	Polish
+House frame 21.png	Eastern European	 Counties
+Pomeranian	Stoic
+Ethos stoic.png	
+Konni Raids
+Maritime Mercantilism
+Royal Court Staunch Traditionalists
+Lechitic	 Men Only	Continental European
+City western.png	West Slavic	West Slavic
+House frame 21.png	Eastern European	 Counties
+Slovien	Egalitarian
+Ethos egalitarian.png	
+Equitable
+Mountaineer Ruralism
+Czech-Slovien	 Men Only	Continental European
+City western.png	West Slavic	Polish
+House frame 21.png	Eastern European	 Counties
+Nomadic cultures
+Nomadic cultures are located in nomadic regions. Counties with nomadic cultures will use the most common architecture of the region where they're located. If the Khans of the Steppe Khans of the Steppe DLC is installed all of them will use  Herd to determine their culture head and will lose the Horse Lords and Steppe Tolerance traditions.
+
+ Heritage	 Culture	Ethos	Traditions	 Language	Martial Custom	Fashion	Coat of Arms	Military Equipment	Origin	Present in
+Horn African	Afar	Bellicose
+Ethos bellicose.png	
+Eye for an Eye
+Monogamous
+Mountain Skirmishing
+Warrior Culture
+Cushitic	 Men Only	African	East African
+House frame 07.png	Arabic	Original	867-1178
+Somali	Communal
+Ethos communal.png	
+Dryland Dwellers
+Maritime Mercantilism
+Mountain Skirmishing
+Refined Poetry
+Cushitic	 Men Only	African	East African
+House frame 07.png	Arabic	Original	867-1178
+Mongolic	Buryat	Spiritual
+Ethos spiritual.png	
+Mystical Ancestors
+Strong Believers
+Horse Lords
+Steppe Tolerance
+Khans of the Steppe Tribes of the North
+Mongolic	 Men Only	Mongolian	Mongolian
+House frame 14.png	Mongolian	Original	867-1178
+Kerait	Bellicose
+Ethos bellicose.png	
+Horse Breeders
+Prolific Hunters
+Horse Lords
+Steppe Tolerance
+Mongolic	 Men Only	Mongolian	Mongolian
+House frame 16.png	Mongolian	Original	867-1178
+Khitan	Bellicose
+Ethos bellicose.png	
+Pastorialists
+Ruling Caste
+Sacred Hunts
+Religion Blending / Royal Court Malleable Invaders
+Khans of the Steppe Iron Cavalry
+Serbi	 Equal	Mongolian	Mongolian
+House frame 16.png	Mongolian	Original	1066-1178
+Mongol	Bellicose
+Ethos bellicose.png	
+Hit-and-Run Tacticians
+Only the Strong
+Prolific Hunters
+Horse Lords
+Steppe Tolerance / Khans of the Steppe Wolves of the Deep Steppe
+Royal Court Malleable Invaders
+Mongolic	 Men Only	Mongolian	Mongolian
+House frame 14.png	Mongolian	Original	867-1178
+Naiman	Stoic
+Ethos stoic.png	
+Charismatic
+Mountain Homes
+Pastorialists
+Stalwart Defenders
+Horse Lords
+Steppe Tolerance
+Mongolic	 Men Only	Mongolian	Mongolian
+House frame 14.png	Mongolian	Original	867-1178
+Oirat	Bellicose
+Ethos bellicose.png	
+Mountain Homes
+Prolific Hunters
+Strong Believers
+Horse Lords
+Khans of the Steppe Tribes of the North
+Mongolic	 Men Only	Mongolian	Mongolian
+House frame 14.png	Mongolian	Original	867-1178
+Öngüd	Bellicose
+Ethos bellicose.png	
+Astute Diplomats
+Prolific Hunters
+Stalwart Defenders
+Horse Lords
+Steppe Tolerance
+Shaz Turkic	 Men Only	Mongolian	Turkic
+House frame 14.png	Mongolian	Diverged from Shatuo	867-1178
+Shiwei	Communal
+Ethos communal.png	
+Isolationist
+Mountaineers
+Pastorialists
+Khans of the Steppe Iron Cavalry
+Serbi	 Men Only	Mongolian	Mongolian
+House frame 14.png	Mongolian	Original	867-1178
+Tuyuhun	Bellicose
+Ethos bellicose.png	
+Dryland Dwellers
+Horse Breeders
+Pastorialists
+Khans of the Steppe Iron Cavalry
+Mongolic	 Men Only	Mongolian	Mongolian
+House frame 14.png	Mongolian	Original	867-1178
+Turkic	Avar	Bellicose
+Ethos bellicose.png	
+Recognition of Talent
+Ruling Caste
+Horse Lords
+Royal Court Culture Blending
+Oghur	 Men Only	Turkic	Turkic
+House frame 14.png	Mongolian	Original	867
+Bashkir	Stoic
+Ethos stoic.png	
+Forest Folk
+Hill Dwellers
+Strong Believers
+Horse Lords
+Royal Court Malleable Invaders
+Shaz Turkic	 Men Only	Turkic	Turkic
+House frame 14.png	Mongolian	Original	867-1178
+Bolghar	Communal
+Ethos communal.png	
+Astute Diplomats
+Ruling Caste
+Horse Lords
+Royal Court Malleable Invaders
+Oghur	 Men Only	Turkic	Turkic
+House frame 14.png	Mongolian	Original	867-1178
+Chuvash	Communal
+Ethos communal.png	
+Sacred Groves
+Sacred Hunts
+Strong Believers
+Horse Lords
+Oghur	 Men Only	Turkic	Turkic
+House frame 14.png	Mongolian	Diverged from Bolghar	867-1178
+Cuman	Bellicose
+Ethos bellicose.png	
+Eye for an Eye
+Pastorialists
+Swords for Hire
+Warrior Culture
+Horse Lords
+Royal Court Malleable Invaders
+Shaz Turkic	 Men Only	Turkic	Turkic
+House frame 14.png	Mongolian	Original	867-1178
+Karluk	Communal
+Ethos communal.png	
+Dryland Dwellers
+Mountain Homes
+Sacred Mountains
+Horse Lords
+Steppe Tolerance
+Royal Court Malleable Invaders
+Shaz Turkic	 Men Only	Turkic	Turkic
+House frame 14.png	Mongolian	Original	867-1178
+Khazar	Egalitarian
+Ethos egalitarian.png	
+Concubines
+Only the Strong
+Stand and Fight!
+Horse Lords
+Steppe Tolerance
+Oghur	 Equal	Turkic	Turkic
+House frame 14.png	Mongolian	Original	867-1178
+Kimek	Stoic
+Ethos stoic.png	
+Pastorialists
+Prolific Hunters
+Stalwart Defenders
+Horse Lords
+Shaz Turkic	 Men Only	Turkic	Turkic
+House frame 14.png	Mongolian	Original	867-1178
+Kipchak	Stoic
+Ethos stoic.png	
+Prolific Hunters
+Quarrelsome
+Swords for Hire
+Horse Lords
+Shaz Turkic	 Men Only	Turkic	Turkic
+House frame 14.png	Mongolian	Original	867-1178
+Kirghiz	Egalitarian
+Ethos egalitarian.png	
+Prolific Hunters
+Quarrelsome
+Horse Lords
+Khans of the Steppe Tribes of the North
+Shaz Turkic	 Equal	Turkic	Turkic
+House frame 14.png	Mongolian	Original	867-1178
+Laktan	Stoic
+Ethos stoic.png	
+Forest Folk
+Prolific Hunters
+Stalwart Defenders
+Horse Lords
+Shaz Turkic	 Men Only	Turkic	Turkic
+House frame 14.png	Mongolian	Original	867-1178
+Oghuz	Bellicose
+Ethos bellicose.png	
+Ruling Caste
+Swords for Hire
+Warrior Culture
+Horse Lords
+Khans of the Steppe Iron Cavalry
+Shaz Turkic	 Men Only	Turkic	Oghuz
+House frame 14.png	Mongolian	Original	867-1178
+Pecheneg	Bellicose
+Ethos bellicose.png	
+Quarrelsome
+Swords for Hire
+Warrior Culture
+Horse Lords / Khans of the Steppe Devoted Horsemanship
+Shaz Turkic	 Men Only	Turkic	Oghuz
+House frame 14.png	Mongolian	Original	867-1178
+Shatuo	Bellicose
+Ethos bellicose.png	
+Court Eunuchs
+Pastorialists
+Ruling Caste
+Khans of the Steppe Iron Cavalry
+Chinese	 Men Only	Turkic	Turkic
+House frame 14.png	Mongolian	Original	867
+Turkmen	Bellicose
+Ethos bellicose.png	
+By the Sword
+Prolific Hunters
+Ruling Caste
+Horse Lords
+Khans of the Steppe Iron Cavalry
+Shaz Turkic	 Men Only	Turkic	Oghuz
+House frame 14.png	Mongolian	Diverged from Oghuz	1178
+Uriankhai	Communal
+Ethos communal.png	
+Forest Folk
+Mendicant Mystics
+Prolific Hunters
+Horse Lords
+Shaz Turkic	 Men Only	Turkic	Turkic
+House frame 14.png	Mongolian	Original	867-1178
+Uyghur	Spiritual
+Ethos spiritual.png	
+Caravaneers
+Charitable
+Religious Patronage
+Xenophilic
+Steppe Tolerance
+Shaz Turkic	 Men Only	Turkic	Turkic
+House frame 14.png	Mongolian	Original	867-1178
+Yughur	Communal
+Ethos communal.png	
+Pastorialists
+Horse Lords
+Steppe Tolerance
+Khans of the Steppe Iron Cavalry
+Shaz Turkic	 Men Only	Turkic	Turkic
+House frame 14.png	Mongolian	Diverged from Uyghur	867-1178
+North Germanic cultures
+There are four cultures with North Germanic heritage. Their Culture Head will always be the ruler who controls most counties of that culture. Between the years 950 and 990 the Norse culture split will take place. If the game was started in 867 all divergent cultures listed below keep the same traditions as Norse. In later start dates Danish, Norwegian and Swedish have the traditions listed below. All Norse counties and characters inside Norway will become Norwegian, all Norse counties and characters inside Denmark will become Danish, and all Norse counties and characters inside Sweden, Finland and Sápmi will become Swedish. The split can be prevented by a ruler who controls 80% of the counties with Norse culture when it happens. Norse architecture will have Continental European appearance and Norse fashion will have Northern European appearance if the DLC Northern Lords.png Northern Lords DLC is not installed.
+
+ Culture	Ethos	Traditions	 Language	Martial Custom	Architecture	Fashion	Coat of Arms	Military Equipment	Present in
+Norse	Bellicose
+Ethos bellicose.png	
+Ting-Meet
+Hirds / DLC Northern Lords.png Coastal Warriors
+Refined Poetry / DLC Northern Lords.png Performative Honor
+Runestone Raisers / DLC Northern Lords.png Northern Stories
+Royal Court Malleable Invaders
+Norse	 Men Only	Norse
+City norse.png	Norse	Norse
+House frame 05.png	Norse	867-1066
+Danish	Bellicose
+Ethos bellicose.png	
+Ting-Meet
+Eye for an Eye
+Hereditary Hierarchy
+Runestone Raisers
+Hirds / DLC Northern Lords.png Coastal Warriors
+Norse	 Men Only	Continental European
+City western.png	Northern European	Danish
+House frame 21.png	Northern European	1066-1178
+Norwegian	Bellicose
+Ethos bellicose.png	
+Ting-Meet
+Maritime Mercantilism
+Runestone Raisers
+Storytellers
+Hirds / DLC Northern Lords.png Coastal Warriors
+Norse	 Men Only	Continental European
+City western.png	Northern European	Norwegian
+House frame 21.png	Northern European	1066-1178
+Swedish	Bellicose
+Ethos bellicose.png	
+Ting-Meet
+Runestone Raisers
+Strong Believers
+Hirds / DLC Northern Lords.png Coastal Warriors
+Norse	 Men Only	Continental European
+City western.png	Northern European	Swedish
+House frame 21.png	Northern European	1066-1178
+Ancient cultures
+Ancient cultures are all dead and only exist for the purpose of Legends and historical characters. They can be selected for custom characters but do not start with any Innovation. If they are brought back on the map, their Culture Head will be the ruler who controls most counties of that culture.
+
+ Heritage	 Culture	Ethos	Traditions	 Language	Martial Custom	Architecture	Fashion	Coat of Arms	Military Equipment
+Egyptian	Ancient Egyptian	Spiritual
+Ethos spiritual.png	
+Agrarian
+Hereditary Hierarchy
+Philosopher Culture
+Strong Believers
+Egyptian	 Equal	Arabic
+City mena.png	Abbasid
+Byzantine	Latin
+House frame 16.png	Arabic
+Gothic	Gothic	Bellicose
+Ethos bellicose.png	
+Isolationist
+Martial Admiration
+Stand and Fight!
+Royal Court Malleable Invaders
+Central Germanic	 Men Only	Mediterranean
+City mediterranean.png	Continental European	Latin
+House frame 16.png	Continental European
+Hellenic	Macedonian	Bellicose
+Ethos bellicose.png	
+Astute Diplomats
+Legalistic
+Philosopher Culture
+Hellenic	 Men Only	Mediterranean
+City mediterranean.png	Byzantine	Byzantine
+House frame 16.png	Eastern European
+Trojan	Bellicose
+Ethos bellicose.png	
+Astute Diplomats
+Legalistic
+Maritime Mercantilism
+Philosopher Culture
+Hellenic	 Men Only	Mediterranean
+City mediterranean.png	Byzantine	Byzantine
+House frame 16.png	Eastern European
+Hunnic	Hunnic	Bellicose
+Ethos bellicose.png	
+Horse Breeders
+Pastorialists
+Prolific Hunters
+Recognition of Talent
+Hunnic	 Men Only	Eurasian Steppe
+City western.png	Mongolian	Mongolian
+House frame 16.png	Mongolian
+Phoenician	Carthaginian	Bellicose
+Ethos bellicose.png	
+Eye for an Eye
+Maritime Mercantilism
+Seafarers
+Swords for Hire
+Water Rituals
+Carthaginian	 Men Only	Arabic
+City mena.png	Byzantine	Arabic
+House frame 10.png	Arabic
+List of unique formable cultures
+Some formable cultures will receive a unique custom name, as long as certain conditions are met upon creation:
+
+Unique divergent cultures
+New Culture Name	Parent Culture/Heritage	Title/Realm Capital	Special Condition
+Scanian	North Germanic Heritage	Petty Kingdom of Skåne	
+Beta Israeli	East African Heritage		Judaism Religion
+Avadhi	Indo-Aryan Heritage	Kingdom of Kosala	
+Malayali	Tamil	Raj of Chera Nadu	
+Hejazi	Bedouin	Emirate of Mecca or Medina	
+Szekely	Hungarian	Duchy of Transylvania or Transylvanian Alps	
+Maithili	Bengali or Nepali	Raj of Tirabhukti	
+Bihari	Indo-Aryan Heritage	Raj of Magadha, Tirabhukti or Kasi	
+Azeri	Turkic Heritage	High Chiefdom of Shirvan or Azerbaijan	
+Dhundari	Rajasthani	Raj of Ajmer	
+Mewari	Rajasthani	Raj of Medapata	
+Marwari	Rajasthani	Raj of Maru or Stravani	
+Nimadi	Marathi or Malvi	Raj of Anupa	
+Kathiawari	Gujarati	Raj of Anartta or Saurashtra	
+Kabyle	Butr or Baranis	Emirate of Kroumerie, Bejaia or Zab	
+Austrian	Central Germanic Heritage	Duchy of Austria, Salzburg, Steyermark or Carinthia or Archduchy of Austria	
+Burgundian	Frankish Heritage	Duchy of Burgundy, or Upper Burgundy	
+Arpitan	Frankish Heritage	Dauphinate of Viennois, Duchy of Savoy or Provence	
+Lothringian	Central Germanic Heritage	Duchy of Upper Lorraine or Lower Lorraine	
+Lorrainian		Duchy of Upper Lorraine or Lower Lorraine	
+Angevin	French	Duchy of Anjou	
+Provancale	Occitan or French	Duchy of Provence	
+Walloon	Frankish Heritage	Duchy of Flanders, Brabant, Luxembourg, Jülich or Holland	
+Flemish	Dutch	Duchy of Flanders, Brabant, Luxembourg, Jülich or Holland	
+Aquitanian	Occitan	Duchy of Acquitaine, Gascogne or Armagnac	
+Poitevin	French	Duchy of Poitiou	
+Auvergnat	Occitan	Duchy of Auvergne or Bourbon	
+Lengadocian	Occitan	Duchy of Languedoc or Toulouse	
+Mercian	Anglo-Saxon	Petty Kingdom of Mercia	
+Northumbrian	Anglo-Saxon	Petty Kingdom of Northumbria, York or Lancaster	
+Northerner	English	Petty Kingdom of Northumbria, York or Lancaster	
+Silesian	Czech or Polish	Duchy of Upper Silesia or Lower Silesia	
+Ruthenian	Russian	Grand Principality of Kyiv, Halych, the Cherven Cities, Volhynia, Turov, Pinsk, Minsk, Grodno, Chernigov, Pereyaslavl, Yedisan, Levedia, Voronezh, Khopyor, or Don Valley	
+Belarusian	Russian	Grand Principality of Pinsk, Minsk or Grodno	
+Red Ruthenian	Russian	Grand Principality of Halych and the Cherven Cities	
+Munda	Bengali	Raj of Jharkland	
+Shirvani	Persian	Shirvanshahdom of Shirvan	
+Pontic	Greek or either parent culture is Greek	Duchy of Chaldia or Steppe Region	
+Novgorodian	Russian	Grand Principality of Novgorod	
+Geatish	Swedish	Petty Kingdom of Småland, Västergötland or Östergötland	
+Gutish	Swedish	Petty Kingdom of Visby	
+Venetian	Latin Heritage	Republic of Venice	
+Mervi	Iranian Heritage	Mervshahdom of Merv	
+Parsi		India Region	Zoroastrian Religion
+Icelandic	North Germanic Heritage	Petty Kingdom of Iceland	
+Omani	Arabic Heritage	Emirate of Oman	
+Khaleeji	Arabic Heritage	Emirate of Al-Hasa, Bahrain, Khuzestan, Hormuz or Fars	
+Mahri	Arabic Heritage	Emirate of Mahra	
+Gorani	Kurdish	Kermanshahdom of Kermanshah	
+Luri	Iranian Heritage	Khuzestanshahdom of Khuzestan or Kermanshahdom of Kermanshah	
+Tabari	Iranian Heritage	Tabaristanshahdom of Tabaristan or Daylamshahdom of Daylam	
+Ligurian	Latin Heritage	Duchy of Genoa	
+Romagnol	Latin Heritage	Duchy of Romagna or Emilia	
+Tuscan	Latin Heritage	Duchy of Tuscany or Pisa	
+Umbrian	Latin Heritage	Duchy of Spoleto	
+New English	West Germanic Heritage	Steppe Region	
+Moroccan		Grand Emirate of Maghreb	
+Algerian		Grand Emirate of Tahert	
+Tripolitanian		Emirate of Syrte, Fezzan or Cyrenaica	
+Tunisian		Grand Emirate of Africa	
+Lebanese	Arabic Heritage	Malikate of Syria	Coastal Capital
+Syrian	Arabic Heritage	Sultanate of Syria	NOT Coastal Capital
+Iraqi	Arabic Heritage	Sultanate of Mesopotamia or Jazira	
+Soqotri	Arabic Heritage	Emirate of Socotra	
+Palestinian	Arabic Heritage	Sultanate of Jerusalem or Israel	Islamic religion
+Upper Saxon	Saxon	Duchy of Thüringia, Anhalt, Lausitz or Meissen	
+Dalmatian	South Slavic, Eastern Roman or Latin Heritage	Kingdom of Croatia	
+Neapolitan	Berber, Eastern Roman or Latin Heritage	Kingdom of Sicily EXCEPT Duchy of Sicily		
+Arvanite	Albanian Heritage	Byzantine Empire		
+Griko	Greek	Kingdom of Sicily		
+Egyptiote	Greek	Kingdom of Egypt		
+Cappadocian	Greek	Kingdom of Anatolia		
+Cypriot	Greek	Kingdom of Cyprus		
+Wamvita	Bantu Heritage	Duchy of Mombasa		
+Unique hybrid cultures
+New Culture Name	Cultures/Heritages	Title/Realm Capital	Special Condition
+Azeri	Turkic and Iranian Heritages	High Chiefdom of Shirvan or Azerbaijan	
+Anatolian Turkish	Either Culture is Turkic Heritage	GHW Region of Anatolia	
+Norse-Gael	Goidelic; and North Germanic Heritages	
+Hiberno-Norman	Norman (ruler culture); and Irish		
+Hiberno-Welsh	Welsh (ruler culture); and Irish		
+Danelander	Anglo-Saxon or English; and North Germanic Heritages	Kingdom of Danelaw or Daneland	
+Ænglish	Anglo-Saxon; and Norwegian		NOT Norse Religion
+Anglo-Nordic	Anglo-Saxon or English; and North Germanic Heritage		
+Hindustani	Iranian or Turkic (ruler culture), and Indo-Aryan Heritages	GHW Region of Northern India	
+Rhinelander	Frankish; and Central Germanic Heritages	Rhineland Region	
+Turko-Persian	Oghuz (ruler culture); and Persian		
+Turko-Afghan	Oghuz (ruler culture); and Afghan		
+Ulster-Scot	Scots; and Irish		
+Romansh	Any two of the following: Frankish, Central Germanic or Latin Heritage (EXCEPT Frankish Heritage (ruler culture), and Central Germanic Culture)	Duchy of Currezia	
+Swiss	Any two of the following: Frankish, Central Germanic or Latin Heritage	Confederation of Switzerland	
+Transylvanian	Magyar; and Vlach Heritage	Duchy of Transylvania or Transylvanian Alps	
+Alsatian	Frankish; and Central Germanic Heritages	Duchy of Alsace or Upper Lorraine	
+Vlaemsch	Frankish Heritage; and Dutch		
+Khalka	Tibetan; and Mongolic Heritage		
+Himalayan	Tibetan Heritage; and Nepali		
+Angevin	Frankish; and West Germanic Heritage		
+Uzbek	Mongolic; and Turkic Heritages		
+Kurlander	Central Germanic (ruler culture); and Balto or Balto-Finnic Heritage	High Chiefdom of Courland	
+Livonian	Balto-Finnic; and Baltic Heritages		
+Moroccan	Arabic Heritage or Arabic Language; and Berber Heritage	Grand Emirate of Maghreb (or simply holding the Title as Andalusian)	
+Algerian	Arabic Heritage or Arabic Language; and Berber Heritage	Grand Emirate of Tahert (or simply holding the Title as Andalusian)	
+Tripolitanian	Arabic Heritage or Arabic Language; and Berber Heritage	Emirate of Syrte, Fezzan or Cyrenaica (or simply holding any of the Titles as Andalusian (must NOT hold the Grand Emirate of Africa))	
+Tunisian	Arabic Heritage or Arabic Language; and Berber Heritage	Grand Emirate of Africa (or simply holding the Title as Andalusian)	
+Kuzarim	Khazar; and Israelite Heritage		Judaism Religion
+Siddi	East African or Horn African; and Indo-Aryan or Dravidian Heritages		
+Bari	Berber; and Latin or Frankish Heritages		
+Gyalrong	Tibetan; and Qiangic Heritages		
+Lebanese	Eastern Roman; and Arabic Heritages	Malikate of Syria	
+Outremer	Frankish (ruler culture); and Arabic Heritages	Syria Region	
+Oltremare	Latin (ruler culture); and Arabic Heritages	Syria Region	
+Ultramar	Iberian (ruler culture); and Arabic Heritages	Syria Region	Culture's faith must be Christian
+Hierosolyman	North, Central or West Germanic (ruler culture); and Arabic Heritages	Syria Region	
+Jerusaleman	South, West or East Slavic (ruler culture); and Arabic Heritages	Syria Region	
+Külföldi	Magyar (ruler culture); and Arabic Heritages	Syria Region	
+Dramor	Brythonic (ruler culture); and Arabic Heritages	Syria Region	
+Coigríche	Goidelic (ruler culture); and Arabic Heritages	Syria Region	
+Arpitan	Frankish; and Latin Heritages	Dauphinate of Viennois, Duchy of Savoy or Provence	
+New English	West Germanic; and Mongolic or Turkic Heritages	Steppe Region	
+Upper Saxon	Saxon and Polabian		
+Dobrujan	Vlach; and Turkic Heritages	Duchy of Dobrudja or Bugeac	
+Aromanian	Vlach Heritage (or its Parent Culture); and Eastern Roman Heritage	Catapanate of Thessalonika, Epirus, or Hellas	
+Dalmatian	Any two of the following: South Slavic, Eastern Roman or Latin Heritage	South Slavia Region except Kingdoms of Wallachia, Moldavia and Bulgaria	
+Neapolitan	Any two of the following: Latin, Eastern Roman or Berber Heritage	Kingdom of Sicily EXCEPT Duchy of Sicily	
+Siculo-Norman	Norman (ruler culture); Latin, Eastern Roman or Berber Heritage	Kingdom of Sicily	
+Arvorigeg	Brythonic (ruler culture); and Frankish Heritage		
+Gallo	Frankish (ruler culture); and Brythonic Heritages		
+Scota	Scots and Egyptian		
+Parsi	Iranian and either Dravidian or Indo-Aryan Heritage	India Region	Zoroastrian Religion
+Arvanite	Albanian and Eastern Roman Heritage		
+Wendish	Czech-Slovien or Lechitic Language with West Slavic Heritage (ruler culture), and Central or West Germanic Heritage	Holy Roman Empire	
+Böhmisch	High German or Saxon Language with Central or West Germanic Heritage (ruler Culture); and West Slavic Heritage	Kingdom of Bohemia	
+Gasmoulos	Frankish or Latin Heritage; and Eastern Roman Heritage	Byzantine Empire or Latin Empire	
+Aquitanian	Basque Language; and Frankish Heritage		
+Griko	Eastern Roman Heritage; and Latin Heritage	Kingdom of Sicily	
+Egyptiote	Eastern Roman Heritage (ruler culture); and Arabic Heritage	Kingdom of Egypt	
+Shirazi	Bantu Heritage and either Arabic or Iranian Heritage	Eastern Africa Region	
+Goryeo	Goguryeo (ruler culture); and Samhanic heritage		
+Samhan	Silla or Baekje (ruler culture); and Samhanic heritage		
+Culture splits
+The following cultures will divide into multiple small cultures once certain time periods are reached. A player character will get the option to cancel the culture split if they controls 80% of the counties with the original culture.
+
+Original Culture	Period	Region	New Cultures	Condition
+Anglo-Saxon	867-950	Scotland	Scots	County is in Scotland
+Norse	950-990	Northern Europe	Danish	County is in Denmark
+Norwegian	County is in Norway
+Swedish	County is in Northern Europe
+Sicilian melting pot
+Sicilian culture can emerge in any county within the duchies of Benevento, Capua, Apulia, Salerno, Calabria, or Sicily if the following conditions are met:
+
+County has Norman, Baranis, Italian, Lombard, or Greek culture
+The current county holder is one of those five cultures, but is NOT the same as the county's culture
+An event can fire on a tri-yearly pulse switching an eligible county's culture to Sicilian. This chance is doubled if the county holder is Norman, and quadrupled if a neighboring county is already Sicilian. Unlike melting pot cultures emerging from a cultural split or created by decision, Sicilian only changes the culture of counties, not characters. A ruler must still use the Convert to Local Culture or (if a Norse adventurer) the Have the Realm Embrace Local Traditions decision to switch to Sicilian. A ruler with Sicilian culture will have an accelerated chance of the culture flip to occur in remaining Norman, Baranis, Italian, Lombard, or Greek counties (provided they border a Sicilian county).
+
+Harrying of the North
+Roads to Power	Available only with the Roads to Power DLC enabled.
+Harrying of the North is a culture mechanic enabled if Duke William II of Normandy wins his starting war against King Harold II Godwineson of England. If playing as Hereward the Wake it will only happen if you choose to travel to England after William wins the war.
+
+Once the Harrying of the North begins, every county belonging to a vassal of King William of Anglo-Saxon culture will gain +25  Control but also -0.25 Monthly  Development for 15 years. King William will gain the Ruthless Conqueror modifier for 15 years, which has the following effects:
+
+ +0.2 Monthly Dread
+ +0.5 Monthly Control
+ -15 Popular Opinion
+ -30 Minority Vassal Opinion
+ -45 Anglo-Saxon Opinion
+Harrying of the North has two values to keep track of which are affected by events: Resistance and Pacification. It will start at 5 Resistance and 0 Pacification. Resistance and Pacification come in four levels and whichever value is higher will impart its effects:
+
+Level 1	Level 2	Level 3	Level 4
+Resistance	If Resistance is above 7
+-1 Monthly Cultural Acceptance between Anglo-Saxon and Norman cultures
+If Resistance is above 10
+-2 Monthly Cultural Acceptance between Anglo-Saxon and Norman cultures
+Slightly increased chance of Claimant factions against the king of England
+If Resistance is above 13
+-5 Monthly Cultural Acceptance between Anglo-Saxon and Norman cultures
+Increased chance of Claimant factions against the king of England
+-10 Control every 3 years in all counties of vassals of king of England
+If Resistance is above 16
+-10 Monthly Cultural Acceptance between Anglo-Saxon and Norman cultures
+Greatly increased chance of Claimant factions against the king of England
+-20 Control every 3 years in all counties of vassals of king of England
+Pacification	If Pacification is above 5
++1 Monthly Cultural Acceptance between Anglo-Saxon and Norman cultures
+If Pacification is above 8
++2 Monthly Cultural Acceptance between Anglo-Saxon and Norman cultures
++1 Monthly Dread for the king of England
+If Pacification is above 11
++5 Monthly Cultural Acceptance between Anglo-Saxon and Norman cultures
++2 Monthly Dread for the king of England
+If Pacification is above 14
++10 Monthly Cultural Acceptance between Anglo-Saxon and Norman cultures
++3 Monthly Dread for the king of England
+Unlocks the Embrace English Culture decision
+Harrying of the North can end in three ways. All of them will give the king of England -65  Stress.
+
+If none of the vassals of the king of England has Anglo-Saxon culture or is a  Duke
+If the king of England does not have Norman or English culture
+If 50 years pass
+References
+Mechanics
+Characters	Characters • Attributes • Traits • Resources • Modifiers • Lifestyle • Family • Dynasty • Schemes • Hooks • Activities • Artifacts • Interactions • Travel • Adventurers • Prisoners
+Realm & Governance	Council • Court • Power sharing • Subjects • Succession • Government • Laws • Decisions • Titles • Barony • County • Buildings • Royal court • Domiciles • Great projects
+Warfare	Warfare • Casus belli • Alliance • Army • Hired forces • Knights • Duel • Situations
+Culture & Faith	Culture • Traditions • Innovations • Form of Address • Faith • Doctrines • Tenets • Holy sites
+Meta	Modding • Patches • Downloadable content • Developer diaries • Achievements • Jargon • Bookmarks • Interesting characters • Ruler Designer • Game rules
+Categories: 1.19Character
+About CK3 WikiMobile view
+Attribution-ShareAlike 3.0Powered by MediaWiki
+
+Games
+Discover
+Our Brands
+Browse
+Play on Paradox technology
+Community
+Paradox Forums
+Paradox Wikis
+Support
+About
+News
+About us
+Careers
+Join our playtests
+Media contact
+Social Media
+Legal Information
+EU Online Dispute Resolution
+Report Illegal Content
+x1.00

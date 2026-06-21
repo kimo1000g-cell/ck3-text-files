@@ -1,0 +1,409 @@
+
+Paradox Wikis
+CK3 Wiki
+
+Search
+Search CK3 Wiki
+Log in
+Navigation menu
+PageDiscussion
+ReadEditEdit sourceView history
+Crusader Kings III Wiki
+Recent changes
+Random page
+Paradox Wikis
+- Main portal
+- Wikis discord
+- Contact us
+- Style guidelines
+CK3 links
+- Forums
+- Game discord
+- Mods
+- Store
+- YouTube
+Tools
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+ 
+Titles
+Jump to navigationJump to search
+Please help with verifying or updating older sections of this article.
+At least some were last verified for version 1.18.
+
+This article is for the PC version of Crusader Kings 3 only.
+
+Nav top.png
+Crusader Kings III
+List of Titles
+Overview
+County.png Counties
+Duchy.png Duchies
+Kingdom.png Kingdoms
+Empire.png Empires
+Hegemony.png Hegemonies
+A title is essentially a certificate of land ownership, decreeing which characters own a certain place or lead a certain landless group of people. Each title has a rank, a unique coat of arms, and a color on map. A character's titles along with those held by its vassals form a character's Realm.
+
+Certain titles can change name based on the culture of the character holding it, and all titles can have their names and coat of arms changed by their holder. Some titles will change also their coat of arms automatically based on the faith of their holder but can be manually reverted to the historical coat of arms at any time.
+
+A character's highest-ranked title is the Primary Title and determines the realm's color and coat of arms. If a character owns multiple titles of the same highest rank, they can freely choose which one is the Primary title.
+
+If a character is granted a title all lower-ranked vassals whose realms are located entirely within the de jure realm of the granted title will be transferred.
+
+
+Contents
+1	Title rank
+1.1	Duchy
+2	De Jure
+2.1	Usurpation
+2.2	De jure drift
+3	Claim
+4	Revocation
+5	Holding too many titles
+6	Head of faith titles
+7	Roman Empire
+8	References
+Title rank
+Each title has a rank, which determines its place in the feudal pecking order. Rank primarily governs who holders of that title can vassalize or become vassals of. A ruler can only have vassals of lower rank and can only be a vassal of someone of higher rank. Title Rank also determines what bonuses it grants to players who hold that title. Creating a title requires owning at least two titles of lower rank or one title of equal or higher rank and vassal cannot create titles of equal rank to their liege's. The lowest playable title is Count.
+
+Rank	Effects	 Prestige per title	 Opinion if granted	 Create/Usurp cost	Destroy cost	Create/Usurp reward	 Title succession law removal cost	 Title men-at-arms
+Barony
+Barony.png	
+Legitimacy 0.png Expected to have Illegitimate legitimacy level
+ +1 Domain Limit
+ Is always a Vassal of their de jure Count
++0.02	+20	
+Holding cost
+Cannot be usurped
+Cannot be destroyed	N/A	Cannot have title succession laws	0
+County
+County.png	
+Legitimacy 1.png Expected to have Aspiring legitimacy level
+ +2 Domain Limit
+ +1 Number of Knights
+ +2 Number of Regiments
+ +1 Clan Tax Jurisdictions
+Khans of the Steppe +3000 Herd Capacity
+DLC All Under Heaven.png +10 Personal Movement Power
++0.05	+40	
+Always exists
+Cannot be usurped
+Cannot be destroyed	N/A	Cannot have title succession laws	0
+Duchy
+Duchy.png	
+Legitimacy 2.png Expected to have Recognized legitimacy level
+ +2 Domain Limit
+ +2 Number of Knights
+ +3 Number of Regiments
+ -10 Enemy Personal Scheme Power
+ -20 Enemy Hostile Scheme Power
+ -10% Enemy Scheme Secrecy
+ +1 Clan Tax Jurisdictions
+ +20 Vassal Limit
+ +10% Mercenary Hire Cost
+Khans of the Steppe +5000 Herd Capacity
+DLC All Under Heaven.png +15 Personal Movement Power
++0.2	+60	
+250 if not Administrative
+125 if Administrative
+ 400 Prestige
+ 25 Legitimacy
+ 300 Prestige
+ 25 Legitimacy
+375	3
+Kingdom
+Kingdom.png	
+Legitimacy 3.png Expected to have Rightful legitimacy level
+ +3 Domain Limit
+ +3 Number of Knights
+ +4 Number of Regiments
+ -15 Enemy Personal Scheme Power
+ -30 Enemy Hostile Scheme Power
+ -20% Enemy Scheme Secrecy
+ +2 Clan Tax Jurisdictions
+ +40 Vassal Limit
+ +30% Mercenary Hire Cost
+DLC Tours and Tournaments.png +1 Accolades Available
+Khans of the Steppe +15000 Herd Capacity
+Khans of the Steppe +25% County Fertility Growth
+DLC All Under Heaven.png +20 Personal Movement Power
+DLC All Under Heaven.png +50% Monthly Merit
++0.8	+80	
+500 if not Administrative
+250 if Administrative
+ 800 Prestige
+ 50 Legitimacy
+ 400 Prestige
+ 50 Legitimacy
+1000	4
+Empire
+Empire.png	
+ Expected to have True legitimacy level
+ +4 Domain Limit
+ +4 Number of Knights
+ +5 Number of Regiments
+ -20 Enemy Personal Scheme Power
+ -40 Enemy Hostile Scheme Power
+ -30% Enemy Scheme Secrecy
+ +2 Clan Tax Jurisdictions
+ +60 Vassal Limit
+ +60% Mercenary Hire Cost
+DLC Tours and Tournaments.png +2 Accolades Available
+Khans of the Steppe +20000 Herd Capacity
+Khans of the Steppe +50% County Fertility Growth
+DLC All Under Heaven.png +25 Personal Movement Power
+DLC All Under Heaven.png +100% Monthly Merit
++1.6	+100	
+1000 if not Administrative
+500 if Administrative
+ 1200 Prestige
+ 75 Legitimacy
+ 500 Prestige
+ 75 Legitimacy
+1500	5
+Hegemony
+Hegemony.png	
+Yes Borders Wars Policy law is set to Conditional Join
+ Expected to have True legitimacy level
+ +5 Domain Limit
+ +9 Number of Knights
+ +6 Number of Regiments
+ -20 Enemy Personal Scheme Power
+ -40 Enemy Hostile Scheme Power
+ -40% Enemy Scheme Secrecy
+ +2 Clan Tax Jurisdictions
+ +80 Vassal Limit
+ +80% Mercenary Hire Cost
+DLC Tours and Tournaments.png +3 Accolades Available
+Khans of the Steppe +20000 Herd Capacity
+Khans of the Steppe +65% County Fertility Growth
+DLC All Under Heaven.png +1 Scheme Slots if Hegemon of China
++2.4	+120	Created by decision
+Cannot be usurped	
+ 2200 Prestige
+ 100 Legitimacy
+ 600 Prestige
+ 100 Legitimacy
+Cannot have title succession laws	6
+All opinion modifiers from granting titles last 50 years and can stack. Creation costs can be reduced by various modifiers up to a 20% minimum cost. (So creating a Duchy will always cost at least 50 gold).
+
+Duchy
+Duchy is the third rank of titles, and the first rank that can be destroyed or created by characters. However, it has some unique properties:
+
+Each duchy has a duchy capital building slot in its capital county's capital barony.
+Characters can hold at most 2 duchy titles without suffering opinion penalties from their vassals; this rule does not apply to any other ranks.
+Emperors and Hegemons can have duchy rank vassals without penalties.
+De Jure
+De Jure, meaning "by law", means that a title historically covered certain lower Rank titles. Every duchy in the game is considered to be part of a specific de jure kingdom and every kingdom to be part of a specific de jure empire. Vassals within a de jure border have fewer reasons and abilities to revolt against their liege and declare independence. The Duchy, Kingdom and Empire map modes will show all De Jure titles.
+
+A character who owns a title can choose the De Jure Casus belli to seize a single De Jure title covered by it, provided that the character's culture has the appropriate innovation below:
+
+Seize De Jure County requires the Tribal-era innovation Casus Belli.
+Seize De Jure Duchy requires the Early Medieval-era innovation Chronicle Writing.
+Seize De Jure Titles requires the Late Medieval-era innovation Rightful Ownership.
+If a vassal's primary title does not fall under the de jure territory of any titles their liege holds, that vassal gives 50% less  Taxes and  Levies alongside -5  Opinion of Liege. Furthermore, count rank vassals give 25% less  Taxes and  Levies alongside -5  Opinion of Liege if their liege does not hold the de jure duchy of their primary title, but does hold its de jure kingdom or empire.
+
+Any ducal or kingdom title can be created by a character who controls at least 51% of its De Jure Counties as long as they hold either two titles of lower Rank or one title of equal or higher Rank; empire titles require at least 81% of their De Jure Counties. Legitimacy above expectations provides a discount to the required amount of counties.
+
+In the Region of Europe, AI characters will only create Kingdom titles if they have certain cultures.
+
+Usurpation
+If a character has at least two titles of lower rank or one title of equal or higher rank and is holding more than 50% of the De Jure Counties of a title held by a Ruler of the same Faith or a Faith which is not considered Hostile or Evil, then the character can Usurp the title. This process gives the title to the usurper. If the holder's Faith is considered Hostile or Evil, then they must not hold any De Jure counties of the title to be able to be Usurped. Titles cannot be usurped from war enemies.
+
+If a character is a Vassal, they cannot Usurp a title belonging to the Liege, nor can they Usurp one that has the same Rank or higher than the Liege's Primary title.
+
+Usurping a title will give -50  Opinion with the title's previous owner and they will lose  Legitimacy.
+
+De jure drift
+De jure drift or assimilation is the process by which the de jure borders of kingdoms, empires and hegemonies can change over time. If a ruler completely controls a duchy, kingdom or empire, owns a higher ranked title, and does not own the higher title that the lower title De Jure belongs to, then the said duchy, kingdom or empire will slowly become De Jure part of the character's Primary title.
+
+A duchy will begin to drift into a kingdom when all of the following conditions are met:
+
+The entire duchy (i.e. all county titles belonging de jure to the duchy; baronies are allowed to be outside the realm) is within the realm of the king.
+The duchy is not part of the kingdom of Jerusalem.
+The kingdom is its owner's primary title. (Note: there are some corner cases / possible bugs where drift continues even if primary title changes)
+The duchy either shares a land border with, or is a maximum of 2 sea tiles away from the existing de jure kingdom.
+The de jure kingdom of the duchy is not drifting into another empire which is not the de jure empire of the kingdom
+Note: it does not matter if the dutchy title exists or not
+A kingdom will begin to drift into an empire when all of the following conditions are met:
+
+The entire kingdom (i.e. all county titles of all duchies belonging de jure to the kingdom) is within the realm of the emperor.
+The empire is its owner's primary title.
+The kingdom either shares a land border with, or is a maximum of 2 sea tiles away from the existing de jure empire.
+An empire will begin to drift into a hegemony when all of the following conditions are met:
+
+The entire empire (i.e. all county titles of all kingdoms belonging de jure to the empire) is within the realm of the hegemon.
+The hegemony is its owner's primary title.
+The empire either shares a land border with, or is a maximum of 2 sea tiles away from the existing de jure hegemony.
+Upon reaching January 1st of the next year, drift is visible as dashed stripes on the kingdoms, empires or hegemonies map mode. Hovering over the duchy or kingdom will show a tooltip indicating the number of years until full assimilation.
+
+Whenever the conditions for assimilation are no longer met — for example, if the local ruler of a duchy rebels against top-liege, or if one of the counties in the duchy is conquered by another independent realm — the counter will tick backwards instead of forwards, at half the speed. When the conditions are again met — for example, if the duke's rebellion is put down — the counter will resume ticking forwards.
+
+Drift progress is recorded towards each target separately. If drift target changes, progress starts accumulating towards the new target at the same time as it ticks back towards the old target.
+
+In general, a title will be assimilated after being controlled for 100 years. The duration required for assimilation can only be decreased by the Chancellor task "Integrate Title".
+
+Completing a drift requires accumulating 1200 progress. You can see current numeric progress using the "Integrate Title" task.
+
+Progress Source	Monthly progress
+passive progress	1
+passive regress	0.5
+Integrate Title task	+0.035 * Chancellor diplomacy
+Chancellor friend/rival	varies
+Family Business tradition	+10%
+Consulted house member	+10%
+Assimilation allows titular kingdoms and empires to become non-titular and vice versa. If a de jure kingdom becomes titular, it can be created by whoever controls its de jure capital.
+
+Claim
+A claim represents a character's legal right to obtain a title which is not theirs and allows the creation of a claimant faction. If the title belongs to a vassal, the claim allows the liege to revoke the claimed title without incurring tyranny. Otherwise, a claim provides a casus belli to gain the claimed title through war. Alternatively, if the title belongs to the liege and the government is tribal, the claimant vassal can use the ‘Challenge the Ruler’ decision, which is a duel. Claims can be pressed, unpressed, or implicit.
+
+ Pressed claims on a character's titles are given to all legitimate children upon the title holder's death, except to primary heirs under any partition succession. Primary heirs under a partition succession do not inherit claims on their siblings land, with the exception of any claims for titles that are of equal rank to their primary title. This allows primary heirs under a partition succession to quickly declare war to reunite their predecessor's realm. Also, pressed claims held by the decedent are inherited by legitimate children as unpressed claims regardless of sex. Wars over pressed claims cost 25% less.
+ Unpressed claims are never inherited but can become pressed if a claim war using the claim ends in a white peace.
+ Implicit claims on a character's current titles are given to children favored by the faith's View on Gender doctrine while the title holder is still alive. Children with traits that prevent inheriting titles will not get claims.
+Claims on landed titles can be obtained the following ways:
+
+A vassal that owns 51% of the counties from one of their liege's titles can use Claim Liege Title interaction to get an  unpressed claim on that title at the cost of 1500  prestige.
+Using the Task fabricate claim.png Fabricate Claim on County councilor interaction will provide an  unpressed claim on the targeted county. If the holder of the targeted county also holds its de jure duchy title and the court chaplain has high  learning, there is a 20% chance of gaining a claim on the county's de jure duchy instead.
+A dynasty head can use the claim title interaction on dynasty members of the same religion to gain an  unpressed claim on on of their titles.
+A character with a spiritual head of faith may use this ‘request claim‘ interaction to request an unpressed claim on one of a co-religionist's currently held titles. The cost is in piety using the same rates as Buy Claim below.
+A character with the ‘Sanctioned Loopholes’ perk can use the ‘Buy Claim’ interaction to gain an  unpressed claim on another character's any titles at the following cost:
+Title rank	Piety cost
+ County	250
+ Duchy	500
+ Kingdom	1000
+ Empire	2000
+ Hegemony	4000
+There are no claims for baronies; if you want a particular barony, you have to hold the county which the barony's a part of.
+
+Revocation
+Revoking titles of vassals is a crucial part of realm management, as it allows redistribution of power. Revoking titles requires the realm's authority law to be at least at level 2.
+
+Revoking Titles incurs +20  Tyranny unless the liege has a Claim on the title being revoked, the vassal committed a  Crime that allows warrants revocation or the title is a barony.
+
+If the vassal doesn't accept the revocation, they will rise in revolt, along with other disgruntled vassals. Barons and imprisoned vassals cannot refuse title revocation.
+
+Holding too many titles
+Overextension: If a character is a  Count or  Duke, their realm can include a maximum of 30 County titles without penalties; for Dukes, this include the Counties controlled by their Count Vassals. Each county over the limit gives an overextension penalty that reduces the character's  Gold income by -5%. Count-rank characters are unlikely to see this however, as they are further limited by their  Domain Limit, which is usually much lower.
+
+Too Many Held Duchies: If a character is a  King or above, they can hold a maximum of 2 Duchy titles without penalties. Any Duchy above the limit reduces the  Opinion of all Vassals by -15.
+
+Head of faith titles
+Head of faith titles are not part of the de jure hierarchy as they do not contain any de jure territory. Instead they designate which character is a the head of faith for faiths with  Spiritual or  Temporal head of faith doctrine. Creating a head of faith title requires control of a Holy Site, 300  Gold and at least a Devoted level of devotion. All head of faith titles have  Duke rank, with the exception of the  Catholicism and  Orthodoxy ones which have  Kingdom rank.
+
+Roman Empire
+
+Roman provinces marked by color
+The Roman Empire is an initially titular title that has special mechanics. It can be created via the Restore the Roman Empire decision and will replace the current primary title. If multiple empire titles are held, they will all be merged into the Roman Empire title that will gain all their de jure territory. The character holding the Roman Empire title will always have the  Augustus trait. The initial coat-of-arms of the title depends on which of the 3 required empire titles the character taking the decision had. Characters holding the Roman Empire title will have access to the Restore Imperial Province casus belli.
+
+If the Roads to Power Roads to Power DLC is not installed, rulers of the Roman Empire or Byzantine Empire who follow a Christian or Greco-Roman faith will gain +350  Prestige whenever they gain control of all counties from the duchies within one of the empire's old provinces as well as provinces it originally failed to conquer. Restoring all provinces will grant an additional +350  Prestige.
+
+Province	Duchies
+Province	Duchies
+Province	Duchies
+Province	Duchies
+Province	Duchies
+Province	Duchies
+If the Roads to Power Roads to Power DLC is installed, rulers of the Roman Empire or Byzantine Empire who control certain counties will receive 350  Prestige, 150  Influence, and a bonus that lasts for 10 years:
+
+Modifier	Emperor effects	County effects	Counties
+Restored Pentarchy Seat	
+ +2 Learning
+ +0.3 Monthly Piety
+ +25 House Opinion
+ +10 Same Faith Opinion
+ +20% Holding Taxes
+ +30% Levy Size
+Alexandria
+Antiocheia
+Jerusalem
+Roma
+Final Frontier Restored	
+ +2 Martial
+ +0.3 Monthly Prestige
+ +3% Glory Hound Vassal Levy Contribution
+ +0.2 Monthly Development
+ +10% Levy Size
+ -10% Castle Buildings Construction Cost
+Abbadan
+Bernicia
+Cumbraland
+Justinian's Province Restored	
+ +2 Diplomacy
+ +0.3 Monthly Influence
+ +20% Holding Taxes
+ -20% City Buildings Construction Cost
+Mursiyyah
+Ravenna
+Tunis
+Long-Contested Province Restored	
+ +2 Martial
+ -20% Stress Gain
+ -10% Army Gold Maintenance
+ +5 Defender Advantage
+ +50% Levy Reinforcement Rate
+ -15% Building Construction Time
+Bari
+Edessa
+Long-Lost Province Restored	
+ +2 Diplomacy
+ -10% Mercenary Hire Cost
+ +10 Direct Vassal Opinion
+ +10% Development Growth
+ +10% Levy Size
+ -30% City Buildings Construction Cost
+Tangiers
+Touraine
+Mediterranean Gem Restored	
+ +2 Stewardship
+ +10% Monthly Income
+ +3% Courtly Vassal Tax Contribution
+ +20% Development Growth
+ -20% Building Construction Cost
+Chandax
+Siracusa
+Tetrarch Seat Restored	
+ +2 Intrigue
+ -3% Men-At-Arms Maintenance
+Focus invalid.png +20% Monthly Lifestyle Experience
+ +1 Monthly Control
+ -10 Danger
+Lombardia
+Trier
+The Byzantine emperor can receive various unique events. Holding court as the Byzantine emperor can also trigger special events. Doing it between 11th May 23 and 11th May 24 (any century) while controlling the County of Byzantion has a chance to trigger a special event where the emperor can pay a large amount of  Gold to give +10%  Development Growth to Byzantion for 5 years and reduce the cost of a Activity chariot race.png Chariot Race activity by 50% for the next 5 years. The event has a higher chance to happen between 1323 and 1324.
+
+References
+Mechanics
+Characters	Characters • Attributes • Traits • Resources • Modifiers • Lifestyle • Family • Dynasty • Schemes • Hooks • Activities • Artifacts • Interactions • Travel • Adventurers • Prisoners
+Realm & Governance	Council • Court • Power sharing • Subjects • Succession • Government • Laws • Decisions • Titles • Barony • County • Buildings • Royal court • Domiciles • Great projects
+Warfare	Warfare • Casus belli • Alliance • Army • Hired forces • Knights • Duel • Situations
+Culture & Faith	Culture • Traditions • Innovations • Form of Address • Faith • Doctrines • Tenets • Holy sites
+Meta	Modding • Patches • Downloadable content • Developer diaries • Achievements • Jargon • Bookmarks • Interesting characters • Ruler Designer • Game rules
+
+
+Categories: Potentially outdated1.18Realm
+About CK3 WikiMobile view
+Attribution-ShareAlike 3.0Powered by MediaWiki
+
+Games
+Discover
+Our Brands
+Browse
+Play on Paradox technology
+Community
+Paradox Forums
+Paradox Wikis
+Support
+About
+News
+About us
+Careers
+Join our playtests
+Media contact
+Social Media
+Legal Information
+EU Online Dispute Resolution
+Report Illegal Content

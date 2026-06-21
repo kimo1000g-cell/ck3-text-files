@@ -1,0 +1,1316 @@
+
+Paradox Wikis
+CK3 Wiki
+
+Search
+Search CK3 Wiki
+Log in
+Navigation menu
+PageDiscussion
+ReadEditEdit sourceView history
+Crusader Kings III Wiki
+Recent changes
+Random page
+Paradox Wikis
+- Main portal
+- Wikis discord
+- Contact us
+- Style guidelines
+CK3 links
+- Forums
+- Game discord
+- Mods
+- Store
+- YouTube
+Tools
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+ 
+Modifiers
+Jump to navigationJump to search
+Please help with verifying or updating older sections of this article.
+At least some were last verified for version 1.18.
+
+This article is for the PC version of Crusader Kings 3 only.
+
+
+Character modifiers
+A modifier is an effect that adds various bonuses or penalties to a dynasty, house, character or county. Modifiers can be temporary or permanent. Characters can have an unlimited number of modifiers but only the first 10 will be displayed.
+
+
+Contents
+1	Permanent dynasty modifiers
+2	Permanent house modifiers
+3	Permanent county modifiers
+4	Permanent character modifiers
+4.1	Historical character modifiers
+4.2	Decision modifiers
+4.2.1	Personal Deity
+4.2.2	Designated Terrain
+4.3	Honorary titles
+4.4	Warhorse
+4.5	Miraculous Tonic
+4.6	Wise woman modifiers
+4.7	Eunuch modifiers
+5	Temporary dynasty modifiers
+6	Temporary house modifiers
+6.1	House unity modifiers
+7	Pets
+8	Court poet modifiers
+9	Experimental Brew
+10	Blood Brother modifiers
+11	Coronation modifiers
+12	Capital Temple Complex modifiers
+13	Aspect modifiers
+14	References
+Permanent dynasty modifiers
+The following permanent modifiers affect all members of a Dynasty:
+
+Modifier	Effects	Requirements
+Modifier prestige positive.png Dynasty of Many Crowns	
+ +2 Stewardship
+ +20% Monthly Prestige
+ +5 Direct Vassal Opinion
+ +10% Levy Size
+ Dynasty of Many Crowns decision
+Modifier health positive.png Strong Blood	
+ +0.25 Health Boost
+ +40% Chance of inheriting good Congenital Traits
+ +400% Chance of new good Congenital Traits
+ Strengthen Bloodline decision
+Modifier legitimacy positive.png Guiding Stars of Java	
+ +5% Legitimacy Gain
+ +5% Monthly Prestige
+ +5% Monthly Piety
+ Form the Majapahit Empire decision
+Modifier byzantine eagle positive.png Reinstated the Theodosian Borders	 +30% Monthly Influence	 Re-Establish the Theodosian Borders decision
+Modifier martial positive.png Dynasty of Many Khans	
+ +2 Martial
+ +10% Herd Conversion into Horde Riders
+ +20% Herd Capacity
+ Dynasty of Many Crowns decision
+Domicile renown gain yurt.png Yurt of Many Khans upgrade level 6
+Modifier flame positive.png Flame of Persia	
+ +5 Advantage in same Cultural Heritage Provinces
+ +20% Development Growth in the Persia region
+ +20% Cultural Fascination Progress
+ +10 Same Culture Parochial Vassal Opinion
+ +10 Same Culture Glory Hound Vassal Opinion
+ +5 Same Culture Courtly Vassal Opinion
+DLC Legacy of Persia.png Iranian Resurgence Iranian intermezzo ending
+Modifier mandala positive.png Sanctified Domes	
+ +1% Piety per Legitimacy Level
+Modifier mandala positive.png Replaced if gaining Decorated Domes
+DLC All Under Heaven.png Sanctified Domes great project contribution
+Modifier mandala positive.png Decorated Domes	
+ +2% Piety per Legitimacy Level
+Modifier mandala positive.png Replaced if gaining Gilded Domes
+DLC All Under Heaven.png Decorated Domes great project contribution
+Modifier mandala positive.png Gilded Domes	
+ +3% Piety per Legitimacy Level
+Modifier mandala positive.png Replaced if gaining Bejeweled Domes
+DLC All Under Heaven.png Gilded Domes great project contribution
+Modifier mandala positive.png Bejeweled Domes	 +4% Piety per Legitimacy Level	DLC All Under Heaven.png Bejeweled Domes great project contribution
+Modifier mandala legitimacy positive.png Forest of Bumga Mas	
+ -10% Legitimacy Loss
+ +10 Tributary Opinion
+DLC Legends of the Dead.png +10% Legend Spread Chance
+DLC All Under Heaven.png Forest of Bumga Mas great project contribution
+Permanent house modifiers
+The following permanent modifiers affect all members of a House:
+
+Modifier	Effects	Requirements
+Modifier blood positive.png Rival House Eradicated	
+ +10 Natural Dread
+ +50% Dread Decay
+ +10 Days Enemy Hostile Scheme Phase Length
+ -5 Fellow Vassal Opinion
+ -15 Liege Opinion
+Yes Won a war with the Eradicate Rival House casus belli
+No Loser was a human player
+Modifier blood positive.png House Eradicated	 +10 Days Enemy Hostile Scheme Phase Length	
+Yes Lost a war with the Eradicate Rival House casus belli
+Yes Escaped being killed
+Modifier piety positive.png Binders of the Southern Realm	 +10% Monthly Piety	 Found the Viet Empire decision
+Modifier outdoors positive.png Witch Coven	
+Activity witch ritual.png Unlocks the Grand Rite activity
+ +10% Fertility
+ +10 Hostile Scheme Power
+ +10 Hostile Scheme Resistance
+ +0.25 Disease Resistance Health Boost
+ Found Witch Coven decision
+Modifier travel safety positive.png Adventurer Bloodline	
+ +15% Contract Prestige Rewards
+ +25% Move Domicile Travel Speed
+ +10% Initial Contract Scheme Success Chance
+ -15% Provisions Use
+ -10% Domicile Building Construction Time
+ +10 Adventurer Opinion
+ Legacy of House decision
+Modifier bird positive.png Swansong	
+ +1% Monthly Prestige per Knight
+ +10% Accolade Glory Gain
+ +20% Hastiluder Trait Experience Gain
+ The Knight of the Swan decision
+Modifier byzantine eagle positive.png Silk Production Rights	Domicile magnanery.png Unlocks the Mulberry Copse estate building	 Establish Silk Production decision
+Modifier county opinion positive.png Cultural Hostility	
+Struggle cb.png Enables the Struggle Clash casus belli
+ +15 Same Culture Opinion
+ -30 Different Culture Opinion
+DLC Fate of Iberia.png Dominance Iberian Struggle ending
+Modifier piety positive.png Faith Hostility	
+Struggle cb.png Enables the Struggle Clash casus belli
+ +15 Same Faith Opinion
+ -30 Different Faith Opinion
+DLC Fate of Iberia.png Dominance Iberian Struggle ending
+Modifier county development positive.png Compromise	
+Yes Enables the Enforce Truce character interaction
+ +5 Advantage in Baronies with the same Heritage
+ +15 Independent Ruler Opinion
+DLC Fate of Iberia.png Status Quo Iberian Struggle ending
+Modifier social positive.png Conciliation	
+ +33% Learn Language Scheme Power
+ +15 Different Culture and Faith Opinion
+DLC Fate of Iberia.png Détente Iberian Struggle ending
+Modifier merit positive.png Honored Censor	
+ +1 Monthly Merit
+ +50% Influence Gain
+ +50% Merit Gain
+ +1 Max Hostile Schemes
+ Request Bestowal of Honors decision
+DLC All Under Heaven.png Imperial Censor councilor
+Modifier merit positive.png Honored Grand Chancellor	
+ +1 Monthly Merit
+ +25% Influence Gain
+ +10% Merit Gain per total Tax paid to Liege
+ +1 Max Personal Schemes
+ Request Bestowal of Honors decision
+DLC All Under Heaven.png Grand Chancellor councilor
+Modifier merit positive.png Honored Grand Marshal	
+ +1 Monthly Merit
+ +25% Influence Gain
+ +1.2% Merit Gain per Title Men-at-Arms Base Recruitment Cost
+ +1 Max Men-at-Arms Regiments
+ +1 Max Title Men-at-Arms Regiments
+ Request Bestowal of Honors decision
+DLC All Under Heaven.png Grand Marshal councilor
+Modifier merit positive.png Honored Minister of Justice	
+ +15% Influence Gain
+ +5% Merit Gain per total Tax paid to Liege
+ +10 Popular Opinion
+ Request Bestowal of Honors decision
+DLC All Under Heaven.png Minister of Justice councilor
+Modifier merit positive.png Honored Minister of Personnel	
+ +15% Influence Gain
+ +5% Merit Gain per total Tax paid to Liege
+ +10 Vasal Opinion
+ Request Bestowal of Honors decision
+DLC All Under Heaven.png Minister of Personnel councilor
+Modifier merit positive.png Honored Minister of Revenue	
+ +15% Influence Gain
+ +5% Merit Gain per total Tax paid to Liege
+ +5% Monthly Income
+ Request Bestowal of Honors decision
+DLC All Under Heaven.png Minister of Revenue councilor
+Modifier merit positive.png Honored Minister of Rites	
+ +15% Influence Gain
+ +5% Merit Gain per total Tax paid to Liegeophers.png]]
+Focus invalid.png +20% Monthly Lifestyle Experience
+ Request Bestowal of Honors decision
+DLC All Under Heaven.png Minister of Rites councilor
+Modifier merit positive.png Honored Minister of War	
+ +15% Influence Gain
+ +0.6% Merit Gain per Title Men-at-Arms Base Recruitment Cost
+ -10% Army Gold Maintenance
+ Request Bestowal of Honors decision
+DLC All Under Heaven.png Minister of War councilor
+Modifier merit positive.png Honored Minister of Works	
+ +15% Influence Gain
+ +5% Merit Gain per total Tax paid to Liege
+ -5% Building Construction Cost
+ -15% Domicile Building Construction Cost
+ Request Bestowal of Honors decision
+DLC All Under Heaven.png Minister of Works councilor
+Permanent county modifiers
+The following permanent modifiers affect all Baronies in a County:
+
+Modifier	Effects	Requirements
+Modifier food negative.png Saharan Province	
+ -50% Supply Limit
+ +300% Provisions Used
+Yes All counties in Sahara with Desert and Desert Mountains terrain
+Modifier fertility positive.png Al-Yamnat	
+Building cereal fields.png Can construct Farms & Fields buildings
+ +10% Holding Taxes
+ +50% Supply Limit
+ +40% Development Growth
+ +30% County Fertility Growth
+ Dathina
+ Mandab
+ San'a'
+ Ta'izz
+ Zabid
+Modifier county development positive.png Dodekapolis	
+ +10% Holding Taxes
+ +30% Development Growth
+Building cereal fields.png Can construct Farms & Fields buildings
+ Aeolis
+ Chios
+ Ionia
+ Lesbos
+Modifier county development positive.png Memorial Fortifications	 +2 Fort Level	Yes Memorial Fortifications natural disaster situation contribution
+Modifier martial positive.png Fortress of Badd	
+ +50% Garrison Size
+ +25% Levy Reinforcement Rate
+ +5 Defender Advantage
+ Establish Faith Stronghold decision
+Modifier county development positive.png United Clans	 +1 Additional Building Slots	 Form a Ryukyuan Empire decision
+Modifier county development positive.png Royal Tolls	
+ -10% Building Construction Time
+ -10% Building Construction Gold Cost
+ +0.5 Monthly Development
+ Establish Bactrian Supremacy decision
+ Balkh
+Modifier rock positive.png Regional Stronghold	
+ +2 Fort Level
+ +25% Garrison Size
+ +10% Development Growth
+DLC Fate of Iberia.png Status Quo Iberian Struggle ending
+Modifier martial positive.png Toledo Steel	 +20% Development Growth	DLC Fate of Iberia.png Iberian Struggle event
+Modifier byzantine eagle positive.png Pandidakterion	
+Yes Counts as an University
+ +15% Development Growth
+Task fabricate claim.png +30% Fabricate Claim on County Task Speed
+Task find secrets.png +30% Find Secrets Task Speed
+Task promote culture.png +25% Promote Culture Task Speed
+ Byzantion
+Roads to Power Refound the Pandidakterion decision or start date is 1066 or 1178
+Modifier compass positive.png Grand Canal	
+ +0.25 Monthly Development
+ +20% Supply Limit
+ +2 Plague Resistance
+ -10 Danger
+DLC All Under Heaven.png The Grand Canals great project
+Modifier social positive.png Runestone	 +20 Popular Opinion	
+NoDLC Northern Lords.png Northern Lords DLC
+ Raise a Runestone decision
+Permanent character modifiers
+The following permanent modifiers affect a certain character:
+
+Modifier	Effects	Requirements
+Modifier wit positive.png Vassal of the First King	
+ +5 Defender Advantage
+ +10 Popular Opinion
+ +25 Fellow Vassal Opinion
+ Vassal in a newly-unified confederation
+Modifier piety positive.png Disaster Relief Savior	 +10% Monthly Piety	Yes Aid for Victims natural disaster situation contribution
+Modifier social positive.png Keeper of Order	 +10 Direct Vassal Opinion	Yes Debris Removal or Land Drainage natural disaster situation contribution
+Modifier county development positive.png Memorial Builder	 +5% Monthly Renown	Yes Memorial Fortifications natural disaster situation contribution
+Modifier social positive.png Display of Submission	 +10 Same Faith Opinion	
+Yes Struggle and Submission faith tenet
+Activity pilgrimage.png Pilgrimage activity completion
+Modifier economy positive.png Generosity to Mercenaries	 -10% Mercenary Hire Cost	 Martial lifestyle event choice
+Modifier prowess positive.png Holy Order Training	
+ +1 Martial
+ +1 Prowess
+ Child returning from a Holy Order
+Modifier social positive.png Mothered Many Children	 +5 General Opinion	 10% chance with each birth after giving birth at least 4 times
+Modifier health positive.png Aging Gracefully	 +1 Health	 Harm events positive outcome
+Modifier magic positive.png Prophetic Visions	
+ +1 Monthly Piety
+ +10 Clergy Opinion
+ Possessed trait event choice
+Modifier economy positive.png Respected by Mercenaries	 -20% Mercenary Hire Cost	 Martial lifestyle event choice
+Modifier prowess positive.png Respected Expert	 +2 Prowess	 Martial lifestyle event choice
+Modifier bird positive.png Hunting Raptor	
+ +1 Monthly Prestige
+ +5 Vassal Opinion
+ +1 Court Grandeur
+ Increased Hunt Success Chance
+Yes Travel and activity events
+Modifier learning positive.png Refreshed and Relaxed	
+ +1 Learning
+ -20% Stress Gain
+ Enables the Meditate in Seclusion decision
+ Violet Poet trait event choice
+Modifier prestige negative.png No Raiment	
+ +20 Attraction Opinion
+ -1 Monthly Prestige
+Character does not wear clothes
+ Lunatic trait event choice
+Modifier health negative.png Broken	
+ -2 Diplomacy
+ -2 Martial
+ -2 Stewardship
+ -2 Intrigue
+ -2 Learning
+ -3 Prowess
+ -25% Fertility
+ -0.5 Health Penalty
+ Torture event
+Modifier fertility negative.png Rejected From Marriage Bed	 Cannot produce offspring	 STD trait event
+Modifier intrigue negative.png Killed the Joy of Life	 -20 General Opinion	 Party Baron event
+Modifier flame positive.png Scourge of the Gods	
+Invasion cb.png Can always use the Invasion casus belli
+ Godlike Health Boost
+ -50% Siege Phase Time
+ +25% Army Movement Speed
+ +75 Days Enemy Hostile Scheme Phase Length
+ -10% Enemy Hostile Scheme Growth
+ -60% Enemy Hostile Scheme Potential
+ +5 Monthly Control
+ +25 Advantage
+ +100% Siege Weapon Effectiveness
+ +1 Men-At-Arms Siege Progress
+ +50 Plague Resistance
+Trait conqueror.png Conqueror trait
+Rules.png Conquerors: Bonuses game rule set to Random or Extreme
+Modifier health negative.png Hunger Sickness	
+ -2 Diplomacy
+ -2 Prowess
+ -0.5 Health Penalty
+ Zero provisions event
+Modifier health negative.png Weak Stomach	
+ +20% Stress Gain
+ -0.5 Health Penalty
+ Zero provisions event
+Modifier piety negative.png Ultimate Blasphemer	
+ -50 Same Faith Opinion
+ -50 Head of Faith Opinion
+DLC Northern Lords.png Blót activity event
+Modifier prowess positive.png Ambidextrous	
+ +1 Prowess
+ +10% Aspiring Blademaster Trait Experience Gain
+DLC Tours and Tournaments.png Grand Tournament activity event
+Modifier diplomacy positive.png A People's Great Defender	
+ +10 Parochial Vassal Opinion
+ +20 Same Culture Opinion
+ -10 Different Culture Opinion
+ -50% Cultural Fascination Progress
+DLC Wards & Wardens.png Foreign Raised Reformer story ending
+Modifier martial positive.png Uniter and Conqueror	
+ +15 Courtly Vassal Opinion
+ +15 Glory Hound Vassal Opinion
+ +20 Same Culture Opinion
+ -10 Different Culture Opinion
+ -50% Cultural Fascination Progress
+DLC Wards & Wardens.png Foreign Raised Reformer story ending
+Modifier magic positive.png Tool of Fate	
+ Age does not reduce Prowess
+ +5% Renown Gain
+ +10% Prestige Gain
+Focus invalid.png +20% Monthly Lifestyle Experience
+ +20 General Opinion
+DLC Wards & Wardens.png Destined Child story ending
+Modifier flame positive.png Rekindled Persian Spirit	
+ +5 Advantage in same Cultural Heritage Provinces
+ +20% Development Growth in the Persia region
+ +5 Same Culture Parochial Vassal Opinion
+ +5 Same Culture Glory Hound Vassal Opinion
+DLC Legacy of Persia.png Iranian Resurgence Iranian intermezzo ending
+ Iranian heritage
+Modifier prowess positive.png Ushiwakamaru	
+ +1 Prowess
+ +10% Monthly Prestige
+ -25% Legitimacy Gain
+Roads to Power Captain Yoshitsune start event
+Modifier family positive.png A Heir Prepared	
+ +5% Monthly Renown
+ +10% Monthly Prestige
+DLC Coronations.png Fulfilled the Prepare the Heir oath
+Yes Heir
+Modifier dragon seal positive.png Son of Heaven	
+ +25% Monthly Renown
+ +25% Monthly Influence
+ +25% Monthly Legitimacy
+ +10 Vassal Opinion
+ +20 Celestial Ruler Opinion
+DLC All Under Heaven.png Claimed the Mandate of Heaven
+Historical character modifiers
+The following permanent character modifiers are only present on certain historical characters.
+
+Modifier	Effects	Character	Start date
+Modifier prowess positive.png Captain of Baghdad	 +1 Max Hostile Schemes	 Emir Muhammad of Fars	867
+Modifier intrigue positive.png Extremely Suspicious	 +10 Days Enemy Hostile Scheme Phase Length	 Caliph al-Mu'tazz of Arabian Empire	867
+Modifier prestige positive.png Vow of Tangled Hair	
+ +1 Diplomacy
+Yes Becoming the first King of Norway gives an additional reward
+ Chieftain Haraldr 'Tanglehair' of Vestfold	867
+Modifier flame positive.png Guiscard	
+ -25% Army Gold Maintenance
+ -25% Initial Enemy Hostile Scheme Success Chance
+ Duke Robert 'the fox' of Apulia	1066
+Modifier piety positive.png Imperial Vicar	
+ +25 Head of Faith Opinion
+ -10% Temple Holding and Building Construction Cost
+ -10% Temple Holding and Building Construction Time
+ Duchess Matilda of Tuscany	1066
+Modifier prestige positive.png Local Icon	 +0.5 Monthly Prestige	Roads to Power Master Todor of The Men from the Mountains	1178
+Modifier merit positive.png Focusing on Merit	
+ +5% Monthly Merit
+ +10% Confucian Education Trait Experience Gain
+DLC All Under Heaven.png Any player vassal of China	Any
+Modifier influence positive.png Focusing on Influence	
+ +5% Monthly Influence
+Focus invalid.png +10% Monthly Lifestyle Experience
+DLC All Under Heaven.png Any player vassal of China	Any
+Decision modifiers
+The following permanent character modifiers can only be obtained from decisions.
+
+Modifier	Effects	Decision
+Modifier piety positive.png Avenger of the Martyrs	 +10 Same Faith Opinion	Avenge the Battle of Tours
+Modifier martial positive.png Conqueror of the Black Sea	
+ +5 Coastal Advantage
+ -50% Embarkation Cost
+Restore the Bosporan Kingdom
+Modifier piety positive.png Defender of the Faith	
+ +1 Prowess
+ +10 Same Faith Opinion
+Defenders of Dievas or Defenders of Rod or Defenders of Ukko
+Modifier asatru raven positive.png Embraced Local Traditions	
+ +15 Popular Opinion
+ +15 Norse Opinion
+ Can use the Raise a Runestone decision regardless of Faith
+Have the Realm Embrace Local Tradition
+Modifier martial positive.png High-King of the Seas	
+ +10 Years Life Expectancy
+ +30 Vassal Opinion
+ -50% Embarkation Cost
+ +25% Naval Speed
+ +50% Vassal Levy Contribution
+Secure the High Kingdom of the North Sea
+Modifier piety positive.png Maitreya Incarnate	
+ +15% Same Faith Domain Taxes
+ +50% Same Faith Levy Reinforcement Rate
+ -50% Different Faith Popular Opinion
+ +100 Same Faith Opinion
+ -100 Different Faith Opinion
+Claim the Mantle of Maitreya
+Modifier prowess positive.png Muhakkima Ascendancy	
+ +1 Martial per Level of Devotion
+ +10 Same Faith Opinion
+Destroy the Apostates
+Modifier learning positive.png Steward of the Sacred River	
+ +1 Diplomacy
+ +1 Learning
+Icon piety eastern 01.png +5 Monthly Piety
+ +10 Theocratic Ruler of Same Faith Opinion
+Take Stewardship of the Sacred River
+Modifier learning positive.png Champion of the Old Ways	
+ +20% Monthly Piety
+ +20 Same Faith Opinion
+ +20 Realm Priest Opinion
+ Lost if character converts
+Champion of the Faith of the Country of Basques (did not change Era Zaharrak tenets)
+Modifier learning positive.png Friend of the Old Ways	
+ +5% Monthly Piety
+ +5 Same Faith Opinion
+ +10 Realm Priest Opinion
+ Lost if character converts
+Champion of the Faith of the Country of Basques (changed Era Zaharrak tenets)
+Modifier byzantine eagle positive.png Lawgiver	
+ +15% Monthly Influence
+ -15% Domicile Building Construction Time
+ +10 General Opinion
+Roads to PowerDLC All Under Heaven.png Adopt a Centralized Bureaucracy (independent)
+Modifier learning positive.png Great Translator	
+ +1 Learning per Level of Devotion
+ +1 Max Learn Language Schemes
+ +12 Learn Language Scheme Power
+DLC Legacy of Persia.png Promote Persian Scriptures
+Modifier outdoors positive.png Royal Fire	
+ +0.5 Health Bonus
+ +0.2 Monthly Renown
+DLC Legacy of Persia.png Kindle Royal Fire
+Modifier intrigue positive.png Bandits' Benefactor	
+ +1-5 Regiments per completed Criminal contract
+ +2 Martial
+ +2 Intrigue
+ +40 Adventurer Opinion
+ -20 Feudal, Clan and Administrative Ruler Opinion
+Roads to Power Levy the Outcasts
+Modifier letter positive.png Founded Salon	
+ +2% Monthly Income
+ +1 Monthly Prestige
+Focus invalid.png +25% Monthly Lifestyle Experience
+ +1 Max Hostile Schemes
+Roads to Power Found Salon
+Modifier fertility positive.png Courteous Knight	
+ -40 Days Romance Phase Length
+ +20 Attraction Opinion
+Roads to Power The Knight of the Swan
+Modifier county opinion positive.png Valiant Knight	
+ +5% Parochial Vassal Tax Contribution
+ +10% Minor Landholder Vassal Tax Contribution
+ +5 Parochial Vassal Opinion
+ +20 Minor Landholder Vassal Opinion
+Roads to Power The Knight of the Swan
+Modifier martial positive.png Foreign Armor	
+ +10% Man-at-Arms Toughness
+ +10% Archer Cavalry Toughness
+ +10% Horde Riders Toughness
+Khans of the Steppe Summon Wealthy Visitors: Local Offers (paid for armor)
+Modifier diplomacy positive.png Peace of the Great Khan	
+ +1 Diplomacy per Level of Fame
+ +1 Stewardship per Level of Fame
+ +1 Knight Effectiveness per Diplomacy
+Khans of the Steppe Peace of the Great Khan
+Modifier merit positive.png Personal Honors Bestowed	
+ +2 Monthly Prestige
+ +5 Monthly Gold
+ +300 Movement Power
+ +500% Governor Salary
+ +200% Monthly Ministry Budget
+DLC All Under Heaven.png Request Bestowal of Honors
+Personal Deity
+Personal Deity are modifiers obtained via the Determine Bhakti or Determine Personal Deity decisions. Each character can choose from 4 modifiers depending on their faith and can replace them at any point by taking the decision again. The modifiers are lost if a character converts to a different faith.
+
+Faith	Patron god	Effects
+ Vaishnavism	Ganga	
+ -33% Stress Gain
+ +0.5 Health
+Hayagriva	
+ +2 Learning
+ +20% Monthly Piety
+Jagganath	
+ +2 Martial
+ +3 Controlled Territory Defender Advantage
+Lakishmi	
+ +10% Domain Taxes from same faith
+ +20% Monthly Stewardship Lifestyle Experience
+ Smartism	Ganesha	
+ +2 Diplomacy
+ +2 Learning
+Kubera	
+ +2 Stewardship
+ +5% Domain Taxes
+ -10 Attraction Opinion
+Shiva	
+ +2 Faith Hostility Advantage
+ +10 Dynasty Opinion
+Vishnu	
+ +0.25 Health
+ +10 Vassal Opinion
+ Ásatrú	Freyr	
+ +25% Fertility
+ +0.1 Control Growth
+Odin	
+ +2 Intrigue
+ +0.03 Monthly Piety from Dread
+Thor	
+ +2 Stewardship
+ +3 Prowess
+Tyr	
+ +2 Diplomacy
+ +2 Martial
+ Only available if culture is Danish or realm capital is in the de jure territory of Kingdom of Denmark
+Ullr	
+ +2 Martial
+ +50% Movement Speed in Baronies affected by Winter
+ +2 Advantage in in Baronies affected by Winter
+ Only available if culture is not Danish and realm capital is not in the de jure territory of Kingdom of Denmark
+ Custom Hindu faith	Ganga	
+ -33% Stress Gain
+ +0.5 Health
+Saraswati	
+ +2 Learning
+ +20% Monthly Prestige
+Kali	
+ +4 Prowess
+ +4 Faith Hostility Advantage
+Kubera	
+ +2 Stewardship
+ +5% Domain Taxes
+ -10 Attraction Opinion
+Designated Terrain
+Roads to Power	Available only with the Roads to Power DLC enabled.
+Designated Terrain are modifiers obtained via the decision with the same name. Each character can choose from 4 terrain sets and will receive the following bonuses when present in one of those terrains:
+
+ +5 Advantage
+ +2 Minimum Battle Roll
+ +2 Maximum Battle Roll
+ -20 Danger
+ -25% Provisions Use
+Modifier	Terrain
+Woodlands	
+ Forest
+ Jungle
+ Taiga
+ Wetlands
+Highlands	
+ Desert Mountains
+ Hills
+ Mountains
+ Terraced Hills
+Lowlands	
+ Farmlands
+ Floodplains
+ Plains
+ Steppe
+Drylands	
+ Desert
+ Drylands
+ Oasis
+Characters who unlock the Master Terrain decision can use it to obtain an even more powerful modifier in one of the terrains of the Personal Terrain modifier. The modifier stacks with Personal Terrain and grants the following:
+
+ +5 Advantage
+ +1 Minimum Battle Roll
+ +1 Maximum Battle Roll
+ -20 Danger
+ -25% Provisions Use
+ -25% Refill Men-at-Arms Cost
+ +50% Prestige from Battles
+ -50% Attrition Taken
+ No Supply Limit Penalty
+Honorary titles
+DLC Legacy of Persia.png	Available only with the Legacy of Persia DLC enabled.
+Honorary titles are permanent character modifiers that can be demanded from the Sunni caliph by the house that achieved the Abbasid Humiliation - Dominate the Caliph ending the Iranian Intermezzo.
+
+Modifier	Effects
+Modifier diplomacy positive.png Friend of the State	 +1 Max Personal Schemes
+Modifier stewardship positive.png Fortifier of the State	
+ -10% Building Construction Cost
+ -10% Building Construction Time
+Modifier intrigue positive.png Helper of the State	 +1 Max Hostile Schemes
+Modifier piety positive.png Pillar of the State	 +1 Monthly Prestige
+Modifier learning positive.png Supporter of the State	
+ +2 Learning
+ +1 Max Learn Language Schemes
+Modifier martial positive.png Sword of the State	 -15% Army Gold Maintenance
+Modifier piety positive.png Crown of the Community	 +1 Monthly Piety
+Warhorse
+The warhorse is a unique modifier that can gradually increase in effects. It can be obtained as a result of travel,  Martial Lifestyle or Wandering lifestyle.png Wandering Lifestyle events. If the Royal Court DLC is installed it can also be obtained from royal court events. The modifier will initially grant the following bonuses:
+
++1  Prowess
++0.25 Monthly  Prestige
+The day after the modifier is obtained an event will trigger to give the warhorse a name.
+
+The modifier can be improved in two ways, both costing a small amount of  Gold and offering a choice of what horse talent to improve. The modifier can only be improved twice.
+
+Every 275-400 days there is a 15% chance to gain the option to train the warhorse. If the Master of the Horse court position is being used its holder can be asked to do it instead, which removes the  Gold cost and grants a temporary +15  Opinion with the Master of the Horse but chooses the training at random. The event can only take place once.
+25-30 years after obtaining the modifier the warhorse will start to die of old age and offer the option to breed it. Not breeding it will result in the loss of the modifier in 30-60 days.
+Training/Breeding	1st bonus	2nd bonus
+Strength	 +10% Levy Size	
+ +1 Prowess
+ +15% Levy Size
+Agility	 +1 Prowess	 +2 Prowess
+Endurance	 +25% Stress Loss	 +50% Stress Loss
+Fierceness	 +2 Advantage	 +6 Advantage
+Miraculous Tonic
+Miraculous Tonic is a permanent modifier that can be obtained as part of random adventure events. If agreed to drink one of the flasks the Miraculous Tonic, which has an equal chance to given one of the following effects:
+
+Red flask possible effects	Green flask possible effects
+ +1 Prowess
+ +20% Fertility
+ +0.2 Health
+ -1 Prowess
+ -20% Fertility
+ -15% Stress Gain
+ +25% Stress Loss
+ +10 Attraction Opinion
+ -0.1 Health
+ +15% Stress Gain
+Wise woman modifiers
+DLC Tours and Tournaments.png	Available only with the Tours and Tournaments DLC enabled.
+The following permanent modifiers can be obtained from the wise woman event chain.
+
+Required ailment	Positive outcome (65% chance, 40% if  Cynical)	Negative outcome (35% chance, 60% if  Cynical)
+Modifier	Effects	Modifier	Effects
+ Any Illness
+ Pregnant
+Modifier treat positive.png Mystic Healing	 +2 Disease Resistance Health Boost	Modifier health negative.png Unholy Treatment	 -0.5 Health Penalty
+ Lunatic
+ Melancholic
+ Possessed
+Modifier treat positive.png Humors Balanced	 -30% Stress Gain
+ Homely
+ Ugly
+ Hideous
+Modifier treat positive.png Herbal Cosmetics	
+ +1 Diplomacy
+ +30% Fertility
+Modifier treat negative.png Hideous Cosmetics	
+ -1 Diplomacy
+ -10% Fertility
+Eunuch modifiers
+Roads to PowerDLC All Under Heaven.png	Available only with the Roads to Power DLC or the All Under Heaven DLC enabled.
+Eunuch modifiers are obtained during the Eminent Eunuch event chain. The event chain will start with the Influential Eunuch I/V, and based on whether the liege supports or refuses the eunuch the modifier will increase or weaken in strength.
+
+Liege effects	Eunuch effects
+Spurned Eunuch III/III	
+ -3 Stewardship
+ -15% Holding Taxes
+ +15% Initial Enemy Hostile Scheme Success Chance
+ -35 Opinion of Liege
+ Increased Hostile Scheme Acceptance against the liege
+Spurned Eunuch II/III	
+ -2 Stewardship
+ -10% Holding Taxes
+ +10% Initial Enemy Hostile Scheme Success Chance
+ -30 Opinion of Liege
+ Increased Hostile Scheme Acceptance against the liege
+Spurned Eunuch I/III	
+ -1 Stewardship
+ -5% Holding Taxes
+ +5% Initial Enemy Hostile Scheme Success Chance
+ -15 Opinion of Liege
+ Increased Hostile Scheme Acceptance against the liege
+Influential Eunuch I/V	
+ +2 Stewardship
+ -10% Stress Gain
+ -1 Intrigue
+ +2 Intrigue
+ +0.25 Monthly Gold
+ +0.1 Monthly Influence
+ +10% Stress Gain
+Influential Eunuch II/V	
+ +3 Stewardship
+ -20% Stress Gain
+ +1 Domain Limit
+ -2 Intrigue
+ -10 Vassal Opinion
+ +3 Intrigue
+ +0.5 Monthly Gold
+ +0.2 Monthly Influence
+ +1 Max Hostile Schemes
+ +5% Initial Hostile Scheme Success Chance
+ +20% Stress Gain
+ -10 General Opinion
+Influential Eunuch III/V	
+ +4 Stewardship
+ -30% Stress Gain
+ +1 Domain Limit
+ -3 Intrigue
+ -15 Vassal Opinion
+ +4 Intrigue
+ +0.75 Monthly Gold
+ +0.3 Monthly Influence
+ +1 Max Hostile Schemes
+ +10% Initial Hostile Scheme Success Chance
+ +30% Stress Gain
+ -15 General Opinion
+Influential Eunuch IV/V	
+ +5 Stewardship
+ +1 Domain Limit
+ -40% Stress Gain
+ -4 Intrigue
+ -20 Vassal Opinion
+ +5 Intrigue
+ +1 Monthly Gold
+ +0.4 Monthly Influence
+ +1 Max Hostile Schemes
+ +15% Initial Hostile Scheme Success Chance
+ +40% Stress Gain
+ -20 General Opinion
+Influential Eunuch V/V	
+ +6 Stewardship
+ -50% Stress Gain
+ +2 Domain Limit
+ -5 Intrigue
+ -25 Vassal Opinion
+ +6 Intrigue
+ +1.5 Monthly Gold
+ +0.5 Monthly Influence
+ +2 Max Hostile Schemes
+ +25% Initial Hostile Scheme Success Chance
+ +50% Stress Gain
+ -25 General Opinion
+Temporary dynasty modifiers
+The following temporary modifiers affect all members of a Dynasty:
+
+Modifier	Effects	Duration	Requirements
+Modifier prestige positive.png Ardent Dynasty	
+ +10% Monthly Prestige
+ +15% Same Faith Levy Reinforcement rate
+ +25 Same Faith Opinion
+30 years	
+Yes Undirected Great Holy War victory
+Yes Occupied a County in the war target area
+Modifier piety positive.png Saoshyant Resurgent	
+ +15% Monthly Prestige
+ +15% Monthly Piety
+ +25 Same Faith Opinion
+25 years	 Become the Saoshyant decision
+Modifier asatru raven positive.png Settled Dynasty	No Cannot be targeted with the Varangian Adventure casus belli	80 years	 Have the Realm Embrace Local Tradition decision
+Modifier horse dead positive.png Legacy of Piracy	
+ -50% Embarkation Cost
+ +50% Raid Speed
+Yes Can raid
+Yes Can sail in Major Rivers
+100 years	 Elevate the Kingdom of Mann & the Isles decision
+Modifier hunt positive.png Nomad Recruits	
+ -40% Light Cavalry Cost and Maintenance
+ -40% Archer Cavalry Cost and Maintenance
+150 years	 Random event
+Modifier diplomacy positive.png Famed Dynasty	
+ +1 Diplomacy
+ +5 Courtier and Guest Opinion
+80 years	
+DLC Coronations.png Coronation event
+ Exalted Among Men or Legendary Figure
+Modifier social positive.png Familial Support	
+ +5% Monthly Renown
+ +10 Dynasty Opinion
+ +1 Max Personal Schemes
+10 years	
+DLC Coronations.png Coronation event
+ Patriarch/Matriarch Trait
+Modifier magic positive.png Light of the Walayah	
+ +1 Diplomacy per Level of Devotion
+ +5 Same Faith Opinion
+100 years	
+DLC Legacy of Persia.png Abbasid Humiliation Iranian intermezzo ending
+DLC Legacy of Persia.png Found a New Caliphate foundation
+Temporary house modifiers
+The following temporary modifiers affect all members of a House:
+
+Modifier	Effects	Duration	Requirements
+Modifier piety positive.png Crusading House	
+ +10% Monthly Piety
+ +5 Head of Faith Opinion
+30 years	
+Yes Undirected Great Holy War victory
+Yes Occupied a County in the war target area
+ Christian religion
+Modifier piety positive.png House of the Mujahid	
+ +10% Monthly Piety
+ +5 Head of Faith Opinion
+30 years	
+Yes Undirected Great Holy War victory
+Yes Occupied a County in the war target area
+ Muslim religion
+Modifier piety positive.png Holy Warriors	
+ +10% Monthly Piety
+ +5 Head of Faith Opinion
+30 years	
+Yes Undirected Great Holy War victory
+Yes Occupied a County in the war target area
+No Christian religion
+No Muslim religion
+Modifier county development positive.png Carthaginian Rulers	 +0.2 Monthly Development in Carthaginian Empire region	100 years	 Restore Carthage
+Modifier compass positive.png Controlling the Mediterranean	
+ +5% Monthly Prestige
+ +15% Development Growth
+ +10% Naval Speed
+ +5 Coastal Advantage
+Scandinavian adventure concquest cb.png Unlocks the Mediterranean Conquest for County casus belli while controlling the Kingdom of Baleo-Tyrrhenia
+100 years	 Secure the Mediterranean decision
+Modifier piety positive.png Destroyed the Caliphate	
+ +1 Monthly Piety
+ -25 Sunni Opinion
+100 years	 Destroy the Caliphate decision
+Modifier compass positive.png Founders of Aragón	
+ +10% Development Growth in Mountains
+ +5% Development Growth in Hills
+ +10% Enemy Fatal Casualties
+200 years	 Found the Kingdom of Aragon decision
+Modifier prestige positive.png Laudabiliter	County conquest cb.png Enables the Laudably Conquer County casus belli	100 years	 Request Claim on Ireland decision
+Modifier county opinion positive.png Rulers of Cumbria	
+ +0.15 Monthly Development in Cumbrian Lands region
+ +10 Cumbrian Opinion
+100 years	 Found the Kingdom of Cumbria
+Modifier stewardship positive.png Rulers of the Black Sea	
+ +0.03 Monthly Gold per held county in the Black Sea region
+ +0.025 Monthly Development in Black Sea region per held county in the Black Sea region
+County expansion cb.png Enables the County Expansion casus belli
+Naval county expansion cb.png Enables the Naval County Expansion casus belli
+100 years	 Restore the Bosporan Kingdom decision
+Modifier martial positive.png Discipline and Order	
+ +1 Martial per Level of Devotion
+ +35% Monthly Martial Lifestyle Experience
+100 years	
+ Home of the Rivers decision
+Yes Event choice
+Modifier learning positive.png Knowledge is Power	
+ +1 Learning per Level of Devotion
+ +35% Monthly Learning Lifestyle Experience
+100 years	
+ Home of the Rivers decision
+Yes Event choice
+Modifier administrative positive.png Prosperous Investments	 +0.2 Monthly Tax	50 years	Roads to PowerDLC All Under Heaven.png Governor event
+Modifier stewardship positive.png Copious Smallholds	
+ +0.8 Monthly Tax
+ +0.4 Monthly Influence
+50 years	Roads to PowerDLC All Under Heaven.png Governor event
+Modifier stewardship positive.png Numerous Smallholds	
+ +0.3 Monthly Tax
+ +0.2 Monthly Influence
+50 years	Roads to PowerDLC All Under Heaven.png Governor event
+Modifier stewardship positive.png Smattering of Smallholds	
+ +0.1 Monthly Tax
+ +0.1 Monthly Influence
+50 years	Roads to PowerDLC All Under Heaven.png Governor event
+Modifier county opinion positive.png Domination Hostility	
+ +5 Faith Hostility Advantage
+ +5 Advantage in baronies with the same Heritage
+ -30 Different Culture Opinion
+ -30 Different Faith Opinion
+200 years	DLC Fate of Iberia.png Dominance Iberian Struggle ending
+Modifier martial positive.png Frontier Ambitions	
+ -20% Men-at-Arms Recruitment Cost
+ -10% Men-at-Arms Maintenance
+ +20% Levy Size
+ +20 Glory Hound Vassal Opinion
+100 years	
+DLC Legacy of Persia.png Concession Iranian Intermezzo ending
+ House Head has the Detractor of the Caliphate trait
+Modifier stewardship positive.png Rebuilding Efforts	
+ -10% Building Construction Time
+ -10% Building Construction Cost
+ +10% Holding Taxes
+ +20 Parochial Vassal Opinion
+100 years	
+DLC Legacy of Persia.png Concession Iranian Intermezzo ending
+ House Head has the Supporter of Caliphal Authority trait
+Modifier dog positive.png Dog Lovers	
+ +5 General Opinion
+ +0.1 Health Boost
+30 years	Royal Court Royal Court event
+Modifier social positive.png House Unity	
+ +1 Injury Resistance (Prowess)
+ +10% Enemy Fatal Casualties
+15 years	DLC Tours and Tournaments.png Grand Tournament event
+Modifier learning positive.png Angelic Foundation	
+ +1 Learning
+ +25% Monthly Piety
+15 years	DLC Legends of the Dead.png Legend writing event
+Modifier influence positive.png Clerical Political Agents	 +20% Monthly Influence	10 years	Roads to Power Ask for Clerical Influence house head interaction
+Modifier learning positive.png Studious House	
+ +10% Monthly Learning Lifestyle Experience
+ Increased Exam Score
+10 years	
+Roads to Power Learned Philosophers family attribute
+DLC All Under Heaven.png Capital Examination event
+House unity modifiers
+House unity modifiers are added by house unity decisions and scale in bonuses with the number of landed house members. The bonuses cap at 10 landed house members.
+
+Modifier	Effects	Duration	House unity decision
+Modifier stewardship positive.png Encouraged Economy	
+ +1 Stewardship
+Builder.png House members adopt the Builder economic archetype
+20 years	Encourage House to Improve Economy
+Modifier martial positive.png Organized for War	
+ +1 Martial
+ +1 Prowess
+Warlike.png House members adopt the Warlike economic archetype
+20 years	Organize House Members for War
+Modifier martial positive.png Establish Futuwaa Lodges	
+ +1 Martial per Level of Fame
+ -15% Levy Maintenance
+ +10% Same Faith Levy Reinforcement Rate
+20 years	Establish Futuwaa Lodges
+Modifier county control positive.png Enforced Bailiffs	
+ +0.2 Monthly Control Growth per landed house member
+ +1 Popular Opinion per landed house member
+10 years	Send Bailiffs
+Modifier stewardship positive.png Improved Administration	 +1% Clan Vassal Tax Contribution per landed house member	10 years	Improve Taxation
+Modifier intrigue positive.png Intrigue Network	
+ +1% Scheme Secrecy per landed house member
+ +1% Hostile Scheme Success Chance per landed house member
+ -1% Enemy Hostile Scheme Success Chance per landed house member
+10 years	Enforce Intrigue Network
+Modifier martial positive.png Loyal Army Officers	
+ +2% Men-at-Arms Damage per landed house member
+ +1% Men-at-Arms Toughness per landed house member
+10 years	Reinforce Army with Loyal Officers
+Modifier diplomacy positive.png Placated	
+ +1 Vassal Opinion per landed house member
+ +1% Powerful Vassal Councilor Tax Contribution per landed house member
+ +2% Personal Scheme Success Chance per landed house member
+10 years	Placate Vassals
+Modifier county development positive.png Promoted Development	
+ -1% Building Construction Cost per landed house member
+ +2% Development Growth per landed house member
+10 years	DLC Legacy of Persia.png Promote Development
+Modifier goods positive.png Shared Army Logistics	
+ +1% Monthly Income while at War per landed house member
+ +4% Supply Capacity per landed house member
+ +2% Levy Reinforcement Rate per landed house member
+10 years	DLC Legacy of Persia.png Demand Shared Army Logistics
+Modifier learning positive.png Established Madrasas	
+Focus invalid.png +10% Monthly Lifestyle Experience
+ +10 Same Faith Zealot Vassal Opinion
+20 years	DLC Legacy of Persia.png Educate Youth in Mosques
+Pets
+Pets are character modifiers that last between 11 and 16 years. They can be inherited if a character dies before the pet but can also be lost through events. Both pets unlock a  Decision to pet them, have a hidden 33% chance to save the character when a Murder Scheme is executed against them, and have a very small chance to expose schemes targeting the character. There are three pet modifiers:
+
+ Pet Cat grants +1 to  Intrigue and  Learning
+ Pet Dog grants +1 to  Diplomacy and  Prowess and can receive additional events during  Hunt activities
+Modifier bird positive.png Hunting Eagle grants +1 to  Martial and  Stewardship and can receive additional events during  Hunt activities
+Pets can be obtained in multiple ways. One day after getting the pet the character will be given the option to input a name for the pet.
+
+At any point the character may be given a pet from a consort, friend, lover or vassal and gain the option to keep it or sell it for a minor random amount of  Gold.
+During childhood the character might encounter a pet and have the option to keep it and gain the modifier. Alternatively if the character has the Trait sadistic.png Sadistic trait it can kill the pet to gain +1  Learning.
+A Pet Dog can be obtained via the Adopt Puppy and Adopt a Kennel Dog decisions.
+If the Royal Court Royal Court DLC is installed a pet can be offered in certain court events.
+If the DLC Wandering Nobles.png Wandering Nobles DLC is installed a pet can be offered as part of travel events.
+A day after obtaining a pet an event will trigger to give the pet a name. While the character has a pet the following events can take place:
+
+A vassal plays with the pet and gains +20  Opinion
+The pet brings 2  Gold
+The pet gives a temporary  Health Boost
+The pet ruins a vassal's possessions, bringing the following options:
+Pay the vassal and lose a moderate random amount of  Gold
+Lose -20  Opinion with the vassal
+If the character has two pets it might gain an event that grants -20  Stress
+If the character has two pets they might fight. Within two weeks one on the following will happen:
+75% chance a pet dies
+15% chance both pets die
+10% chance they get along and the character gains -10  Stress
+If both DLC Tours and Tournaments.png Tours and Tournaments and Roads to Power Roads to Power DLCs are installed, there are two variants of the Modifier dog positive.png Pet Dog modifier that can be obtained for 25  Gold as part of adventurer random events. Both of them increase  Hunt success chance:
+
+Beasthound gives +1  Martial and  Prowess and +0.1 Monthly Prestige
+Scenthound gives +1  Diplomacy and  Learning and +0.1 Monthly Prestige
+Royal Court	Available only with the Royal Court DLC enabled.
+When a pet dies of old age, if the character has a Royal Court it will have the option to pay 10-20  Gold to gain a Small Wall Ornament artifact.
+
+Court poet modifiers
+Court poet modifiers can be obtained by giving a Court poet court position.png Court Poet the Court poet court position task create poetry.png Write Poetry task. Each year one modifier will be obtained, which will last 3 years. The strength of the modifier depends on the aptitude of the poet.
+
+Modifier	Terrible aptitude effects	Poor aptitude effects	Average aptitude effects	Good aptitude effects	Excellent aptitude effects
+Modifier legitimacy positive.png Poetry about Legacy	 +1% Legitimacy Gain	 +2% Legitimacy Gain	
+ +3% Legitimacy Gain
+ -3% Legitimacy Loss
+ +5% Legitimacy Gain
+ -5% Legitimacy Loss
+ +10% Legitimacy Gain
+ -10% Legitimacy Loss
+Modifier outdoors positive.png Poetry about Mourning	 +1% Monthly Piety	 +2% Monthly Piety	
+ +3% Monthly Piety
+ +3 Clergy Opinion
+ +4% Monthly Piety
+ +6 Clergy Opinion
+ +5% Monthly Piety
+ +10 Clergy Opinion
+Modifier fertility positive.png Poetry about Romance	 +1 Attraction Opinion	
+ +2 Attraction Opinion
+ +2 Spouse Opinion
+ +3 Attraction Opinion
+ +3 Spouse Opinion
+ -10 Days Romance Phase Length
+ -10 Days Seduce Phase Length
+ +5 Attraction Opinion
+ +5 Spouse Opinion
+ -20 Days Romance Phase Length
+ -20 Days Seduce Phase Length
+ +10 Attraction Opinion
+ +10 Spouse Opinion
+ -30 Days Romance Phase Length
+ -30 Days Seduce Phase Length
+Modifier tournament positive.png Poetry about Strife	
+ +1 Minimum Battle Roll
+ -1% Friendly Fatal Casualties
+ +2 Minimum Battle Roll
+ -2% Friendly Fatal Casualties
+ +2 Minimum Battle Roll
+ -4% Friendly Fatal Casualties
+ +3 Minimum Battle Roll
+ -6% Friendly Fatal Casualties
+ +4 Minimum Battle Roll
+ -10% Friendly Fatal Casualties
+Experimental Brew
+Experimental Brew is a modifier that can be obtained by employing a Court brewmaster court position.png Court Brewmaster. Their Aptitude does not influence the effects of the modifier. The modifier changes its effects every 6 months to one of the following:
+
+ +1 Diplomacy
+ +1 Martial
+ +1 Stewardship
+ +1 Intrigue
+ +1 Learning
+ +1 Prowess
+ +1 Monthly Tax
+ +5% Monthly Prestige
+ +5% Monthly Piety
+ +0.2 Monthly Renown
+ +1% Cultural Fascination Progress
+ Small Health Boost
+ +10% Fertility
+ +25% Stress Loss
+ +10 Attraction Opinion
+ +10 General Opinion
+ +10 Child Opinion
+ +10 Courtier and Guest Opinion
+ +10 Courtly Vassal Opinion
+ -5% Monthly Prestige
+ -5% Monthly Piety
+ Tiny Health Penalty
+ -5 Courtier and Guest Opinion
+Blood Brother modifiers
+Khans of the Steppe	Available only with the Khans of the Steppe DLC enabled.
+When a character gains a Blood Brother they will have the option to choose one of the following modifiers. The modifier is removed if the character no longer has a Blood Brother.
+
+Modifier	Effects ( Nomadic)	Effects (not  Nomadic)	Blood Brother requirements (any)
+Modifier legitimacy positive.png August Blood Brother	
+ -10% Title Creation Cost
+ +0.3 Legitimacy
+ -20% Upgrade Nomadic Horde Regiment Cost
+ -10% Title Creation Cost
+ +0.3 Legitimacy
+ -20% Men-at-Arms Recruitment Cost
+ King
+ Emperor
+ Exalted Among Men
+ Legendary Figure
+Nomad authority 4.png Absolute dominance
+Nomad authority 5.png Unrestricted dominance
+Modifier stress positive.png Caring Blood Brother	
+ +3% Stress Loss per Level of Devotion
+ -10% Stress Gain
+ -5% Enemy Scheme Secrecy
+ +5% Initial Personal Scheme Success Chance
+ +3% Stress Loss per Level of Devotion
+ -10% Stress Gain
+ -5% Enemy Scheme Secrecy
+ +5% Initial Personal Scheme Success Chance
+ Compassionate
+ Forgiving
+ Generous
+ Gregarious
+ Loyal
+ Trusting
+ Patriarch/Matriarch
+Modifier prestige positive.png Clever Blood Brother	
+ -5% Enemy Scheme Secrecy
+ +10% Powerful Vassal Councilor Herd Contribution
+ +10% Monthly Prestige
+ -5% Enemy Scheme Secrecy
+ +10% Powerful Vassal Councilor Tax Contribution
+ +0.2 Monthly Court Grandeur
+ Genius
+ Shrewd
+ 25+ Diplomacy
+ 25+ Stewardship
+ 25+ Intrigue
+ 25+ Learning
+Modifier dread positive.png Warlike Blood Brother	
+ +2 Prowess
+ +10 Natural Dread
+ +2 Advantage when commanding armies
+ +2 Prowess
+ +10 Natural Dread
+ +2 Advantage when commanding armies
+ 25+ Prowess
+ 20+ Martial
+ 60+ Dread and either 18+ Prowess or a Martial education trait
+ 20+ Prowess and one of the following traits: Aggressive Attacker, Berserker, Brave, Raider, Sadistic, Vengeful, Wrathful
+Coronation modifiers
+DLC Coronations.png	Available only with the Coronations DLC enabled.
+Coronation modifiers can only be added by Activity coronation.png Coronation activities and affect only a single barony.
+
+If the game is started in 1066 or 1178 the following baronies will start with Modifier legitimacy positive.png Traditional Ascension Site modifier: Aachen, Al-Madina, Bukhara, Cairo, Damascus, Ghazna, Gniezno, Gowrie, Kutaisi, Lahur, London, Mahdiya, Milano, Rayy, Reims, Rome, Samarkand, St Johnston, Székesfehérvár, Baghdad and Constantinople. If the game is started in 1178 Karakorum and Marrakesh will also have it. Baghdad and Constantinople will start with the modifier doubled.
+
+Modifier	Effects	Requirements
+Modifier legitimacy positive.png Traditional Ascension Site	
+ +5 Popular Opinion
+Activity coronation.png +5 Increased Coronation Magnificence
+Yes Effects double if at least 10 Coronations have been held in the barony
+Yes Effects triple if at least 15 Coronations have been held in the barony
+Activity coronation.png 5 Coronations were held in the barony
+Modifier piety positive.png A Faithful's Oath Fulfilled	
+Building oath faithful.png Can upgrade the Religious Monuments building to its final level
+ +5% Holding Taxes
+ Fulfilled the Provide for the Faithful oath
+Modifier stewardship positive.png A Poor's Oath Fulfilled	
+Building oath poor.png Can upgrade the Official Almshouses building to its final level
+ +5% Development Growth
+ -5% Holding Taxes
+ Fulfilled the Provide for the Poor oath
+Modifier martial positive.png A Warrior's Oath Fulfilled	
+Building oath warriors.png Can upgrade the Martial Grants building to its final level
+ +10% Stationed Men-at-Arms Damage
+ +5% Stationed Men-at-Arms Toughness
+ Fulfilled the Support My Knights/Champions oath
+Capital Temple Complex modifiers
+DLC All Under Heaven.png	Available only with the All Under Heaven DLC enabled.
+Capital Temple Complex modifiers can only be added by paying for certain the contributions with the same name in Capital Temple Complex great projects and affect only a single barony.
+
+Modifier	Effects
+Modifier economy positive.png Ornate Reliefs	 +5% Holding Taxes
+Modifier economy positive.png Shallow Pools	
+ +10 Defender Advantage
+ +2% Stationed Men-at-Arms Toughness per Level of Devotion
+Modifier rock positive.png Divine Statues	
+ +5% Holding Taxes
+ +0.1 Monthly Tax per Level of Devotion
+Modifier signet ring positive.png Gilded Shrines	 +0.15 Monthly Tax per Level of Devotion
+Modifier travel safety positive.png Divine Barays	
+ +10 Defender Advantage
+ +2% Stationed Men-at-Arms Toughness per Level of Devotion
+ +10 Plague Resistance
+Modifier stewardship positive.png Statues of Creation	
+ -10% Building Construction Cost
+ -10% Building Construction Time
+Modifier stewardship positive.png Statues of Creation	
+ -10% Building Construction Cost
+ -10% Building Construction Time
+Modifier martial positive.png Statues of Destruction	
+ +5% Levy Size
+ +10% Levy Reinforcement Rate
+ +10% Garrison Size
+Modifier diplomacy positive.png Statues of Serenity	
+ +10% Holding Taxes
+ +10% Development Growth
+ +10 Popular Opinion
+Modifier intrigue positive.png Statues of Trickery	
+ +10% Hostile Raid Time
+ +0.1 Monthly Control
+ -10% Control Decline when at War
+Aspect modifiers
+DLC All Under Heaven.png	Available only with the All Under Heaven DLC enabled.
+Rulers who have certain Mandala aspects can gain aspect modifiers.
+
+Modifier	Effects	Notes
+Aspect of Creation	
+ -1% Holding Construction Cost
+ -2% Building Construction Cost
+ -2% Building Construction Time
+Obtained by constructing or upgrading a building while having the aspect with the same name
+Can be upgraded up to 10 times the same way
+Lasts for 10 years at aspect levels 1 and 2
+Lasts for 20 years at aspect levels 3 and 4
+Lasts for 30 years at aspect level 5
+Duration resets when a new building is constructed or upgraded
+Aspect of Serenity	
+ +0.1 Monthly Legitimacy
+ +5 General Opinion
+ -5% Great Project Construction Time
+ +5% Stress Loss per Level of Devotion
+Obtained by having the aspect with the same name
+Upgraded by not declaring offensive wars for 5 years at aspect levels 1 and 2
+Upgraded by not declaring offensive wars for 3 years at aspect levels 3 and 4
+Upgraded by not declaring offensive wars for 1 years at aspect level 5
+References
+
+
+Mechanics
+Characters	Characters • Attributes • Traits • Resources • Modifiers • Lifestyle • Family • Dynasty • Schemes • Hooks • Activities • Artifacts • Interactions • Travel • Adventurers • Prisoners
+Realm & Governance	Council • Court • Power sharing • Subjects • Succession • Government • Laws • Decisions • Titles • Barony • County • Buildings • Royal court • Domiciles • Great projects
+Warfare	Warfare • Casus belli • Alliance • Army • Hired forces • Knights • Duel • Situations
+Culture & Faith	Culture • Traditions • Innovations • Form of Address • Faith • Doctrines • Tenets • Holy sites
+Meta	Modding • Patches • Downloadable content • Developer diaries • Achievements • Jargon • Bookmarks • Interesting characters • Ruler Designer • Game rules
+Categories: Potentially outdated1.18Character
+About CK3 WikiMobile view
+Attribution-ShareAlike 3.0Powered by MediaWiki
+
+Games
+Discover
+Our Brands
+Browse
+Play on Paradox technology
+Community
+Paradox Forums
+Paradox Wikis
+Support
+About
+News
+About us
+Careers
+Join our playtests
+Media contact
+Social Media
+Legal Information
+EU Online Dispute Resolution
+Report Illegal Content

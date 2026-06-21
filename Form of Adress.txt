@@ -1,0 +1,1005 @@
+
+Paradox Wikis
+CK3 Wiki
+
+Search
+Search CK3 Wiki
+Log in
+Navigation menu
+PageDiscussion
+ReadEditEdit sourceView history
+Crusader Kings III Wiki
+Recent changes
+Random page
+Paradox Wikis
+- Main portal
+- Wikis discord
+- Contact us
+- Style guidelines
+CK3 links
+- Forums
+- Game discord
+- Mods
+- Store
+- YouTube
+Tools
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+ 
+Form of address
+Jump to navigationJump to search
+Please help with verifying or updating older sections of this article.
+At least some were last verified for version 1.18.
+
+This article is for the PC version of Crusader Kings 3 only.
+
+The form of address determines the title of a ruler and may be determined by factors such as culture, title, or government.
+
+
+Contents
+1	Form of address
+2	Unique Governments
+3	See also
+4	References
+Form of address
+Cultures marked with italics are always dead and only used for character history, but may be enabled with the Ruler Designer.
+
+The following is a list of forms of address based on the character's culture. For the most part, these apply to all government forms, but unless specified, they are available to all  Feudal realms.
+
+Group	 Culture	 Baron name	 Count name	 Duke name	 King name	 Emperor name	 Knight name	Clothing appearance	Army appearance	Coat of arms appearance
+Ainuic
+City japan.png
+
+Ainu	Nispa (Ponkotan)	Kotankorkur (Kotan)	Utarpa (Sir)	Sapanekur (Mosir)	
+Emperor/Empress
+Champion	Ainu	Japanese	Japanese
+Emishi	Osa (Mura)	Kimi (Kuni)	
+Duke/Duchess
+King/Queen
+Akan
+City mena.png
+
+Akan	
+Obaatan/Obaatana
+Nana
+Krontihene/Krontihena
+Omanhene/Omanhena
+Akanhene/Akanhena
+Champion	African	Sub-Saharan	West-African
+Guan
+Kru
+Albanian
+City mediterranean.png
+
+Albanian	
+Baron/Baroness
+*Count/Countess	
+Duke/Duchess
+King/Queen
+Emperor/Empress
+Knight	Byzantine	Eastern	South Slavic
+Arabic
+City mena.png
+
+Bedouin	Wālī/Wālīa (Wilāyah)	Sheikh/Sheikhah (Sheikhdom)
+Wali/Wâlia [1]
+Emir/Emira (Emirate)
+Wali-Emir/Wâlia-Emir [1]
+Malik/Malika (Malikate)
+Sultan/Sultana (Sultanate) [2]
+Wali-Malik/Wâlia-Malik [1]
+Malik al-Muazzam/Malika al-Muazzama (Empire)	Fāris	Abbasid	Arabic	Arabic
+Egyptian
+Maghrebi	Berber
+Mashriqi	Abbasid
+Yemeni
+Austronesian
+City se asia.png
+
+Acehnese	Khlon Sruk (Sruk) [3]	Praya (Pray) [3]	Raja (Raj) [3]	Maharaja/Maharani [3]	Devaraja/Devarani [3]	Champion	Malay	Southeast Asian	Burman
+Amis
+Bisayan
+Bugis
+Cham
+Dayak
+Iloko
+Javanese
+Malay
+Moluccan
+Nakkavaram
+Papuan	Papuan
+Senoy	Malay
+Tagalog
+Toraja
+Baltic
+City western.png
+
+Latgalian	*Baron/Baroness	
+Count/Countess
+Duke/Duchess
+King/Queen
+Emperor/Empress
+Knight	Northern	Northern	Baltic
+Lithuanian	
+Grand Duke/Grand Duchess (Grand Duchy) [4]
+Prussian	
+King/Queen
+Balto-Finnic
+City western.png
+
+Estonian	
+Baron/Baroness
+Count/Countess
+Duke/Duchess
+King/Queen
+Emperor/Empress
+Champion	Northern	Northern	Balto-Finnic
+Finnish
+Karelian
+Sami
+Vepsian
+Bantu
+City mena.png
+
+East Bantu	
+Baron/Baroness
+Wālī/Wālīa (Wilāyah) [5]
+Count/Countess
+Sheikh/Sheikhah (Sheikhdom) [5]
+Duke/Duchess
+Emir/Emira (Emirate) [5]
+King/Queen
+Patriarch/Matriarch (Kingdom) [5]
+Emperor/Empress
+Grand Patriarch/Grand Matriarch (Empire) [5]
+Champion	African	Arabic	East African
+Swahili	Tamim [1]	Sultan/Sultana (Sultanate) [2][4]
+Berber
+City mena.png
+
+Baranis	
+Nā'ib/Nā'iba (Bou)
+Ra'īs/Ra'īsa [6]
+Wālī/Wālīa (Wilāyah)
+Sheikh/Shaykha (Sheikhdom) [7]
+Emir/Emira (Emirate)
+Amīr al-Umarā/Amīra al-Umarā (Grand Emirate)
+Malik al-Mulūk/Malika al-Mulūk (Empire)
+Knight	Berber	Arabic	Berber
+Butr
+Guanche	*Coran/Chamato	
+Menceyato/Menceyata
+High Menceyato/High Menceyata
+Petut Menceyato/Mayec Menceyata
+African
+West African
+Zaghawa	
+Wālī/Wālīa (Wilāyah)
+Sheikh/Shaykha (Sheikhdom) [7]
+Emir/Emira (Emirate)
+Amīr al-Umarā/Amīra al-Umarā (Grand Emirate)
+Malik al-Mulūk/Malika al-Mulūk (Empire)
+Berber
+*Berber
+Brythonic
+City western.png
+
+Breton	*Baron/Baroness	
+Count/Countess
+Duke/Duchess
+Petty King/Petty Queen (Petty Kingdom) [4]
+King/Queen
+Emperor/Empress
+Knight	Western	Western	Western
+Cornish
+Cumbrian
+Pictish	
+Mormaer/Banmormaer (Mormaerdom)
+Welsh	
+Lord/Lady
+Duke/Duchess
+Prince/Princess (Principality) [4]
+Burman
+City india.png
+
+Burmese	
+Damapati/Damapatni (Dama)
+Talāra [1]
+Thakur/Thakurani (Thikana)
+Raja/Rani (Raj)
+Maharaja/Maharani
+Samrat/Samrajni
+Champion	Malay	Southeast Asian	Burman
+Kachin	Southeast Asian
+Karen
+Buyeo
+City china.png
+
+Baekje	Baron/Baroness	Count/Countess	Duke/Duchess	King/Queen	Emperor/Empress	Champion	Korean	Chinese	Chinese
+Balhae	Hyeonseung [8]	Jasa (Ju) [8]	Dodok (Bu) [8]	Gadokbu/Gwibi
+Goguryeo	Baron/Baroness	Count/Countess	Duke/Duchess	King/Queen
+Caucasian
+City byzantine.png
+
+Armenian	
+Baron/Baroness
+Count/Countess
+Prince/Princess (Principality)
+Eparch/Eparchessa [1]
+King/Queen
+Serene Doge/Serene Dogaressa [1]
+Emperor/Empress
+Knight	Byzantine	Eastern	Byzantine
+Georgian	
+Duke/Duchess
+Eparch/Eparchessa [1]
+Central African
+City mena.png
+
+Hausa	
+Gida
+Petty Magajiya [9]
+Sarkin Gadi/Sarkina Gadi
+Magajiya [9]
+Galadima/Magajiya
+Grand Magajiya [9]
+Sarkin/Sarauniya
+Sarkin Sarakuna/Sarauniyar Sarauniya
+Champion	African	Sub-Saharan	Central African
+Kanuri	
+Chima Chidibe
+Chima
+Galadima
+Mai/Gumsu
+Sultan/Sultana
+Nupe
+Sao
+Central Germanic
+City western.png
+
+Bavarian	
+Baron/Baroness
+Count/Countess
+Duke/Duchess
+King/Queen
+Kaiser/Kaiserin
+Knight	*Holy Roman Imperial	Western	German
+Dutch
+Franconian
+Frisian
+German
+Saxon
+Swabian
+Chinese
+City china.png
+
+Bai	Ward Head	
+Count/Countess
+*Duke/Duchess	King/Queen	
+Emperor/Empress
+Champion	Chinese	Chinese	Chinese
+Han	
+Wáng/Nuwáng
+Yi	King/Queen
+Dravidian
+City india.png
+
+Gond	
+Damapati/Damapatni (Dama)
+Talāra[1]
+Thakur/Thakurani (Thikana)
+Raja/Rani (Raj)
+Maharaja/Maharani
+Samrat/Samrajni
+Padishah/Shahbanu [2]
+Shoorveer	Indian	Indian	Dravidian
+Kannada
+Tamil
+Telugu
+East African
+City mena.png
+
+Beja	
+Omda
+Nazir/Nazira
+Emir/Emira
+Malik/Malika
+Sultan/Sultana
+Champion	Arabic	Arabic	East African
+Daju	
+Baron/Baroness
+Count/Countess
+Duke/Duchess
+Petty King/Petty Queen (Petty Kingdom) [4]
+King/Queen
+*Emperor/Empress	Knight
+Ethiopian	
+Ras/Woyzerit
+Mesfin/Woyzero
+Petty King/Petty Queen (Petty Kingdom) [4]
+Negus/Nigist
+Negusa Negast/Itege
+Nubian	
+Count/Countess
+Duke/Duchess
+Petty King/Petty Queen (Petty Kingdom) [4]
+King/Queen
+Emperor/Empress
+Welayta
+East Slavic
+City western.png
+
+Ilmenian	
+Baron/Baroness
+Count/Countess
+Duke/Duchess
+King/Queen
+Emperor/Empress
+Knight	Northern	Eastern	East Slavic
+Russian	*Grand Prince/Grand Princess (Grand Principality)	
+Tsar/Tsaritsa (Tsardom)
+Severian	
+Duke/Duchess
+Emperor/Empress
+Volhynian
+Eastern Roman
+City byzantine.png
+
+Greek	
+Baron/Baroness
+Komes/Komitissa
+Doux/Doukissa
+Despot/Despotissa
+Basileus/Basilissa
+Hetaireiarchai	Byzantine	Eastern	Byzantine
+Frankish
+City western.png
+
+Frankish	
+Baron/Baroness
+Count/Countess
+*Duke/Duchess	
+King/Queen
+Emperor/Empress
+Knight	Western	Western	Frankish
+French
+Norman
+Occitan
+Goidelic
+City western.png
+
+Gaelic	
+Baron/Baroness
+Mormaer/Banmormaer (Mormaerdom)
+Duke/Duchess
+Petty King/Petty Queen (Petty Kingdom) [4]
+King/Queen
+Emperor/Empress
+Knight	Northern	Western	Western
+Irish	
+Count/Countess
+Guinean Uplander
+City mena.png
+
+Bobo	
+Tigui/Tigua
+Farin/Farina (Jamana)
+Jamanatigi/Jamanatiga (Jamana) [4]
+Farbas/Farba (Duchy)
+*Faama/Malika (Kingdom)	
+Mansa/Sultana (Kurufaba)
+Knight	African	Sub-Saharan	West-African
+Gur
+Malinke
+Marka
+Mel
+Hmongic
+City china.png
+
+Hmong	Baron/Baroness	Count/Countess	Duke/Duchess	King/Queen	Emperor/Empress	Champion	Chinese	Chinese	Burman
+Yao	Chinese
+Horn African
+City mena.png
+
+Afar	
+Akil/Akilad
+Islan/Islanad
+Gerad/Geradad
+Ughaz/Ughazad [6]
+Suldaan/Suldaanad [10]
+Boqor/Boqorad
+Knight	Arabic	Arabic	East African
+Somali	
+Akil/Akilad
+Islan/Islanad
+Gerad/Geradad
+Ughaz/Ughazad [6]
+Suldaan/Suldaanad [10]
+Boqor/Boqorad
+Iberian
+City iberian.png
+
+Aragonese	
+Baron/Baroness
+Wālī/Wālīa (Wilāyah) [5]
+Count/Countess
+Sheikh/Sheikhah (Sheikhdom) [5]
+Duke/Duchess
+Emir/Emira (Emirate) [5]
+King/Queen
+Malik/Malika (Malikate) [5]
+Emperor/Empress
+Malik al-Muazzam/Malika al-Muazzama (Empire) [5]
+Knight	Iberian	Iberian	Iberian
+Asturleonese
+Basque
+Castilian
+Catalan
+Galician
+Portuguese
+Suebi
+Visigothic
+Indo-Aryan
+City india.png
+
+Bengali	
+Damapati/Damapatni (Dama)
+Nagarapati [1]
+*Thakur/Thakurani (Thikana)	
+Raja/Rani (Raj)
+Maharaja/Maharani
+Samrat/Samrajni
+Padishah/Shahbanu [2]
+Shoorveer	Indian	Indian	Indo-Aryan
+Brahui	
+Iranian
+Iranian
+Gujarati	Indian	Indian
+Kamrupi
+Kannauji
+Kashmiri
+Malvi
+Marathi
+Nepali
+Oriya
+Punjabi
+Rajasthani
+Sindhi
+Sinhala
+Iranian
+City iranian.png
+
+Alan	
+Argbadh (Arg)
+Nā'ib/Nā'iba (Arg) [2]
+Marzoban (Marzpanate)
+Vali/Valia (Vilāyah) [2]
+Satrap (Satrapy)
+Amir/Amira (Amirate) [2]
+Shah/Banebshen (Shahdom)
+Amir-e-Amiran/Amira-e-Amiran (Grand Amirate) [2]
+Shahanshah/Banebshenan Banebshen (Empire)
+Aswārān	Iranian	Iranian	Iranian
+Afghan
+Baloch
+Daylamite
+Khwarezmian
+Kurdish
+Persian
+Saka
+Sogdian	
+Ikhshid/Satrap
+Amir/Amira [2]
+Tajik	
+Satrap
+Amir/Amira [2]
+Israelite
+City mena.png
+
+Ashkenazi	
+Baron/Baroness
+Count/Countess
+Duke/Duchess
+King/Queen
+Emperor/Empress
+Knight	Byzantine	Arabic	Israelite
+Bavli
+Hebrew
+Kochini	
+Indian
+Indian
+Radhanite	
+Mongol
+Arabic
+Sephardi	
+Byzantine
+Japonic
+City japan.png
+
+Ryukyuan	Baron/Baroness	Count/Countess	Duke/Duchess	King/Queen	Emperor/Empress	Bushi	Japanese	Japanese	Japanese
+Yamato	Daimyō	Grand Daimyō	Tandai
+Latin
+City mediterranean.png
+
+Cisalpine	
+Baron/Baroness
+Count/Countess
+Duke/Duchess
+Doge/Dogaressa [1]
+King/Queen
+Serene Doge/Serene Dogaressa [1]
+*Emperor/Empress	Knight	Western	Western	Latin
+Italian
+Lombard	
+Duke/Duchess
+Prince/Princess (Principality) [4]
+Doge/Dogaressa [1]
+Roman	
+Baro/Baronissa (Castrum)
+Magister/Magistra [1]
+Comes/Comitissa (County)
+Praefect [1]
+Dux/Ducissa (Duchy)
+Tribune [1]
+Rex/Regina (Regnum)
+Consul (League) [1]
+Imperator/Imperatrix (Imperium)
+Princeps/Princess (Grand Republic) [1]
+Byzantine
+Sardinian	
+Curadore/Curadora (Curadoria)
+Judike/Judesa (Judicadu)
+Archon/Archonesa (Archonate)
+Doge/Dogaressa [1]
+King/Queen
+Serene Doge/Serene Dogaressa [1]
+Emperor/Empress
+Western
+Sicilian	
+Baron/Baroness
+Count/Countess
+Duke/Duchess
+Doge/Dogaressa [1]
+Magyar
+City western.png
+
+Hungarian	
+Baron/Baroness
+Count/Countess
+Duke/Duchess
+King/Queen
+High King/High Queen
+Knight	
+Western
+Mongol	Magyar
+Mogyër	
+Prince/Princess (Principality)
+Grand Prince/Grand Princess (Grand Principality)
+Mongol
+Mongolic
+City steppe.png
+
+Buryat	
+Baron/Baroness
+Count/Countess
+Duke/Duchess
+Khan/Khanum (Khanate)
+Khagan/Khatun (Khaganate)
+Baghatur	Mongol	Mongol	Mongol
+Kerait
+Khitan
+Mongol	
+Taishi
+Naiman	
+Baron/Baroness
+Oirat
+Öngüd
+Shiwei
+Tuyuhun
+Niger Delta
+City mena.png
+
+Edo	
+Uzama
+Nana
+Ajapada
+Oba
+Alafin
+Knight	African	Sub-Saharan	Central African
+Ewe
+Igbo
+Yoruba
+Nivkh
+City western.png
+
+Nivkh	
+Baron/Baroness
+Count/Countess
+Duke/Duchess
+King/Queen
+Emperor/Empress	Champion	Mongol	Mongol	Mongol
+North Germanic
+City norse.png
+
+Danish	
+Baron/Baroness
+Count/Countess
+Duke/Duchess
+Petty King/Petty Queen (Petty Kingdom) [4]
+King/Queen
+*Emperor/Empress	Champion	Northern	Northern	Northern
+Norse	
+Þegn
+Jarl (Jarldom)
+Norse	Norse	Norse
+Norwegian	
+Baron/Baroness
+Count/Countess
+Northern	Northern	Northern
+Swedish
+Qiangic
+City india.png
+
+Qiang	
+Baron/Baroness
+Count/Countess
+Duke/Duchess
+King/Queen	
+Emperor/Empress
+Knight	Mongol	Mongol	Indian
+Tangut	Nínglìng/Queen	Mongol
+Sahelian
+City mena.png
+
+Bozo	
+Horo/Hora
+Debegume/Debeguma
+Nyanyagume/Nyanyaguma
+Maghan/Magha
+Kaya Magha
+Knight	African	Sub-Saharan	West-African
+Mossi
+Gaw
+Songhai
+Soninke
+Sorko
+Samhanic
+City china.png
+
+Goryeo	Baron/Baroness
+Hyeonryeong (Hyeon) [8]
+
+Baek (Baekguk)
+Moksa (Mok) [8]
+
+Gong (Gongguk)
+Anchalsa (Do) [8] Byeongmasa (Do) [11]
+
+Gugwang/Yeowang	Hwangje/Hwanghu	Champion	Korean	Chinese	Chinese
+Silla
+Senegambian
+City mena.png
+
+Pulaar	*Tigui/Tigua	
+Geer/Geera
+Damel/Damela
+Simbago/Simbaga
+Soma
+Knight	African	Sub-Saharan	West-African
+Serer
+Wolof
+South Slavic
+City mediterranean.png
+
+Bosnian	
+Baron/Baroness
+Count/Countess
+Ban (Banate)
+King/Queen
+Emperor/Empress
+Knight	Byzantine	Eastern	South Slavic
+Bulgarian	
+Duke/Duchess
+Croatian	
+Ban (Banate)
+Serbian	
+Duke/Duchess
+Syriac
+City mena.png
+
+Syriac	
+Baron/Baroness
+Count/Countess
+Duke/Duchess
+Eparch/Eparchessa [1]
+King/Queen
+Serene Doge/Serene Dogaressa [1]
+Emperor/Empress
+Knight	Byzantine	Arabic	Byzantine
+Tai
+City se asia.png
+
+Bouxcuengh	Khun (Mueang)
+Chao/Nang Chao [1]
+
+Phraya/Nang Phraya (Phray)	Ratcha/Ratchinee (Ratch)	Maharat/Maharatchinee	Devaraja/Devarani	Champion	Vietnamese	Southeast Asian	Chinese
+Hlai	Chinese	Chinese
+Tai	Tai	Southeast Asian
+Tujia	Southeast Asian	Mongol
+Tibetan
+City india.png
+
+Bodpa	
+Baron/Baroness
+Ngapo/Ngamo (County)
+Prabhu/Mahila (Duchy/Petty Kingdom) [4]
+Gyalpo/Gyelpo (Gyalpo)
+Tsenpo/Maharani (Empire)
+Knight	Mongol	Mongol	Tibetan
+Kirati
+Lhomon	
+Indian
+Mongol
+Sumpa	
+Mongol
+Tsangpa
+Zhangzhung
+Tocharian
+City iranian.png
+
+Tocharian	Baron/Baroness	Count/Countess	Duke/Duchess	King/Queen	Emperor/Empress	Knight	Iranian	Iranian	Iranian
+Tungusic
+City steppe.png
+
+Jurchen	Baron/Baroness	Count/Countess	Duke/Duchess	King/Queen	Emperor/Empress	Champion	Mongol	Mongol	Mongol
+Mohe
+Turkic
+City steppe.png
+
+Avar	
+Baron/Baroness
+Count/Countess
+Duke/Duchess
+Khan/Khanum (Khanate)
+Khagan/Khatun (Khaganate)
+Baghatur	Turkic	Mongol	Turkic
+Bashkir
+Bolghar
+Chuvash
+Cuman
+Karluk
+Khazar
+Kimek
+Kipchak
+Kirghiz
+Laktan
+Oghuz(Turkmen)	
+Agha/Hanim (Timariot) [10]
+Beg/Begum (Beylik) [10]
+Atabeg/Atabegum (Atabegate) [10]
+Sultan/Sultana (Sultanate) [10]
+Sultan al-Muazzam/Sultana al-Muazzama (Empire) [10]
+Pecheneg	
+Baron/Baroness
+Count/Countess
+Duke/Duchess
+Khan/Khanum (Khanate)
+Khagan/Khatun (Khaganate)
+Shatuo
+Uriankhai
+Uyghur	
+Idiqut/Khanum (Khanate)
+Yughur	
+Khan/Khanum (Khanate)
+Ugro-Permian
+City western.png
+
+Bjarmian	Baron/Baroness	Count/Countess	Duke/Duchess	
+King/Queen
+Emperor/Empress	Knight	Northern	Northern	Ugro-Permian
+Ostyak(Khanty)
+Permian
+Viet
+City china.png
+
+Viet	Baron/Baroness	Count/Countess	Duke/Duchess	Vuong	De/Nu	Champion	Vietnamese	Chinese	Chinese
+Vlach
+City mediterranean.png
+
+Vlach	Baron/Baroness	Count/Countess	Duke/Duchess	King/Queen	Emperor/Empress	Knight	Byzantine	Eastern	South Slavic
+Volga-Finnic
+City western.png
+
+Mari	
+Baron/Baroness
+Count/Countess
+Duke/Duchess
+King/Queen
+Emperor/Empress
+Knight	Northern	Northern	Volga-Finnic
+Merya
+Meshchera
+Mordvin
+Muroma
+West Germanic
+City western.png
+
+Anglo-Saxon	
+Thane
+Reeve (Borough) [1]
+Earl/Countess (Earldom)
+Sheriff (Shire) [1]
+Duke/Duchess
+Petty King/Petty Queen (Petty Kingdom) [4]
+King/Queen
+Emperor/Empress
+Knight	Western	Western	Western
+English	
+Baron/Baroness
+Earl/Countess (Earldom)
+Old Saxon	
+Count/Countess
+Northern
+Scots	
+Thane
+Provost (Burgh) [1]
+Earl/Countess (Earldom)
+Lord Provost/Lady Provost [1]
+Western
+West Slavic
+City western.png
+
+Carantanian	
+Baron/Baroness
+Count/Countess
+Duke/Duchess
+King/Queen
+Emperor/Empress
+Knight	Western	Eastern	West Slavic
+Czech
+Polabian
+Polish
+Pomeranian
+Slovien
+Unique Governments
+Roads to Power	Available only with the Roads to Power DLC enabled.
+The following names apply to  Administrative realms. Unlike other flavored names, these are  Title-based, not culture-based.
+
+Group	 Title	 Baron name	 Count name	 Duke name	 King name	 Emperor name	 Hegemon name
+ Administrative
+City gate.png
+
+Byzantine	
+Archon
+Tourmarchēs
+Strategos/Strategitissa
+Catepan/Catepanissa
+Basileus/Basilissa
+Augustus/Augusta[12]
+Rome	
+Baro/Baronissa (Castrum)
+Magistrate
+Governor/Governess
+Prefect (Praefectura)	Imperator/Imperatrix
+Hindustan[2]	
+Alim/Alima
+Shiqdar/Shiqdara
+Wali/Waliyya
+Sultan/Sultana
+Sultan al-Salațin
+Standard	
+Culture-Specific
+Magistrate
+Governor/Governess
+Viceroy/Vicereine
+Culture-Specific
+Roads to Power	Available only with the Roads to Power DLC enabled.
+The following names apply to  Adventurers
+
+Group	 Title	 Wanderers	 Swords-for-Hire	 Scholars	 Explorers	 Freebooters	 Legitimists
+ Adventurers
+Camp party.png
+
+Adventurers	
+Master/Mistress
+Captain
+Master/Mistress
+Leader
+Boss
+Lord/Lady
+Khans of the Steppe	Available only with the Khans of the Steppe DLC enabled.
+The following names apply to  Nomadic realms. The majority of these are also available to  Tribal realms as well.
+
+Group	 Heritage	 Culture	 Baron name	 Count name	 Duke name	 King name	 Emperor name	 Hegemon name
+ Nomadic
+City steppe.png
+
+Turkic	Uyghur	
+Headman/Headwoman
+(Settlement)
+Beg/Begum
+Iltabar (Eli)
+Yabghu (Bodun)[4]
+Idiqut
+Khagan/Khatun	
+Bedük Khagan/Bedük Khatun
+All other cultures	Khan/Khanum
+Mongolic	Mongol	Taishi	Chieftain/Chieftess	High Chieftain/High Chieftess	Ikh-Khagan/Ikh-Khatun
+All other cultures	
+Headman/Headwoman
+(Settlement)
+Generic	King/Queen	High King/High Queen	
+DLC All Under Heaven.png	Available only with the All Under Heaven DLC enabled.
+The following names apply to rulers under China's unique  Celestial government.
+
+Group	 Title	Landless name	 Baron name	 Count name	 Duke name	 King name	 Emperor name	 Hegemon name
+ Celestial
+City china.png
+
+Civilian	Gentleman/Lady	Magistrate	Prefect	Governor	Intendant	Coordinator	
+Huángdì/Húanghòu
+Military	Commandant	Supreme Commander
+DLC All Under Heaven.png	Available only with the All Under Heaven DLC enabled.
+The following names apply to Japanese rulers with the  Ritsuryō and  Sōryō government types. Additionally, through scripted content, the holder of  Japan may declare themselves Shōgun or Jōkō.
+
+Lastly, the ceremonial Emperor of Japan - holder of the  Chrysanthemum Throne title - will be named Ten'nō/Kōgō (depending on gender.)
+
+Group	Landless name	 Baron name	 Count name	 Duke name	 King name	 Emperor name	 Hegemon name
+ Ritsuryō
+City japan.png
+
+Tōshu/Lady	Gunji (Kōri)	Kokushi (Kuni)	Kokushi (Chihō)	Sochi (Fu)	Kampaku	
+Huángdì/Húanghòu
+ Sōryō
+City japan.png
+
+Baron/Baroness	Sōryō/Lady (Bushidan)	Tōryo (Ichizoku)	Tandai (Fu)	Daijō-daijin	
+See also
+Culture ID
+Culture group ID
+References
+ (If Republic)
+ (If anyMuslim)
+ (If any  Hinduist,  Buddhist or  Jain)
+ (If independent)
+ (If  Clan)
+ (If  Tribal)
+ (If independent or  Tribal)
+ (If  Meritocratic or  Administrative)
+ (If independent  Female)
+ (If  Feudal or  Clan)
+ (If a  Meritocratic Military or Protectorate administration)
+ Technically, tied to the holder of the  Roman Empire/ Eastern Roman Empire titles, regardless of culture
+Mechanics
+Characters	Characters • Attributes • Traits • Resources • Modifiers • Lifestyle • Family • Dynasty • Schemes • Hooks • Activities • Artifacts • Interactions • Travel • Adventurers • Prisoners
+Realm & Governance	Council • Court • Power sharing • Subjects • Succession • Government • Laws • Decisions • Titles • Barony • County • Buildings • Royal court • Domiciles • Great projects
+Warfare	Warfare • Casus belli • Alliance • Army • Hired forces • Knights • Duel • Situations
+Culture & Faith	Culture • Traditions • Innovations • Form of Address • Faith • Doctrines • Tenets • Holy sites
+Meta	Modding • Patches • Downloadable content • Developer diaries • Achievements • Jargon • Bookmarks • Interesting characters • Ruler Designer • Game rules
+Categories: Potentially outdated1.18Character
+About CK3 WikiMobile view
+Attribution-ShareAlike 3.0Powered by MediaWiki
+
+Games
+Discover
+Our Brands
+Browse
+Play on Paradox technology
+Community
+Paradox Forums
+Paradox Wikis
+Support
+About
+News
+About us
+Careers
+Join our playtests
+Media contact
+Social Media
+Legal Information
+EU Online Dispute Resolution
+Report Illegal Content

@@ -1,0 +1,512 @@
+
+Paradox Wikis
+CK3 Wiki
+
+Search
+Search CK3 Wiki
+Log in
+Navigation menu
+PageDiscussion
+ReadEditEdit sourceView history
+Crusader Kings III Wiki
+Recent changes
+Random page
+Paradox Wikis
+- Main portal
+- Wikis discord
+- Contact us
+- Style guidelines
+CK3 links
+- Forums
+- Game discord
+- Mods
+- Store
+- YouTube
+Tools
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+ 
+Great projects
+Jump to navigationJump to search
+This article has been verified for the current PC version (1.19) of the game.
+
+
+The Develop Communities great project
+DLC All Under Heaven.png
+Available only with the All Under Heaven DLC enabled.
+Great projects are massive undertakings of independent rulers that call on all the resources in the realm. A great project begins with a starting cost which the ruler must pay. At this point the project can be canceled and the starting cost will be refunded. Afterwards the either the ruler or its subjects must pay all mandatory contributions and once the first contribution has been paid the project can no longer be canceled. Once all mandatory contributions are paid the project will take a number of years to be completed. Until the great project is halfway completed additional optional contributions can still be paid. The ruler who pays for a contribution receives a reward. Before a great project is started the sum of all mandatory contribution costs will be displaced.
+
+Any vassal in the de jure hierarchy that holds a title covering the location where a great project is taking place can pay for the contribution, which will give them +35  Prestige and +30  Influence. If the vassal has the  Governor trait it will receive experience for it, and if its government uses  Merit it will gain some. Vassals that can afford to pay a contribution can also be asked to pay by the top liege, in which case the vassal will not receive anything and will have to accept. Vassals who benefit from the great project will always accept but those who do not must be convinced. Acceptance can be increased by offering the vassal  Influence or a Hook. A  Weak Hook on the vassal can also be used to increased their acceptance while a  Strong Hook can be used to force them to accept.
+
+Great projects are canceled if the project location is conquered by a different ruler.
+
+
+Contents
+1	Develop Communities
+2	Capital Temple Complex
+3	Hegemony of China great projects
+Develop Communities
+Develop Communities is a great project available to rulers with  Administrative,  Celestial,  Ritsuryō,  Meritocratic or  Meritocratic Khanate government. The Hegemon of China also requires to have filled the Minister of Works council position. The project must target a duchy and when completed every county inside will gain  Development and every holding in them will gain or upgrade a random building. The project takes 10 years to complete. The cost of the great project scales with the ruler's  Treasury income. Every subject can contribute to the great project, which has two mandatory contributions:
+
+Send Construction Crew costs 100  Treasury and gives the ruler who paid it 60  Merit if their government uses it and 350  Prestige if it does not
+Provide Engineers costs 100  Treasury and gives the ruler who paid it 60  Influence
+The great project has one optional contribution, which can only be paid by the governor of the selected duchy. The contribution costs 400-800  Treasury depending on the culture's era and increases the  Development in the governor's capital by 1 and gives them experience for the  Governor trait.
+
+Capital Temple Complex
+Capital Temple Complex is a great project available to independent rulers with  Mandala government. When the great project is completed the ruler will gain 350  Prestige, 100  Legitimacy and 150  Renown and the realm capital holding will either be changed to Holding temple citadel.png Temple Citadel or its Capital Temple Complex building will be upgraded. Starting the great project costs 250  Piety for each level. The project can be taken multiple times for each realm capital but there is a limit of two Capital Temple Complex building for every de jure kingdom.
+
+Every subject can contribute to Capital Temple Complex great projects, but those who also have an upgraded Temple Complex will always refuse and have to be forced to contribute. Resource rewards from contributions are given to the ruler who paid for them but modifiers are always given to the top liege.
+
+Level	Contribution	Necessity	Contributor rewards	Cost	Requirements	Time
+1	Rite of Worthiness	Mandatory	
+ +50 Legitimacy
+ +75 Devotion
+Same requirements as level 2 for the currently-selected Mandala Aspect	
+Aspiring legitimacy level
+Faithful level of devotion
+At least one tributary
+5 years
+Slabs of Sandstone	Mandatory	 +350 Prestige	 Scaled Gold
+Laterite Blocks	Mandatory	
+ +150 Prestige
+ +25 Devotion
+ Scaled Gold
+ 250 Piety
+Timber	Mandatory	 +75 Fame	
+ Scaled Gold
+ 100 Piety
+Workforce	Mandatory	
+ +20% Levy Reinforcement Rate for 15 years
+ -15% Building Construction Time for 15 years
+ 375 Piety
+Woodcarvings	Optional	 +75 Legitimacy	 250 Piety
+Sanctified Domes	Optional	Modifier mandala positive.png Dynasty gains the Sanctified Domes permanent modifier	
+ Scaled Gold
+ 250 Piety
+Ornate Reliefs	Optional	Modifier economy positive.png Capital gains the Ornate Reliefs permanent modifier	 Scaled Gold
+Family Shrine	Optional	 +75 Renown	
+ Scaled Gold
+ 250 Piety
+Southeast asia legacy track.png Third Divine Aspirations dynasty legacy
+2	Rite of Worthiness	Mandatory	
+ +50 Legitimacy
+ +75 Devotion
+Same requirements as level 3 for the currently-selected Mandala Aspect	
+Recognized legitimacy level
+Devoted Servant level of devotion
+At least 6 subjects
+Capital holding has previous level
+5 years
+Brick	Mandatory	 +350 Prestige	 Scaled Gold
+Tracks of Tiles	Mandatory	
+ +225 Prestige
+ +75 Devotion
+ Scaled Gold
+ 250 Piety
+Shallow Pools	Mandatory	Modifier travel safety positive.png Capital gains the Shallow Pools permanent modifier	
+ Scaled Gold
+ 250 Piety
+Workforce	Mandatory	
+ +20% Levy Reinforcement Rate for 15 years
+ -15% Building Construction Time for 15 years
+ 375 Piety
+Decorative Tiles	Optional	 +75 Legitimacy	 Scaled Gold
+Decorated Domes	Optional	Modifier mandala positive.png Dynasty gains the Decorated Domes permanent modifier	
+ Scaled Gold
+ 375 Piety
+Sacred Statue of Heir	Optional	 +150 Renown	
+ Scaled Gold
+ 375 Piety
+Southeast asia legacy track.png Third Divine Aspirations dynasty legacy
+3	Rite of Worthiness	Mandatory	
+ +100 Legitimacy
+ +150 Devotion
+Same requirements as level 4 for the currently-selected Mandala Aspect	
+True legitimacy level
+Devoted Servant level of devotion
+At least 10 subjects
+Capital holding has previous level
+10 years
+Volcanic Stone	Mandatory	 +440 Prestige	 Scaled Gold
+Corbel Gateways	Mandatory	
+ +265 Prestige
+ +135 Devotion
+ Scaled Gold
+ 375 Piety
+Divine Statues	Mandatory	Modifier rock positive.png Capital gains the Divine Statues permanent modifier	
+ Scaled Gold
+ 375 Piety
+Workforce	Mandatory	
+ +20% Levy Reinforcement Rate for 15 years
+ -15% Building Construction Time for 15 years
+ 500 Piety
+Gilded Domes	Optional	Modifier mandala positive.png Dynasty gains the Gilded Domes permanent modifier	 Scaled Gold
+Statues of Creation	Optional	
+ +1 Stewardship
+Modifier stewardship positive.png Capital gains the Statues of Creation permanent modifier
+ Scaled Gold
+ 500 Piety
+ Religious Icon level of devotion
+Aspect of creation small.png Aspect of Creation
+Statues of Destruction	Optional	
+ +1 Martial
+Modifier martial positive.png Capital gains the Statues of Destruction permanent modifier
+ Scaled Gold
+ 500 Piety
+ Religious Icon level of devotion
+Aspect of destruction small.png Aspect of Destruction
+Statues of Serenity	Optional	
+ +1 Diplomacy
+Modifier diplomacy positive.png Capital gains the Statues of Serenity permanent modifier
+ Scaled Gold
+ 500 Piety
+ Religious Icon level of devotion
+Aspect of serenity small.png Aspect of Serenity
+Statues of Trickery	Optional	
+ +1 Intrigue
+Modifier intrigue positive.png Capital gains the Statues of Trickery permanent modifier
+ Scaled Gold
+ 500 Piety
+ Religious Icon level of devotion
+Aspect of trickery small.png Aspect of Trickery
+Family Temple Compound	Optional	 +150 Renown	
+ Scaled Gold
+ 500 Piety
+Southeast asia legacy track.png Third Divine Aspirations dynasty legacy
+4	Rite of Worthiness	Mandatory	
+ +100 Legitimacy
+ +150 Devotion
+Same requirements as level 5 for the currently-selected Mandala Aspect	
+Ordained legitimacy level
+Paragon of Virtue level of devotion
+At least 15 subjects
+Capital holding has previous level
+10 years
+Slabs of Granite	Mandatory	 +440 Prestige	 Scaled Gold
+Zaungdans	Mandatory	
+ +265 Prestige
+ +135 Devotion
+ Scaled Gold
+ 500 Piety
+Gilded Shrines	Mandatory	Modifier signet ring positive.png Capital gains the Gilded Shrines permanent modifier	
+ Scaled Gold
+ 500 Piety
+Workforce	Mandatory	
+ +20% Levy Reinforcement Rate for 15 years
+ -15% Building Construction Time for 15 years
+ 500 Piety
+Bejeweled Domes	Optional	Modifier mandala positive.png Dynasty gains the Bejeweled Domes permanent modifier	
+ Scaled Gold
+ 250 Piety
+Family Temple Complex	Optional	 +1000 Renown	
+ Scaled Gold
+ 375 Piety
+Southeast asia legacy track.png Third Divine Aspirations dynasty legacy
+5	Rite of Worthiness	Mandatory	
+ +100 Legitimacy
+ +150 Devotion
+Same requirements as level 5 for the currently-selected Mandala Aspect	
+Cosmic legitimacy level
+Paragon of Virtue level of devotion
+At least 20 subjects
+Capital holding has previous level
+15 years
+Marble Foundation	Mandatory	
+ +100 Legitimacy
+ +525 Prestige
+ +115 Devotion
+ Scaled Gold
+Divine Barays	Mandatory	Modifier travel safety positive.png Capital gains the Divine Barays permanent modifier	
+ Scaled Gold
+ 1000 Piety
+Workforce	Mandatory	
+ +20% Levy Reinforcement Rate for 15 years
+ -15% Building Construction Time for 15 years
+ 1000 Piety
+Bejeweled Reliefs	Optional	 Talisman artifact gains additional effects based on Mandala Aspect	
+ Scaled Gold
+ 250 Piety
+Forest of Bunga Mas	Optional	Modifier mandala legitimacy positive.png Dynasty gains the Forest of Bunga Mas permanent modifier	
+ Scaled Gold
+ 1000 Piety
+Dynastic Temple Area	Optional	 +1000 Renown	
+ Scaled Gold
+ 1000 Piety
+Southeast asia legacy track.png Third Divine Aspirations dynasty legacy
+Canceling the great project costs 75  Prestige.
+
+Hegemony of China great projects
+The following great projects are only available to the Hegemon of China, its diarch, and certain councilors, and require the said council position to be filled. The cost to both start the great project and pay contribution scales with the hegemon's  Treasury income and is halved if the great project is started by a diarch or councilor. If the great project is started by a diarch or councilor they will also receive 1000  Influence when the project is completed.
+
+Great project	Completion effects	Contributions	Councilor	Time
+Dynasty's Grand Campaign icon
+Dynasty's Grand Campaign
+We can launch a Grand Military Campaign, uniting all Duchies of a neighboring Kingdom under Heaven. It shall be spearheaded by The Commission, and followed by eager Vassals.
+Yes Grand Marshal declares war on the owner of the targeted duchy
+Yes Automatically completed if the targeted duchy's owner becomes a subject
+No Cannot target duchies owned by a tributary
+Mandatory
+Pledge to Conquer Selected Duchy
+Optional
+
+Pledge to Conquer Adjacent Duchy
+ Duchy added to casus belli
+Grand Marshal	Instant
+Establish Control icon
+Establish Control
+Integrating every province and every town, and to establish a high degree of control within them, is essential if our buraucracy is to be as efficient as possible.
+ +10-20 Control	Mandatory
+Administrators
+ +250 Merit
+ +300 Stewardship Lifestyle Experience
+Court Magistrates
+ Confucian Education trait
+ +100 Merit
+ +300 Learning Lifestyle Experience
+City Guards
+ +250 Influence
+ +250 Merit
+Highway Patrols
+ +350 Prestige
+ +300 Martial Lifestyle Experience
+Minister of Justice	5 years
+Conduct Census icon
+Conduct Census
+Minster of Revenue will perform a census on the population of selected duchy with great benefits to it's inhabitants and local Holders Treasury.
+ +10 Control
+ +10% Duchy Holding Taxes for 20 years
+ +10% Duchy Development Growth for 20 years
+ +10 Duchy Popular Opinion for 20 years
+Mandatory
+Census
+ +250 Influence
+ +250 Merit
+Optional
+
+Fertility Effort
+ +100 Merit
+ +1000 Treasury if a child is born within 10 years while capital is in targeted duchy
+Natural Disaster Insurance
+ +100 Merit
+ +1000 Treasury if a disaster happens within 10 years in targeted duchy
+Purge Treasury Debt
+ +350 Prestige
+ +140 Stewardship Lifestyle Experience
+ +20% Governor Salary for 10 years
+Verify Passed Exams
+ +250 Influence
+ +250 Merit
+ Chance equal to Intrigue to reveal Cheated during Examinations secrets
+Minister of Revenue	35 years
+Compel Religious Uniformity icon
+Compel Religious Uniformity
+For the realm to truly be harmonious, the masses should live according to the same principles as those to whom Heaven has entrusted the land. They may retain whatever rites they wish at home, but they must comport themselves according to the standards decreed by the state.
+Yes Counties with different faiths convert
+ +5 Control in Counties with the same faith
+ +10 Popular Opinion in Counties with the same faith for 10 years
+Mandatory
+Provide a Religious Liaison
+Mandate legitimacy.png +50 Legitimacy
+Optional
+
+Construct New Shrines
+ +250 Influence
+ -1 Year time if funded before project starts
+Investigate Improper Rites
+ +250 Influence
+ -1 Year time if funded before project starts
+Promote Faithful Relocation
+ +250 Influence
+ -1 Year time if funded before project starts
+Minister of Rites	35 years
+Sinicize Area icon
+Sinicize Area
+How can we be truly unified unless we share common values? Differences can cause strife and unrest. We can solve these issues, at least partially, with a long term integration effort. One realm, one people.
+ Cultures with a different heritage convert culture
+ Cultures with the same heritage gain Acceptance
+Holding castle.png Tribe holdings are replaced by Castle holdings
+ Tribe vassals change government to Celestial
+Mandatory
+Provide a Cultural Liaison
+Mandate legitimacy.png +50 Legitimacy
+Optional
+
+Send Inhabitants
+ +250 Influence
+ -1 Year time if funded before project starts
+Send Inhabitants
+ +250 Influence
+ -1 Year time if funded before project starts
+Send Inhabitants
+ +250 Influence
+ -1 Year time if funded before project starts
+Minister of Rites	35 years
+Military Operation Exercise icon
+Military Operation Exercise
+A Duchy-wide operation focused on training soldiers and civilians in case of wars and natural disasters.
+ +10 Control in counties with stationed men-at-arms
+ +20% Garrison Size in counties with stationed men-at-arms for 20 years
+ +10% Stationed Men-at-Arms Damage for 20 years
+ +5% Stationed Men-at-Arms Toughness for 20 years
+Mandatory
+Mandatory Troop Exercises
+ +250 Influence
+ +250 Merit
+Optional
+
+Bootcamp for Levies
+ +350 Prestige
+ +600 Martial Lifestyle Experience
+ +40% Levy Size for 10 years in counties with stationed regiments
+ +25% Levy Reinforcement Rate for 10 years in counties with stationed regiments
+Equipment Checkup
+ +250 Merit
+ Helmet, Weapon and Armor artifact durability is restored
+ Helmet, Weapon and Armor artifacts that don't decay gain a new modifier
+Military Academy Courses
+ +1 Martial Lifestyle Perk Point
+ Knights with a Commander Trait gain experience for it
+Natural Disaster Test
+ +100 Merit
+ +10% Control Growth for 10 years in counties with stationed regiments
+ +20% Supply Limit for 10 years in counties with stationed regiments
+ +2 Plague Resistance for 10 years in counties with stationed regiments
+ -10 Danger for 10 years in counties with stationed regiments
+Siege Exercise
+ +100 Merit
+ +600 Martial Lifestyle Experience
+ +1 Fort Level for 10 years in counties with stationed regiments
+ +50% Hostile Raid Time for 10 years in counties with stationed regiments
+ +10% Stationed Siege Weapon Effectiveness for 10 years in counties with stationed regiments
+Minister of War	5 years
+Construct Great Barracks icon
+Construct Great Barracks
+Our military might can be displayed through the construction of a great fortress that accommodates innumerable soldiers. Military commanders will be able to recruit more troops and large garrisons, which in turn will greatly benefit the area's defensive strength.
+Structure celestial great barracks.png Selected duchy capital gains a Great Barracks duchy building
+ If a duchy building already exists it is removed
+ Can only select de jure duchy capitals of a military governor
+Mandatory
+Construction Materials
+Mandate legitimacy.png +20 Legitimacy
+Fortification Materials
+Mandate legitimacy.png +20 Legitimacy
+Workforce
+Mandate legitimacy.png +20 Legitimacy
+Soldiers
+Mandate legitimacy.png +20 Legitimacy
+Minister of Works	5 years
+Improve the Great Wall icon
+Improve the Great Wall
+The Great Wall stands as a testament to our predecessors' engineering skill and ingenuity in deterring potential invaders. Yet, as with everything else, time has taken its toll. The wall is in dire need of improvement.
+Structure the great wall.png The Great Wall buildings are upgraded	Mandatory
+Hire a Master Builder and Begin Construction
+Improve the Walls
+Yes Barony added to the upgrade list
+Minister of Works	5 years
+Strengthen Capital icon
+Strengthen Capital
+The capital is not merely the seat of my government. It is the very center of the realm, and should be a majestic symbol of my reign. By refurbishing the entire city, improving streets, funding a university, raising statues and other monuments, this beautiful city will become a reflection of my dynasty.
+Mandate legitimacy.png +100 Legitimacy
+ +4 Monthly Prestige for 20 years
+Yes Stability dynastic cycle has no yearly drift for 20 years
+DLC Wards & Wardens.png University Visit activities are more effective for 20 years
+ Can only be done every 20 years
+Mandatory
+Construction Materials
+Mandate legitimacy.png +20 Legitimacy
+Workforce
+Mandate legitimacy.png +20 Legitimacy
+Optional
+
+Forbidden City
+Structure forbidden city.png The Forbidden City special building
+Skilled Architects
+ +0.2 Monthly Development for 20 years
+ +20% Development Growth for 20 years
+Talented Engineers
+ -20% Building Construction Time for 20 years
+Marvelous Sculptors
+Royal Court +10 Court Grandeur for 20 years
+Minister of Works	5 years
+The Grand Canals icon
+The Grand Canals
+Prior custodians of this land have constructed vast canal networks, linking rivers and lakes through man-made waterways, connecting north and south. Expanding this system with modern techniques will make it even more efficient, while honoring the legacy and skill of the original engineers.
+Modifier compass positive.png Counties gain the Grand Canal modifier	Mandatory
+Construction Crew
+ +250 Merit
+ +300 Diplomacy Lifestyle Experience
+Dig Crew
+ +250 Merit
+ +300 Stewardship Lifestyle Experience
+Dredging Boats
+ +250 Merit
+Engineers
+ +250 Merit
+ +300 Learning Lifestyle Experience
+Logistics
+ +250 Influence
+ +250 Merit
+ +300 Stewardship Lifestyle Experience
+Materials
+ +250 Influence
+ +250 Merit
+Minister of Works	5 years
+Extend the Great Wall to Shanhai Pass icon
+Extend the Great Wall to Shanhai Pass
+The Great Wall is already quite impressive, but it can become even more so and offer better protection. By extending the wall further east, to Shanhai Pass and the coast, we can block off all access from the north.
+Structure the great wall.png The Great Wall is extended to the Shanhai Pass region
+ Requires control of the region
+Mandatory
+Construction Material
+Construction Material
+Construction Material
+Construction Material
+Construction Material
+Construction Material
+Construction Material
+Construction Material
+10 years
+Extend the Great Wall to Liaodong icon
+Extend the Great Wall to Liaodong
+As we expand our borders, so too shall we expand the great wall to encompase the coastline. All parts of our realm, be it land or sea, must be protected.
+Structure the great wall.png The Great Wall is extended to the Liaodong region
+ Requires control of the region
+Mandatory
+Construction Material
+Construction Material
+Construction Material
+Logistics
+10 years
+Mechanics
+Characters	Characters • Attributes • Traits • Resources • Modifiers • Lifestyle • Family • Dynasty • Schemes • Hooks • Activities • Artifacts • Interactions • Travel • Adventurers • Prisoners
+Realm & Governance	Council • Court • Power sharing • Subjects • Succession • Government • Laws • Decisions • Titles • Barony • County • Buildings • Royal court • Domiciles • Great projects
+Warfare	Warfare • Casus belli • Alliance • Army • Hired forces • Knights • Duel • Situations
+Culture & Faith	Culture • Traditions • Innovations • Form of Address • Faith • Doctrines • Tenets • Holy sites
+Meta	Modding • Patches • Downloadable content • Developer diaries • Achievements • Jargon • Bookmarks • Interesting characters • Ruler Designer • Game rules
+Categories: 1.19Realm
+About CK3 WikiMobile view
+Attribution-ShareAlike 3.0Powered by MediaWiki
+
+Games
+Discover
+Our Brands
+Browse
+Play on Paradox technology
+Community
+Paradox Forums
+Paradox Wikis
+Support
+About
+News
+About us
+Careers
+Join our playtests
+Media contact
+Social Media
+Legal Information
+EU Online Dispute Resolution
+Report Illegal Content

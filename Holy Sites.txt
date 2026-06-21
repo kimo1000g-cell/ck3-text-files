@@ -1,0 +1,1088 @@
+
+Paradox Wikis
+CK3 Wiki
+
+Search
+Search CK3 Wiki
+Log in
+Navigation menu
+PageDiscussion
+ReadEditEdit sourceView history
+Crusader Kings III Wiki
+Recent changes
+Random page
+Paradox Wikis
+- Main portal
+- Wikis discord
+- Contact us
+- Style guidelines
+CK3 links
+- Forums
+- Game discord
+- Mods
+- Store
+- YouTube
+Tools
+What links here
+Related changes
+Special pages
+Printable version
+Permanent link
+Page information
+ 
+Holy sites
+Jump to navigationJump to search
+Please help with verifying or updating older sections of this article.
+At least some were last verified for version 1.18.
+
+This article is for the PC version of Crusader Kings 3 only.
+
+Holy sites are baronies that are considered sacred by a Faith. If a faith controls a holy site, all characters belonging to that faith will gain a permanent bonus. In addition, holy sites are the targets of Pilgrimage activities and they are necessary to create a Head of Faith title or to reform a pagan faith. Several tenets also grant additional bonuses from holy sites.
+
+Each Holy Site has a special building slot for a great temple. For some Holy Sites, this is a unique building such as the Mahabodhi Temple in Bodh Gaya. The building slot can also be used for the special building Hall of Heroes, available only through the unique decision Defenders of High God (Ukko / Rod / Dievas). It is possible to replace unique buildings and the hall of heroes with a normal great temple, but the transition cannot necessarily be reversed.
+
+Most faiths have 5 holy sites per faith, but a few have 6 or 7. For most religions, all faiths have the same holy sites. When reforming or creating a new faith, the new faith will inherit the holy sites of the old faith.
+
+
+Contents
+1	List of holy sites
+1.1	Unused holy sites
+2	Holy site ID
+3	See also
+List of holy sites
+Name	Location	De Jure Kingdom	De Jure Empire	Effects	Faiths	Notes
+Kirinyaga	Kirinyaga	Zanj	Azania	 +0.1 Health
+ +10% Monthly Piety
+
+(unrecognized string “gothaithaya ngai” for Template:Icon) Gothaithaya Ngai	
+Kilimanjaro	Kilimanjaro	Zanj	Azania	 +1 Prowess per Level of Devotion
+ +5 Defender Advantage in Controlled Territory
+
+(unrecognized string “gothaithaya ngai” for Template:Icon) Gothaithaya Ngai	
+Babylon	Al-Hila				 Rabbinism	
+Mangea	Mombasa	Zanj	Azania	 +5 Direct Vassal Opinion	(unrecognized string “gothaithaya ngai” for Template:Icon) Gothaithaya Ngai	
+Jerusalem	Jerusalem (shared with Mount Gerizim)	Jerusalem	Arabian Empire	
+ +20% County Conversion Speed
+ +20% Monthly Piety
+All Christian faiths except  adoptionism: 
+
+
+All Muslim faiths: 
+All Dualist faiths except  Cainitism and  Manicheanism: 
+All Jewish faiths except  Samaritanism: 
+The ancient capital of Israel and the site of the First and Second Temples. In Christianity, it is the location of Jesus's crucifixion, resurrection and ascension. In Islam, Muhammad travelled to Jerusalem from Mecca and there ascended to heaven.
+Rome	Vaticano in Roma	Romagna	Italia	
+ +1 Stewardship
+ +10% Development Growth
+All Christian faiths except  Nestorianism,  Coptic,  Messalianism and  Apostolic: 
+ Valentinianism
+ Sethianism
+ Hellenism
+Seat of the Holy See and the Pope; the capital and largest city of the Roman Empire
+Cologne	Cologne	Lotharingia	Germania	
+ +5% Control Growth
+ +5% Cultural Fascination Progress
+ Catholicism and historical heresies: 
+Site of the Cologne cathedral which houses many relics including those of the three magi
+Santiago	Santiago	Galicia	Hispania	
+ −10% Holy Order Hire Cost
+ +20% Supply Duration
+ Catholicism
+ Waldensianism
+ Lollardy
+ Mozarabism
+ Adoptionism
+ Conversos
+Location of the shrine, then church and finally cathedral of St. James the Great and final destination of the way of St. James, a pilgrimage route
+Canterbury	Canterbury in Kent	England	Britannia	
+ +5 Religious Vassal Opinion
+ -10 Days Sway Scheme Phase Length
+ Catholicism and historical heresies: 
+ Insular Christianity
+Seat of the Archbishop of Canterbury, primate of the Anglican Church
+Constantinople	Byzantion	Thessalonika	Byzantine Empire	
+ +15% Cultural Fascination Progress
+ Orthodoxy and historical heresies: 
+Seat of the Ecumenical Patriarch and location of the Hagia Sophia cathedral
+Alexandria	Alexandria	Egypt	Arabian Empire	
+ +1 Learning per Level of Devotion
+ Orthodoxy
+ Iconoclasm
+ Bogomilism
+ Paulicianism
+ Coptic
+ Adamitism
+ Sethianism
+ Valentinianism
+ Haymanot
+ Karaism
+ Rabbinism
+ Samaritanism
+ Hellenism
+ Achamanism
+Seat of the Patriarch of Alexandria;
+Hellenism - here was tomb of Alexander the Great
+Antioch	Antiocheia	Syria	Arabian Empire	
+ +1 Martial per Level of Devotion
+ +10% Knight Effectiveness
+ Orthodoxy and historical heresies: 
+ Coptic
+ Apostolic
+ Nestorianism
+Seat of the Patriarch of Antioch
+Aksum	Tigré	Abyssinia	Abyssinia	
+ +1 Diplomacy per Level of Devotion
+ Coptic
+Site of the Church of our Lady Mary of Zion, supposedly the former location of the ark of the covenant
+Napata	Meroë	Nubia	Abyssinia	
+ +1 Stewardship
+ Coptic
+Site of a Nubian Coptic Church
+Dwin	Suenik	Armenia	Byzantine Empire	
+ +5% Monthly Piety
+ +1 Learning
+ Apostolic
+Contains the Cathedral of St. Grigor
+Koloneia	Colonea	Pontus	Byzantine Empire	
+ +5 Direct Vassal Opinion
+ Apostolic
+Beirut	Beirut	Syria	Arabian Empire	
+ +5 Councilor Opinion
+ Apostolic
+ Druze
+Druze are concentrated in the mountains around this city. It was briefly under Armenian rule during the time of King Tigranes the Great.
+Baghdad	Baghdad	Mesopotamia	Persian Empire	
+ +10% Development Growth
+ −10% Temple Building Construction Cost
+ Messalianism
+ Nestorianism
+ Mandeaism
+ Sabianism
+ Ash'ari
+ Maturidism
+ Mu'tazilism
+ Quranism
+ Imamism
+Patriarchical seat of Nestorianism and seat of the Abbasid Caliph. Home to the Al-Kadhimiya Mosque, which contains the tombs of Imani Imams Musa al-Kadhim and Muhammad al-Jawad.
+Farz	Shiraz	Persia	Persian Empire	
+ +1 Diplomacy per Level of Devotion
+ Messalianism
+ Nestorianism
+ Mandeaism
+ Sabianism
+Kerala	Kanara	Maharastra	Deccan Empire	
+ +50% County Conversion Speed
+ Nestorianism
+ Malabarism
+Location of a Christian community established by St. Thomas the Apostle. Location of Synagogues of Kerala.
+Armagh	Oriel	Ireland	Britannia	
+ +5% Monthly Piety
+ +1 Learning per Level of Devotion
+ Insular Christianity
+Ecclesiastical capital of Ireland
+Iona	Inner Hebrides	Scotland	Britannia	
+ +20% County Conversion Speed in the British Isles
+ Insular Christianity
+Monastery of Colmcille, who converted the Picts
+Visoki	Rama	Croatia	Byzantine Empire	
+ +50% County Conversion Resistance
+ Krstjani
+Town and fortress where many documents were written by nobles
+Ragusa	Ragusa	Croatia	Byzantine Empire	
+ +1 Diplomacy
+ Krstjani
+Seat of the Archbishop of Ragusa and location of an Eastern Roman church
+Esztergom	Esztergom	Hungary	Carpathia	
+ +10 Popular Opinion
+ Krstjani
+Seat of the primate of the Catholic Church in Hungary
+Albi	Albi	Aquitaine	Francia	
+ +5% Monthly Piety
+ +1 Learning per Level of Devotion
+ Catharism
+Cathers were also referred to as Albigensians, after the city Albi where the movement first took hold.
+Toledo	Toledo	Andalusia	Hispania	
+ +1 Prowess per Level of Devotion
+ +10% Knight Effectiveness
+ Mozarabism
+ Adoptionism
+ Conversos
+Center of worship for the Mozarabic Church, and the seat of its most important councils
+Carthage	Tunis	Africa	Maghreb	
+ +10 Same Faith Opinion
+ Adoptionism
+Center for the early Donatists sect
+Lyon	Lyon	Burgundy	Francia	
+ +2 Learning per Level of Devotion
+ Adoptionism
+Mecca	Mecca	Arabia	Arabian Empire	
+ +2% Monthly piety per knight
+ +10% Knight Effectiveness
+All Muslim faiths: 
+Birthplace of Muhammed and destination of the Hajj
+Medina	Medina	Arabia	Arabian Empire	
+ +1 Diplomacy per Level of Devotion
+All Muslim faiths: 
+The city that Muhammed and his followers fled to from Mecca
+Cordoba	Cordoba	Andalusia	Hispania	
+ +20% County Conversion Speed
+ Conversos
+ Priscillianism
+ Muwalladism
+ Mozarabism
+Seat of the Umayyad Caliphate of Córdoba
+Sinai	Sinai	Egypt	Arabian Empire	
+ +5 Advantage in Desert Mountains terrain
+ +1 Learning
+ Valentinianism
+ Sethianism
+ Priscillianism
+ Ash'ari
+ Mu'tazilism
+ Quranism
+All Jewish faiths: 
+ Paganism
+Site where Moses recieved the Ten Commandments
+Tinmallal	Tinmallal	Maghreb	Maghreb	
+ +1 Prowess per Level of Devotion
+ +4 Maximum Battle Roll
+ Almohadism
+Where the Almohads launch their military campagin against the Almoravids.
+Fes	Subu in Fes	Maghreb	Maghreb	
+ +10% Cultural Fascination Speed
+ Adamitism
+ Muwalladism
+ Almohadism
+Renowned for its religious scholarship.
+Nadjaf	Kufa (shared with holy site of same name)	Mesopotamia	Persian Empire	
+ +1 Diplomacy per Level of Devotion
+All  Shia Muslim faiths: 
+ Qarmatianism
+ Ikhtilafism
+ Alawism
+ Alevism
+Contains Kufa, where Ali ibn Abu Taleb was assassinated, and Nadjaf, where he is buried
+Damascus	Damascus	Syria	Arabian Empire	
+ +5% Levy Size
+ +10% County Control Growth
+All  Shia Muslim faiths except  Imamism: 
+ Mandeaism
+ Sabianism
+ Qarmatianism
+ Ikhtilafism
+ Alawism
+ Alevism
+Where surivors of the Battle Karbala were brought; home to two shrines to Hussein ibn Ali
+Siffa	Palmyra	Syria	Arabian Empire	
+ +2 Prowess
+ +20% Knight Effectiveness
+ Azraqism
+ Sufrism
+Site of the Battle of Siffa, where the Muhakkimas began by rejecting Mu'awiya offer to arbitrate his dispute with Ali
+Kufa	Kufa (shared with Nadjaf)	Mesopotamia	Persian Empire	
+ +1 Intrigue per Level of Devotion
+ Azraqism
+Basra	Basra	Mesopotamia	Persian Empire	
+ +2 Learning
+ Mandeaism
+ Sabianism
+ Ibadism
+Origin of Ibadi movement. The Mandaeans and one of the groups called Sabians are native to the southern marsh region of Mesopotamia in the vicinity of Basra.
+Nizwa	Nizwa	Arabia	Arabian Empire	
+ +1 Stewardship per Level of Devotion
+ Ibadism
+Birthplace of Jabir ibn Zayd, the founder of Ibadism
+Sijilmasa	Sijilmasa	Maghreb	Maghreb	
+ +1 Diplomacy
+ +1 Stewardship
+ Valentinianism
+ Sethianism
+ Sufrism
+Where Sufrite Berbers settled after their revolt against the Umayyads
+Bahrein	Qatif	Arabia	Arabian Empire	
+ +1 Stewardship
+ Najdatism
+Yamama	Yamama	Arabia	Arabian Empire	
+ +5 Advantage in Desert terrain
+ Najdatism
+Sinjar	Sinjar	Jazira	Persian Empire	
+ +1 Diplomacy per level of devotion
+All Miletê faiths: 
+Baalbek	Baalbek	Syria	Arabian Empire	
+ +10 Clergy opinion
+ +20% Monthly prestige
+All Miletê faiths: 
+Birthplace of Sheikh Adi
+Lalish	Ninive	Jazira	Persian Empire	
+ +1 Learning per level of devotion
+ +20% Monthly prestige
+All Miletê faiths: 
+Tomb of Sheikh Adi
+Nishapur	Nishapur	Khorasan	Persian Empire	
+ +1 Stewardship per Level of Devotion
+All Miletê faiths: 
+ Zunism
+Dashtestan	Mandestan	Persia	Persian Empire	
+ +5 Same Faith Opinion
+All Miletê faiths: 
+Zozan	Bakharz	Khorasan	Persian Empire	
+ +5 Same Faith Opinion
+ +10% Domain Taxes if same faith
+ Druze
+Birthplace of Hamza ibn-'Ali ibn-Ahmad, founder of Druze
+Semien	Semien	Abyssinia	Abyssinia	
+ +5 Defender Advantage
+ +1 Diplomacy
+ Haymanot
+ Karaism
+ Samaritanism
+A legendary Jewish Ethiopian kingdom also known as Beta Israel
+Sufed	Acre	Jerusalem	Arabian Empire	
+ +10 Same Faith Opinion
+ Haymanot
+ Karaism
+ Rabbinism
+ Samaritanism
+Mount Gerizim	Nablus in Jerusalem (shared with holy site of same name)	Jerusalem	Arabian Empire	
+ +1 Learning per Level of Devotion
+ +20% Monthly Prestige
+ Samaritanism
+Panticapaeum	Kerch	Zaporizhia	Khazaria	
+ +25% Development Growth in Steppe Region
+ +15% Development Growth in Steppe Terrain
+ Kabarism
+Major Radhanite settlements in and around Crimea
+
+
+Itil	Itil	Caspian Steppe	Khazaria	
+ +10 Different Culture Opinion
++15% Cultural Acceptance Gain
+ Kabarism
+Capital of the Khazars
+
+
+Kochi	Kunjakari inKerala	Tamilakam	Deccan Empire	
+ +1 Diplomacy per Level of Devotion
++15% Cultural Acceptance Gain
+ Malabarism
+Place from which the Kochin Jews get their name
+
+
+Manipur	Manipur	Kamarupa	Bengal Empire	
+ +5 Advantage in Mountains terrain
+ +20% Development Growth in Mountains terrain
+ Malabarism
+Home of the Bnei Manashae
+
+
+Ahvaz	Ahvaz	Persia	Persian Empire	
+ +5 Clergy Opinion
++10% Personal Scheme Power
+ Manicheanism
+Samarkand	Samarkand	Transoxiana	Turan	
+ +1 Stewardship per Level of Devotion
+ Manicheanism
+ Maturidism
+ Kabarism
+Seat of the Manichaean leader after muslim expansions
+Udabhanda	Udabhanda	Punjab	Rajastan	
+ +1 Learning per Level of Devotion
+ Manicheanism
+All Taoist faiths: 
+Seems to be the place where the famous Taoist Qiu Chuji meet Genghis Khan
+Toledo	Toledo	Andalusia	Hispania	
+ +1 Learning
+ Priscillianism
+Memphis	Hulwan in Cairo	Egypt	Arabian Empire	
+ +1 Stewardship per Level of Devotion
+ Priscillianism
+ Zunism
+Capital of Old Kingdom of Egypt; place of living Apis - the sacred bull of Egyptians
+Bodh Gaya	Gaya	Bihar	Bengal Empire	
+ +20% Stress Loss
+All Buddhist faiths: 
+Dhyana
+Avatamsaka
+Maitreya
+
+
+All Taoist faiths: 
+The place where Gautama Buddha reached enlightenment under a Bodhi Tree. Some Taoist stories say that Laozi was the Buddha's teacher or even the Buddha himself.
+Lumbini	Lumbini	Himalaya	Rajastan	
+ +10% Fertility
++15% Monthly Lifestyle Experience
+All Buddhist faiths: 
+Dhyana
+Avatamsaka
+Maitreya
+Acharya
+
+Birthplace of Siddhartha Gautama, historical Buddha
+Sarnath	Varanasi (shared with holy site of same name)	Bihar	Bengal Empire	
+ +2 Learning
+All Buddhist faiths except  Nangchos: 
+Dhyana
+vinaya
+Yogacara
+First place Buddha taught Dharma and subsequently origin of Buddhist Sangha
+Sanchi	Vidisa	Malwa	Rajastan	
+ +1 Diplomacy per Level of Devotion
+ Mahayana
+ Vajrayana
+An ancient Buddhist complex commissioned by Ashshoka the Great.
+Ajanta	Vatsagulma (shared with Ellora)	Maharastra	Deccan Empire	
+ +1 Learning per Level of Devotion
++2 Disease Resistance (Learning)
+ Vajrayana
+Location of the Buddhist Caves in Ajanta
+Sa'gya	Sa'gya	Tsang	Tibet	
+ +1 Diplomacy
+ +1 Learning
+ Nangchos
+Dagon	Dagon	Pagan	Bengal Empire	
+ +1 Martial per Level of Devotion
+ Theravada
+ Ari
+Home to the Shwedago Pagoda, which contains relics from four Buddhas.
+Pagan	Pagan	Pagan	Bengal Empire	
+ +1 Stewardship
+ +5% Monthly Prestige
+ Ari
+Acharya
+Capital of the Pagan Kingdom; the location was visited by the Buddha prior to the city's founding
+Atamasthana	Pihiti	Lanka	Deccan Empire	
+ +2% Domain Taxes
+ Theravada
+A series of eight locations visited by the Buddha durings his visits to Sri Lanka.
+Amaravati	Nallamala	Andhra	Deccan Empire	
+ +10% County Control Growth
+ Mahayana
+Mantrayana
+Site of a Buddhist monument.
+Varanasi	Varanasi (shared with Sarnath)	Bihar	Bengal Empire	
+ +2 Learning
+ +5 Clergy Opinion
+All Hindu faiths: 
+ Kiratism
+ Yumaism
+One of the Saptapuri cities, founded by Shiva and where one of Brahma's heads was dropped to the ground where it sank into
+Ayodhya	Ayodhya	Kosala	Rajastan	
+ +1% Monthly piety per knight
+ +10% Knight Effectiveness
+All Hindu faiths: 
+One of the Saptapuri cities and the birthplace of Rama, seventh avatar of Vishnu
+Mathura	Mathura	Delhi	Rajastan	
+ +1 Diplomacy
+ +5 Powerful Vassal Opinion
+All Hindu faiths: 
+One of the Saptapuri cities and birthplace of Krishna
+Haridwar	Sthanisvara	Delhi	Rajastan	
+ +0.1 Health
+All Hindu faiths: 
+ Paganism
+One of the Saptapuri cities and site where drops of Amrit, the elixir of immortality was spilt
+Kanchipuram	Kanchipuram	Tamilakam	Deccan Empire	
+ +15% Fertility
+All Hindu faiths: 
+One of the Saptapuri cities and site of many temples
+Ujjayini	Ujjayini	Malwa	Rajastan	
+ +1 Stewardship
+ +5 Court and Guest Opinion
+All Hindu faiths: 
+One of the Saptapuri cities and location of the duodecennial Kumbh Mela festival
+Dwarka	Dvaraka	Gujarat	Rajastan	
+ +1 Martial
+ −10% Friendly Fatal Casualties
+All Hindu faiths: 
+One of the Saptapuri cities and the site of where Krishna settled after defeating Kansa
+Palitana	Somnath	Gujarat	Rajastan	
+ +10% Monthly Piety
+All Jain faiths: 
+Contains nearly 1,000 Jain temples
+Shikharj	Radha	Bengal	Bengal Empire	
+ +20% Stress Loss
++1 Year Life Expectancy
+All Jain faiths: 
+Place where 22 out of the 24 Jain Tirthankaras atttained Moksha.
+Ranakpur	Naddūla	Rajputana	Rajastan	
+ +1 Stewardship
++20% Sway Scheme Power
+All Jain faiths: 
+One of the largest and most important Jain temples
+Ellora	Vatsagulma (shared with Ajanta)	Maharastra	Deccan Empire	
+ +5 Popular Opinion
+ +5 Different Culture Opinion
+All Jain faiths: 
+Site of the Ellora Caves, five of which are Jain.
+Sittannavasal	Kongu	Tamilakam	Deccan Empire	
+ +5 Direct Vassal Opinion
+All Jain faiths: 
+A Jain cave complex
+Itanagar	Itanagar	Lhomon	Tibet	
+ +10% Monthly Prestige
+ Donyi-Poloism
+ Sedism
+Pemako	Pemako	Lhomon	Tibet	
+ +1 Learning
+ −20% Tyranny Gain
+ Donyi-Poloism
+ Sedism
+Rima	Rima	Lhomon	Tibet	
+ +1 Diplomacy per Level of Fame
+ Donyi-Poloism
+ Sedism
+Tezu	Tezu	Lhomon	Tibet	
+ +5 Advantage in Hills terrain
+ Donyi-Poloism
+ Sedism
+Kathmandu	Kathmandu	Himalaya	Rajastan	
+ +5 Popular Opinion
+ +5 Different Faith Opinion
+ Kiratism
+ Yumaism
+Ilam	Ilam	Himalaya	Rajastan	
+ +5 Advantage in Mountains terrain
+ Donyi-Poloism
+ Sedism
+ Kiratism
+ Yumaism
+Garwhal	Garwhal	Himalaya	Rajastan	
+ +1 Diplomacy per Level of Devotion
+ Kiratism
+ Yumaism
+Jumla	Jumla	Himalaya	Rajastan	
+ +5 House Opinion
+ Kiratism
+ Yumaism
+Maowün	Maowün	Gyalrong	Tibet	
+ +1% Monthly piety per knight
+ Vvluphixje
+Ngawa	Ngawa	Gyalrong	Tibet	
+ +1 Learning per Level of Devotion
+ Vvluphixje
+ Melie
+Chakla	Chakla	Gyalrong	Tibet	
+ −15% Building Construction Time
+ Vvluphixje
+Gyaitang	Gyaitang	Kham	Tibet	
+ +5 Same Culture Opinion
+ Vvluphixje
+Rebgong	Rebgong	Gyalrong	Tibet	
+ +2% Monthly piety per powerful vassal on the council
+ Vvluphixje
+ Melie
+Xingqing	Xingqing	Xia	Tibet	
+ +5 Same Faith Opinion
+ Melie
+Yijinai	Yijinai	Xia	Tibet	
+ −5% Building Construction Gold Cost
+ Manicheanism
+ Melie
+Alxa	Alxa	Xia	Tibet	
+ +1 Stewardship
+ Melie
+Yazd	Yazd	Persia	Persian Empire	
+ +5 Same Faith Opinion
+ Cainitism
+All Zoroastrian faiths: 
+Home to many Zoroastrian refugees after the Arab conquest of Iran which stayed majority Zoroastrian for many centuries
+Nok Kundi	Riqan	Makran	Persian Empire	
+ −10% Building Construction Gold Cost
+ +1 Stewardship
+ Cainitism
+All Zoroastrian faiths: 
+Formerly Zaranka, capital of the Zarangiana satrapy under the Achaemenids
+Takht-i-Sangin	Balkh (shared with holy site of same name)	Khorasan	Persian Empire	
+ +1 Diplomacy
+ +5 Clergy Opinion
+ Cainitism
+All Zoroastrian faiths: 
+An ancient Greco-Bactrian citadel containing the Oxus Temple, which may have been home to a collection of Zoroastrian relics
+Takht-e Soleyman	Urmiya	Daylam	Persian Empire	
+ +10% Monthly Piety
+ Cainitism
+All Zoroastrian faiths: 
+Site to the Adur Gushnasp darb-e mehr built by the Sassanids
+Ushi-Darena	Baduspan	Daylam	Persian Empire	
+ +1 Learning
+ +5 Popular Opinion
+ Cainitism
+All Zoroastrian faiths: 
+The mountain where Zarathustra attained illumination and received the word of Ahura-Mazda
+Uppsala	Upland	Sweden	Scandinavia	
+ +1% Monthly piety per knight
+ +5% Heavy Infantry Damage
+ Ásatrú
+Site of Scandinavia's pre-eminent temple, both before & after Christianisation
+Jorvik	North Riding	England	Britannia	
+ +20% Knight Effectiveness
+ +1 Prowess per Level of Devotion
+ Ásatrú
+Site of Ragnarr Loðbrok's death
+Paderborn	Paderborn	Germany	Germania	
+ +1 Stewardship per Level of Devotion
+ +10% Fertility
+ Ásatrú
+ Paganism
+Location of Saxon Irminsul destroyed by Charlemagne
+Könugarðr	Kyiv	Ruthenia	Russia	
+ +1 Prowess per Level of Devotion
+ Ásatrú
+Center of Norse influence in Eastern Europe and capital of the Rus'
+Ranaheim	Trændheim	Norway	Scandinavia	
++20% Naval Speed
+ −5% Men-at-Arms Maintenance
+ Ásatrú
+Ranheim was site to a cultist Norse temple used from the 4th to 10th century
+Raivola	Kakisalmi	Finland	Scandinavia	
+ +2% Monthly piety per powerful vassal on the council
+ Ukonusko
+Island home to ancient burial sites
+Hiiumaa	Osel	Estonia	Baltic Empire	
+ +1 Stewardship
+ +5 Close Family Opinion
+ Ukonusko
+ Vidilism
+ Paganism
+Akkel	Akkel	Sapmi	Scandinavia	
+ +5 Maximum Combat Roll in Taiga Terrain
+ +10% Archer Toughness
+ Ukonusko
+Possibly the site of Ukonkivi (English: 'Ukko's rock') an island holy site to Finnic pagans who believed the island had sacred natural formation
+Perm	Perm	Permia	Volga-Ural	
+ +25% Supply Duration
+ +1 Prowess
+ Ukonusko
+ Turumism
+Capital of Permia
+Kyiv	Kyiv	Ruthenia	Russia	
+ +10% Monthly Piety
+ +20% Knight Effectiveness
+ Slovianska Pravda
+Important city for ancient and medieval East Slavic culture and civilization
+Novgorod	Novgorod	Novgorod	Russia	
+ +1 Stewardship per Level of Devotion
+ Slovianska Pravda
+Capital of the principality of Novgorod
+Barlad	Barlad	Moldavia	Carpathia	
+ +1 Prowess
+ +10% Heavy Infantry Toughness
+ Slovianska Pravda
+Plock	Plock	Poland	West-Slavia	
+ +5 Same Faith Opinion
+ Slovianska Pravda
+According to Włodzimierz Szafrański, a large place of human sacrifice by the Slavs
+Pokaini	Dobele in Zemigalians	Lithuania	Baltic Empire	
+ +5 Advantage in Controlled Territory
+ +10% Stress Loss
+ Vidilism
+Toruń	Chełmno	Lithuania	Baltic Empire	
+ +1 Martial per Level of Devotion
+ +20% Knight Effectiveness
+ Ukonusko
+ Vidilism
+Braslau	Braslau	Lithuania	Baltic Empire	
+ +0.1 Monthly Piety per knight
+ +10% Skirmisher Toughness
+ Vidilism
+Rügen	Rügen	Pomerania	Baltic Empire	
+ −25% Embarkation Cost
+ −10% Retreat Losses
+ Vidilism
+ Slovianska Pravda
+Holy Island for west Slavs. Temple of Arkona was last organized temple of slavic paganism
+Pest	Visegrad	Hungary	Carpathia	
+ +1 Martial
+ +1 Prowess per Level of Fame
+ Táltosism
+Kerch	Kerch	Zaporizhia	Khazaria	
+ −5% Army Maintenance Cost
+ +1 Martial per Level of Fame
+ Táltosism
+ Tengriism
+The target of many steppe empires, including the Göktürks, Khazars, and Mongols.
+Olvia	Olbia in Odessa	Zaporizhia	Khazaria	
+ +10% Monthly Piety
+ Táltosism
+Poszony	Poszony	Hungary	Carpathia	
+ +20% Levy Reinforcement Rate if same faith
+ Táltosism
+Sarysyn	Sarysyn	Zaporizhia	Khazaria	
+ −10% Men-at-Arms Maintenance Cost
+ Táltosism
+Tyumen	Tyumen	Yugra	Siberia	
+ +1 Martial per Level of Devotion
+ +10% Raid Speed
+ Turumism
+Surgut	Kazym	Yugra	Siberia	
+ +0.1 Health
+ Turumism
+Ob	Ob	Ob	Siberia	
+ +1 Learning
+ +10% Fertility
+ Turumism
+Olkhon	Olkhon	Buryatia	Mongolia	
+ +10% Monthly Piety Gain
+ Turumism
+Viscaya	Viscaya	Navarra	Hispania	
+ +8 Coastal Advantage
+ Era Zaharrak
+One of the largest centers on Basque Country
+Aneto	Alto Aragon	Aragon	Hispania	
+ +0.03 Prestige per Knight
+ Era Zaharrak
+Highest mountain in the Pyrenees
+Bordeaux	Bordeaux	Aquitaine	Francia	
+ +0.5 Monthly Control in Counties
+ Era Zaharrak
+Karakorum	Karakorum	Mongolia	Mongolia	
+ +20% Knight Effectiveness
+ +1 Prowess per Level of Fame
+ Tengriism
+Capital of the Mongol Empire between 1235 and 1260.
+Qayaliq	Qayaliq	Zhetysu	Tartaria	
+ +10% Skirmisher Damage
+ +10% Light Cavalry Damage
+ Tengriism
+Tavan Bogd	Tavan Bogd	Ob	Siberia	
+ +1 Prowess per Level of Devotion
+ +5 Clergy Opinion
+ Tengriism
+Preslav	Silistra	Bulgaria	Byzantine Empire	
+ +10% Levy Size
+ Tengriism
+Capital of the First Bulgarian Empire.
+Athens	Attica	Hellas	Byzantine Empire	
+ +1 Stewardship
+ +1 Diplomacy
+ Hellenism
+Major Hellenic city-state and patron city of Athena
+Mount Olympus	Servia in Thessalia	Thessalonika	Byzantine Empire	
+ +2 Learning
+ Hellenism
+Sacred mountain associated with the Olympic pantheon
+Carthage	Tunis	Africa	Maghreb	
+ +5 Natural Dread
+ Adamitism
+ Hellenism
+ Achamanism
+Phoenician colony turning trading empire, later rebuilt as capital of Roman Tunis
+Kabul	Kabul	Kabulistan	Persian Empire	
+ +1 Stewardship
+ +5% Monthly Piety
+ Zunism
+Multan	Multan	Punjab	Rajastan	
+ +1 Martial
+ +5% Monthly Piety
+ Zunism
+Bost	Bost	Makran	Persian Empire	
+ +5 Same Faith Opinion
+ Zunism
+Khotan	Khotan	Khotan	Turan	
+ +10 Different Culture Opinion
+ Manicheanism
+ Gyur Bön
+ Khyarwé Bön
+ Zhengyi
+ Paganism
+Location of the Kunlun Goddess, the highest mountain of the Kunlun Range. Khotan is also the main source of the nephrite jade used in ancient China.
+Balkh	Balkh (shared with Takht-i-Sangin)	Khorasan	Persian Empire	
+ +10 Different Faith Opinion
+ Gyur Bön
+ Khyarwé Bön
+Site of the earliest known Fire Temple.
+Lhasa	Lhasa	Ü	Tibet	
+ +20% Monthly Piety
+ Gyur Bön
+ Khyarwé Bön
+
+
+All Taoist faiths: 
+ Nangchos
+Capital of the Tibetian Empire, which introduced Buddhism to Tibet.
+Purang	Purang	Guge	Tibet	
+ +1 Stewardship per Level of Devotion
+ Gyur Bön
+ Khyarwé Bön
+
+
+All Taoist faiths: 
+ Nangchos
+Birthplace of Sudhara, one of the Buddha's past lives
+Awkar	Awkar	Ghana	Mali	
+ +1 Number of Knights
+ +10% Light Cavalry Toughness
+ Siguism
+ Bidaism
+Capital of the Wagadu Empire and seat of the Bida cult
+Jenne	Jenne	Jenne	Mali	
+ +1 Diplomacy
+ +5 Councillor Opinion
+ Siguism
+ Bidaism
+ Akom
+Niani	Niani	Mali	Mali	
+ −0.1 Monthly Tyranny
+ −20% Tyranny Gain
+ Siguism
+ Bidaism
+Capital of the Mali Empire
+Kukiya	Kukiya	Songhay	Mali	
+ +1% Monthly piety per knight
+ +1% Monthly Prestige per Knight
+ Siguism
+ Bidaism
+ Orisa
+Wadan	Wadan	Anbiya	Maghreb	
+ +1 Martial
+ +25% Supply Duration
+ Bidaism
+ Roog Sene
+Daura	Daura	Hausaland	Kanem-Bornu	
+ +2% Monthly Prestige per Knight
+ +10% Knight Effectiveness
+ Bori
+Ancient center of Hausa feasts
+Garumele	Garumele	Kanem	Kanem-Bornu	
+ +5 Popular Opinion
+ Bori
+Igbo	Igbo	Igbo-Benue	Guinea	
+ +1 Learning per Level of Devotion
+ Bori
+ Orisa
+The Igbo were an ethnic and cultural group established just North of the Niger delta
+El-Fasher	El-Fasher	Darfur	Kanem-Bornu	
+ +1 Stewardship per Level of Devotion
+ Kushitism
+ Bori
+Wandala	Wandala	Sao	Kanem-Bornu	
+ +5 Advantage in Drylands terrain
+ Bori
+Kisi	Kisi	Mali	Mali	
+ +2% Monthly Prestige per Knight
+ −20% Building Construction Prestige Cost
+ Siguism
+ Roog Sene
+Sherbro	Sherbro	Guinea	Guinea	
+ +10 Same Faith Opinion
+ Roog Sene
+Kayor	Kayor	Takrūr	Mali	
+ +5 Personal Scheme Success Chance
+ +1 Diplomacy
+ Roog Sene
+Kasa	Kasa	Kaabu	Mali	
+ +1 Diplomacy per Level of Devotion
+ Roog Sene
+Bono	Bono	Akan	Guinea	
+ −5% Men-at-Arms Maintenance
++5 Personal Scheme Power
+ Akom
+ Orisa
+Kumasi	Kumasi	Akan	Guinea	
+ +1 Learning
+ −25% Short Reign Opinion
+ Akom
+ Orisa
+Center for the Ashanti people
+Ife	Ife	Yorubaland	Guinea	
+ +20% Monthly Piety
+ Akom
+ Orisa
+A central city in Yoruba religion and culture, said to have been founded by the supreme god Olodumare and where the divine king Odudduwa established a legendary dynasty
+Nikki	Nikki	Borgu	Guinea	
+ +1 Learning per Level of Devotion
+ Akom
+Aswan	Aswan	Egypt	Arabian Empire	
+ +1 Stewardship per Level of Devotion
+ Kushitism
+City home to many temples, monuments and relics of Ancient Egypt and the location of quarries that supplied building materials for constructions all over Egypt, inclding the Pyramids of Giza
+Wadi el-Milk	Wadi el-milk	Nubia	Abyssinia	
+ +50% County Conversion Resistance
+ Kushitism
+A dried up river and former tributary of the Nile
+Naqis	Naqis	Blemmyia	Abyssinia	
+ +2 Martial
+ Kushitism
+Sennar	Sennar	Nubia	Abyssinia	
+ +2 Diplomacy
+ Kushitism
+Mount Teide	Tenerife	Maghreb	Maghreb	
+ +25% Monthly Development in Hills terrain
+ +0.03 Piety per  Dread
+ Achamanism
+Cartagena	Murcia (barony of Cartagena)	Valencia	Hispania	
+ −15% Title Creation Cost
+ -0.002 Men-at-Arms maintenance per  Dread
+ Achamanism
+Madeira	Madeira	Maghreb	Maghreb	
+ +20% Naval Speed
+ +5 Coastal Advantage
+ Achamanism
+Danakil	Danakil	Adal	Abyssinia	
+ +1 Learning
++5 Personal Scheme Power
+ Waaqism
+Kaffa	Kaffa	Damot	Abyssinia	
+ +1 Martial per Level of Devotion
+ +10% Raid Speed
+ Waaqism
+Harar	Harar	Adal	Abyssinia	
+ +10% Monthly Piety
+ Waaqism
+Makhir	Makhir	Adal	Abyssinia	
+ +2 Diplomacy
+ Waaqism
+(unrecognized string “gothaithaya ngai” for Template:Icon) Gothaithaya Ngai
+Mogadishu	Mogadishu	Ajuraan	Ajuraan	
+ +5 Clergy Opinion
+ Waaqism
+(unrecognized string “gothaithaya ngai” for Template:Icon) Gothaithaya Ngai
+Capital of the Ajuran Sultanate and an important city overall
+Gilgit	Gilgit	Kashmir	Rajastan	
+ +1 Martial
+ +1 Stewardship
+ Gyur Bön
+ Khyarwé Bön
+Suzhou	Suzhou	Xia	Tibet	
+ +1 Diplomacy
+ +1 Martial
+All Taoist faiths: 
+Also known as Jiquan, it was an important city in medieval China due to its centrality in trade and its position on the Great Wall
+Luoyang	Luoyang	TBD	TBD	
+ +1 Diplomacy
+ +10 Popular Opinion
+Dhyana
+Sukhavati
+
+Mantrayana
+
+Pundarika
+
+Yogacara
+
+Maitreya
+
+TBD
+Jiyin	Jiyin	TBD	TBD	 +20% Monthly Piety	Dhyana	TBD
+Qichun	Qichun	TBD	TBD	 +10% Control Growth	Dhyana	TBD
+Pataliputra	Magadha			 −25% Short Reign Duration	Avatamsaka
+Mantrayana Pundarika Acharya
+
+Yogacara
+
+Chang'an	Chang'an			 +10% Monthly Piety	Avatamsaka
+Vinaya
+
+Yogacara
+
+Gaeseong	Gaeseong			 +10% Control Growth	Avatamsaka
+Pundarika
+
+Kofuku-ji	Nara			
+ +5 Same Faith Opinion
+Avatamsaka
+Vinaya
+
+Yogacara
+
+Sarasvati	Sarasvati			
+ +1 Learning
+Sukhavati	
+Baling	Mount. Putuo			
+ +5 Popular Opinion
+ +5 Different Faith Opinion
+Sukhavati
+Maitreya
+
+Hanyin	Mount Lu			+2 advantage in same cultural heritage provinces	Sukhavati	
+Heian-kyo	Heian-kyo			 +20% Monthly Piety	Sukhavati
+Mantrayana
+
+Hangzhou	Qiantang			
+ +1 Diplomacy
+ +5 Councillor Opinion
+Vinaya	
+Vaishali	Waithali			 +0,5 Monthly Piety	Vinaya	
+Kongobu-ji	Mount Koya			 +5 Clergy opinion	Mantrayana	
+Enryaku-ji	Mount Hiei			 +20% Monthly Piety	Pundarika	
+Linhai	Mount Tiantai			
+ +2 Learning
+Pundarika	
+Myitkyina	Danai			+5 Initial personal scheme success chance	Acharya	
+Dali	Dali			 +1 Prowess per Level of Fame
+ +20% Knight Effectiveness
+
+Acharya
+Bimoism
+
+Longyou	Mt. Emei			 +10% Development Growth	Maitreya	
+Mogao	Mogao			 +10% Development Growth	Maitreya	
+Monyin	Tengchong			 +5 Clergy opinion
+Personal Scheme Phase Lenght 10 days faster per scheme phase
+
+Bimoism	
+Huining	Zhaotong			
+ +1 Number of Knights
+ +10% Light Cavalry Toughness
+Bimoism	
+Dong'an	Xuhen			 +4 Tributary opinion	Bimoism	
+Chiang Rung	Jinglong			 +5 Advantage in Jungle	Bimoism	
+Unused holy sites
+There are currently two holy sites that exist in the game files but are unused:
+
+Name	Location	De Jure Kingdom	De Jure Empire	Effects	Faiths	Notes
+Grand Church Under Construction	Barcelona	Aragon	Hispania	
+ +10% Monthly piety
+ Catholicism
+Inactive at game start, and impossible to activate.
+Sparta	Laconia	Hellas	Byzantine Empire	
+ +1 Martial
+ +1 Prowess
+ Hellenism
+Was formerly a Hellenic holy site until Patch 1.4 replaced it with Mount Olympus
+Holy site ID
+Each holy site has an internal ID uses for referencing within the game files. As a general rule, to get a holy site's ID from its in-game name:
+
+Remove all apostrophes (')
+Turn all upper case letters into lower case (A...Z->a...z)
+Remove any diacritics from letters, including accents (á->a) and umlauts/diaereses (ü->u)
+Any holy site IDs that do not fit the pattern above are included in the table below:
+
+Holy site	Internal ID
+Canterbury	kent
+Dwin	suenik
+Koloneia	colonea
+Mount Gerizim	gerizim
+Lumbini	kusinagara
+Nok Kundi	nok_kundi
+Takht-e Soleyman	takht-e_soleyman
+Karakorum	kara_khorum
+Tavan Bogd	tavan_bogd
+El-Fasher	el_fasher
+Wadi el-Milk	wadi_el_milk
+Grand Church Under Construction (unused)	segrada_familia
+See also
+Holy site modding
+Categories: Potentially outdated1.18Pages with unrecognized icon stringsReligion
+About CK3 WikiMobile view
+Attribution-ShareAlike 3.0Powered by MediaWiki
+
+Games
+Discover
+Our Brands
+Browse
+Play on Paradox technology
+Community
+Paradox Forums
+Paradox Wikis
+Support
+About
+News
+About us
+Careers
+Join our playtests
+Media contact
+Social Media
+Legal Information
+EU Online Dispute Resolution
+Report Illegal Content
