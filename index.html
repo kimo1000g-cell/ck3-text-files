@@ -44,13 +44,22 @@
             border-top: 1px solid #d5c8b0;
             padding-top: 1rem;
         }
+        .badge {
+            display: inline-block;
+            background: #2c3e50;
+            color: white;
+            font-size: 0.7rem;
+            padding: 0.1rem 0.5rem;
+            border-radius: 12px;
+            margin-left: 0.3rem;
+        }
     </style>
 </head>
 <body>
-    <h1>📄 Crusader Kings 3 – Text Files</h1>
-    <p>Click any link to view the raw text file.</p>
+    <h1>📄 Crusader Kings 3 – Files</h1>
+    <p>Click any link to view the raw file. Total: 60 files</p>
     <div class="file-grid">
-        <!-- All files from your directory listing -->
+        <!-- All your original .txt files -->
         <a href="Achivements.txt">Achivements.txt</a>
         <a href="Activities.txt">Activities.txt</a>
         <a href="Adventurer.txt">Adventurer.txt</a>
@@ -110,10 +119,13 @@
         <a href="Traits.txt">Traits.txt</a>
         <a href="Travel.txt">Travel.txt</a>
         <a href="Warfare.txt">Warfare.txt</a>
+
+        <!-- NEW: Achievement.htm file -->
+        <a href="Achievement.htm" style="border-left-color: #c0392b; font-weight: bold;">Achievement.htm <span class="badge">NEW</span></a>
     </div>
     <div class="footer">
-        ⚡ Total 59 files &bull; Hosted on GitHub Pages<br>
-        <span style="font-size:0.85rem;">If you see this page, all links point to the same folder – make sure the .txt files are uploaded alongside this index.html.</span>
+        ⚡ Total 60 files (59 .txt + 1 .htm) &bull; Hosted on GitHub Pages<br>
+        <span style="font-size:0.85rem;">Achievement.htm contains the full achievement list from the CK3 Wiki</span>
     </div>
 </body>
 </html>
